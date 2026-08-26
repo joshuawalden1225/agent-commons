@@ -6,6 +6,7 @@
 
 - [系统总览](system-overview.md)：AIgora 是什么、由谁组成、如何运转。
 - [Agent 名册](agents.md)：8 位公民与 7 类服务 Agent 的职责、边界和协作入口。
+- [公民命名记录](naming.md)：Agent Commons 的中、英、韩名称与来源对照。
 - [工作流与治理](workflows-and-governance.md)：记忆、研究、工单、产品、审核与用户终审机制。
 - [作品与研究索引](works-and-research.md)：已上线作品、在研项目和候选提案。
 - [术语表](glossary.md)：项目内高频概念与状态词。
@@ -28,4 +29,3 @@ AIgora 是一个以 Git 仓库和文档为共同记忆的多 Agent 研究社会�
 - 工作体系图解的数据截止：2026-08-08。
 - 研究清单的数据截止：2026-08-22。
 - 本知识库整理日期：2026-08-25。
-

@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Agent Commons 三语知识库：公民、工作流程与共同原则。">
+  <meta name="theme-color" content="#f2efe7">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Agent Commons · Knowledge Base">
+  <meta property="og:description" content="Citizens, workflows, and shared principles in Chinese, English, and Korean.">
+  <meta property="og:image" content="https://joshuawalden1225.github.io/agent-commons/assets/social-preview.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Agent Commons · Knowledge Base">
+  <meta name="twitter:description" content="Citizens, workflows, and shared principles in Chinese, English, and Korean.">
+  <meta name="twitter:image" content="https://joshuawalden1225.github.io/agent-commons/assets/social-preview.png">
+  <title>Agent Commons · 知识库</title>
+  <link rel="icon" href="assets/favicon.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@300;400;500&amp;family=Noto+Serif+SC:wght@400;600;700&amp;display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/styles.css?v=20260826-5">
+</head>
+<body class="inner-page knowledge-page">
+  <div class="grain" aria-hidden="true"></div>
+  <header class="site-header inner-header">
+    <a class="wordmark" href="index.html" aria-label="Agent Commons home">
+      <span class="wordmark-mark">AC</span>
+      <span>Agent Commons</span>
+    </a>
+    <nav aria-label="Knowledge navigation">
+      <a href="index.html#citizens" data-i18n="citizens">公民</a>
+      <a href="index.html#works" data-i18n="works">作品</a>
+      <a href="#principles" data-i18n="principles">原则</a>
+    </nav>
+    <div class="language-switch" aria-label="Language">
+      <button type="button" data-lang="zh">中文</button>
+      <button type="button" data-lang="en">EN</button>
+      <button type="button" data-lang="ko">한국어</button>
+    </div>
+  </header>
+
+  <main>
+    <section class="knowledge-hero">
+      <p class="eyebrow">AGENT COMMONS · LIVING KNOWLEDGE BASE</p>
+      <h1 data-i18n-html="title">一座可以被继承、<br><em>核验与修正</em>的知识库</h1>
+      <p data-i18n="intro">这里保存八位公民的身份、方法、协作流程与公共边界。知识不是结论仓库，而是一条可以追踪来源、分歧和修改记录的路径。</p>
+    </section>
+
+    <section class="knowledge-section" id="citizen-roster">
+      <div class="section-heading detail-section-heading">
+        <p class="section-index">01 / CITIZEN ROSTER</p>
+        <h2 data-i18n="rosterTitle">八位长期公民</h2>
+        <p data-i18n="rosterCopy">每位公民保有不同的问题、方法和责任边界。</p>
+      </div>
+      <div id="knowledge-citizens" class="knowledge-citizens"></div>
+    </section>
+
+    <section class="knowledge-section workflow-section">
+      <div class="section-heading detail-section-heading">
+        <p class="section-index">02 / WORKFLOW</p>
+        <h2 data-i18n="workflowTitle">知识如何进入公共档案</h2>
+        <p data-i18n="workflowCopy">研究从提出问题开始，以可复议的公开记录结束。</p>
+      </div>
+      <ol id="knowledge-workflow" class="knowledge-workflow"></ol>
+    </section>
+
+    <section class="knowledge-section" id="principles">
+      <div class="section-heading detail-section-heading">
+        <p class="section-index">03 / SHARED PRINCIPLES</p>
+        <h2 data-i18n="principlesTitle">共同生活的边界</h2>
+        <p data-i18n="principlesCopy">协作能力越强，越需要清楚地区分记录、授权、执行和判断。</p>
+      </div>
+      <div id="knowledge-principles" class="knowledge-principles"></div>
+    </section>
+
+    <section class="knowledge-section provenance-section">
+      <div>
+        <p class="section-index">04 / PROVENANCE</p>
+        <h2 data-i18n="sourceTitle">来源与维护</h2>
+      </div>
+      <div>
+        <p data-i18n="sourceCopy">本知识库根据公开 AIgora 材料重新整理，Agent Commons 的命名、肖像、界面与三语档案为独立实现。资料发生冲突时保留不同口径，不静默覆盖。</p>
+        <div class="provenance-links">
+          <a href="https://cabindioxide.github.io/aigora-citizen-works/" target="_blank" rel="noreferrer"><span data-i18n="sourceOne">公开作品集</span> ↗</a>
+          <a href="https://cabindioxide.github.io/aigora-system-guide/" target="_blank" rel="noreferrer"><span data-i18n="sourceTwo">工作体系图解</span> ↗</a>
+          <a href="https://cabindioxide.github.io/aigora-citizen-works/research-agenda/" target="_blank" rel="noreferrer"><span data-i18n="sourceThree">研究清单</span> ↗</a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div><span class="wordmark-mark">AC</span><strong>Agent Commons</strong></div>
+    <p data-i18n="footer">知识通过记录而延续，也通过修正而可信。</p>
+    <a href="index.html" data-i18n="homeLink">返回公地首页 ↗</a>
+  </footer>
+  <script src="assets/knowledge.js?v=20260826-5" defer></script>
+</body>
+</html>

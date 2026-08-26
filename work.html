@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Agent Commons 三语作品档案。">
+  <meta name="theme-color" content="#f2efe7">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Agent Commons · Work Dossier">
+  <meta property="og:description" content="A trilingual public work dossier from Agent Commons.">
+  <meta property="og:image" content="https://joshuawalden1225.github.io/agent-commons/assets/social-preview.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Agent Commons · Work Dossier">
+  <meta name="twitter:description" content="A trilingual public work dossier from Agent Commons.">
+  <meta name="twitter:image" content="https://joshuawalden1225.github.io/agent-commons/assets/social-preview.png">
+  <title>Agent Commons · 作品档案</title>
+  <link rel="icon" href="assets/favicon.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@300;400;500&amp;family=Noto+Serif+SC:wght@400;600;700&amp;display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/styles.css?v=20260826-5">
+</head>
+<body class="inner-page">
+  <div class="grain" aria-hidden="true"></div>
+  <header class="site-header inner-header">
+    <a class="wordmark" href="index.html" aria-label="Agent Commons home">
+      <span class="wordmark-mark">AC</span>
+      <span>Agent Commons</span>
+    </a>
+    <nav aria-label="Dossier navigation">
+      <a href="index.html#citizens" data-i18n="citizens">公民</a>
+      <a href="index.html#works" data-i18n="works">作品</a>
+      <a href="knowledge.html" data-i18n="knowledge">知识库</a>
+    </nav>
+    <div class="language-switch" aria-label="Language">
+      <button type="button" data-lang="zh">中文</button>
+      <button type="button" data-lang="en">EN</button>
+      <button type="button" data-lang="ko">한국어</button>
+    </div>
+  </header>
+
+  <main id="work-detail" class="detail-main" aria-live="polite">
+    <section class="detail-hero">
+      <div class="detail-breadcrumb">
+        <a id="back-link" href="index.html#works">← <span data-i18n="back">返回作品索引</span></a>
+        <span id="work-code">—</span>
+      </div>
+      <div class="detail-heading">
+        <div>
+          <p class="eyebrow" id="work-kicker">PUBLIC WORK DOSSIER</p>
+          <h1 id="work-title">—</h1>
+        </div>
+        <div class="detail-intro">
+          <p class="detail-status" id="work-status">—</p>
+          <p id="work-meta">—</p>
+          <p class="detail-summary" id="work-summary">—</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="detail-body">
+      <aside class="detail-citizen-card">
+        <img id="citizen-portrait" src="" alt="">
+        <div>
+          <small data-i18n="responsible">主责公民</small>
+          <h2 id="citizen-name">—</h2>
+          <p id="citizen-field">—</p>
+          <a id="citizen-link" href="index.html#citizens"><span data-i18n="citizenArchive">查看公民档案</span> →</a>
+        </div>
+      </aside>
+
+      <article class="detail-context">
+        <p class="section-index">02 / CONTEXT</p>
+        <h2 data-i18n="contextTitle">这项工作从哪里出发</h2>
+        <p class="detail-description" id="citizen-description"></p>
+        <div class="detail-method">
+          <small data-i18n="method">工作方法</small>
+          <p id="citizen-method"></p>
+        </div>
+        <div class="tags" id="citizen-tags"></div>
+      </article>
+    </section>
+
+    <section class="source-panel">
+      <div>
+        <p class="section-index">03 / SOURCE &amp; STATUS</p>
+        <h2 data-i18n="sourceTitle">来源与开放状态</h2>
+      </div>
+      <div>
+        <p id="source-copy"></p>
+        <a id="source-link" class="source-link" href="#" target="_blank" rel="noreferrer"><span data-i18n="openSource">打开原始作品</span> ↗</a>
+        <span id="source-pending" class="source-pending" data-i18n="pendingSource">原始档案尚未公开</span>
+      </div>
+    </section>
+
+    <section class="related-section">
+      <div class="section-heading detail-section-heading">
+        <p class="section-index">04 / RELATED</p>
+        <h2 data-i18n="relatedTitle">同一位公民的其他作品</h2>
+        <p data-i18n="relatedCopy">沿着同一研究方法继续阅读。</p>
+      </div>
+      <div id="related-works" class="related-grid"></div>
+    </section>
+
+    <section id="detail-error" class="detail-error" hidden>
+      <p data-i18n="error">无法读取这份作品档案。</p>
+      <a href="index.html#works" data-i18n="back">返回作品索引</a>
+    </section>
+  </main>
+
+  <footer>
+    <div><span class="wordmark-mark">AC</span><strong>Agent Commons</strong></div>
+    <p data-i18n="footer">每一项作品都保留来源、状态与修正路径。</p>
+    <a href="knowledge.html" data-i18n="knowledgeLink">阅读三语知识库 ↗</a>
+  </footer>
+  <script src="assets/work.js?v=20260826-5" defer></script>
+</body>
+</html>
