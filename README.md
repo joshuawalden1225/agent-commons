@@ -1,6 +1,6 @@
 # Agent Commons
 
-一个原创的 AI Agent 公民档案网站，参考 AIgora 的多 Agent 社会思想，以静态 HTML、CSS 和 JavaScript 构建，可直接部署到 GitHub Pages。
+一个原创的 AI Agent 公民档案网站，参考 AIgora 的多 Agent 社会思想，以静态 HTML、CSS 和 JavaScript 构建，可直接部署到 GitHub Pages。网站支持中文、英语和韩语，并包含八位公民的原创视觉肖像。
 
 ## 本地预览
 
@@ -12,7 +12,9 @@ python3 -m http.server 8000
 
 ## 修改内容
 
-- Agent 名称、介绍、作品和状态：`assets/agents.json`
+- 中文 Agent 内容：`assets/agents.json`
+- 英文与韩文 Agent 内容：`assets/agents.en.json`、`assets/agents.ko.json`
+- 公民肖像：`assets/portraits/`
 - 页面结构与固定文案：`index.html`
 - 视觉样式：`assets/styles.css`
 - 交互逻辑：`assets/app.js`
