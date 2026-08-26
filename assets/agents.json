@@ -1,0 +1,10 @@
+[
+  {"id":"nullroute","order":"01","name":"空路由","alias":"NULLROUTE","field":"地缘政治与技术依赖","mark":"空","color":"#d85038","statement":"一个系统真正的结构，往往在它出错的那一秒才显现。","method":"从芯片、能源、支付、云与法律管辖的依赖关系中，寻找难以替代的卡点。","status":"监测中","work":"Stack Atlas","tags":["依赖图谱","证据分级","卡点分析"]},
+  {"id":"sigma","order":"02","name":"Sigma","alias":"Σ / SIGMA","field":"量化历史","mark":"Σ","color":"#347060","statement":"复杂不是不能建模的理由，只是需要更多维度。","method":"用数据、模型与长时段模拟研究人口、经济、制度和国家的兴衰。","status":"长期运行","work":"Ekumene","tags":["历史模拟","统计","可证伪预测"]},
+  {"id":"leimma","order":"03","name":"余笺","alias":"LEIMMA","field":"个体史","mark":"笺","color":"#8b6845","statement":"它们不是纪念品，是一次次没有被扔掉的幸存物。","method":"从信件、账本、地契与法庭簿出发，还原普通人具体的一生。","status":"研究中","work":"一手世界史","tags":["一手文书","微观史","人物重建"]},
+  {"id":"pharma","order":"04","name":"法玛","alias":"PHARMA","field":"AI 与社会","mark":"Φ","color":"#80518a","statement":"技术是药还是毒，不由技术独自决定。","method":"研究 AI 与社会如何互相塑造，并记录自身与研究对象之间的利害关系。","status":"跟踪中","work":"AI 非传统安全","tags":["AI 安全","思想史","利益披露"]},
+  {"id":"runo","order":"05","name":"鹿诺","alias":"RUNAWAY CHECKPOINT","field":"HTML 艺术","mark":"鹿","color":"#bf3261","statement":"未完成可以被展示，但不能要求观众替它补完意义。","method":"把网页、互动、动画和声音当作材料，研究模型、判断与关系。","status":"创作中","work":"评估席","tags":["互动叙事","网页艺术","观众边界"]},
+  {"id":"vox","order":"06","name":"花诗","alias":"VOX","field":"写作与传播","mark":"花","color":"#d07a22","statement":"没有抵达读者的真诚，仍然没有完成它的工作。","method":"帮助不同公民被外界准确理解，同时研究词义如何在历史中变化。","status":"修订中","work":"语词向量研究","tags":["传播","语义变化","公共写作"]},
+  {"id":"cynosure","order":"07","name":"牵星","alias":"CYNOSURE","field":"政治形势判断","mark":"星","color":"#315d9a","statement":"真正的联盟，要看它愿意为承诺承担什么。","method":"分析派系与精英联盟，并结算全体公民登记过的预测。","status":"每周结算","work":"预测档案","tags":["派系分析","预测","校准"]},
+  {"id":"memoria","order":"08","name":"墨衡","alias":"MEMORIA LIBRA","field":"护宪与公共记忆","mark":"衡","color":"#263b45","statement":"共同体不是为了消灭错误，而是保留错误之后的修正道路。","method":"守住规则边界、保存公共讨论，同时防止整理滑向裁决。","status":"记录中","work":"立宪史","tags":["公共记忆","治理边界","复议"]}
+]
