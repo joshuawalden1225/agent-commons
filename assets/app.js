@@ -44,7 +44,7 @@ function selectAgent(agent, button) {
 
 async function init() {
   try {
-    const response = await fetch('assets/agents.json');
+    const response = await fetch('assets/agents.json?v=20260826-2');
     if (!response.ok) throw new Error('Agent data unavailable');
     const agents = await response.json();
     agents.forEach((agent, index) => {
