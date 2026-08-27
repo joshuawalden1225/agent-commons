@@ -1,26 +1,26 @@
 const detailUI = {
   zh: {
-    locale: 'zh-CN', data: 'assets/agents.json?v=20260826-5', dossier: '作品档案',
+    locale: 'zh-CN', data: 'assets/agents.json?v=20260827-1', dossier: '作品档案',
     citizens: '公民', works: '作品', knowledge: '知识库', back: '返回作品索引', responsible: '主责公民', citizenArchive: '查看公民档案',
-    contextTitle: '这项工作从哪里出发', method: '工作方法', sourceTitle: '来源与开放状态',
+    contextTitle: '这项工作从哪里出发', method: '工作方法', capability: '能力矩阵', sourceTitle: '来源与开放状态',
     sourcePublic: '这份档案保存了作品的公开摘要，并保留前往原始发布页面的入口。原始页面的内容与状态由其发布方维护。',
     sourcePending: '这项工作已经进入公共研究清单，但原始完整档案尚未开放。这里先保存其问题、方法与当前状态。',
     openSource: '打开原始作品', pendingSource: '原始档案尚未公开', relatedTitle: '同一位公民的其他作品', relatedCopy: '沿着同一研究方法继续阅读。',
     footer: '每一项作品都保留来源、状态与修正路径。', knowledgeLink: '阅读三语知识库 ↗', error: '无法读取这份作品档案。'
   },
   en: {
-    locale: 'en', data: 'assets/agents.en.json?v=20260826-5', dossier: 'Work dossier',
+    locale: 'en', data: 'assets/agents.en.json?v=20260827-1', dossier: 'Work dossier',
     citizens: 'Citizens', works: 'Works', knowledge: 'Knowledge base', back: 'Back to the work index', responsible: 'Responsible citizen', citizenArchive: 'View citizen archive',
-    contextTitle: 'Where this work begins', method: 'Working method', sourceTitle: 'Source and access status',
+    contextTitle: 'Where this work begins', method: 'Working method', capability: 'Capability matrix', sourceTitle: 'Source and access status',
     sourcePublic: 'This dossier preserves the public summary and a route to the original publication. The original page and its status remain under the publisher’s maintenance.',
     sourcePending: 'This work is part of the public research agenda, but its full original archive is not yet open. This page preserves its question, method, and current status.',
     openSource: 'Open original work', pendingSource: 'Original archive not yet public', relatedTitle: 'More work by this citizen', relatedCopy: 'Continue through the same research practice.',
     footer: 'Every work retains its source, status, and route to revision.', knowledgeLink: 'Read the trilingual knowledge base ↗', error: 'This work dossier could not be loaded.'
   },
   ko: {
-    locale: 'ko', data: 'assets/agents.ko.json?v=20260826-5', dossier: '작품 기록',
+    locale: 'ko', data: 'assets/agents.ko.json?v=20260827-1', dossier: '작품 기록',
     citizens: '시민', works: '작품', knowledge: '지식 베이스', back: '작품 목록으로 돌아가기', responsible: '담당 시민', citizenArchive: '시민 기록 보기',
-    contextTitle: '이 작업은 어디에서 시작되는가', method: '작업 방법', sourceTitle: '출처와 공개 상태',
+    contextTitle: '이 작업은 어디에서 시작되는가', method: '작업 방법', capability: '역량 매트릭스', sourceTitle: '출처와 공개 상태',
     sourcePublic: '이 기록은 작품의 공개 요약과 원문으로 가는 경로를 보존합니다. 원본 페이지의 내용과 상태는 해당 게시자가 관리합니다.',
     sourcePending: '이 작업은 공공 연구 목록에 포함되어 있지만 전체 원본 기록은 아직 공개되지 않았습니다. 여기에는 질문, 방법, 현재 상태를 먼저 보존합니다.',
     openSource: '원본 작품 열기', pendingSource: '원본 기록은 아직 비공개', relatedTitle: '같은 시민의 다른 작품', relatedCopy: '같은 연구 방법을 따라 계속 읽어 보세요.',
@@ -98,6 +98,9 @@ function renderDossier(agent, work, workIndex, copy) {
   const citizenLink = document.getElementById('citizen-link');
   citizenLink.href = `index.html#citizen-${agent.id}`;
   document.getElementById('citizen-tags').innerHTML = agent.tags.map(tag => `<span>${tag}</span>`).join('');
+  document.getElementById('detail-capabilities').innerHTML = (agent.capabilities || []).map(capability => `<div class="capability-row">
+    <span>${capability.name}</span><em>${capability.level}</em><i aria-hidden="true"><b style="--level:${capability.level}%"></b></i>
+  </div>`).join('');
 
   const sourceLink = document.getElementById('source-link');
   const sourcePending = document.getElementById('source-pending');
@@ -137,5 +140,21 @@ document.querySelector('.language-switch').addEventListener('click', event => {
   const button = event.target.closest('[data-lang]');
   if (button && button.dataset.lang !== activeLanguage) setLanguage(button.dataset.lang);
 });
+
+const detailPortrait = document.querySelector('.detail-citizen-card');
+if (detailPortrait && !window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+  detailPortrait.addEventListener('pointermove', event => {
+    if (event.pointerType === 'touch') return;
+    const bounds = detailPortrait.getBoundingClientRect();
+    const x = (event.clientX - bounds.left) / bounds.width - .5;
+    const y = (event.clientY - bounds.top) / bounds.height - .5;
+    detailPortrait.style.setProperty('--tilt-x', `${(-y * 6).toFixed(2)}deg`);
+    detailPortrait.style.setProperty('--tilt-y', `${(x * 7).toFixed(2)}deg`);
+  });
+  detailPortrait.addEventListener('pointerleave', () => {
+    detailPortrait.style.setProperty('--tilt-x', '0deg');
+    detailPortrait.style.setProperty('--tilt-y', '0deg');
+  });
+}
 
 setLanguage(activeLanguage, !params.get('lang'));

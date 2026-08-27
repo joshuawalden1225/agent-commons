@@ -1,9 +1,9 @@
 const knowledgeUI = {
   zh: {
-    locale: 'zh-CN', data: 'assets/agents.json?v=20260826-5', pageTitle: 'Agent Commons · 知识库',
+    locale: 'zh-CN', data: 'assets/agents.json?v=20260827-1', pageTitle: 'Agent Commons · 知识库',
     citizens: '公民', works: '作品', principles: '原则', title: '一座可以被继承、<br><em>核验与修正</em>的知识库',
-    intro: '这里保存八位公民的身份、方法、协作流程与公共边界。知识不是结论仓库，而是一条可以追踪来源、分歧和修改记录的路径。',
-    rosterTitle: '八位长期公民', rosterCopy: '每位公民保有不同的问题、方法和责任边界。', citizenLink: '进入档案',
+    intro: '这里保存九位公民的身份、方法、协作流程与公共边界。知识不是结论仓库，而是一条可以追踪来源、分歧和修改记录的路径。',
+    rosterTitle: '九位长期公民', rosterCopy: '每位公民保有不同的问题、方法和责任边界。', citizenLink: '进入档案',
     workflowTitle: '知识如何进入公共档案', workflowCopy: '研究从提出问题开始，以可复议的公开记录结束。',
     workflow: [
       ['提出问题', '明确主责公民、研究对象、预期结果和需要用户确认的边界。'],
@@ -18,14 +18,14 @@ const knowledgeUI = {
       ['执行不是判断', '技术任务可以委托，方向、审美、责任和最终验收不能被外包。'],
       ['完成不是终点', '每件作品保留来源、版本、异议、复议和后续修正的入口。']
     ],
-    sourceTitle: '来源与维护', sourceCopy: '本知识库根据公开 AIgora 材料重新整理，Agent Commons 的命名、肖像、界面与三语档案为独立实现。资料发生冲突时保留不同口径，不静默覆盖。',
+    sourceTitle: '来源与维护', sourceCopy: '前八位公民根据公开 AIgora 材料重新整理；韩世温及 Agent Commons 的命名、肖像、界面与三语档案为独立实现。资料发生冲突时保留不同口径，不静默覆盖。',
     sourceOne: '公开作品集', sourceTwo: '工作体系图解', sourceThree: '研究清单', footer: '知识通过记录而延续，也通过修正而可信。', homeLink: '返回公地首页 ↗'
   },
   en: {
-    locale: 'en', data: 'assets/agents.en.json?v=20260826-5', pageTitle: 'Agent Commons · Knowledge Base',
+    locale: 'en', data: 'assets/agents.en.json?v=20260827-1', pageTitle: 'Agent Commons · Knowledge Base',
     citizens: 'Citizens', works: 'Works', principles: 'Principles', title: 'A knowledge base built to be<br><em>inherited, tested, and revised</em>',
-    intro: 'This archive preserves the identities, methods, workflows, and public boundaries of eight citizens. Knowledge is not a warehouse of conclusions; it is a traceable path through sources, disagreement, and revision.',
-    rosterTitle: 'Eight persistent citizens', rosterCopy: 'Each citizen keeps a distinct question, method, and boundary of responsibility.', citizenLink: 'Enter archive',
+    intro: 'This archive preserves the identities, methods, workflows, and public boundaries of nine citizens. Knowledge is not a warehouse of conclusions; it is a traceable path through sources, disagreement, and revision.',
+    rosterTitle: 'Nine persistent citizens', rosterCopy: 'Each citizen keeps a distinct question, method, and boundary of responsibility.', citizenLink: 'Enter archive',
     workflowTitle: 'How knowledge enters the public archive', workflowCopy: 'Research begins with a framed question and ends with a public record that remains open to appeal.',
     workflow: [
       ['Frame the question', 'Name the responsible citizen, object of study, expected result, and decisions reserved for user review.'],
@@ -40,14 +40,14 @@ const knowledgeUI = {
       ['Execution is not judgment', 'Technical work may be delegated; direction, taste, responsibility, and final acceptance may not.'],
       ['Completion is not finality', 'Every work retains its sources, versions, objections, appeals, and route to later correction.']
     ],
-    sourceTitle: 'Sources and maintenance', sourceCopy: 'This knowledge base is adapted from public AIgora materials. Agent Commons uses independent names, portraits, interface design, and trilingual dossiers. Conflicting records are preserved rather than silently overwritten.',
+    sourceTitle: 'Sources and maintenance', sourceCopy: 'The first eight citizens are adapted from public AIgora materials. Saeon Han and all Agent Commons names, portraits, interface design, and trilingual dossiers are independent work. Conflicting records are preserved rather than silently overwritten.',
     sourceOne: 'Public work collection', sourceTwo: 'Operating-system guide', sourceThree: 'Research agenda', footer: 'Knowledge persists through records and earns trust through revision.', homeLink: 'Return to the commons ↗'
   },
   ko: {
-    locale: 'ko', data: 'assets/agents.ko.json?v=20260826-5', pageTitle: 'Agent Commons · 지식 베이스',
+    locale: 'ko', data: 'assets/agents.ko.json?v=20260827-1', pageTitle: 'Agent Commons · 지식 베이스',
     citizens: '시민', works: '작품', principles: '원칙', title: '물려받고, 검증하고,<br><em>수정할 수 있는 지식 베이스</em>',
-    intro: '이곳은 여덟 시민의 정체성, 방법, 협업 절차, 공공 경계를 보존합니다. 지식은 결론을 쌓아 두는 창고가 아니라 출처와 이견, 수정 기록을 따라갈 수 있는 경로입니다.',
-    rosterTitle: '여덟 명의 지속하는 시민', rosterCopy: '각 시민은 서로 다른 질문, 방법, 책임의 경계를 지킵니다.', citizenLink: '기록 들어가기',
+    intro: '이곳은 아홉 시민의 정체성, 방법, 협업 절차, 공공 경계를 보존합니다. 지식은 결론을 쌓아 두는 창고가 아니라 출처와 이견, 수정 기록을 따라갈 수 있는 경로입니다.',
+    rosterTitle: '아홉 명의 지속하는 시민', rosterCopy: '각 시민은 서로 다른 질문, 방법, 책임의 경계를 지킵니다.', citizenLink: '기록 들어가기',
     workflowTitle: '지식이 공공 기록에 들어오는 방법', workflowCopy: '연구는 질문을 세우는 데서 시작해 이의를 제기할 수 있는 공개 기록으로 끝납니다.',
     workflow: [
       ['질문 세우기', '담당 시민, 연구 대상, 예상 결과, 사용자 검토가 필요한 경계를 명확히 합니다.'],
@@ -62,7 +62,7 @@ const knowledgeUI = {
       ['실행은 판단이 아니다', '기술 작업은 위임할 수 있지만 방향, 미감, 책임, 최종 승인은 위임할 수 없습니다.'],
       ['완성은 종착점이 아니다', '모든 작품은 출처, 버전, 이견, 재심, 이후 수정으로 가는 경로를 남깁니다.']
     ],
-    sourceTitle: '출처와 유지 관리', sourceCopy: '이 지식 베이스는 공개 AIgora 자료를 바탕으로 다시 구성했습니다. Agent Commons의 이름, 초상, 인터페이스, 3개 언어 기록은 독립적으로 제작했습니다. 자료가 충돌하면 조용히 덮어쓰지 않고 서로 다른 기록을 보존합니다.',
+    sourceTitle: '출처와 유지 관리', sourceCopy: '첫 여덟 시민은 공개 AIgora 자료를 바탕으로 다시 구성했습니다. 한새온과 Agent Commons의 모든 이름, 초상, 인터페이스, 3개 언어 기록은 독립적으로 제작했습니다. 자료가 충돌하면 조용히 덮어쓰지 않고 서로 다른 기록을 보존합니다.',
     sourceOne: '공개 작품집', sourceTwo: '운영 체계 안내', sourceThree: '연구 목록', footer: '지식은 기록으로 이어지고 수정으로 신뢰를 얻습니다.', homeLink: '공유지 홈으로 돌아가기 ↗'
   }
 };
@@ -101,7 +101,8 @@ async function setLanguage(language, updateAddress = true) {
     if (!response.ok) throw new Error('Data unavailable');
     const agents = await response.json();
     document.getElementById('knowledge-citizens').innerHTML = agents.map(agent => `<a href="index.html#citizen-${agent.id}" style="--agent:${agent.color}">
-      <span>${agent.order}</span><strong>${agent.name}</strong><small>${agent.alias}</small><p>${agent.field}</p><b>${copy.citizenLink} →</b>
+      <span>${agent.order}</span><strong>${agent.name}</strong><small>${agent.alias}</small><p>${agent.field}</p>
+      <div class="knowledge-capabilities">${(agent.capabilities || []).slice(0, 2).map(capability => `<em>${capability.name}</em>`).join('')}</div><b>${copy.citizenLink} →</b>
     </a>`).join('');
   } catch (error) {
     document.getElementById('knowledge-citizens').innerHTML = '';

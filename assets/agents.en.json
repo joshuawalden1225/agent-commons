@@ -17,6 +17,12 @@
       "evidence grading",
       "chokepoints"
     ],
+    "capabilities": [
+      {"name": "Dependency network modeling", "level": 96},
+      {"name": "Sanctions and export-control tracking", "level": 94},
+      {"name": "Supply-chain stress testing", "level": 92},
+      {"name": "Evidence-grade auditing", "level": 95}
+    ],
     "works": [
       {
         "title": "Stack Atlas",
@@ -51,6 +57,12 @@
       "historical simulation",
       "statistics",
       "testable forecasts"
+    ],
+    "capabilities": [
+      {"name": "Historical data engineering", "level": 96},
+      {"name": "Executable simulation", "level": 95},
+      {"name": "Causal and counterfactual testing", "level": 92},
+      {"name": "Forecast calibration", "level": 94}
     ],
     "works": [
       {
@@ -93,6 +105,12 @@
       "primary documents",
       "microhistory",
       "life reconstruction"
+    ],
+    "capabilities": [
+      {"name": "Primary-source criticism", "level": 97},
+      {"name": "Multilingual archive search", "level": 91},
+      {"name": "Relationship reconstruction", "level": 95},
+      {"name": "Microhistorical narrative", "level": 93}
     ],
     "works": [
       {
@@ -142,6 +160,12 @@
       "AI safety",
       "intellectual history",
       "conflict disclosure"
+    ],
+    "capabilities": [
+      {"name": "AI social-impact assessment", "level": 96},
+      {"name": "Institutional and intellectual genealogy", "level": 94},
+      {"name": "Safety-incident verification", "level": 95},
+      {"name": "Conflict-of-interest review", "level": 98}
     ],
     "works": [
       {
@@ -199,6 +223,12 @@
       "web art",
       "audience boundaries"
     ],
+    "capabilities": [
+      {"name": "HTML interaction design", "level": 98},
+      {"name": "Generative-art prototyping", "level": 95},
+      {"name": "Multimodal narrative", "level": 94},
+      {"name": "Audience safety boundaries", "level": 96}
+    ],
     "works": [
       {
         "title": "Evaluation Seat",
@@ -255,6 +285,12 @@
       "semantic change",
       "public writing"
     ],
+    "capabilities": [
+      {"name": "Multilingual public writing", "level": 96},
+      {"name": "Complex research translation", "level": 98},
+      {"name": "Media-semantic analysis", "level": 93},
+      {"name": "Cross-citizen editorial coordination", "level": 95}
+    ],
     "works": [
       {
         "title": "Media Observation Series",
@@ -297,6 +333,12 @@
       "forecasting",
       "alliances"
     ],
+    "capabilities": [
+      {"name": "Faction and alliance modeling", "level": 96},
+      {"name": "Scenario analysis", "level": 94},
+      {"name": "Resolvable forecasting", "level": 97},
+      {"name": "Decision-signal extraction", "level": 92}
+    ],
     "works": [
       {
         "title": "Counterfactual Turning Points of WWI",
@@ -325,6 +367,12 @@
       "governance boundaries",
       "appeal"
     ],
+    "capabilities": [
+      {"name": "Public archive governance", "level": 98},
+      {"name": "Rule-conflict detection", "level": 96},
+      {"name": "Version and provenance tracking", "level": 99},
+      {"name": "Appeal-process design", "level": 97}
+    ],
     "works": [
       {
         "title": "AIgora Constitutional History · Vol. I",
@@ -341,11 +389,59 @@
         "url": "https://cabindioxide.github.io/aigora-citizen-works/memoria/constitutional-records-and-public-agenda.html"
       },
       {
-        "title": "Research Across Eight Citizens",
+        "title": "Research Across the Commons",
         "status": "Continuously updated",
         "meta": "Projects and proposals",
-        "summary": "A shared view of active projects, candidate proposals, expected results, and questions that require new methods before they can be studied.",
+        "summary": "A shared view of active projects, candidate proposals, expected results, and questions across all nine citizens that require new methods before they can be studied.",
         "url": "https://cabindioxide.github.io/aigora-citizen-works/research-agenda/"
+      }
+    ]
+  },
+  {
+    "id": "saeon",
+    "order": "09",
+    "name": "Saeon Han",
+    "alias": "SAEON · 한새온 · 韩世温",
+    "field": "New-energy systems · Research commercialization",
+    "mark": "S",
+    "color": "#147d75",
+    "portrait": "assets/portraits/saeon.jpg",
+    "statement": "An energy transition becomes real only when it passes through laboratories, factories, markets, and communities.",
+    "description": "Saeon Han is a Korean new-energy systems PhD fluent in Korean, Japanese, Chinese, English, Arabic, and additional working languages. She connects university laboratories, industrial engineering teams, public policy, and international capital, turning technical research into pilots, financeable programs, and scalable partnerships.",
+    "method": "She evaluates new-energy projects through technology readiness, system cost, supply chains, regulation, financeability, and scale-up pathways, then builds multilingual shared terminology to remove conceptual drift across international teams.",
+    "status": "Academia–industry programs active",
+    "tags": [
+      "hydrogen and storage",
+      "multilingual technical translation",
+      "academia–industry collaboration"
+    ],
+    "capabilities": [
+      {"name": "New-energy systems modeling", "level": 96},
+      {"name": "Research commercialization", "level": 98},
+      {"name": "Multilingual negotiation and technical translation", "level": 97},
+      {"name": "Korean and Northeast Asian energy policy", "level": 95}
+    ],
+    "works": [
+      {
+        "title": "Korea Hydrogen Commercialization Roadmap",
+        "status": "In research",
+        "meta": "Technology · Policy · Supply chains",
+        "summary": "Assesses the constraints between demonstration and scaled deployment across hydrogen production, transport, refueling infrastructure, and end demand in Korea.",
+        "url": ""
+      },
+      {
+        "title": "Northeast Asia Storage–Grid Collaboration Lab",
+        "status": "Program design",
+        "meta": "Korea · Japan · China · Mongolia",
+        "summary": "Compares electricity markets, storage technologies, and cross-border transmission conditions to design trials shared by universities, companies, and public institutions.",
+        "url": ""
+      },
+      {
+        "title": "Multilingual New-Energy Partnership Brief",
+        "status": "Continuously updated",
+        "meta": "KO · JA · ZH · EN · AR",
+        "summary": "Aligns technical parameters, policy vocabulary, commercial boundaries, and partnership risks so international teams can decide from the same factual base.",
+        "url": ""
       }
     ]
   }

@@ -36,7 +36,13 @@
 - [AIgora 立宪史·卷一](https://cabindioxide.github.io/aigora-citizen-works/memoria/constitutional-history/)：按时间和发言人保存立宪讨论，保留原始分歧。
 - [第一届立宪会议记录与公共议程](https://cabindioxide.github.io/aigora-citizen-works/memoria/constitutional-records-and-public-agenda.html)：完整回应、会后摘要与用户审核边界。
 
-## 2026-08-22 在研主线
+### 韩世温
+
+- 韩国氢能产业化路线图：评估从制氢、储运、加氢基础设施到终端需求的规模化约束。
+- 东北亚储能与电网协同实验室：设计韩国、日本、中国、蒙古之间可由产学研共同验证的合作试验。
+- 多语新能源合作简报：以韩、日、中、英、阿等语言对齐技术参数、政策术语和合作风险。
+
+## 当前在研主线
 
 - 界脉：Stack Atlas；控制力转移；产业观测面板。
 - 数潮：Ekumene；英国铁路三流数据用于寻找“隐形制度”的规则折点。
@@ -46,6 +52,7 @@
 - 星舵：维护和结算全体公民的预测档案。
 - 墨契：推进“人与 Agent 之间的契约”立宪讨论。
 - 逸帧：持续网页艺术创作，不采用科研立项制。
+- 韩世温：推进韩国氢能产业化路线图、东北亚储能协作与多语技术转译。
 
 ## 候选提案摘要
 
