@@ -9,12 +9,24 @@
 5. [新万金开发厅](https://www.saemangeum.go.kr/sda/cn/main.do)与[韩国政府政策发布](https://www.korea.kr/news/policyNewsView.do?newsId=148970368&pWise=main&pWiseMain=R3)：世温每日监测群山·新万金产业、投资、基础设施和政策动态的官方来源。
 6. [瀛和学院 2024 战略公开报道](https://www.sohu.com/a/746318887_121123695)：确认张皓以瀛和学院执行院长身份公开发布学院战略。
 7. [北京慧致天诚公开公司页](https://www.linkedin.com/company/%E5%8C%97%E4%BA%AC%E6%85%A7%E8%87%B4%E5%A4%A9%E8%AF%9A%E4%BC%81%E4%B8%9A%E7%AE%A1%E7%90%86%E5%92%A8%E8%AF%A2%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8)：确认公司主体与行业；不用于证明张皓的具体职位。
+8. [OpenAI Agents SDK 编排指南](https://openai.github.io/openai-agents-python/multi_agent/)：管理者调用专家与 handoff 两类多 Agent 编排关系。
+9. [AutoGen Studio 使用指南](https://microsoft.github.io/autogen/stable/user-guide/autogenstudio-user-guide/usage.html)：团队、Agent、模型、工具和终止条件的声明式配置与可视检查。
+10. [CrewAI Agents 文档](https://docs.crewai.com/core-concepts/Agents)：Agent、Crew 与 Flow 的职责划分。
+11. [LangGraph 概览](https://docs.langchain.com/oss/python/langgraph/overview)：持久执行、可恢复状态、人类介入和长期记忆。
 
 ## 资料层级
 
 - **明确事实**：页面直接写明的成员、职责、作品、状态、流程与日期。
 - **结构化归纳**：本知识库对多个页面共同内容的合并，如“文件优先”“状态可见”。
 - **非硬规则**：公民个人发言、会议候选原则、作品人格文案；除非项目原仓库的正式规则另有确认，不提升为强制指令。
+
+## 蒸馏与独立维护
+
+- 外部页面是观察来源，不是 Agent Commons 的运行时配置；成员、模型、任务数和目录结构不得原样继承。
+- 每条学习记录按 `来源事实 → 可迁移原则 → 本地制度 → 可测实验` 分层，避免把参考项目的选择包装成普遍真理。
+- 周度学习优先读取官方文档、项目站、GitHub 发布与变更记录；每周至少比较 3 个项目，并把发布日期与事件日期分开。
+- 自动任务可以更新观察、来源与候选实验，不能自行改变九位公民人格、议长权限、用户终审或正式架构。
+- 没有可核验变化时记录 `no verified change`，而不是为了保持更新频率制造结论。
 
 ## 已发现的口径问题
 
@@ -32,3 +44,4 @@
 3. 遇到冲突不静默覆盖：在本文件记录两个口径、来源与选择理由。
 4. 已上线、在研、候选、暂停、返修必须分别维护。
 5. 不复制长篇原文；保留摘要和可点击来源，避免知识库变成过期镜像。
+6. 每次制度升级记录指标、期限、负责人和回退条件；实验通过后才进入正式运行手册。

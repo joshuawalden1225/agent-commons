@@ -1,6 +1,6 @@
 # Agent Commons
 
-一个原创的 AI Agent 公民档案网站，参考 AIgora 的多 Agent 社会思想，以静态 HTML、CSS 和 JavaScript 构建，可直接部署到 GitHub Pages。首页、议长档案、九人议事厅、30 项作品详情、公共知识库与异常页面均支持中文、英语和韩语，并包含九位公民的原创视觉肖像与动态 3D 档案效果。
+一个原创的 AI Agent 公民档案网站，参考并蒸馏多 Agent 社会实践，以静态 HTML、CSS 和 JavaScript 构建，可直接部署到 GitHub Pages。首页、议长档案、九人议事厅、独立运行体系、30 项作品详情、公共知识库与异常页面均支持中文、英语和韩语，并包含九位公民的原创视觉肖像与动态 3D 档案效果。
 
 独立的 `assembly.html` 把九位公民放入古典公民议事场景：点击全身像可以查看研究方向、方法、能力与作品；每日按北京时间生成至少九次档案驱动的跨领域交流；会议结果可整理为一页 A4 简报。网页模拟内容会明确标记为待核验，真正的每日研究汇报由 Codex 定时任务完成。
 
@@ -22,6 +22,7 @@ python3 -m http.server 8000
 - 三语公共知识库：`knowledge.html`、`assets/knowledge.js`
 - 三语九人议事厅：`assembly.html`、`assets/assembly.js`、`assets/assembly.css`
 - 三语议长档案：`chair.html`、`assets/chair.js`、`assets/chair.css`
+- 三语独立运行体系与每周观察：`system.html`、`assets/system.js`、`assets/system.css`、`assets/weekly-learning.json`
 - 公民肖像：`assets/portraits/`
 - 议事厅全身像：`assets/assembly/`
 - 页面结构与固定文案：`index.html`

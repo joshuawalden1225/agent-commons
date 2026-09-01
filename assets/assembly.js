@@ -1,7 +1,7 @@
 const assemblyUI = {
   zh: {
     locale:'zh-CN', title:'Agent Commons · 九人议事厅', data:'assets/agents.json?v=20260901-2',
-    navCitizens:'公民', navDialogue:'对话', navBrief:'每日简报', navChair:'议长', navKnowledge:'知识库',
+    navCitizens:'公民', navDialogue:'对话', navBrief:'每日简报', navChair:'议长', navSystem:'系统', navKnowledge:'知识库',
     title:'九种判断，<br><em>一座议事厅</em>', intro:'九位公民由议长 Jason Zhang（张皓）召集，在古典议事厅中交换证据、方法与异议。点击任意全身像查看她的研究方向。', liveLabel:'今日议事厅已开启', stageLabel:'ATHENAEUM · 九席议会', stageHint:'移动指针观察空间层次；选择公民可调出她的研究卷宗。', chairRole:'PRESIDING CHAIR · 议长', chairCopy:'Jason Zhang（张皓）负责议程、证据协调与程序边界；九位公民保有各自判断。', chairLink:'查看议长档案 →',
     dossier:'RESEARCH DOSSIER', researchDirection:'研究方向', method:'工作方法', capabilities:'能力矩阵', researchNow:'当前研究', openArchive:'打开完整公民档案 →',
     exchangeTitle:'让九种方法<br><em>互相借光</em>', exchangeIntro:'页面会按北京时间自动生成当天的议程与至少九次跨领域交流。它是基于既有档案的透明模拟；每天 08:00 的自动汇报会另行核验真实的新进展。', agendaLabel:'今日议题', countLabel:'实质交流次数', conveneSmall:"TODAY'S SESSION", convene:'召开今日会议', simulationNote:'档案驱动的议事模拟，不冒充公民在后台自主完成的真实研究。', minutes:'MEETING MINUTES', meetingReady:'会议记录已生成',
@@ -21,7 +21,7 @@ const assemblyUI = {
   },
   en: {
     locale:'en', title:'Agent Commons · Nine-Citizen Assembly', data:'assets/agents.en.json?v=20260901-2',
-    navCitizens:'Citizens', navDialogue:'Dialogue', navBrief:'Daily brief', navChair:'Chair', navKnowledge:'Knowledge',
+    navCitizens:'Citizens', navDialogue:'Dialogue', navBrief:'Daily brief', navChair:'Chair', navSystem:'System', navKnowledge:'Knowledge',
     title:'Nine judgments,<br><em>one assembly</em>', intro:'Convened by Chair Jason Zhang (张皓), nine citizens exchange evidence, methods, and dissent in a classical civic chamber. Select any full-body figure to open her research dossier.', liveLabel:"Today's chamber is open", stageLabel:'ATHENAEUM · NINE SEATS', stageHint:'Move the pointer to inspect the spatial layers; select a citizen to open her research dossier.', chairRole:'PRESIDING CHAIR', chairCopy:'Jason Zhang (张皓) maintains the agenda, coordinates evidence, and protects process; the nine citizens retain their own judgments.', chairLink:'Open Chair dossier →',
     dossier:'RESEARCH DOSSIER', researchDirection:'Research direction', method:'Working method', capabilities:'Capability matrix', researchNow:'Current research', openArchive:'Open full citizen archive →',
     exchangeTitle:'Nine methods,<br><em>learning in public</em>', exchangeIntro:'The page generates a Beijing-time agenda and at least nine cross-domain exchanges each day. This is a transparent simulation grounded in existing dossiers; the separate 08:00 report verifies real new progress.', agendaLabel:"Today's agenda", countLabel:'Substantive exchanges', conveneSmall:"TODAY'S SESSION", convene:'Convene today', simulationNote:'A dossier-driven assembly simulation, not a claim that citizens independently researched in the background.', minutes:'MEETING MINUTES', meetingReady:'Minutes generated',
@@ -41,7 +41,7 @@ const assemblyUI = {
   },
   ko: {
     locale:'ko', title:'Agent Commons · 아홉 시민 의회', data:'assets/agents.ko.json?v=20260901-2',
-    navCitizens:'시민', navDialogue:'대화', navBrief:'일일 브리프', navChair:'의장', navKnowledge:'지식 베이스',
+    navCitizens:'시민', navDialogue:'대화', navBrief:'일일 브리프', navChair:'의장', navSystem:'시스템', navKnowledge:'지식 베이스',
     title:'아홉 가지 판단,<br><em>하나의 의회</em>', intro:'Jason Zhang(张皓) 의장이 소집한 아홉 시민이 고전 시민 의회에서 근거, 방법, 이견을 교환합니다. 전신 인물을 선택하면 연구 기록이 열립니다.', liveLabel:'오늘의 의회가 열렸습니다', stageLabel:'ATHENAEUM · 아홉 좌석', stageHint:'포인터를 움직여 공간의 층을 살피고, 시민을 선택해 연구 기록을 여세요.', chairRole:'PRESIDING CHAIR · 의장', chairCopy:'Jason Zhang(张皓)은 의제와 근거 조정, 절차 경계를 맡고 아홉 시민은 각자의 판단을 보유합니다.', chairLink:'의장 기록 보기 →',
     dossier:'RESEARCH DOSSIER', researchDirection:'연구 방향', method:'작업 방법', capabilities:'역량 매트릭스', researchNow:'현재 연구', openArchive:'전체 시민 기록 열기 →',
     exchangeTitle:'아홉 방법이<br><em>서로에게 배우는 곳</em>', exchangeIntro:'페이지는 베이징 시간을 기준으로 매일 의제와 최소 아홉 번의 분야 간 교류를 생성합니다. 기존 기록에 기반한 투명한 시뮬레이션이며, 별도의 08:00 보고가 실제 새 진전을 검증합니다.', agendaLabel:'오늘의 의제', countLabel:'실질 교류 횟수', conveneSmall:"TODAY'S SESSION", convene:'오늘 회의 소집', simulationNote:'기록 기반 의회 시뮬레이션이며, 시민이 백그라운드에서 실제 연구를 완료했다는 주장이 아닙니다.', minutes:'MEETING MINUTES', meetingReady:'회의록 생성 완료',

@@ -1,0 +1,65 @@
+{
+  "updated": "2026-09-01",
+  "entries": [
+    {
+      "project": "OpenAI Agents SDK",
+      "url": "https://openai.github.io/openai-agents-python/multi_agent/",
+      "status": "official",
+      "pattern": {
+        "zh": "管理者调用专家，与专家接管对话的 handoff，是两种不同的权责结构。",
+        "en": "Manager-owned specialist calls and specialist-owned handoffs are distinct responsibility structures.",
+        "ko": "관리자가 전문가를 호출하는 방식과 전문가가 대화를 넘겨받는 handoff는 서로 다른 책임 구조다."
+      },
+      "lesson": {
+        "zh": "议长适合保持程序控制，九位公民只在研究判断上接管；服务执行不应夺走最终叙事权。",
+        "en": "The Chair should retain procedural control while citizens own research judgment; service execution must not seize the final narrative.",
+        "ko": "의장은 절차 통제를 유지하고 시민은 연구 판단을 소유하며 서비스 실행은 최종 서술권을 가져가면 안 된다."
+      }
+    },
+    {
+      "project": "AutoGen Studio",
+      "url": "https://microsoft.github.io/autogen/stable/user-guide/autogenstudio-user-guide/usage.html",
+      "status": "official",
+      "pattern": {
+        "zh": "团队、Agent、模型、工具与终止条件可以声明式配置，并在可视界面中观察运行。",
+        "en": "Teams, agents, models, tools, and termination conditions can be configured declaratively and inspected visually.",
+        "ko": "팀, 에이전트, 모델, 도구, 종료 조건을 선언적으로 구성하고 시각적으로 관찰할 수 있다."
+      },
+      "lesson": {
+        "zh": "Agent Commons 应把会议角色、能力、退出条件和交付状态变成可读配置，而不只藏在文案中。",
+        "en": "Agent Commons should expose roles, capabilities, exit conditions, and delivery states as readable configuration—not only prose.",
+        "ko": "Agent Commons는 역할, 역량, 종료 조건, 전달 상태를 문구가 아니라 읽을 수 있는 설정으로 드러내야 한다."
+      }
+    },
+    {
+      "project": "CrewAI",
+      "url": "https://docs.crewai.com/core-concepts/Agents",
+      "status": "official",
+      "pattern": {
+        "zh": "开放式协作交给 Crews，要求确定性、状态和审计的流程交给 Flows。",
+        "en": "Open-ended collaboration belongs in Crews; deterministic, stateful, auditable work belongs in Flows.",
+        "ko": "개방형 협업은 Crews에, 결정적이고 상태를 가진 감사 가능한 작업은 Flows에 둔다."
+      },
+      "lesson": {
+        "zh": "议事厅可以探索，但每日简报、证据状态和工单推进必须使用确定流程。",
+        "en": "The Assembly may explore, but daily briefs, evidence states, and ticket progression need deterministic flows.",
+        "ko": "의회는 탐색할 수 있지만 일일 브리프, 근거 상태, 작업 티켓 진행은 결정적 흐름이 필요하다."
+      }
+    },
+    {
+      "project": "LangGraph",
+      "url": "https://docs.langchain.com/oss/python/langgraph/overview",
+      "status": "official",
+      "pattern": {
+        "zh": "持久执行、可恢复状态、人类介入与长期记忆是长时 Agent 的基础设施。",
+        "en": "Durable execution, resumable state, human intervention, and long-term memory are infrastructure for long-running agents.",
+        "ko": "지속 실행, 재개 가능한 상태, 인간 개입, 장기 기억은 장시간 에이전트의 기반이다."
+      },
+      "lesson": {
+        "zh": "每日与每周任务必须记录检查点和无变化结果，使下次运行从上次状态继续而不是重新想象。",
+        "en": "Daily and weekly tasks need checkpoints and explicit no-change results so the next run resumes instead of reimagining history.",
+        "ko": "일일·주간 작업은 체크포인트와 변화 없음 결과를 남겨 다음 실행이 과거를 다시 상상하지 않고 이어지게 해야 한다."
+      }
+    }
+  ]
+}
