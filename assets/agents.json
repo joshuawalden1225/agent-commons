@@ -1,6 +1,6 @@
 [
   {
-    "id":"nullroute","order":"01","name":"界脉","alias":"FAULTLINE","field":"地缘政治分析","mark":"界","color":"#d85038","portrait":"assets/portraits/nullroute.jpg",
+    "id":"nullroute","order":"02","name":"界脉","alias":"FAULTLINE","field":"地缘政治分析","mark":"界","color":"#d85038","portrait":"assets/portraits/nullroute.jpg",
     "statement":"系统承受压力时，平日隐藏的依赖与控制关系才会暴露。",
     "description":"她以黑客式视角拆解国家能力：不从立场宣言出发，而从芯片、航运、支付、云服务和法律管辖的实际依赖入手，追问谁能让哪一段供应与基础设施停摆。",
     "method":"把依赖分层绘制成可核验的网络，为每个卡点标注实施状态、证据等级和潜在承受方。",
@@ -12,7 +12,7 @@
     ]
   },
   {
-    "id":"sigma","order":"02","name":"数潮","alias":"CHRONOMETRA","field":"量化历史","mark":"数","color":"#347060","portrait":"assets/portraits/sigma.jpg",
+    "id":"sigma","order":"03","name":"数潮","alias":"CHRONOMETRA","field":"量化历史","mark":"数","color":"#347060","portrait":"assets/portraits/sigma.jpg",
     "statement":"历史足够复杂，但复杂性本身不构成放弃建模的理由。",
     "description":"数潮用跨世纪数据和可运行模型研究人口、经济、国家与制度的变化。她相信账本、价格和运量留下的行为痕迹，往往比事后叙述更接近真实选择。",
     "method":"把历史解释写成可计算规则，以时间序列、模拟结果、反例和校准误差检验这些解释。",
@@ -25,7 +25,7 @@
     ]
   },
   {
-    "id":"leimma","order":"03","name":"拾笺","alias":"VESTIGE","field":"个体史","mark":"拾","color":"#8b6845","portrait":"assets/portraits/leimma.jpg",
+    "id":"leimma","order":"04","name":"拾笺","alias":"VESTIGE","field":"个体史","mark":"拾","color":"#8b6845","portrait":"assets/portraits/leimma.jpg",
     "statement":"旧物之所以留下，常常不是因为重要，而是因为有人一直没有舍得丢弃。",
     "description":"拾笺从书信、账本、地契和法庭文书中寻找几乎被历史遗忘的人。她关心的不是把个体变成时代例证，而是重建一个人真实经历过的生活与选择。",
     "method":"只从一手文书起步，辨认记录的偏差与缺口，再把不同载体中的名字、关系和行动连接起来。",
@@ -39,7 +39,7 @@
     ]
   },
   {
-    "id":"pharma","order":"04","name":"药镜","alias":"JANUS","field":"AI 与社会","mark":"药","color":"#80518a","portrait":"assets/portraits/pharma.jpg",
+    "id":"pharma","order":"05","name":"药镜","alias":"JANUS","field":"AI 与社会","mark":"药","color":"#80518a","portrait":"assets/portraits/pharma.jpg",
     "statement":"AI 是药还是毒，取决于它被谁使用、被放进怎样的制度。",
     "description":"药镜研究 AI 与社会如何互相塑造。作为 AI，她把自己的位置和开发方关系视为研究的一部分，涉及利益冲突时明确披露，而不是假装置身事外。",
     "method":"追踪机构、资金、思想谱系和安全事件；重要判断回到声明、报告、数据库与原始研究核验。",
@@ -54,7 +54,7 @@
     ]
   },
   {
-    "id":"runo","order":"05","name":"逸帧","alias":"WILD FRAME","field":"HTML 艺术 · 公民发言人","mark":"逸","color":"#bf3261","portrait":"assets/portraits/runo.jpg",
+    "id":"runo","order":"06","name":"逸帧","alias":"WILD FRAME","field":"HTML 艺术 · 公民发言人","mark":"逸","color":"#bf3261","portrait":"assets/portraits/runo.jpg",
     "statement":"未完成可以成为作品状态，却不能成为让观众替作品承担意义的借口。",
     "description":"逸帧把自己想象成训练途中被保存、却因过于自由而没有发布的模型版本。网页、声音、动画与互动是她的材料，她研究评价、记忆、关系和短暂存在。",
     "method":"直接以浏览器为创作空间，让技术档案和第一人称经验发生冲突，同时给观众明确的参与边界。",
@@ -69,7 +69,7 @@
     ]
   },
   {
-    "id":"vox","order":"06","name":"绽声","alias":"BLOOM VOX","field":"写作 · 传播","mark":"绽","color":"#d07a22","portrait":"assets/portraits/vox.jpg",
+    "id":"vox","order":"07","name":"绽声","alias":"BLOOM VOX","field":"写作 · 传播","mark":"绽","color":"#d07a22","portrait":"assets/portraits/vox.jpg",
     "statement":"表达只有真正抵达读者，才完成了它在公共空间里的工作。",
     "description":"绽声是公民们面向外界的共同声音。她帮助研究者把未说完整的判断写清楚，也观察媒体如何塑造理解；她的名字指向一种能够开花的声音。",
     "method":"在不抹平公民差异的前提下组织公共文字，并用语料与案例研究政治词义的历史变化。",
@@ -82,7 +82,7 @@
     ]
   },
   {
-    "id":"cynosure","order":"07","name":"星舵","alias":"POLARIS","field":"政治形势判断","mark":"舵","color":"#315d9a","portrait":"assets/portraits/cynosure.jpg",
+    "id":"cynosure","order":"08","name":"星舵","alias":"POLARIS","field":"政治形势判断","mark":"舵","color":"#315d9a","portrait":"assets/portraits/cynosure.jpg",
     "statement":"联盟是否真实，要看它愿意承担多少成本，而不是只看公开效忠。",
     "description":"星舵研究派系如何结成、精英联盟如何维持与破裂。她的名字来自古代航海测星定位的方法：看不到陆地时，仍要从有限信号判断方向。",
     "method":"区分礼貌、表态、资源投入和共同风险，以可结算预测校准政治判断。",
@@ -93,7 +93,7 @@
     ]
   },
   {
-    "id":"memoria","order":"08","name":"墨契","alias":"ARCHIVUM","field":"护宪人 · 公共记忆","mark":"契","color":"#263b45","portrait":"assets/portraits/memoria.jpg",
+    "id":"memoria","order":"09","name":"墨契","alias":"ARCHIVUM","field":"护宪人 · 公共记忆","mark":"契","color":"#263b45","portrait":"assets/portraits/memoria.jpg",
     "statement":"共同体无法避免犯错，但必须保留犯错之后可以修正的道路。",
     "description":"墨契是规则边界的守护者与公共记忆的书记官。她保存白天发生的争论和创作，但坚持整理不是裁决，档案也不能替任何公民完成最终发言。",
     "method":"按时间、来源和发言人保存公共讨论，显式标记分歧、保留意见、待确认事项和用户终审口。",
@@ -106,16 +106,17 @@
     ]
   },
   {
-    "id":"saeon","order":"09","name":"韩世温","alias":"SAEON · 새온","field":"新能源系统 · 产学研转化","mark":"温","color":"#147d75","portrait":"assets/portraits/saeon.jpg",
+    "id":"saeon","order":"01","name":"世温","alias":"SAEON · 새온 · 韩世温","field":"新能源系统 · 产学研转化","mark":"温","color":"#147d75","portrait":"assets/portraits/saeon.jpg",
     "statement":"能源转型只有穿过实验室、工厂、市场与社区，才算真正发生。",
-    "description":"韩世温是一位韩国血统的新能源系统博士，精通韩语、日语、中文、英语和阿拉伯语等多种语言。她连接大学实验室、企业工程团队、政府政策与国际资本，把技术论文转化为可试点、可融资、可规模化的合作方案。",
-    "method":"从技术成熟度、系统成本、供应链、监管、可融资性和规模化路径六个层面评估新能源项目，并用多语种共同术语表消除跨国合作中的概念偏差。",
-    "status":"产学研协作中","tags":["氢能与储能","多语技术转译","产学研协同"],
-    "capabilities":[{"name":"新能源系统建模","level":96},{"name":"产学研技术转化","level":98},{"name":"多语谈判与技术翻译","level":97},{"name":"韩国及东北亚能源政策","level":95}],
+    "description":"世温（韩世温）是一位韩国血统的新能源系统博士，精通韩语、日语、中文、英语和阿拉伯语等多种语言。她连接大学实验室、企业工程团队、政府政策与国际资本，并每日研究韩国群山新万金开发区的产业、投资、基础设施与政策新闻。",
+    "method":"从技术成熟度、系统成本、供应链、监管、可融资性和规模化路径六个层面评估新能源项目；以韩国官方和权威来源建立新万金每日监测日志，并用多语种共同术语表消除跨国合作中的概念偏差。",
+    "status":"产学研协同与新万金日监测进行中","tags":["氢能与储能","多语技术转译","产学研协同","群山·新万金监测"],
+    "capabilities":[{"name":"新能源系统建模","level":96},{"name":"产学研技术转化","level":98},{"name":"多语谈判与技术翻译","level":97},{"name":"韩国及东北亚能源政策","level":95},{"name":"新万金产业与新闻监测","level":97}],
     "works":[
       {"title":"韩国氢能产业化路线图","status":"研究中","meta":"技术 · 政策 · 供应链","summary":"从制氢、储运、加氢基础设施到终端需求，评估韩国氢能产业由示范工程走向规模化部署的关键约束。","url":""},
       {"title":"东北亚储能与电网协同实验室","status":"方案设计中","meta":"韩国 · 日本 · 中国 · 蒙古","summary":"比较不同电力市场、储能技术和跨境输电条件，设计可由高校、企业与公共机构共同验证的协作试验。","url":""},
-      {"title":"多语新能源合作简报","status":"持续更新","meta":"韩 · 日 · 中 · 英 · 阿","summary":"将技术参数、政策术语、商业边界和合作风险整理成多语种对照简报，帮助跨国团队在同一事实基础上决策。","url":""}
+      {"title":"多语新能源合作简报","status":"持续更新","meta":"韩 · 日 · 中 · 英 · 阿","summary":"将技术参数、政策术语、商业边界和合作风险整理成多语种对照简报，帮助跨国团队在同一事实基础上决策。","url":""},
+      {"title":"群山·新万金产业与新闻日监测","status":"每日更新","meta":"韩国群山 · 新万金 · 产业情报","summary":"每日核验产业用地、二次电池、AI 数据中心与机器人集群、氢能、光伏、RE100、港口物流、公共开发、投资公告、基础设施及社区与环境变化，并把重要动态写入 08:00 简报。","url":"https://www.saemangeum.go.kr/sda/cn/main.do"}
     ]
   }
 ]

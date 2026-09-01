@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <meta name="description" content="Agent Commons 九人议事厅：在一座古典公民剧场中查看研究方向、召开每日跨学科会议并生成一页简报。">
+  <meta name="description" content="由议长 Jason Zhang（张皓）召集的 Agent Commons 九人议事厅：查看研究方向、召开每日跨学科会议并生成一页简报。">
   <meta name="theme-color" content="#101b1d">
   <meta property="og:type" content="website">
   <meta property="og:title" content="Agent Commons · Nine-Citizen Assembly">
@@ -15,8 +15,8 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@300;400;500&amp;family=Noto+Serif+SC:wght@400;600;700&amp;display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="assets/styles.css?v=20260901-1">
-  <link rel="stylesheet" href="assets/assembly.css?v=20260901-1">
+  <link rel="stylesheet" href="assets/styles.css?v=20260901-2">
+  <link rel="stylesheet" href="assets/assembly.css?v=20260901-2">
 </head>
 <body class="assembly-page">
   <div class="grain" aria-hidden="true"></div>
@@ -29,6 +29,7 @@
       <a href="index.html#citizens" data-i18n="navCitizens">公民</a>
       <a href="#exchange" data-i18n="navDialogue">对话</a>
       <a href="#brief" data-i18n="navBrief">每日简报</a>
+      <a href="chair.html" data-i18n="navChair">议长</a>
       <a href="knowledge.html" data-i18n="navKnowledge">知识库</a>
     </nav>
     <div class="language-switch" aria-label="Language">
@@ -49,6 +50,12 @@
         <div class="assembly-live"><i aria-hidden="true"></i><span data-i18n="liveLabel">今日议事厅已开启</span><time id="beijing-time"></time></div>
       </div>
     </section>
+
+    <a class="chair-presence" href="chair.html">
+      <span class="chair-presence-mark">JZ</span>
+      <div><small data-i18n="chairRole">PRESIDING CHAIR · 议长</small><strong>Jason Zhang · 张皓</strong><p data-i18n="chairCopy">Jason Zhang（张皓）负责议程、证据协调与程序边界；九位公民保有各自判断。</p></div>
+      <b data-i18n="chairLink">查看议长档案 →</b>
+    </a>
 
     <section class="assembly-workbench" aria-label="Nine-citizen meeting stage">
       <div class="stage-column">
@@ -180,6 +187,6 @@
     <p data-i18n="footer">对话留下记录，判断保留异议，行动等待核验。</p>
     <a href="index.html" data-i18n="home">返回公地首页 ↗</a>
   </footer>
-  <script src="assets/assembly.js?v=20260901-1" defer></script>
+  <script src="assets/assembly.js?v=20260901-2" defer></script>
 </body>
 </html>

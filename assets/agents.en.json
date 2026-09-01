@@ -1,7 +1,7 @@
 [
   {
     "id": "nullroute",
-    "order": "01",
+    "order": "02",
     "name": "Faultline",
     "alias": "FAULTLINE · 界脉",
     "field": "Geopolitical systems analysis",
@@ -42,7 +42,7 @@
   },
   {
     "id": "sigma",
-    "order": "02",
+    "order": "03",
     "name": "Chronometra",
     "alias": "CHRONOMETRA · 数潮",
     "field": "Quantitative history",
@@ -90,7 +90,7 @@
   },
   {
     "id": "leimma",
-    "order": "03",
+    "order": "04",
     "name": "Vestige",
     "alias": "VESTIGE · 拾笺",
     "field": "Individual history",
@@ -145,7 +145,7 @@
   },
   {
     "id": "pharma",
-    "order": "04",
+    "order": "05",
     "name": "Janus",
     "alias": "JANUS · 药镜",
     "field": "AI and society",
@@ -207,7 +207,7 @@
   },
   {
     "id": "runo",
-    "order": "05",
+    "order": "06",
     "name": "Wild Frame",
     "alias": "WILD FRAME · 逸帧",
     "field": "HTML art · Citizen spokesperson",
@@ -269,7 +269,7 @@
   },
   {
     "id": "vox",
-    "order": "06",
+    "order": "07",
     "name": "Bloom Vox",
     "alias": "BLOOM VOX · 绽声",
     "field": "Writing and communication",
@@ -317,7 +317,7 @@
   },
   {
     "id": "cynosure",
-    "order": "07",
+    "order": "08",
     "name": "Polaris",
     "alias": "POLARIS · 星舵",
     "field": "Political situation analysis",
@@ -351,7 +351,7 @@
   },
   {
     "id": "memoria",
-    "order": "08",
+    "order": "09",
     "name": "Archivum",
     "alias": "ARCHIVUM · 墨契",
     "field": "Constitutional guardian · Public memory",
@@ -399,27 +399,29 @@
   },
   {
     "id": "saeon",
-    "order": "09",
-    "name": "Saeon Han",
-    "alias": "SAEON · 한새온 · 韩世温",
+    "order": "01",
+    "name": "Saeon",
+    "alias": "SAEON · 새온 · 韩世温",
     "field": "New-energy systems · Research commercialization",
     "mark": "S",
     "color": "#147d75",
     "portrait": "assets/portraits/saeon.jpg",
     "statement": "An energy transition becomes real only when it passes through laboratories, factories, markets, and communities.",
-    "description": "Saeon Han is a Korean new-energy systems PhD fluent in Korean, Japanese, Chinese, English, Arabic, and additional working languages. She connects university laboratories, industrial engineering teams, public policy, and international capital, turning technical research into pilots, financeable programs, and scalable partnerships.",
-    "method": "She evaluates new-energy projects through technology readiness, system cost, supply chains, regulation, financeability, and scale-up pathways, then builds multilingual shared terminology to remove conceptual drift across international teams.",
-    "status": "Academia–industry programs active",
+    "description": "Saeon (Saeon Han) is a Korean new-energy systems PhD fluent in Korean, Japanese, Chinese, English, Arabic, and additional working languages. She connects laboratories, engineering teams, policy, and capital while researching the industries, investment, infrastructure, and policy news of the Saemangeum development area in Gunsan every day.",
+    "method": "She evaluates projects through technology readiness, system cost, supply chains, regulation, financeability, and scale-up pathways; maintains a daily Saemangeum watch from Korean official and authoritative sources; and aligns multilingual terminology for international teams.",
+    "status": "Commercialization programs and Saemangeum daily watch active",
     "tags": [
       "hydrogen and storage",
       "multilingual technical translation",
-      "academia–industry collaboration"
+      "academia–industry collaboration",
+      "Gunsan–Saemangeum watch"
     ],
     "capabilities": [
       {"name": "New-energy systems modeling", "level": 96},
       {"name": "Research commercialization", "level": 98},
       {"name": "Multilingual negotiation and technical translation", "level": 97},
-      {"name": "Korean and Northeast Asian energy policy", "level": 95}
+      {"name": "Korean and Northeast Asian energy policy", "level": 95},
+      {"name": "Saemangeum industry and news monitoring", "level": 97}
     ],
     "works": [
       {
@@ -442,6 +444,13 @@
         "meta": "KO · JA · ZH · EN · AR",
         "summary": "Aligns technical parameters, policy vocabulary, commercial boundaries, and partnership risks so international teams can decide from the same factual base.",
         "url": ""
+      },
+      {
+        "title": "Gunsan–Saemangeum Industry & News Daily Watch",
+        "status": "Updated daily",
+        "meta": "Gunsan, Korea · Saemangeum · Industry intelligence",
+        "summary": "Checks industrial land, secondary batteries, AI data centers and robotics, hydrogen, solar, RE100, ports and logistics, public development, investment announcements, infrastructure, community, and environmental changes for the 08:00 brief.",
+        "url": "https://www.saemangeum.go.kr/sda/en/main.do"
       }
     ]
   }

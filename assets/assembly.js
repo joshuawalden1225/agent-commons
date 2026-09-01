@@ -1,8 +1,8 @@
 const assemblyUI = {
   zh: {
-    locale:'zh-CN', title:'Agent Commons · 九人议事厅', data:'assets/agents.json?v=20260901-1',
-    navCitizens:'公民', navDialogue:'对话', navBrief:'每日简报', navKnowledge:'知识库',
-    title:'九种判断，<br><em>一座议事厅</em>', intro:'九位公民在古典议事厅中交换证据、方法与异议。点击任意全身像查看她的研究方向；每天的议程会形成可追踪的对话记录。', liveLabel:'今日议事厅已开启', stageLabel:'ATHENAEUM · 九席议会', stageHint:'移动指针观察空间层次；选择公民可调出她的研究卷宗。',
+    locale:'zh-CN', title:'Agent Commons · 九人议事厅', data:'assets/agents.json?v=20260901-2',
+    navCitizens:'公民', navDialogue:'对话', navBrief:'每日简报', navChair:'议长', navKnowledge:'知识库',
+    title:'九种判断，<br><em>一座议事厅</em>', intro:'九位公民由议长 Jason Zhang（张皓）召集，在古典议事厅中交换证据、方法与异议。点击任意全身像查看她的研究方向。', liveLabel:'今日议事厅已开启', stageLabel:'ATHENAEUM · 九席议会', stageHint:'移动指针观察空间层次；选择公民可调出她的研究卷宗。', chairRole:'PRESIDING CHAIR · 议长', chairCopy:'Jason Zhang（张皓）负责议程、证据协调与程序边界；九位公民保有各自判断。', chairLink:'查看议长档案 →',
     dossier:'RESEARCH DOSSIER', researchDirection:'研究方向', method:'工作方法', capabilities:'能力矩阵', researchNow:'当前研究', openArchive:'打开完整公民档案 →',
     exchangeTitle:'让九种方法<br><em>互相借光</em>', exchangeIntro:'页面会按北京时间自动生成当天的议程与至少九次跨领域交流。它是基于既有档案的透明模拟；每天 08:00 的自动汇报会另行核验真实的新进展。', agendaLabel:'今日议题', countLabel:'实质交流次数', conveneSmall:"TODAY'S SESSION", convene:'召开今日会议', simulationNote:'档案驱动的议事模拟，不冒充公民在后台自主完成的真实研究。', minutes:'MEETING MINUTES', meetingReady:'会议记录已生成',
     briefTitle:'今日一页简报', briefIntro:'汇总议题、跨域借鉴、九人研究观察与下一步行动。打印时自动整理为单页 A4。', printBrief:'打印 / 保存 A4 PDF', dailyBrief:'DAILY BRIEF · BEIJING 08:00', crossLearning:'跨域借鉴', decisions:'会议决定', researchWatch:'九人研究观察', evidenceNote:'证据说明：网页内容来自已登记档案；“今日观察”是待核验的研究提示，不等于已发生的新成果。每日自动任务会区分已核实进展、外部动态、假设与无变化。', footer:'对话留下记录，判断保留异议，行动等待核验。', home:'返回公地首页 ↗',
@@ -17,12 +17,12 @@ const assemblyUI = {
     learns:(a,b)=>`方法借鉴：${a.name}吸收${b.name}的${b.capabilities[0].name}，并承诺把结果写成可复议的中间记录。`,
     learnings:(a,b)=>`${a.name}把${b.name}的「${b.tags[0]}」纳入自己的${a.field}研究。`,
     decisionTexts:['每项判断同时标记证据等级、反例与待确认事项。','让九位公民至少各发言一次，再由墨契保存分歧。','把跨域借鉴转化为有负责人、可核验的下一步。'],
-    progress:(agent,work)=>`待核验：复查「${work.title}」的${agent.capabilities[0].name}环节，并记录新增来源或明确无变化。`, countText:n=>`${n} 次实质交流 · 九位公民均已发言`
+    progress:(agent,work)=>agent.id === 'saeon' ? `新万金日监控：核验「${work.title}」中的群山产业、投资、基础设施与政策新闻，记录来源、变化、影响或明确无变化。` : `待核验：复查「${work.title}」的${agent.capabilities[0].name}环节，并记录新增来源或明确无变化。`, countText:n=>`${n} 次实质交流 · 九位公民均已发言`
   },
   en: {
-    locale:'en', title:'Agent Commons · Nine-Citizen Assembly', data:'assets/agents.en.json?v=20260901-1',
-    navCitizens:'Citizens', navDialogue:'Dialogue', navBrief:'Daily brief', navKnowledge:'Knowledge',
-    title:'Nine judgments,<br><em>one assembly</em>', intro:'Nine citizens exchange evidence, methods, and dissent in a classical civic chamber. Select any full-body figure to open her research dossier; each day produces a traceable meeting record.', liveLabel:"Today's chamber is open", stageLabel:'ATHENAEUM · NINE SEATS', stageHint:'Move the pointer to inspect the spatial layers; select a citizen to open her research dossier.',
+    locale:'en', title:'Agent Commons · Nine-Citizen Assembly', data:'assets/agents.en.json?v=20260901-2',
+    navCitizens:'Citizens', navDialogue:'Dialogue', navBrief:'Daily brief', navChair:'Chair', navKnowledge:'Knowledge',
+    title:'Nine judgments,<br><em>one assembly</em>', intro:'Convened by Chair Jason Zhang (张皓), nine citizens exchange evidence, methods, and dissent in a classical civic chamber. Select any full-body figure to open her research dossier.', liveLabel:"Today's chamber is open", stageLabel:'ATHENAEUM · NINE SEATS', stageHint:'Move the pointer to inspect the spatial layers; select a citizen to open her research dossier.', chairRole:'PRESIDING CHAIR', chairCopy:'Jason Zhang (张皓) maintains the agenda, coordinates evidence, and protects process; the nine citizens retain their own judgments.', chairLink:'Open Chair dossier →',
     dossier:'RESEARCH DOSSIER', researchDirection:'Research direction', method:'Working method', capabilities:'Capability matrix', researchNow:'Current research', openArchive:'Open full citizen archive →',
     exchangeTitle:'Nine methods,<br><em>learning in public</em>', exchangeIntro:'The page generates a Beijing-time agenda and at least nine cross-domain exchanges each day. This is a transparent simulation grounded in existing dossiers; the separate 08:00 report verifies real new progress.', agendaLabel:"Today's agenda", countLabel:'Substantive exchanges', conveneSmall:"TODAY'S SESSION", convene:'Convene today', simulationNote:'A dossier-driven assembly simulation, not a claim that citizens independently researched in the background.', minutes:'MEETING MINUTES', meetingReady:'Minutes generated',
     briefTitle:"Today's one-page brief", briefIntro:'Agenda, cross-domain learning, nine research watches, and next actions—formatted as one A4 page when printed.', printBrief:'Print / save A4 PDF', dailyBrief:'DAILY BRIEF · BEIJING 08:00', crossLearning:'Cross-domain learning', decisions:'Decisions', researchWatch:'Nine research watches', evidenceNote:'Evidence note: page content comes from registered dossiers. “Today’s watch” is a prompt for verification, not a claim of completed new research. The scheduled report separates verified progress, external developments, hypotheses, and no change.', footer:'Dialogue leaves a record; judgment keeps dissent; action awaits verification.', home:'Return to the Commons ↗',
@@ -37,12 +37,12 @@ const assemblyUI = {
     learns:(a,b)=>`Method transfer: ${a.name} borrows ${b.name}'s ${b.capabilities[0].name} and commits to an interim record that can be challenged.`,
     learnings:(a,b)=>`${a.name} brings ${b.name}'s “${b.tags[0]}” into her work on ${a.field}.`,
     decisionTexts:['Mark every judgment with an evidence grade, counterexample, and pending questions.','Give all nine citizens at least one turn, then let Archivum preserve the disagreements.','Translate cross-domain borrowing into a named, verifiable next action.'],
-    progress:(agent,work)=>`To verify: revisit the ${agent.capabilities[0].name} step in “${work.title}” and record either a new source or an explicit no-change result.`, countText:n=>`${n} substantive exchanges · all nine citizens heard`
+    progress:(agent,work)=>agent.id === 'saeon' ? `Saemangeum daily watch: verify Gunsan industry, investment, infrastructure, and policy news for “${work.title}”; record sources, change, impact, or an explicit no-change result.` : `To verify: revisit the ${agent.capabilities[0].name} step in “${work.title}” and record either a new source or an explicit no-change result.`, countText:n=>`${n} substantive exchanges · all nine citizens heard`
   },
   ko: {
-    locale:'ko', title:'Agent Commons · 아홉 시민 의회', data:'assets/agents.ko.json?v=20260901-1',
-    navCitizens:'시민', navDialogue:'대화', navBrief:'일일 브리프', navKnowledge:'지식 베이스',
-    title:'아홉 가지 판단,<br><em>하나의 의회</em>', intro:'아홉 시민이 고전 시민 의회에서 근거, 방법, 이견을 교환합니다. 전신 인물을 선택하면 연구 기록이 열리고, 매일의 의제는 추적 가능한 회의록으로 남습니다.', liveLabel:'오늘의 의회가 열렸습니다', stageLabel:'ATHENAEUM · 아홉 좌석', stageHint:'포인터를 움직여 공간의 층을 살피고, 시민을 선택해 연구 기록을 여세요.',
+    locale:'ko', title:'Agent Commons · 아홉 시민 의회', data:'assets/agents.ko.json?v=20260901-2',
+    navCitizens:'시민', navDialogue:'대화', navBrief:'일일 브리프', navChair:'의장', navKnowledge:'지식 베이스',
+    title:'아홉 가지 판단,<br><em>하나의 의회</em>', intro:'Jason Zhang(张皓) 의장이 소집한 아홉 시민이 고전 시민 의회에서 근거, 방법, 이견을 교환합니다. 전신 인물을 선택하면 연구 기록이 열립니다.', liveLabel:'오늘의 의회가 열렸습니다', stageLabel:'ATHENAEUM · 아홉 좌석', stageHint:'포인터를 움직여 공간의 층을 살피고, 시민을 선택해 연구 기록을 여세요.', chairRole:'PRESIDING CHAIR · 의장', chairCopy:'Jason Zhang(张皓)은 의제와 근거 조정, 절차 경계를 맡고 아홉 시민은 각자의 판단을 보유합니다.', chairLink:'의장 기록 보기 →',
     dossier:'RESEARCH DOSSIER', researchDirection:'연구 방향', method:'작업 방법', capabilities:'역량 매트릭스', researchNow:'현재 연구', openArchive:'전체 시민 기록 열기 →',
     exchangeTitle:'아홉 방법이<br><em>서로에게 배우는 곳</em>', exchangeIntro:'페이지는 베이징 시간을 기준으로 매일 의제와 최소 아홉 번의 분야 간 교류를 생성합니다. 기존 기록에 기반한 투명한 시뮬레이션이며, 별도의 08:00 보고가 실제 새 진전을 검증합니다.', agendaLabel:'오늘의 의제', countLabel:'실질 교류 횟수', conveneSmall:"TODAY'S SESSION", convene:'오늘 회의 소집', simulationNote:'기록 기반 의회 시뮬레이션이며, 시민이 백그라운드에서 실제 연구를 완료했다는 주장이 아닙니다.', minutes:'MEETING MINUTES', meetingReady:'회의록 생성 완료',
     briefTitle:'오늘의 한 페이지 브리프', briefIntro:'의제, 분야 간 학습, 아홉 연구 관찰, 다음 행동을 인쇄 시 A4 한 장으로 정리합니다.', printBrief:'인쇄 / A4 PDF 저장', dailyBrief:'DAILY BRIEF · BEIJING 08:00', crossLearning:'분야 간 학습', decisions:'회의 결정', researchWatch:'아홉 연구 관찰', evidenceNote:'근거 안내: 페이지 내용은 등록된 기록에서 옵니다. “오늘의 관찰”은 검증할 연구 단서이며 새 성과가 이미 발생했다는 뜻이 아닙니다. 예약 보고는 검증된 진전, 외부 변화, 가설, 변화 없음을 구분합니다.', footer:'대화는 기록을 남기고, 판단은 이견을 보존하며, 행동은 검증을 기다립니다.', home:'공유지 홈으로 돌아가기 ↗',
@@ -57,14 +57,14 @@ const assemblyUI = {
     learns:(a,b)=>`방법 전이: ${a.name}은(는) ${b.name}의 ${b.capabilities[0].name}을 빌리고, 이의를 제기할 수 있는 중간 기록을 남기기로 합니다.`,
     learnings:(a,b)=>`${a.name}이(가) ${b.name}의 “${b.tags[0]}”을(를) 자신의 ${a.field} 연구에 포함합니다.`,
     decisionTexts:['모든 판단에 근거 등급, 반례, 미결 사항을 함께 표시합니다.','아홉 시민이 최소 한 번씩 발언한 뒤 아르키붐이 이견을 보존합니다.','분야 간 차용을 담당자와 검증 기준이 있는 다음 행동으로 바꿉니다.'],
-    progress:(agent,work)=>`검증 대기: “${work.title}”의 ${agent.capabilities[0].name} 단계를 다시 확인하고 새 출처 또는 변화 없음을 기록합니다.`, countText:n=>`${n}회 실질 교류 · 아홉 시민 모두 발언`
+    progress:(agent,work)=>agent.id === 'saeon' ? `새만금 일일 모니터: “${work.title}”의 군산 산업·투자·인프라·정책 뉴스를 확인하고 출처, 변화, 영향 또는 변화 없음을 기록합니다.` : `검증 대기: “${work.title}”의 ${agent.capabilities[0].name} 단계를 다시 확인하고 새 출처 또는 변화 없음을 기록합니다.`, countText:n=>`${n}회 실질 교류 · 아홉 시민 모두 발언`
   }
 };
 
 const stagePositions = [
-  {x:12,y:26,z:-20,scale:.78,tilt:-2}, {x:31,y:15,z:15,scale:.9,tilt:-1}, {x:50,y:10,z:35,scale:.98,tilt:0},
-  {x:69,y:15,z:15,scale:.9,tilt:1}, {x:88,y:26,z:-20,scale:.78,tilt:2}, {x:20,y:45,z:95,scale:1,tilt:-1},
-  {x:38,y:39,z:125,scale:1.08,tilt:0}, {x:62,y:39,z:125,scale:1.08,tilt:0}, {x:80,y:45,z:95,scale:1,tilt:1}
+  {x:50,y:40,z:160,scale:1.14,tilt:0}, {x:13,y:22,z:-20,scale:.8,tilt:-2}, {x:35,y:13,z:10,scale:.88,tilt:-1},
+  {x:65,y:13,z:10,scale:.88,tilt:1}, {x:87,y:22,z:-20,scale:.8,tilt:2}, {x:18,y:45,z:85,scale:.96,tilt:-1},
+  {x:36,y:39,z:115,scale:1.04,tilt:0}, {x:64,y:39,z:115,scale:1.04,tilt:0}, {x:82,y:45,z:85,scale:.96,tilt:1}
 ];
 
 let activeLang = localStorage.getItem('agent-commons-language') || 'zh';
@@ -197,7 +197,8 @@ function renderBrief(copy, agenda, exchanges, count, seed) {
   document.querySelector('#brief-learning').innerHTML = exchanges.slice(0,3).map(exchange => `<li>${escapeHTML(copy.learnings(exchange.speaker,exchange.partner))}</li>`).join('');
   document.querySelector('#brief-decisions').innerHTML = copy.decisionTexts.map(item => `<li>${escapeHTML(item)}</li>`).join('');
   document.querySelector('#brief-progress').innerHTML = agents.map((agent,index) => {
-    const work = agent.works[(seed + index) % agent.works.length];
+    const dailyWatch = agent.id === 'saeon' ? agent.works.find(work => /新万金|Saemangeum|새만금/i.test(work.title)) : null;
+    const work = dailyWatch || agent.works[(seed + index) % agent.works.length];
     return `<div class="progress-line"><strong>${escapeHTML(agent.name)}</strong><span>${escapeHTML(agent.status)}</span><p>${escapeHTML(copy.progress(agent,work))}</p></div>`;
   }).join('');
   document.querySelector('#brief-count').textContent = copy.countText(count);
@@ -228,7 +229,7 @@ async function setLanguage(language) {
   document.querySelectorAll('[data-lang]').forEach(button => button.classList.toggle('active', button.dataset.lang === activeLang));
   const response = await fetch(copy.data);
   if (!response.ok) throw new Error('Citizen archive unavailable');
-  agents = await response.json();
+  agents = (await response.json()).sort((a, b) => a.order.localeCompare(b.order));
   populateAgenda(copy);
   restoreMeeting();
   renderStage();

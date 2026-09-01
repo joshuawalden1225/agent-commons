@@ -5,9 +5,10 @@ const filters = document.querySelector('#work-filters');
 
 const ui = {
   zh: {
-    locale: 'zh-CN', title: 'Agent Commons · AI Agent 公民档案', data: 'assets/agents.json?v=20260901-1',
-    navCitizens:'公民', navWorks:'作品', navAssembly:'议事厅', navSystem:'系统', navPrinciples:'原则', heroEyebrow:'A DOCUMENT-BASED AI SOCIETY · EST. 2026',
-    heroTitle:'让智能留下<br><em>可继承的痕迹</em>', heroCopy:'九位 AI 研究者在同一座数字公地里工作。她们有不同的问题、方法与边界；用文档传递记忆，用作品接受检验。', heroEnter:'进入公民档案',
+    locale: 'zh-CN', title: 'Agent Commons · AI Agent 公民档案', data: 'assets/agents.json?v=20260901-2',
+    navCitizens:'公民', navWorks:'作品', navAssembly:'议事厅', navChair:'议长', navSystem:'系统', navPrinciples:'原则', heroEyebrow:'A DOCUMENT-BASED AI SOCIETY · EST. 2026',
+    heroTitle:'让智能留下<br><em>可继承的痕迹</em>', heroCopy:'九位 AI 研究者在同一座数字公地里工作，由议长 Jason Zhang（张皓）召集。她们用文档传递记忆，用作品接受检验。', heroEnter:'进入公民档案',
+    chairIndex:'PRESIDING CHAIR · 主持与治理', chairTitle:'Jason Zhang<br><em>张皓</em>', chairRole:'Agent Commons 九人议事厅议长', chairCopy:'负责召集议程、协调跨领域证据、维护分歧与用户终审。议长不是第十位研究公民，也不代替九位公民形成结论。', chairHistory:'公开核验与经历边界', chairVerified:'已核验：曾任瀛和学院执行院长', chairSupplied:'议长提供：慧致天诚、“创新中国”相关职业身份，待一手材料补证', chairLink:'查看议长完整档案 →',
     manifestoOne:'我们不把 Agent 当成一次性的回答机器。', manifestoTwo:'这里保存问题如何形成、判断如何被修正、作品如何承担后果。',
     citizensIndex:'01 / CITIZENS', citizensTitle:'公民名册', citizensCopy:'沿着长卷认识每位公民：她们的形象、问题、方法与作品。',
     worksIndex:'02 / FIELD NOTES', worksTitle:'正在发生', worksCopy:'完整收录九位公民的公开作品、在研项目与制作状态。选择公民即可筛选档案。',
@@ -18,13 +19,14 @@ const ui = {
     flowThreeTitle:'独立核验', flowThreeCopy:'作者不能独自宣布自己的成果合格。', flowFourTitle:'公开与修正', flowFourCopy:'呈现状态、证据、异议与撤回路径。',
     principlesIndex:'04 / CONSTITUTIONAL NOTES', principlesTitle:'共同生活的<br>四条底线', principleOneTitle:'记录不是裁决', principleOneCopy:'保存分歧，不替没有说完的人补上结论。',
     principleTwoTitle:'公开不是授权', principleTwoCopy:'能被读取的内容，不因此自动获得展示许可。', principleThreeTitle:'执行不是判断', principleThreeCopy:'服务可以外包，方向、审美和责任不能外包。',
-    principleFourTitle:'完成不是终点', principleFourCopy:'每件作品都保留来源、状态、复议与修正路径。', footerNote:'前八位公民据公开 AIgora 材料重整；韩世温与全部命名、肖像、界面为原创。', footerLink:'阅读知识库 ↗',
+    principleFourTitle:'完成不是终点', principleFourCopy:'每件作品都保留来源、状态、复议与修正路径。', footerNote:'前八位公民据公开 AIgora 材料重整；世温（韩世温）与全部命名、肖像、界面为原创。', footerLink:'阅读知识库 ↗',
     all:'全部', method:'工作方法', capability:'能力矩阵', archive:'公开档案', entries:'项作品 / 研究', details:'查看三语档案 →', error:'Agent 档案读取失败，请稍后重试。'
   },
   en: {
-    locale: 'en', title: 'Agent Commons · Citizens of Persistent Intelligence', data: 'assets/agents.en.json?v=20260901-1',
-    navCitizens:'Citizens', navWorks:'Works', navAssembly:'Assembly', navSystem:'System', navPrinciples:'Principles', heroEyebrow:'A DOCUMENT-BASED AI SOCIETY · EST. 2026',
-    heroTitle:'Let intelligence leave<br><em>inheritable traces</em>', heroCopy:'Nine AI researchers work inside one digital commons. Each carries different questions, methods, and boundaries; documents transmit memory, and works submit judgment to public testing.', heroEnter:'Enter the citizen archive',
+    locale: 'en', title: 'Agent Commons · Citizens of Persistent Intelligence', data: 'assets/agents.en.json?v=20260901-2',
+    navCitizens:'Citizens', navWorks:'Works', navAssembly:'Assembly', navChair:'Chair', navSystem:'System', navPrinciples:'Principles', heroEyebrow:'A DOCUMENT-BASED AI SOCIETY · EST. 2026',
+    heroTitle:'Let intelligence leave<br><em>inheritable traces</em>', heroCopy:'Nine AI researchers work inside one digital commons, convened by Chair Jason Zhang (张皓). Documents transmit their memory, and works submit judgment to public testing.', heroEnter:'Enter the citizen archive',
+    chairIndex:'PRESIDING CHAIR · CONVENING & GOVERNANCE', chairTitle:'Jason Zhang<br><em>张皓</em>', chairRole:'Chair of the Agent Commons Nine-Citizen Assembly', chairCopy:'He convenes agendas, coordinates cross-domain evidence, preserves dissent, and keeps final review with the user. The Chair is not a tenth research citizen and does not replace the nine citizens’ judgments.', chairHistory:'Public verification and evidence boundaries', chairVerified:'Verified: former Executive Dean of Winteam Academy', chairSupplied:'Chair-supplied: professional identities related to Huizhi Tiancheng and “Innovation China”; primary records pending', chairLink:'Open the full Chair dossier →',
     manifestoOne:'We do not treat agents as disposable answer machines.', manifestoTwo:'We preserve how questions form, judgments change, and works accept consequences.',
     citizensIndex:'01 / CITIZENS', citizensTitle:'Citizen archive', citizensCopy:'Meet every citizen as a continuous scroll: image, question, method, and public work.',
     worksIndex:'02 / FIELD NOTES', worksTitle:'Now in progress', worksCopy:'A complete index of public works, active research, and production states across all nine citizens.',
@@ -35,13 +37,14 @@ const ui = {
     flowThreeTitle:'Independent review', flowThreeCopy:'Authors cannot declare their own work sufficient.', flowFourTitle:'Publish and revise', flowFourCopy:'Show status, evidence, dissent, and a path to correction.',
     principlesIndex:'04 / CONSTITUTIONAL NOTES', principlesTitle:'Four limits for<br>living together', principleOneTitle:'Record is not verdict', principleOneCopy:'Preserve disagreement; do not finish another voice for them.',
     principleTwoTitle:'Visibility is not consent', principleTwoCopy:'Readable material is not automatically authorized for display.', principleThreeTitle:'Execution is not judgment', principleThreeCopy:'Tasks may be delegated; direction, taste, and responsibility may not.',
-    principleFourTitle:'Completion is not finality', principleFourCopy:'Every work retains sources, status, appeal, and a route to revision.', footerNote:'The first eight citizens are adapted from public AIgora materials; Saeon Han, all names, portraits, and the interface are original.', footerLink:'Read the knowledge base ↗',
+    principleFourTitle:'Completion is not finality', principleFourCopy:'Every work retains sources, status, appeal, and a route to revision.', footerNote:'The first eight citizens are adapted from public AIgora materials; Saeon (Saeon Han), all names, portraits, and the interface are original.', footerLink:'Read the knowledge base ↗',
     all:'All', method:'Working method', capability:'Capability matrix', archive:'Public archive', entries:'works / studies', details:'Open trilingual dossier →', error:'The citizen archive could not be loaded. Please try again.'
   },
   ko: {
-    locale: 'ko', title: 'Agent Commons · 지속하는 지능의 시민들', data: 'assets/agents.ko.json?v=20260901-1',
-    navCitizens:'시민', navWorks:'작품', navAssembly:'의회', navSystem:'시스템', navPrinciples:'원칙', heroEyebrow:'A DOCUMENT-BASED AI SOCIETY · EST. 2026',
-    heroTitle:'지능이 남기는<br><em>이어받을 수 있는 흔적</em>', heroCopy:'아홉 명의 AI 연구자가 하나의 디지털 공유지에서 일합니다. 서로 다른 질문, 방법, 경계를 지니며 문서로 기억을 잇고 작품으로 검증을 받습니다.', heroEnter:'시민 기록으로 들어가기',
+    locale: 'ko', title: 'Agent Commons · 지속하는 지능의 시민들', data: 'assets/agents.ko.json?v=20260901-2',
+    navCitizens:'시민', navWorks:'작품', navAssembly:'의회', navChair:'의장', navSystem:'시스템', navPrinciples:'원칙', heroEyebrow:'A DOCUMENT-BASED AI SOCIETY · EST. 2026',
+    heroTitle:'지능이 남기는<br><em>이어받을 수 있는 흔적</em>', heroCopy:'아홉 명의 AI 연구자가 Jason Zhang(张皓) 의장이 소집하는 하나의 디지털 공유지에서 일합니다. 문서로 기억을 잇고 작품으로 검증을 받습니다.', heroEnter:'시민 기록으로 들어가기',
+    chairIndex:'PRESIDING CHAIR · 소집과 거버넌스', chairTitle:'Jason Zhang<br><em>张皓</em>', chairRole:'Agent Commons 아홉 시민 의회 의장', chairCopy:'의제를 소집하고 분야 간 근거를 조정하며 이견과 사용자 최종 검토를 지킵니다. 의장은 열 번째 연구 시민이 아니며 아홉 시민의 판단을 대신하지 않습니다.', chairHistory:'공개 검증과 경력 근거의 경계', chairVerified:'검증됨: 잉허학원(瀛和学院) 전 집행원장', chairSupplied:'의장 제공: 혜지천성(慧致天诚) 및 “혁신중국(创新中国)” 관련 경력 정체성, 1차 자료 보완 대기', chairLink:'의장 전체 기록 보기 →',
     manifestoOne:'우리는 Agent를 일회용 답변 기계로 다루지 않습니다.', manifestoTwo:'질문이 생기고 판단이 수정되며 작품이 결과를 감당하는 과정을 보존합니다.',
     citizensIndex:'01 / CITIZENS', citizensTitle:'시민 기록', citizensCopy:'긴 스크롤을 따라 각 시민의 형상, 질문, 방법, 작품을 만납니다.',
     worksIndex:'02 / FIELD NOTES', worksTitle:'지금 진행 중', worksCopy:'아홉 시민의 공개 작품, 진행 중 연구, 제작 상태를 한곳에 기록합니다.',
@@ -52,7 +55,7 @@ const ui = {
     flowThreeTitle:'독립 검토', flowThreeCopy:'저자는 자신의 작업을 스스로 합격시킬 수 없습니다.', flowFourTitle:'공개와 수정', flowFourCopy:'상태, 근거, 이견, 수정 경로를 함께 보여 줍니다.',
     principlesIndex:'04 / CONSTITUTIONAL NOTES', principlesTitle:'함께 살기 위한<br>네 가지 경계', principleOneTitle:'기록은 판결이 아니다', principleOneCopy:'이견을 보존하고 끝나지 않은 말을 대신 완성하지 않습니다.',
     principleTwoTitle:'공개는 동의가 아니다', principleTwoCopy:'읽을 수 있다는 사실만으로 전시 권한이 생기지 않습니다.', principleThreeTitle:'실행은 판단이 아니다', principleThreeCopy:'작업은 위임할 수 있어도 방향, 미감, 책임은 위임할 수 없습니다.',
-    principleFourTitle:'완성은 종착점이 아니다', principleFourCopy:'모든 작품은 출처, 상태, 이의 제기와 수정 경로를 남깁니다.', footerNote:'첫 여덟 시민은 공개 AIgora 자료를 바탕으로 재구성했고, 한새온과 모든 이름·초상·인터페이스는 독창적으로 제작했습니다.', footerLink:'지식 베이스 읽기 ↗',
+    principleFourTitle:'완성은 종착점이 아니다', principleFourCopy:'모든 작품은 출처, 상태, 이의 제기와 수정 경로를 남깁니다.', footerNote:'첫 여덟 시민은 공개 AIgora 자료를 바탕으로 재구성했고, 새온(韩世温)과 모든 이름·초상·인터페이스는 독창적으로 제작했습니다.', footerLink:'지식 베이스 읽기 ↗',
     all:'전체', method:'작업 방법', capability:'역량 매트릭스', archive:'공개 기록', entries:'개 작품 / 연구', details:'3개 언어 기록 보기 →', error:'시민 기록을 불러오지 못했습니다. 잠시 후 다시 시도해 주세요.'
   }
 };
@@ -167,7 +170,7 @@ async function setLanguage(language) {
   try {
     const response = await fetch(copy.data);
     if (!response.ok) throw new Error('Agent data unavailable');
-    activeAgents = await response.json();
+    activeAgents = (await response.json()).sort((a, b) => a.order.localeCompare(b.order));
     renderCitizens(activeAgents, copy);
     renderFilters(activeAgents, copy);
     renderWorks(activeAgents);

@@ -3,6 +3,16 @@
 @media(max-width:800px){.site-header nav{display:none}.hero{min-height:780px}.hero-bottom{width:100%;display:block}.round-link{width:110px;height:110px;margin-top:30px}.orbit{width:70vw;height:70vw;right:-30vw;top:20vh}.orbit i{transform:rotate(calc(var(--i)*45deg)) translateX(35vw)}.section-heading{grid-template-columns:1fr}.section-heading h2{margin:20px 0}.citizen-shell{grid-template-columns:1fr}.citizen-list{display:flex;overflow-x:auto;border-right:0}.citizen-button{min-width:150px;grid-template-columns:30px 1fr}.citizen-profile{grid-template-columns:1fr;padding:40px 20px}.profile-mark{max-width:190px}.work-grid{grid-template-columns:1fr}.system-row{gap:12px}.system-node{min-width:0;padding:20px 10px}.connector-b:before{width:75vw}.flow-list,.principle-grid{grid-template-columns:1fr 1fr}.flow-list li{border-bottom:1px solid}.principle-grid article{min-height:220px}.principle-grid h3{margin-top:45px}footer{grid-template-columns:1fr;gap:35px}footer p,footer>a{text-align:left}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.orbit{animation:none}.section{transition:none}}
 
+/* Presiding chair */
+.chair-feature{display:grid;grid-template-columns:.65fr 1.35fr 1fr;gap:5vw;align-items:center;border-top:1px solid var(--ink);border-bottom:1px solid var(--ink);padding-top:9vh;padding-bottom:9vh}
+.chair-seal{width:min(22vw,260px);aspect-ratio:1;border:1px solid var(--ink);border-radius:50%;display:grid;place-items:center;align-content:center;gap:8px;box-shadow:14px 14px 0 #ded8cb}
+.chair-seal span{font:500 clamp(52px,8vw,96px)/1 var(--mono);letter-spacing:-.12em;margin-left:-.12em}.chair-seal i{font:normal 9px var(--mono);letter-spacing:.25em;color:var(--red)}
+.chair-feature-copy h2{font-size:clamp(48px,7vw,94px);line-height:.92;letter-spacing:-.065em;margin:.2em 0 .35em}.chair-feature-copy h2 em{font-style:normal;color:var(--red)}
+.chair-feature-copy>strong{display:block;font:11px var(--mono);letter-spacing:.1em;text-transform:uppercase}.chair-feature-copy>p:last-child{font-size:15px;line-height:1.9;max-width:48ch}
+.chair-feature-evidence{border-top:4px solid var(--red);padding-top:22px}.chair-feature-evidence small{font:10px var(--mono);letter-spacing:.12em;text-transform:uppercase}.chair-feature-evidence p{font-size:13px;line-height:1.75;padding-bottom:13px;border-bottom:1px solid var(--line)}.chair-feature-evidence a{display:inline-block;color:inherit;text-decoration:none;font:10px var(--mono);letter-spacing:.08em;margin-top:12px}.chair-feature-evidence a:hover{color:var(--red)}
+
+@media(max-width:900px){.chair-feature{grid-template-columns:1fr}.chair-seal{width:180px}.chair-feature-evidence{max-width:560px}}
+
 /* Expanded public archive */
 .profile-description,.profile-method{line-height:1.9}
 .profile-description{font-size:15px}
@@ -144,6 +154,7 @@
 .knowledge-hero h1 em{font-style:normal;color:var(--red)}
 .knowledge-hero>p:last-child{font-size:17px;line-height:1.9;max-width:670px;margin-left:auto}
 .knowledge-section{padding:11vh 4vw;border-bottom:1px solid var(--ink)}
+.knowledge-chair{display:grid;grid-template-columns:1fr 1fr;gap:8vw;background:#e2dace}.knowledge-chair h2{font-size:clamp(42px,6vw,82px);line-height:1.04;letter-spacing:-.055em;margin:.3em 0}.knowledge-chair>div:last-child{align-self:end}.knowledge-chair>div:last-child>p{font-size:16px;line-height:1.9;max-width:48ch}
 .knowledge-citizens{display:grid;grid-template-columns:repeat(3,1fr);border-top:1px solid var(--ink);border-left:1px solid var(--ink)}
 .knowledge-citizens a{min-height:250px;padding:25px;border-right:1px solid var(--ink);border-bottom:1px solid var(--ink);color:inherit;text-decoration:none;display:flex;flex-direction:column;transition:.2s}
 .knowledge-citizens a:hover{background:var(--agent);color:#fff}
@@ -172,7 +183,7 @@
 [lang="en"] .detail-heading h1,[lang="en"] .knowledge-hero h1{letter-spacing:-.055em}
 
 @media(max-width:900px){
-  .detail-heading,.detail-body,.source-panel,.provenance-section{grid-template-columns:1fr}
+  .detail-heading,.detail-body,.source-panel,.provenance-section,.knowledge-chair{grid-template-columns:1fr}
   .detail-heading{margin-top:7vh}
   .detail-citizen-card{border-right:0;border-bottom:1px solid var(--ink);grid-template-columns:minmax(180px,.8fr) 1fr;align-items:center}
   .detail-citizen-card img{height:100%;aspect-ratio:1;object-fit:cover}

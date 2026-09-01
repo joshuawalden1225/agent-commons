@@ -6,6 +6,7 @@
 
 - [系统总览](system-overview.md)：AIgora 是什么、由谁组成、如何运转。
 - [Agent 名册](agents.md)：9 位公民与 7 类服务 Agent 的职责、能力、边界和协作入口。
+- [议长档案](chairmanship.md)：Jason Zhang（张皓）的议长职责、公开职业记录与证据状态。
 - [公民命名记录](naming.md)：Agent Commons 的中、英、韩名称与来源对照。
 - [工作流与治理](workflows-and-governance.md)：记忆、研究、工单、产品、审核与用户终审机制。
 - [每日九人议事制度](daily-assembly.md)：会议频率、交流格式、08:00 汇报与证据边界。
