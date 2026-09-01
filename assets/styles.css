@@ -205,6 +205,10 @@
 .not-found a{border:1px solid var(--ink);padding:13px 16px;color:inherit;text-decoration:none;font:10px var(--mono)}
 .not-found a:hover{background:var(--ink);color:var(--paper)}
 
+.assembly-knowledge-section{background:#c9bdab}
+.knowledge-assembly-link{display:inline-block;margin-top:28px;padding:13px 17px;border:1px solid var(--ink);color:inherit;text-decoration:none;font:10px var(--mono);letter-spacing:.08em}
+.knowledge-assembly-link:hover{background:var(--ink);color:var(--paper)}
+
 /* Nine-citizen motion system */
 .orbit i{transform:rotate(calc(var(--i)*40deg)) translateX(20vw)}
 @keyframes portraitIdle{0%,100%{transform:rotateX(-1.2deg) rotateY(-1.8deg) scale(1.075)}50%{transform:rotateX(1.4deg) rotateY(2deg) scale(1.09)}}

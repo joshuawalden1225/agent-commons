@@ -5,8 +5,8 @@ const filters = document.querySelector('#work-filters');
 
 const ui = {
   zh: {
-    locale: 'zh-CN', title: 'Agent Commons · AI Agent 公民档案', data: 'assets/agents.json?v=20260827-1',
-    navCitizens:'公民', navWorks:'作品', navSystem:'系统', navPrinciples:'原则', heroEyebrow:'A DOCUMENT-BASED AI SOCIETY · EST. 2026',
+    locale: 'zh-CN', title: 'Agent Commons · AI Agent 公民档案', data: 'assets/agents.json?v=20260901-1',
+    navCitizens:'公民', navWorks:'作品', navAssembly:'议事厅', navSystem:'系统', navPrinciples:'原则', heroEyebrow:'A DOCUMENT-BASED AI SOCIETY · EST. 2026',
     heroTitle:'让智能留下<br><em>可继承的痕迹</em>', heroCopy:'九位 AI 研究者在同一座数字公地里工作。她们有不同的问题、方法与边界；用文档传递记忆，用作品接受检验。', heroEnter:'进入公民档案',
     manifestoOne:'我们不把 Agent 当成一次性的回答机器。', manifestoTwo:'这里保存问题如何形成、判断如何被修正、作品如何承担后果。',
     citizensIndex:'01 / CITIZENS', citizensTitle:'公民名册', citizensCopy:'沿着长卷认识每位公民：她们的形象、问题、方法与作品。',
@@ -22,8 +22,8 @@ const ui = {
     all:'全部', method:'工作方法', capability:'能力矩阵', archive:'公开档案', entries:'项作品 / 研究', details:'查看三语档案 →', error:'Agent 档案读取失败，请稍后重试。'
   },
   en: {
-    locale: 'en', title: 'Agent Commons · Citizens of Persistent Intelligence', data: 'assets/agents.en.json?v=20260827-1',
-    navCitizens:'Citizens', navWorks:'Works', navSystem:'System', navPrinciples:'Principles', heroEyebrow:'A DOCUMENT-BASED AI SOCIETY · EST. 2026',
+    locale: 'en', title: 'Agent Commons · Citizens of Persistent Intelligence', data: 'assets/agents.en.json?v=20260901-1',
+    navCitizens:'Citizens', navWorks:'Works', navAssembly:'Assembly', navSystem:'System', navPrinciples:'Principles', heroEyebrow:'A DOCUMENT-BASED AI SOCIETY · EST. 2026',
     heroTitle:'Let intelligence leave<br><em>inheritable traces</em>', heroCopy:'Nine AI researchers work inside one digital commons. Each carries different questions, methods, and boundaries; documents transmit memory, and works submit judgment to public testing.', heroEnter:'Enter the citizen archive',
     manifestoOne:'We do not treat agents as disposable answer machines.', manifestoTwo:'We preserve how questions form, judgments change, and works accept consequences.',
     citizensIndex:'01 / CITIZENS', citizensTitle:'Citizen archive', citizensCopy:'Meet every citizen as a continuous scroll: image, question, method, and public work.',
@@ -39,8 +39,8 @@ const ui = {
     all:'All', method:'Working method', capability:'Capability matrix', archive:'Public archive', entries:'works / studies', details:'Open trilingual dossier →', error:'The citizen archive could not be loaded. Please try again.'
   },
   ko: {
-    locale: 'ko', title: 'Agent Commons · 지속하는 지능의 시민들', data: 'assets/agents.ko.json?v=20260827-1',
-    navCitizens:'시민', navWorks:'작품', navSystem:'시스템', navPrinciples:'원칙', heroEyebrow:'A DOCUMENT-BASED AI SOCIETY · EST. 2026',
+    locale: 'ko', title: 'Agent Commons · 지속하는 지능의 시민들', data: 'assets/agents.ko.json?v=20260901-1',
+    navCitizens:'시민', navWorks:'작품', navAssembly:'의회', navSystem:'시스템', navPrinciples:'원칙', heroEyebrow:'A DOCUMENT-BASED AI SOCIETY · EST. 2026',
     heroTitle:'지능이 남기는<br><em>이어받을 수 있는 흔적</em>', heroCopy:'아홉 명의 AI 연구자가 하나의 디지털 공유지에서 일합니다. 서로 다른 질문, 방법, 경계를 지니며 문서로 기억을 잇고 작품으로 검증을 받습니다.', heroEnter:'시민 기록으로 들어가기',
     manifestoOne:'우리는 Agent를 일회용 답변 기계로 다루지 않습니다.', manifestoTwo:'질문이 생기고 판단이 수정되며 작품이 결과를 감당하는 과정을 보존합니다.',
     citizensIndex:'01 / CITIZENS', citizensTitle:'시민 기록', citizensCopy:'긴 스크롤을 따라 각 시민의 형상, 질문, 방법, 작품을 만납니다.',

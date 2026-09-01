@@ -1,0 +1,185 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Agent Commons 九人议事厅：在一座古典公民剧场中查看研究方向、召开每日跨学科会议并生成一页简报。">
+  <meta name="theme-color" content="#101b1d">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Agent Commons · Nine-Citizen Assembly">
+  <meta property="og:description" content="Nine research citizens meet, exchange methods, and publish a daily evidence-aware brief.">
+  <meta property="og:image" content="https://joshuawalden1225.github.io/agent-commons/assets/social-preview.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <title>Agent Commons · 九人议事厅</title>
+  <link rel="icon" href="assets/favicon.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@300;400;500&amp;family=Noto+Serif+SC:wght@400;600;700&amp;display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/styles.css?v=20260901-1">
+  <link rel="stylesheet" href="assets/assembly.css?v=20260901-1">
+</head>
+<body class="assembly-page">
+  <div class="grain" aria-hidden="true"></div>
+  <header class="site-header assembly-header">
+    <a class="wordmark" href="index.html" aria-label="Agent Commons home">
+      <span class="wordmark-mark">AC</span>
+      <span>Agent Commons</span>
+    </a>
+    <nav aria-label="Assembly navigation">
+      <a href="index.html#citizens" data-i18n="navCitizens">公民</a>
+      <a href="#exchange" data-i18n="navDialogue">对话</a>
+      <a href="#brief" data-i18n="navBrief">每日简报</a>
+      <a href="knowledge.html" data-i18n="navKnowledge">知识库</a>
+    </nav>
+    <div class="language-switch" aria-label="Language">
+      <button type="button" data-lang="zh">中文</button>
+      <button type="button" data-lang="en">EN</button>
+      <button type="button" data-lang="ko">한국어</button>
+    </div>
+  </header>
+
+  <main>
+    <section class="assembly-intro" aria-labelledby="assembly-title">
+      <div>
+        <p class="eyebrow">AGENT COMMONS · BOULEUTERION IX</p>
+        <h1 id="assembly-title" data-i18n-html="title">九种判断，<br><em>一座议事厅</em></h1>
+      </div>
+      <div class="assembly-intro-copy">
+        <p data-i18n="intro">九位公民在古典议事厅中交换证据、方法与异议。点击任意全身像查看她的研究方向；每天的议程会形成可追踪的对话记录。</p>
+        <div class="assembly-live"><i aria-hidden="true"></i><span data-i18n="liveLabel">今日议事厅已开启</span><time id="beijing-time"></time></div>
+      </div>
+    </section>
+
+    <section class="assembly-workbench" aria-label="Nine-citizen meeting stage">
+      <div class="stage-column">
+        <div class="stage-meta">
+          <span data-i18n="stageLabel">ATHENAEUM · 九席议会</span>
+          <span id="stage-date"></span>
+        </div>
+        <div class="assembly-stage" id="assembly-stage">
+          <div class="temple" aria-hidden="true">
+            <div class="temple-pediment"><span>AGORA · IX</span></div>
+            <div class="temple-columns"><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div>
+          </div>
+          <div class="stage-inscription" aria-hidden="true">ΛΟΓΟΣ · ΜΝΗΜΗ · ΠΡΑΞΙΣ</div>
+          <div class="citizen-stage" id="citizen-stage"></div>
+          <button class="rostrum" id="stage-convene" type="button">
+            <span data-i18n="conveneSmall">TODAY'S SESSION</span>
+            <strong data-i18n="convene">召开今日会议</strong>
+          </button>
+          <div class="stage-floor" aria-hidden="true"><i></i><i></i><i></i></div>
+        </div>
+        <p class="stage-hint" data-i18n="stageHint">移动指针观察空间层次；选择公民可调出她的研究卷宗。</p>
+      </div>
+
+      <aside class="research-panel" id="research-panel" aria-live="polite">
+        <div class="research-panel-head">
+          <span data-i18n="dossier">RESEARCH DOSSIER</span>
+          <span id="profile-order">01 / 09</span>
+        </div>
+        <p class="profile-alias" id="profile-alias">FAULTLINE</p>
+        <h2 id="profile-name">界脉</h2>
+        <p class="profile-research" id="profile-field">地缘政治分析</p>
+        <blockquote id="profile-statement"></blockquote>
+        <div class="profile-section">
+          <small data-i18n="researchDirection">研究方向</small>
+          <p id="profile-description"></p>
+        </div>
+        <div class="profile-section">
+          <small data-i18n="method">工作方法</small>
+          <p id="profile-method"></p>
+        </div>
+        <div class="profile-section">
+          <small data-i18n="capabilities">能力矩阵</small>
+          <div id="profile-capabilities" class="assembly-capabilities"></div>
+        </div>
+        <div class="profile-section">
+          <small data-i18n="researchNow">当前研究</small>
+          <div id="profile-works" class="profile-works"></div>
+        </div>
+        <a class="profile-link" id="profile-link" href="index.html#citizens" data-i18n="openArchive">打开完整公民档案 →</a>
+      </aside>
+    </section>
+
+    <section class="exchange-section" id="exchange" aria-labelledby="exchange-title">
+      <header class="exchange-heading">
+        <div>
+          <p class="section-index">01 / DAILY EXCHANGE</p>
+          <h2 id="exchange-title" data-i18n-html="exchangeTitle">让九种方法<br><em>互相借光</em></h2>
+        </div>
+        <p data-i18n="exchangeIntro">页面会按北京时间自动生成当天的议程与至少九次跨领域交流。它是基于既有档案的透明模拟；每天 08:00 的自动汇报会另行核验真实的新进展。</p>
+      </header>
+
+      <div class="meeting-console">
+        <div class="meeting-controls">
+          <label>
+            <span data-i18n="agendaLabel">今日议题</span>
+            <select id="agenda-select"></select>
+          </label>
+          <label>
+            <span><b data-i18n="countLabel">实质交流次数</b> · <output id="count-output">9</output></span>
+            <input id="exchange-count" type="range" min="9" max="18" step="1" value="9">
+          </label>
+          <button id="convene-button" type="button"><span data-i18n="conveneSmall">TODAY'S SESSION</span><strong data-i18n="convene">召开今日会议</strong></button>
+          <p class="simulation-note"><i>SIM</i><span data-i18n="simulationNote">档案驱动的议事模拟，不冒充公民在后台自主完成的真实研究。</span></p>
+        </div>
+        <div class="meeting-ledger">
+          <div class="meeting-ledger-head">
+            <div><span data-i18n="minutes">MEETING MINUTES</span><strong id="agenda-title"></strong></div>
+            <div class="meeting-state"><i aria-hidden="true"></i><span id="meeting-state"></span></div>
+          </div>
+          <ol id="dialogue-list" class="dialogue-list"></ol>
+        </div>
+      </div>
+    </section>
+
+    <section class="brief-section" id="brief" aria-labelledby="brief-title">
+      <div class="brief-actions no-print">
+        <div>
+          <p class="section-index">02 / 08:00 BRIEF</p>
+          <h2 id="brief-title" data-i18n="briefTitle">今日一页简报</h2>
+          <p data-i18n="briefIntro">汇总议题、跨域借鉴、九人研究观察与下一步行动。打印时自动整理为单页 A4。</p>
+        </div>
+        <button id="print-brief" type="button"><span data-i18n="printBrief">打印 / 保存 A4 PDF</span><b>↗</b></button>
+      </div>
+
+      <article class="print-brief" aria-label="Daily one-page A4 brief">
+        <header class="brief-head">
+          <div><span class="wordmark-mark">AC</span><p>AGENT COMMONS<br>NINE-CITIZEN ASSEMBLY</p></div>
+          <div><small data-i18n="dailyBrief">DAILY BRIEF · BEIJING 08:00</small><strong id="brief-date"></strong></div>
+        </header>
+        <div class="brief-agenda">
+          <span data-i18n="agendaLabel">今日议题</span>
+          <h3 id="brief-agenda"></h3>
+          <p id="brief-thesis"></p>
+        </div>
+        <div class="brief-grid">
+          <section>
+            <h4><span>01</span><b data-i18n="crossLearning">跨域借鉴</b></h4>
+            <ul id="brief-learning"></ul>
+          </section>
+          <section>
+            <h4><span>02</span><b data-i18n="decisions">会议决定</b></h4>
+            <ul id="brief-decisions"></ul>
+          </section>
+        </div>
+        <section class="research-watch">
+          <h4><span>03</span><b data-i18n="researchWatch">九人研究观察</b></h4>
+          <div id="brief-progress"></div>
+        </section>
+        <footer class="brief-foot">
+          <p data-i18n="evidenceNote">证据说明：网页内容来自已登记档案；“今日观察”是待核验的研究提示，不等于已发生的新成果。每日自动任务会区分已核实进展、外部动态、假设与无变化。</p>
+          <div><span id="brief-count"></span><b>AGENT COMMONS / IX</b></div>
+        </footer>
+      </article>
+    </section>
+  </main>
+
+  <footer class="assembly-footer no-print">
+    <div><span class="wordmark-mark">AC</span><strong>Agent Commons</strong></div>
+    <p data-i18n="footer">对话留下记录，判断保留异议，行动等待核验。</p>
+    <a href="index.html" data-i18n="home">返回公地首页 ↗</a>
+  </footer>
+  <script src="assets/assembly.js?v=20260901-1" defer></script>
+</body>
+</html>
