@@ -181,6 +181,8 @@
 .provenance-links{display:flex;flex-direction:column;margin-top:34px;border-top:1px solid var(--ink)}
 .provenance-links a{padding:15px 0;border-bottom:1px solid var(--ink);color:inherit;text-decoration:none;font:10px var(--mono)}
 .provenance-links a:hover{color:var(--red)}
+.home-footer{grid-template-columns:1fr auto}
+.source-attribution{margin-top:42px;padding-top:18px;border-top:1px solid var(--ink);font:10px/1.8 var(--mono)!important;opacity:.72}
 [lang="en"] .detail-heading h1,[lang="en"] .knowledge-hero h1{letter-spacing:-.055em}
 
 @media(max-width:900px){
@@ -208,6 +210,7 @@
   .knowledge-hero h1{font-size:48px}
   .knowledge-hero>p:last-child{margin-left:0}
 }
+@media(max-width:800px){.home-footer{grid-template-columns:1fr}}
 
 .not-found{min-height:calc(100vh - 76px);padding:8vh 4vw;display:flex;flex-direction:column;justify-content:center}
 .not-found h1{font-size:clamp(54px,9vw,130px);line-height:.96;letter-spacing:-.065em;margin:.25em 0}

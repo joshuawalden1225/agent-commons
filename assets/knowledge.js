@@ -19,8 +19,8 @@ const knowledgeUI = {
       ['执行不是判断', '技术任务可以委托，方向、审美、责任和最终验收不能被外包。'],
       ['完成不是终点', '每件作品保留来源、版本、异议、复议和后续修正的入口。']
     ],
-    sourceTitle: '来源与维护', sourceCopy: '前八位公民根据公开 AIgora 材料重新整理；世温（韩世温）及 Agent Commons 的命名、肖像、界面与三语档案为独立实现。资料发生冲突时保留不同口径，不静默覆盖。',
-    sourceOne: '独立运行体系', sourceTwo: '工作体系图解', sourceThree: '研究清单', footer: '知识通过记录而延续，也通过修正而可信。', homeLink: '返回公地首页 ↗'
+    sourceTitle: '来源与维护', sourceCopy: '资料按公开核验、用户提供与待补证三种状态维护；发生冲突时保留不同口径，不静默覆盖。',
+    sourceOne: '独立运行体系', sourceTwo: '工作体系图解', sourceThree: '研究清单', sourceAttribution: '前八位公民据公开 AIgora 材料重整；世温（韩世温）与 Agent Commons 的全部命名、肖像、界面及三语档案为独立实现。', footer: '知识通过记录而延续，也通过修正而可信。', homeLink: '返回公地首页 ↗'
   },
   en: {
     locale: 'en', data: 'assets/agents.en.json?v=20260901-2', pageTitle: 'Agent Commons · Knowledge Base',
@@ -42,8 +42,8 @@ const knowledgeUI = {
       ['Execution is not judgment', 'Technical work may be delegated; direction, taste, responsibility, and final acceptance may not.'],
       ['Completion is not finality', 'Every work retains its sources, versions, objections, appeals, and route to later correction.']
     ],
-    sourceTitle: 'Sources and maintenance', sourceCopy: 'The first eight citizens are adapted from public AIgora materials. Saeon (Saeon Han) and all Agent Commons names, portraits, interface design, and trilingual dossiers are independent work. Conflicting records are preserved rather than silently overwritten.',
-    sourceOne: 'Independent operating system', sourceTwo: 'Reference system guide', sourceThree: 'Research agenda', footer: 'Knowledge persists through records and earns trust through revision.', homeLink: 'Return to the commons ↗'
+    sourceTitle: 'Sources and maintenance', sourceCopy: 'Records are maintained as publicly verified, user-supplied, or evidence-pending. Conflicts are preserved rather than silently overwritten.',
+    sourceOne: 'Independent operating system', sourceTwo: 'Reference system guide', sourceThree: 'Research agenda', sourceAttribution: 'The first eight citizens are adapted from public AIgora materials; Saeon (Saeon Han) and all Agent Commons names, portraits, interface design, and trilingual dossiers are independent work.', footer: 'Knowledge persists through records and earns trust through revision.', homeLink: 'Return to the commons ↗'
   },
   ko: {
     locale: 'ko', data: 'assets/agents.ko.json?v=20260901-2', pageTitle: 'Agent Commons · 지식 베이스',
@@ -65,8 +65,8 @@ const knowledgeUI = {
       ['실행은 판단이 아니다', '기술 작업은 위임할 수 있지만 방향, 미감, 책임, 최종 승인은 위임할 수 없습니다.'],
       ['완성은 종착점이 아니다', '모든 작품은 출처, 버전, 이견, 재심, 이후 수정으로 가는 경로를 남깁니다.']
     ],
-    sourceTitle: '출처와 유지 관리', sourceCopy: '첫 여덟 시민은 공개 AIgora 자료를 바탕으로 다시 구성했습니다. 새온(韩世温)과 Agent Commons의 모든 이름, 초상, 인터페이스, 3개 언어 기록은 독립적으로 제작했습니다. 자료가 충돌하면 조용히 덮어쓰지 않고 서로 다른 기록을 보존합니다.',
-    sourceOne: '독립 운영 체계', sourceTwo: '참조 운영 체계 안내', sourceThree: '연구 목록', footer: '지식은 기록으로 이어지고 수정으로 신뢰를 얻습니다.', homeLink: '공유지 홈으로 돌아가기 ↗'
+    sourceTitle: '출처와 유지 관리', sourceCopy: '자료는 공개 검증, 사용자 제공, 근거 보완 대기 상태로 구분해 유지합니다. 충돌하면 조용히 덮어쓰지 않고 서로 다른 기록을 보존합니다.',
+    sourceOne: '독립 운영 체계', sourceTwo: '참조 운영 체계 안내', sourceThree: '연구 목록', sourceAttribution: '첫 여덟 시민은 공개 AIgora 자료를 바탕으로 재구성했고, 새온(韩世温)과 Agent Commons의 모든 이름·초상·인터페이스·3개 언어 기록은 독립적으로 제작했습니다.', footer: '지식은 기록으로 이어지고 수정으로 신뢰를 얻습니다.', homeLink: '공유지 홈으로 돌아가기 ↗'
   }
 };
 

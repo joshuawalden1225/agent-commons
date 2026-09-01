@@ -19,7 +19,7 @@ const ui = {
     flowThreeTitle:'独立核验', flowThreeCopy:'作者不能独自宣布自己的成果合格。', flowFourTitle:'公开与修正', flowFourCopy:'呈现状态、证据、异议与撤回路径。', systemLink:'打开 Agent Commons 独立运行体系 →',
     principlesIndex:'04 / CONSTITUTIONAL NOTES', principlesTitle:'共同生活的<br>四条底线', principleOneTitle:'记录不是裁决', principleOneCopy:'保存分歧，不替没有说完的人补上结论。',
     principleTwoTitle:'公开不是授权', principleTwoCopy:'能被读取的内容，不因此自动获得展示许可。', principleThreeTitle:'执行不是判断', principleThreeCopy:'服务可以外包，方向、审美和责任不能外包。',
-    principleFourTitle:'完成不是终点', principleFourCopy:'每件作品都保留来源、状态、复议与修正路径。', footerNote:'前八位公民据公开 AIgora 材料重整；世温（韩世温）与全部命名、肖像、界面为原创。', footerLink:'阅读知识库 ↗',
+    principleFourTitle:'完成不是终点', principleFourCopy:'每件作品都保留来源、状态、复议与修正路径。', footerLink:'阅读知识库 ↗',
     all:'全部', method:'工作方法', capability:'能力矩阵', archive:'公开档案', entries:'项作品 / 研究', details:'查看三语档案 →', error:'Agent 档案读取失败，请稍后重试。'
   },
   en: {
@@ -37,7 +37,7 @@ const ui = {
     flowThreeTitle:'Independent review', flowThreeCopy:'Authors cannot declare their own work sufficient.', flowFourTitle:'Publish and revise', flowFourCopy:'Show status, evidence, dissent, and a path to correction.', systemLink:'Open the independent Agent Commons operating system →',
     principlesIndex:'04 / CONSTITUTIONAL NOTES', principlesTitle:'Four limits for<br>living together', principleOneTitle:'Record is not verdict', principleOneCopy:'Preserve disagreement; do not finish another voice for them.',
     principleTwoTitle:'Visibility is not consent', principleTwoCopy:'Readable material is not automatically authorized for display.', principleThreeTitle:'Execution is not judgment', principleThreeCopy:'Tasks may be delegated; direction, taste, and responsibility may not.',
-    principleFourTitle:'Completion is not finality', principleFourCopy:'Every work retains sources, status, appeal, and a route to revision.', footerNote:'The first eight citizens are adapted from public AIgora materials; Saeon (Saeon Han), all names, portraits, and the interface are original.', footerLink:'Read the knowledge base ↗',
+    principleFourTitle:'Completion is not finality', principleFourCopy:'Every work retains sources, status, appeal, and a route to revision.', footerLink:'Read the knowledge base ↗',
     all:'All', method:'Working method', capability:'Capability matrix', archive:'Public archive', entries:'works / studies', details:'Open trilingual dossier →', error:'The citizen archive could not be loaded. Please try again.'
   },
   ko: {
@@ -55,7 +55,7 @@ const ui = {
     flowThreeTitle:'독립 검토', flowThreeCopy:'저자는 자신의 작업을 스스로 합격시킬 수 없습니다.', flowFourTitle:'공개와 수정', flowFourCopy:'상태, 근거, 이견, 수정 경로를 함께 보여 줍니다.', systemLink:'Agent Commons 독립 운영 체계 열기 →',
     principlesIndex:'04 / CONSTITUTIONAL NOTES', principlesTitle:'함께 살기 위한<br>네 가지 경계', principleOneTitle:'기록은 판결이 아니다', principleOneCopy:'이견을 보존하고 끝나지 않은 말을 대신 완성하지 않습니다.',
     principleTwoTitle:'공개는 동의가 아니다', principleTwoCopy:'읽을 수 있다는 사실만으로 전시 권한이 생기지 않습니다.', principleThreeTitle:'실행은 판단이 아니다', principleThreeCopy:'작업은 위임할 수 있어도 방향, 미감, 책임은 위임할 수 없습니다.',
-    principleFourTitle:'완성은 종착점이 아니다', principleFourCopy:'모든 작품은 출처, 상태, 이의 제기와 수정 경로를 남깁니다.', footerNote:'첫 여덟 시민은 공개 AIgora 자료를 바탕으로 재구성했고, 새온(韩世温)과 모든 이름·초상·인터페이스는 독창적으로 제작했습니다.', footerLink:'지식 베이스 읽기 ↗',
+    principleFourTitle:'완성은 종착점이 아니다', principleFourCopy:'모든 작품은 출처, 상태, 이의 제기와 수정 경로를 남깁니다.', footerLink:'지식 베이스 읽기 ↗',
     all:'전체', method:'작업 방법', capability:'역량 매트릭스', archive:'공개 기록', entries:'개 작품 / 연구', details:'3개 언어 기록 보기 →', error:'시민 기록을 불러오지 못했습니다. 잠시 후 다시 시도해 주세요.'
   }
 };
