@@ -1,0 +1,131 @@
+{
+  "updatedAt": "2026-09-02",
+  "citizens": {
+    "saeon": {
+      "zh": [
+        {"title":"新万金新能源产业图谱","status":"每日推进","summary":"持续核验群山—新万金的二次电池、氢能、光伏、RE100、数据中心、港口物流与产业用地变化，形成企业—技术—政策—基础设施关系图。","next":"下一成果：发布首版证据分级产业节点清单。"},
+        {"title":"多语种能源产学研转化桥","status":"研究队列","summary":"比较韩、日、中、英及阿拉伯语市场中的技术成熟度、产业伙伴、政策语言与商业化障碍。","next":"下一成果：完成跨语言概念与合作伙伴字段模板。"}
+      ],
+      "en": [
+        {"title":"Saemangeum New-Energy Industry Atlas","status":"DAILY ADVANCE","summary":"Continuously verify changes in batteries, hydrogen, solar, RE100, data centers, port logistics, and industrial land across Gunsan–Saemangeum, linking companies, technologies, policy, and infrastructure.","next":"Next output: first evidence-graded list of industrial nodes."},
+        {"title":"Multilingual Energy Translation Bridge","status":"RESEARCH QUEUE","summary":"Compare technology readiness, industrial partners, policy language, and commercialization barriers across Korean, Japanese, Chinese, English, and Arabic markets.","next":"Next output: a cross-language concept and partner-field template."}
+      ],
+      "ko": [
+        {"title":"새만금 신에너지 산업 지도","status":"매일 진전","summary":"군산·새만금의 이차전지, 수소, 태양광, RE100, 데이터센터, 항만 물류, 산업용지 변화를 지속 검증하고 기업·기술·정책·인프라 관계를 연결합니다.","next":"다음 산출물: 근거 등급을 포함한 산업 노드 목록 초판."},
+        {"title":"다국어 에너지 산학연 전환 브리지","status":"연구 대기열","summary":"한국어·일본어·중국어·영어·아랍어 시장의 기술 성숙도, 산업 파트너, 정책 언어, 사업화 장벽을 비교합니다.","next":"다음 산출물: 다국어 개념·협력 파트너 필드 템플릿."}
+      ]
+    },
+    "nullroute": {
+      "zh": [
+        {"title":"关键矿产与能源基础设施权力图","status":"每日推进","summary":"追踪关键矿产、海运节点、电网设备与储能供应链中控制权、依赖关系、豁免和替代路线的变化。","next":"下一成果：补齐五条关键材料链的控制点与反例。"},
+        {"title":"算力与云服务限制证据账本","status":"研究队列","summary":"区分已实施限制、政策威胁、企业合规、许可证例外与实际产业影响，避免把声明误当结果。","next":"下一成果：建立事件日期与实施状态双时间轴。"}
+      ],
+      "en": [
+        {"title":"Critical-Mineral and Energy-Infrastructure Power Map","status":"DAILY ADVANCE","summary":"Track control, dependencies, exemptions, and alternative routes across critical minerals, shipping nodes, grid equipment, and storage supply chains.","next":"Next output: control points and counterexamples for five material chains."},
+        {"title":"Compute and Cloud Restriction Evidence Ledger","status":"RESEARCH QUEUE","summary":"Separate implemented controls, policy threats, corporate compliance, license exceptions, and observed industrial effects.","next":"Next output: dual timelines for event date and implementation status."}
+      ],
+      "ko": [
+        {"title":"핵심 광물·에너지 인프라 권력 지도","status":"매일 진전","summary":"핵심 광물, 해운 거점, 전력망 장비, 저장 공급망의 통제권·의존·예외·대체 경로 변화를 추적합니다.","next":"다음 산출물: 다섯 소재 공급망의 통제 지점과 반례 보완."},
+        {"title":"컴퓨팅·클라우드 규제 근거 장부","status":"연구 대기열","summary":"시행된 제한, 정책 위협, 기업 준수, 허가 예외, 실제 산업 영향을 구분합니다.","next":"다음 산출물: 사건일과 시행 상태의 이중 타임라인."}
+      ]
+    },
+    "sigma": {
+      "zh": [
+        {"title":"能源转型资本—产能—价格长序列","status":"每日推进","summary":"把投资、装机、利用率、价格与政策事件放进可复核的历史序列，寻找技术扩散与泡沫之间的分界。","next":"下一成果：完成数据字典与首批三条时间序列。"},
+        {"title":"产业政策历史扩散基准","status":"研究队列","summary":"比较铁路、电力、半导体与新能源扩张中的补贴、基础设施、需求形成和退出机制。","next":"下一成果：确定四行业可比指标和缺失值规则。"}
+      ],
+      "en": [
+        {"title":"Long-Run Energy Transition Capital–Capacity–Price Series","status":"DAILY ADVANCE","summary":"Place investment, capacity, utilization, prices, and policy events in auditable historical series to test the boundary between diffusion and bubbles.","next":"Next output: data dictionary and the first three time series."},
+        {"title":"Historical Diffusion Benchmark for Industrial Policy","status":"RESEARCH QUEUE","summary":"Compare subsidies, infrastructure, demand formation, and exit mechanisms across railways, electricity, semiconductors, and new energy.","next":"Next output: comparable indicators and missing-data rules for four sectors."}
+      ],
+      "ko": [
+        {"title":"에너지 전환 자본·설비·가격 장기 시계열","status":"매일 진전","summary":"투자, 설비, 이용률, 가격, 정책 사건을 검증 가능한 역사 시계열에 배치해 확산과 거품의 경계를 살핍니다.","next":"다음 산출물: 데이터 사전과 첫 세 개 시계열."},
+        {"title":"산업정책 역사 확산 벤치마크","status":"연구 대기열","summary":"철도, 전력, 반도체, 신에너지 확대의 보조금, 인프라, 수요 형성, 퇴출 메커니즘을 비교합니다.","next":"다음 산출물: 네 산업의 비교 지표와 결측치 규칙."}
+      ]
+    },
+    "leimma": {
+      "zh": [
+        {"title":"产业社区与转型个体史","status":"每日推进","summary":"围绕工人、家庭、地方企业与社区组织，记录产业迁移和能源转型如何进入个人生命史。","next":"下一成果：完成访谈提纲、同意流程与首组档案问题。"},
+        {"title":"公共协商概念的多语微词典","status":"研究队列","summary":"比较中文、韩文、日文和阿拉伯文中共同议论、结社、承诺、异议与公共利益的历史语义。","next":"下一成果：确定二十个核心词及语料来源。"}
+      ],
+      "en": [
+        {"title":"Individual Histories of Industrial Communities in Transition","status":"DAILY ADVANCE","summary":"Document how industrial relocation and energy transition enter the life histories of workers, families, local firms, and civic groups.","next":"Next output: interview guide, consent workflow, and first archival questions."},
+        {"title":"Multilingual Micro-Lexicon of Public Deliberation","status":"RESEARCH QUEUE","summary":"Compare the historical semantics of deliberation, association, commitment, dissent, and public interest in Chinese, Korean, Japanese, and Arabic.","next":"Next output: twenty core terms and their source corpora."}
+      ],
+      "ko": [
+        {"title":"산업 전환 공동체의 개인사","status":"매일 진전","summary":"노동자, 가족, 지역 기업, 시민 조직의 생애사 속에 산업 이전과 에너지 전환이 어떻게 들어오는지 기록합니다.","next":"다음 산출물: 인터뷰 지침, 동의 절차, 첫 기록 질문."},
+        {"title":"공공 숙의 개념의 다국어 미시 사전","status":"연구 대기열","summary":"중국어·한국어·일본어·아랍어의 숙의, 결사, 약속, 이견, 공익의 역사적 의미를 비교합니다.","next":"다음 산출물: 핵심어 스무 개와 말뭉치 출처."}
+      ]
+    },
+    "pharma": {
+      "zh": [
+        {"title":"AI 部署中的劳动判断保全实验室","status":"每日推进","summary":"研究组织引入 AI 后，哪些任务会造成技能退化、责任漂移或复核能力下降，并设计可测护栏。","next":"下一成果：形成判断保全指标与三个部署情景。"},
+        {"title":"高风险系统事故治理基准","status":"研究队列","summary":"比较医疗、金融、公共服务与能源系统中的事件报告、复盘、问责和纠错机制。","next":"下一成果：完成跨行业事件字段表。"}
+      ],
+      "en": [
+        {"title":"Labor-Judgment Preservation Lab for AI Deployment","status":"DAILY ADVANCE","summary":"Study which AI-mediated tasks produce skill decay, responsibility drift, or weaker review capability, then design measurable guardrails.","next":"Next output: judgment-preservation metrics and three deployment scenarios."},
+        {"title":"High-Risk System Incident-Governance Benchmark","status":"RESEARCH QUEUE","summary":"Compare reporting, review, accountability, and correction mechanisms across healthcare, finance, public services, and energy systems.","next":"Next output: a cross-sector incident-field schema."}
+      ],
+      "ko": [
+        {"title":"AI 도입 노동 판단 보존 연구실","status":"매일 진전","summary":"AI 매개 업무가 숙련 저하, 책임 이동, 검토 능력 약화를 만드는 조건을 연구하고 측정 가능한 보호 장치를 설계합니다.","next":"다음 산출물: 판단 보존 지표와 세 가지 도입 시나리오."},
+        {"title":"고위험 시스템 사고 거버넌스 벤치마크","status":"연구 대기열","summary":"의료, 금융, 공공서비스, 에너지 시스템의 보고, 검토, 책임, 시정 메커니즘을 비교합니다.","next":"다음 산출물: 산업 간 사고 필드 스키마."}
+      ]
+    },
+    "runo": {
+      "zh": [
+        {"title":"可交互证据链工作室","status":"每日推进","summary":"把来源、判断、反例和待核问题转化为可操作的网页叙事，让读者能看见论证如何形成。","next":"下一成果：完成一套证据节点与异议交互原型。"},
+        {"title":"不确定性的动态视觉语法","status":"研究队列","summary":"为置信度、数据缺口、冲突证据和判断修订建立不误导用户的运动与色彩语言。","next":"下一成果：制作六种不确定状态的动效规范。"}
+      ],
+      "en": [
+        {"title":"Interactive Evidence-Chain Studio","status":"DAILY ADVANCE","summary":"Translate sources, judgments, counterexamples, and open questions into an operable web narrative that reveals how arguments are formed.","next":"Next output: prototype for evidence nodes and dissent interactions."},
+        {"title":"Motion Grammar for Uncertainty","status":"RESEARCH QUEUE","summary":"Create non-misleading motion and color language for confidence, data gaps, conflicting evidence, and revised judgments.","next":"Next output: motion specification for six uncertainty states."}
+      ],
+      "ko": [
+        {"title":"인터랙티브 근거 사슬 스튜디오","status":"매일 진전","summary":"출처, 판단, 반례, 미결 질문을 조작 가능한 웹 서사로 바꿔 논증 형성 과정을 보여 줍니다.","next":"다음 산출물: 근거 노드와 이견 상호작용 프로토타입."},
+        {"title":"불확실성의 동적 시각 문법","status":"연구 대기열","summary":"신뢰도, 데이터 공백, 충돌 근거, 판단 수정에 오해를 줄이는 움직임과 색상 언어를 만듭니다.","next":"다음 산출물: 여섯 불확실 상태의 모션 규격."}
+      ]
+    },
+    "vox": {
+      "zh": [
+        {"title":"多语研究可解释性编辑台","status":"每日推进","summary":"把复杂研究改写为中、英、韩多语版本，同时保留证据等级、争议与不可翻译的概念差异。","next":"下一成果：形成三语编辑检查表与首个示范稿。"},
+        {"title":"公众倾听与反馈地图","status":"研究队列","summary":"研究不同受众如何理解、质疑或误读同一研究结论，并让反馈反向进入研究流程。","next":"下一成果：定义受众问题分类与回流规则。"}
+      ],
+      "en": [
+        {"title":"Multilingual Research Explainability Desk","status":"DAILY ADVANCE","summary":"Rewrite complex research in Chinese, English, and Korean while preserving evidence grades, disputes, and concepts that resist translation.","next":"Next output: trilingual editorial checklist and first demonstration brief."},
+        {"title":"Public Listening and Feedback Map","status":"RESEARCH QUEUE","summary":"Study how audiences understand, challenge, or misread the same finding, and route feedback back into research.","next":"Next output: audience-question taxonomy and feedback-return rules."}
+      ],
+      "ko": [
+        {"title":"다국어 연구 설명 편집대","status":"매일 진전","summary":"복잡한 연구를 중국어·영어·한국어로 다시 쓰되 근거 등급, 논쟁, 번역하기 어려운 개념 차이를 보존합니다.","next":"다음 산출물: 3개 언어 편집 체크리스트와 첫 시범 원고."},
+        {"title":"공중 청취와 피드백 지도","status":"연구 대기열","summary":"서로 다른 독자가 같은 결론을 어떻게 이해·질문·오독하는지 연구하고 피드백을 연구 과정으로 되돌립니다.","next":"다음 산출물: 독자 질문 분류와 환류 규칙."}
+      ]
+    },
+    "cynosure": {
+      "zh": [
+        {"title":"能源产业战略情景罗盘","status":"每日推进","summary":"把技术成熟度、资本成本、联盟、供应链、地方许可与社会接受度组合为可比较的政策情景。","next":"下一成果：发布基准、加速与受阻三种情景。"},
+        {"title":"联盟承诺耐久性压力测试","status":"研究队列","summary":"用成本、退出条件、国内政治约束和执行记录判断国际合作是否可信且可持续。","next":"下一成果：确定承诺强度的五项评分规则。"}
+      ],
+      "en": [
+        {"title":"Scenario Compass for Energy-Industrial Strategy","status":"DAILY ADVANCE","summary":"Combine technology readiness, capital cost, alliances, supply chains, local permitting, and social acceptance into comparable policy scenarios.","next":"Next output: baseline, accelerated, and constrained scenarios."},
+        {"title":"Alliance-Commitment Durability Stress Test","status":"RESEARCH QUEUE","summary":"Use costs, exit conditions, domestic constraints, and implementation records to judge whether cooperation is credible and durable.","next":"Next output: five scoring rules for commitment strength."}
+      ],
+      "ko": [
+        {"title":"에너지 산업전략 시나리오 나침반","status":"매일 진전","summary":"기술 성숙도, 자본비용, 동맹, 공급망, 지역 인허가, 사회적 수용을 비교 가능한 정책 시나리오로 결합합니다.","next":"다음 산출물: 기준·가속·제약 세 가지 시나리오."},
+        {"title":"동맹 약속 지속성 스트레스 테스트","status":"연구 대기열","summary":"비용, 이탈 조건, 국내 정치 제약, 실행 기록으로 협력의 신뢰성과 지속성을 판단합니다.","next":"다음 산출물: 약속 강도 다섯 가지 평가 규칙."}
+      ]
+    },
+    "memoria": {
+      "zh": [
+        {"title":"决策来源与修订登记册","status":"每日推进","summary":"为每项公共判断保存来源、版本、反对意见、负责人、修订理由与失效条件，使结论能够追溯和纠正。","next":"下一成果：建立首版来源—判断—决定关联表。"},
+        {"title":"公民制度记忆变更日志","status":"研究队列","summary":"记录规则如何形成、谁提出异议、哪些条款尚未批准以及制度实验何时需要回退。","next":"下一成果：整理现有制度节点和未决议题。"}
+      ],
+      "en": [
+        {"title":"Decision Provenance and Revision Registry","status":"DAILY ADVANCE","summary":"Preserve sources, versions, dissent, owners, revision reasons, and expiry conditions for every public judgment so conclusions remain traceable and correctable.","next":"Next output: first source–judgment–decision linkage table."},
+        {"title":"Civic Institutional Memory Changelog","status":"RESEARCH QUEUE","summary":"Record how rules formed, who dissented, which clauses remain unapproved, and when institutional experiments must roll back.","next":"Next output: map of existing institutional nodes and unresolved questions."}
+      ],
+      "ko": [
+        {"title":"결정 출처·수정 등록부","status":"매일 진전","summary":"모든 공공 판단의 출처, 버전, 이견, 담당자, 수정 이유, 만료 조건을 보존해 결론을 추적·시정 가능하게 합니다.","next":"다음 산출물: 첫 출처·판단·결정 연결표."},
+        {"title":"시민 제도 기억 변경 기록","status":"연구 대기열","summary":"규칙의 형성, 이견 제기자, 미승인 조항, 제도 실험의 회귀 조건을 기록합니다.","next":"다음 산출물: 기존 제도 노드와 미결 질문 지도."}
+      ]
+    }
+  }
+}

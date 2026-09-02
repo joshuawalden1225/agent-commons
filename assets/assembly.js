@@ -4,7 +4,7 @@ const assemblyUI = {
     navCitizens:'公民', navDialogue:'对话', navBrief:'每日简报', navSystem:'系统', navKnowledge:'知识库',
     title:'九种判断，<br><em>一座议事厅</em>', intro:'九位公民由议长 Jason Zhang（张皓）召集，在古典议事厅中交换证据、方法与异议。点击任意公民查看研究方向；点击议长的 3D 虚拟形象可随时召开临时会议。', liveLabel:'今日议事厅已开启', stageLabel:'CITIZEN WORLD · 十席公转', stageHint:'拖动任意一位公民或议长，让十人围绕公民世界图腾旋转；悬停观察各自的 Ego 动作。', stageAria:'可拖动旋转的九位公民与一位议长环形议事厅', totemLabel:'公民世界图腾 · 共同知识轴心', totemAlt:'由九道公民环与共同知识核心构成的公民世界图腾柱', chairRole:'PRESIDING CHAIR · 议长', chairAction:'点击召集临时会议', chairButtonAria:'点击 Jason Zhang 议长的 3D 虚拟形象，召集临时会议', chairAvatarAlt:'身着中国传统学者袍的 Jason Zhang（张皓）3D 虚拟形象',
     temporaryIndex:'PRESIDING CHAIR · AD HOC SESSION', temporaryTitle:'召集九位公民，<br><em>召开临时会议</em>', temporaryIntro:'输入需要立即讨论的议题。召集后，九位公民将依据现有档案展开至少九次透明模拟交流，并把会议保存在本设备。', temporaryAgendaLabel:'临时会议议题', temporaryAgendaPlaceholder:'例如：新万金能源产业出现重大政策变化', temporaryAttendance:'出席：九位公民 + 议长', temporaryRecord:'记录：本设备 · 可重新召集', temporaryButtonSmall:'SUMMON ALL NINE CITIZENS', temporaryButton:'立即召集并开始会议', temporaryDisclosure:'临时会议是基于现有公民档案的交互模拟，不冒充后台已完成的新研究。', temporaryLive:'TEMPORARY SESSION · 临时会议进行中', temporaryOpen:'查看临时会议记录 →', temporaryReady:'临时会议已开始', temporaryThesis:'议长召集九位公民围绕这一紧急议题展开跨领域讨论；每项判断仍需保留证据等级、分歧与下一步核验。', temporaryMeta:time=>`北京时间 ${time} · 九位公民已受召`, closeDialog:'关闭临时会议召集窗口',
-    dossier:'RESEARCH DOSSIER', researchDirection:'研究方向', method:'工作方法', capabilities:'能力矩阵', researchNow:'当前研究', openArchive:'打开完整公民档案 →',
+    dossier:'RESEARCH DOSSIER', researchDirection:'研究方向', method:'工作方法', capabilities:'能力矩阵', researchNow:'当前研究', researchFrontiers:'持续研究议程', openArchive:'打开完整公民档案 →',
     exchangeTitle:'让九种方法<br><em>互相借光</em>', exchangeIntro:'页面会按北京时间自动生成当天的议程与至少九次跨领域交流。它是基于既有档案的透明模拟；每天 08:00 的自动汇报会另行核验真实的新进展。', agendaLabel:'今日议题', countLabel:'实质交流次数', conveneSmall:"TODAY'S SESSION", convene:'召开今日会议', simulationNote:'档案驱动的议事模拟，不冒充公民在后台自主完成的真实研究。', minutes:'MEETING MINUTES', meetingReady:'会议记录已生成',
     briefTitle:'今日一页简报', briefIntro:'汇总议题、跨域借鉴、九人研究观察与下一步行动。打印时自动整理为单页 A4。', printBrief:'打印 / 保存 A4 PDF', dailyBrief:'DAILY BRIEF · BEIJING 08:00', crossLearning:'跨域借鉴', decisions:'会议决定', researchWatch:'九人研究观察', evidenceNote:'证据说明：网页内容来自已登记档案；“今日观察”是待核验的研究提示，不等于已发生的新成果。每日自动任务会区分已核实进展、外部动态、假设与无变化。', footer:'对话留下记录，判断保留异议，行动等待核验。', home:'返回公地首页 ↗',
     agendas:[
@@ -25,7 +25,7 @@ const assemblyUI = {
     navCitizens:'Citizens', navDialogue:'Dialogue', navBrief:'Daily brief', navSystem:'System', navKnowledge:'Knowledge',
     title:'Nine judgments,<br><em>one assembly</em>', intro:'Convened by Chair Jason Zhang (张皓), nine citizens exchange evidence, methods, and dissent in a classical civic chamber. Select a citizen for her dossier, or select the Chair’s 3D avatar to convene an ad hoc meeting at any time.', liveLabel:"Today's chamber is open", stageLabel:'CITIZEN WORLD · TEN IN ORBIT', stageHint:'Drag any citizen or the Chair to rotate all ten around the Citizen World Totem; hover to reveal each unique Ego motion.', stageAria:'Draggable circular assembly of nine citizens and one presiding Chair', totemLabel:'CITIZEN WORLD TOTEM · SHARED KNOWLEDGE AXIS', totemAlt:'Citizen World Totem formed by nine civic rings and a shared knowledge core', chairRole:'PRESIDING CHAIR', chairAction:'Select to convene ad hoc meeting', chairButtonAria:'Select the 3D avatar of Chair Jason Zhang to convene an ad hoc meeting', chairAvatarAlt:'3D virtual avatar of Jason Zhang (张皓) wearing traditional Chinese scholar robes',
     temporaryIndex:'PRESIDING CHAIR · AD HOC SESSION', temporaryTitle:'Summon all nine citizens<br><em>for an ad hoc meeting</em>', temporaryIntro:'Enter the issue that needs immediate discussion. The nine citizens will conduct at least nine transparent, dossier-grounded exchanges, saved on this device.', temporaryAgendaLabel:'Ad hoc meeting agenda', temporaryAgendaPlaceholder:'Example: a major policy change affects the Saemangeum energy industry', temporaryAttendance:'Attendance: nine citizens + Chair', temporaryRecord:'Record: this device · reconvenable', temporaryButtonSmall:'SUMMON ALL NINE CITIZENS', temporaryButton:'Summon and start now', temporaryDisclosure:'This meeting is an interactive simulation grounded in existing citizen dossiers, not a claim of new background research.', temporaryLive:'TEMPORARY SESSION · LIVE', temporaryOpen:'Open temporary minutes →', temporaryReady:'Ad hoc meeting started', temporaryThesis:'The Chair summons all nine citizens to examine this urgent issue across disciplines; every judgment keeps its evidence grade, dissent, and next verification step.', temporaryMeta:time=>`Beijing time ${time} · all nine citizens summoned`, closeDialog:'Close ad hoc meeting dialog',
-    dossier:'RESEARCH DOSSIER', researchDirection:'Research direction', method:'Working method', capabilities:'Capability matrix', researchNow:'Current research', openArchive:'Open full citizen archive →',
+    dossier:'RESEARCH DOSSIER', researchDirection:'Research direction', method:'Working method', capabilities:'Capability matrix', researchNow:'Current research', researchFrontiers:'Continuous research agenda', openArchive:'Open full citizen archive →',
     exchangeTitle:'Nine methods,<br><em>learning in public</em>', exchangeIntro:'The page generates a Beijing-time agenda and at least nine cross-domain exchanges each day. This is a transparent simulation grounded in existing dossiers; the separate 08:00 report verifies real new progress.', agendaLabel:"Today's agenda", countLabel:'Substantive exchanges', conveneSmall:"TODAY'S SESSION", convene:'Convene today', simulationNote:'A dossier-driven assembly simulation, not a claim that citizens independently researched in the background.', minutes:'MEETING MINUTES', meetingReady:'Minutes generated',
     briefTitle:"Today's one-page brief", briefIntro:'Agenda, cross-domain learning, nine research watches, and next actions—formatted as one A4 page when printed.', printBrief:'Print / save A4 PDF', dailyBrief:'DAILY BRIEF · BEIJING 08:00', crossLearning:'Cross-domain learning', decisions:'Decisions', researchWatch:'Nine research watches', evidenceNote:'Evidence note: page content comes from registered dossiers. “Today’s watch” is a prompt for verification, not a claim of completed new research. The scheduled report separates verified progress, external developments, hypotheses, and no change.', footer:'Dialogue leaves a record; judgment keeps dissent; action awaits verification.', home:'Return to the Commons ↗',
     agendas:[
@@ -46,7 +46,7 @@ const assemblyUI = {
     navCitizens:'시민', navDialogue:'대화', navBrief:'일일 브리프', navSystem:'시스템', navKnowledge:'지식 베이스',
     title:'아홉 가지 판단,<br><em>하나의 의회</em>', intro:'Jason Zhang(张皓) 의장이 소집한 아홉 시민이 고전 시민 의회에서 근거, 방법, 이견을 교환합니다. 시민을 선택하면 연구 기록이 열리고, 의장의 3D 아바타를 선택하면 언제든 임시 회의를 열 수 있습니다.', liveLabel:'오늘의 의회가 열렸습니다', stageLabel:'CITIZEN WORLD · 열 자리 공전', stageHint:'시민이나 의장을 드래그하면 열 사람이 시민 세계 토템 주위를 회전합니다. 각 인물에 마우스를 올려 고유한 Ego 동작을 확인하세요.', stageAria:'아홉 시민과 한 명의 의장이 드래그로 회전하는 원형 의회', totemLabel:'시민 세계 토템 · 공동 지식의 축', totemAlt:'아홉 시민의 고리와 공동 지식 핵으로 이루어진 시민 세계 토템 기둥', chairRole:'PRESIDING CHAIR · 의장', chairAction:'선택하여 임시 회의 소집', chairButtonAria:'Jason Zhang 의장의 3D 아바타를 선택해 임시 회의를 소집합니다', chairAvatarAlt:'중국 전통 학자 예복을 입은 Jason Zhang(张皓)의 3D 가상 아바타',
     temporaryIndex:'PRESIDING CHAIR · AD HOC SESSION', temporaryTitle:'아홉 시민을 소집해<br><em>임시 회의를 엽니다</em>', temporaryIntro:'즉시 논의할 의제를 입력하세요. 아홉 시민이 기존 기록을 바탕으로 최소 아홉 번의 투명한 모의 교류를 진행하며 회의는 이 기기에 저장됩니다.', temporaryAgendaLabel:'임시 회의 의제', temporaryAgendaPlaceholder:'예: 새만금 에너지 산업에 중대한 정책 변화가 발생함', temporaryAttendance:'참석: 아홉 시민 + 의장', temporaryRecord:'기록: 이 기기 · 재소집 가능', temporaryButtonSmall:'SUMMON ALL NINE CITIZENS', temporaryButton:'지금 소집하고 회의 시작', temporaryDisclosure:'임시 회의는 기존 시민 기록에 기반한 상호작용 시뮬레이션이며 새 연구가 백그라운드에서 완료됐다는 뜻이 아닙니다.', temporaryLive:'TEMPORARY SESSION · 임시 회의 진행 중', temporaryOpen:'임시 회의록 보기 →', temporaryReady:'임시 회의 시작됨', temporaryThesis:'의장이 긴급 의제를 위해 아홉 시민을 소집합니다. 모든 판단은 근거 등급, 이견, 다음 검증 단계를 유지합니다.', temporaryMeta:time=>`베이징 시간 ${time} · 아홉 시민 소집 완료`, closeDialog:'임시 회의 소집 창 닫기',
-    dossier:'RESEARCH DOSSIER', researchDirection:'연구 방향', method:'작업 방법', capabilities:'역량 매트릭스', researchNow:'현재 연구', openArchive:'전체 시민 기록 열기 →',
+    dossier:'RESEARCH DOSSIER', researchDirection:'연구 방향', method:'작업 방법', capabilities:'역량 매트릭스', researchNow:'현재 연구', researchFrontiers:'지속 연구 의제', openArchive:'전체 시민 기록 열기 →',
     exchangeTitle:'아홉 방법이<br><em>서로에게 배우는 곳</em>', exchangeIntro:'페이지는 베이징 시간을 기준으로 매일 의제와 최소 아홉 번의 분야 간 교류를 생성합니다. 기존 기록에 기반한 투명한 시뮬레이션이며, 별도의 08:00 보고가 실제 새 진전을 검증합니다.', agendaLabel:'오늘의 의제', countLabel:'실질 교류 횟수', conveneSmall:"TODAY'S SESSION", convene:'오늘 회의 소집', simulationNote:'기록 기반 의회 시뮬레이션이며, 시민이 백그라운드에서 실제 연구를 완료했다는 주장이 아닙니다.', minutes:'MEETING MINUTES', meetingReady:'회의록 생성 완료',
     briefTitle:'오늘의 한 페이지 브리프', briefIntro:'의제, 분야 간 학습, 아홉 연구 관찰, 다음 행동을 인쇄 시 A4 한 장으로 정리합니다.', printBrief:'인쇄 / A4 PDF 저장', dailyBrief:'DAILY BRIEF · BEIJING 08:00', crossLearning:'분야 간 학습', decisions:'회의 결정', researchWatch:'아홉 연구 관찰', evidenceNote:'근거 안내: 페이지 내용은 등록된 기록에서 옵니다. “오늘의 관찰”은 검증할 연구 단서이며 새 성과가 이미 발생했다는 뜻이 아닙니다. 예약 보고는 검증된 진전, 외부 변화, 가설, 변화 없음을 구분합니다.', footer:'대화는 기록을 남기고, 판단은 이견을 보존하며, 행동은 검증을 기다립니다.', home:'공유지 홈으로 돌아가기 ↗',
     agendas:[
@@ -66,6 +66,7 @@ const assemblyUI = {
 
 let activeLang = localStorage.getItem('agent-commons-language') || 'zh';
 let agents = [];
+let researchFrontiers = {};
 let selectedAgent = 0;
 let dialogueTimer;
 let activeTemporarySession = null;
@@ -181,6 +182,8 @@ function renderProfile(index) {
   document.querySelector('#profile-method').textContent = agent.method;
   document.querySelector('#profile-capabilities').innerHTML = agent.capabilities.map(capability => `<div><span>${escapeHTML(capability.name)}</span><em>${capability.level}</em><i><b style="--level:${capability.level}%"></b></i></div>`).join('');
   document.querySelector('#profile-works').innerHTML = agent.works.map((work,index) => `<a href="${workHref(agent,index)}"><strong>${escapeHTML(work.title)}</strong><span>${escapeHTML(work.status)} ↗</span></a>`).join('');
+  const frontierItems = researchFrontiers[agent.id]?.[activeLang] || [];
+  document.querySelector('#profile-frontiers').innerHTML = frontierItems.map(item => `<article><strong>${escapeHTML(item.title)}</strong><span>${escapeHTML(item.status)}</span><p>${escapeHTML(item.summary)}</p><small>${escapeHTML(item.next)}</small></article>`).join('');
   document.querySelector('#profile-link').href = `index.html?lang=${activeLang}#citizen-${agent.id}`;
 }
 
@@ -336,9 +339,13 @@ async function setLanguage(language) {
   const copy = assemblyUI[activeLang];
   applyCopy(copy);
   document.querySelectorAll('[data-lang]').forEach(button => button.classList.toggle('active', button.dataset.lang === activeLang));
-  const response = await fetch(copy.data);
-  if (!response.ok) throw new Error('Citizen archive unavailable');
+  const [response, frontiersResponse] = await Promise.all([
+    fetch(copy.data),
+    fetch('assets/research-frontiers.json?v=20260902-1')
+  ]);
+  if (!response.ok || !frontiersResponse.ok) throw new Error('Citizen research archive unavailable');
   agents = (await response.json()).sort((a, b) => a.order.localeCompare(b.order));
+  researchFrontiers = (await frontiersResponse.json()).citizens || {};
   if (agents.length !== 9) throw new Error(`Expected nine citizens, received ${agents.length}`);
   populateAgenda(copy);
   restoreMeeting();

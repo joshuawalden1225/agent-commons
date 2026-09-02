@@ -16,7 +16,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@300;400;500&amp;family=Noto+Serif+SC:wght@400;600;700&amp;display=swap" rel="stylesheet">
   <link rel="stylesheet" href="assets/styles.css?v=20260902-1">
-  <link rel="stylesheet" href="assets/assembly.css?v=20260902-3">
+  <link rel="stylesheet" href="assets/assembly.css?v=20260902-4">
 </head>
 <body class="assembly-page">
   <div class="grain" aria-hidden="true"></div>
@@ -67,11 +67,11 @@
           <div class="citizen-stage" id="citizen-stage"></div>
           <figure class="world-totem" id="world-totem">
             <span class="totem-aura" aria-hidden="true"></span>
-            <img src="assets/citizen-world-totem.png" alt="公民世界图腾柱" data-i18n-alt="totemAlt" draggable="false">
+            <img src="assets/citizen-world-totem-transparent.png" alt="公民世界图腾柱" data-i18n-alt="totemAlt" draggable="false">
             <figcaption data-i18n="totemLabel">公民世界图腾 · 共同知识轴心</figcaption>
           </figure>
           <button class="assembly-chair orbit-person" id="chair-avatar" data-orbit-index="0" data-ego="chair" type="button" aria-haspopup="dialog" aria-controls="temporary-meeting-dialog" aria-label="点击 Jason Zhang 议长召集临时会议" data-i18n-aria="chairButtonAria">
-            <span class="chair-portrait"><img src="assets/jason-chair-scholar-3d.png" alt="身着中国传统学者袍的 Jason Zhang（张皓）3D 虚拟形象" data-i18n-alt="chairAvatarAlt" draggable="false"></span>
+            <span class="chair-portrait"><img src="assets/jason-chair-scholar-3d-transparent.png" alt="身着中国传统学者袍的 Jason Zhang（张皓）3D 虚拟形象" data-i18n-alt="chairAvatarAlt" draggable="false"></span>
             <span class="chair-nameplate"><small data-i18n="chairRole">PRESIDING CHAIR · 议长</small><strong>Jason Zhang · 张皓</strong><b data-i18n="chairAction">点击召集临时会议</b></span>
             <span class="ego-effect ego-chair" aria-hidden="true"><i></i><i></i><i></i></span>
           </button>
@@ -113,6 +113,10 @@
         <div class="profile-section">
           <small data-i18n="researchNow">当前研究</small>
           <div id="profile-works" class="profile-works"></div>
+        </div>
+        <div class="profile-section">
+          <small data-i18n="researchFrontiers">持续研究议程</small>
+          <div id="profile-frontiers" class="profile-frontiers"></div>
         </div>
         <a class="profile-link" id="profile-link" href="index.html#citizens" data-i18n="openArchive">打开完整公民档案 →</a>
       </aside>
@@ -212,6 +216,6 @@
     <p data-i18n="footer">对话留下记录，判断保留异议，行动等待核验。</p>
     <a href="index.html" data-i18n="home">返回公地首页 ↗</a>
   </footer>
-  <script src="assets/assembly.js?v=20260902-3" defer></script>
+  <script src="assets/assembly.js?v=20260902-4" defer></script>
 </body>
 </html>
