@@ -16,7 +16,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@300;400;500&amp;family=Noto+Serif+SC:wght@400;600;700&amp;display=swap" rel="stylesheet">
   <link rel="stylesheet" href="assets/styles.css?v=20260902-1">
-  <link rel="stylesheet" href="assets/assembly.css?v=20260902-1">
+  <link rel="stylesheet" href="assets/assembly.css?v=20260902-3">
 </head>
 <body class="assembly-page">
   <div class="grain" aria-hidden="true"></div>
@@ -57,16 +57,23 @@
           <span data-i18n="stageLabel">ATHENAEUM · 九席议会</span>
           <span id="stage-date"></span>
         </div>
-        <div class="assembly-stage" id="assembly-stage">
+        <div class="assembly-stage" id="assembly-stage" tabindex="0" aria-label="可拖动旋转的九位公民与一位议长环形议事厅" data-i18n-aria="stageAria">
           <div class="temple" aria-hidden="true">
             <div class="temple-pediment"><span>AGORA · IX</span></div>
             <div class="temple-columns"><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div>
           </div>
           <div class="stage-inscription" aria-hidden="true">ΛΟΓΟΣ · ΜΝΗΜΗ · ΠΡΑΞΙΣ</div>
+          <div class="orbit-path" aria-hidden="true"><i></i><i></i><i></i></div>
           <div class="citizen-stage" id="citizen-stage"></div>
-          <button class="assembly-chair" id="chair-avatar" type="button" aria-haspopup="dialog" aria-controls="temporary-meeting-dialog" aria-label="点击 Jason Zhang 议长召集临时会议" data-i18n-aria="chairButtonAria">
+          <figure class="world-totem" id="world-totem">
+            <span class="totem-aura" aria-hidden="true"></span>
+            <img src="assets/citizen-world-totem.png" alt="公民世界图腾柱" data-i18n-alt="totemAlt" draggable="false">
+            <figcaption data-i18n="totemLabel">公民世界图腾 · 共同知识轴心</figcaption>
+          </figure>
+          <button class="assembly-chair orbit-person" id="chair-avatar" data-orbit-index="0" data-ego="chair" type="button" aria-haspopup="dialog" aria-controls="temporary-meeting-dialog" aria-label="点击 Jason Zhang 议长召集临时会议" data-i18n-aria="chairButtonAria">
             <span class="chair-portrait"><img src="assets/jason-chair-scholar-3d.png" alt="身着中国传统学者袍的 Jason Zhang（张皓）3D 虚拟形象" data-i18n-alt="chairAvatarAlt" draggable="false"></span>
             <span class="chair-nameplate"><small data-i18n="chairRole">PRESIDING CHAIR · 议长</small><strong>Jason Zhang · 张皓</strong><b data-i18n="chairAction">点击召集临时会议</b></span>
+            <span class="ego-effect ego-chair" aria-hidden="true"><i></i><i></i><i></i></span>
           </button>
           <button class="rostrum" id="stage-convene" type="button">
             <span data-i18n="conveneSmall">TODAY'S SESSION</span>
@@ -79,7 +86,7 @@
           <div><small data-i18n="temporaryLive">TEMPORARY SESSION · 临时会议进行中</small><strong id="temporary-session-title"></strong><p id="temporary-session-meta"></p></div>
           <button id="temporary-session-open" type="button" data-i18n="temporaryOpen">查看临时会议记录 →</button>
         </div>
-        <p class="stage-hint" data-i18n="stageHint">移动指针观察空间层次；选择公民可调出她的研究卷宗。</p>
+        <p class="stage-hint" id="stage-hint" data-i18n="stageHint">拖动任意一位公民或议长，让十人围绕公民世界图腾旋转；悬停观察各自的 Ego 动作。</p>
       </div>
 
       <aside class="research-panel" id="research-panel" aria-live="polite">
@@ -205,6 +212,6 @@
     <p data-i18n="footer">对话留下记录，判断保留异议，行动等待核验。</p>
     <a href="index.html" data-i18n="home">返回公地首页 ↗</a>
   </footer>
-  <script src="assets/assembly.js?v=20260902-2" defer></script>
+  <script src="assets/assembly.js?v=20260902-3" defer></script>
 </body>
 </html>
