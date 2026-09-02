@@ -21,7 +21,7 @@ python3 -m http.server 8000
 - 三语作品详情模板：`work.html`、`assets/work.js`
 - 三语公共知识库：`knowledge.html`、`assets/knowledge.js`
 - 三语九人议事厅：`assembly.html`、`assets/assembly.js`、`assets/assembly.css`
-- 议长 3D 形象与临时会议交互：`assets/jason-chair-3d.png`、`assembly.html`、`assets/assembly.js`、`assets/assembly.css`
+- 议长传统学者造型与临时会议交互：`assets/jason-chair-scholar-3d.png`、`assembly.html`、`assets/assembly.js`、`assets/assembly.css`
 - 三语独立运行体系与每周观察：`system.html`、`assets/system.js`、`assets/system.css`、`assets/weekly-learning.json`
 - 公民肖像：`assets/portraits/`
 - 议事厅全身像：`assets/assembly/`
