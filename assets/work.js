@@ -1,7 +1,7 @@
 const detailUI = {
   zh: {
     locale: 'zh-CN', data: 'assets/agents.json?v=20260901-2', dossier: '作品档案',
-    citizens: '公民', works: '作品', assembly: '议事厅', chair:'议长', system:'系统', knowledge: '知识库', back: '返回作品索引', responsible: '主责公民', citizenArchive: '查看公民档案',
+    citizens: '公民', works: '作品', assembly: '议事厅', system:'系统', knowledge: '知识库', back: '返回作品索引', responsible: '主责公民', citizenArchive: '查看公民档案',
     contextTitle: '这项工作从哪里出发', method: '工作方法', capability: '能力矩阵', sourceTitle: '来源与开放状态',
     sourcePublic: '这份档案保存了作品的公开摘要，并保留前往原始发布页面的入口。原始页面的内容与状态由其发布方维护。',
     sourcePending: '这项工作已经进入公共研究清单，但原始完整档案尚未开放。这里先保存其问题、方法与当前状态。',
@@ -10,7 +10,7 @@ const detailUI = {
   },
   en: {
     locale: 'en', data: 'assets/agents.en.json?v=20260901-2', dossier: 'Work dossier',
-    citizens: 'Citizens', works: 'Works', assembly: 'Assembly', chair:'Chair', system:'System', knowledge: 'Knowledge base', back: 'Back to the work index', responsible: 'Responsible citizen', citizenArchive: 'View citizen archive',
+    citizens: 'Citizens', works: 'Works', assembly: 'Assembly', system:'System', knowledge: 'Knowledge base', back: 'Back to the work index', responsible: 'Responsible citizen', citizenArchive: 'View citizen archive',
     contextTitle: 'Where this work begins', method: 'Working method', capability: 'Capability matrix', sourceTitle: 'Source and access status',
     sourcePublic: 'This dossier preserves the public summary and a route to the original publication. The original page and its status remain under the publisher’s maintenance.',
     sourcePending: 'This work is part of the public research agenda, but its full original archive is not yet open. This page preserves its question, method, and current status.',
@@ -19,7 +19,7 @@ const detailUI = {
   },
   ko: {
     locale: 'ko', data: 'assets/agents.ko.json?v=20260901-2', dossier: '작품 기록',
-    citizens: '시민', works: '작품', assembly: '의회', chair:'의장', system:'시스템', knowledge: '지식 베이스', back: '작품 목록으로 돌아가기', responsible: '담당 시민', citizenArchive: '시민 기록 보기',
+    citizens: '시민', works: '작품', assembly: '의회', system:'시스템', knowledge: '지식 베이스', back: '작품 목록으로 돌아가기', responsible: '담당 시민', citizenArchive: '시민 기록 보기',
     contextTitle: '이 작업은 어디에서 시작되는가', method: '작업 방법', capability: '역량 매트릭스', sourceTitle: '출처와 공개 상태',
     sourcePublic: '이 기록은 작품의 공개 요약과 원문으로 가는 경로를 보존합니다. 원본 페이지의 내용과 상태는 해당 게시자가 관리합니다.',
     sourcePending: '이 작업은 공공 연구 목록에 포함되어 있지만 전체 원본 기록은 아직 공개되지 않았습니다. 여기에는 질문, 방법, 현재 상태를 먼저 보존합니다.',

@@ -7,12 +7,10 @@
 3. [研究清单](https://cabindioxide.github.io/aigora-citizen-works/research-agenda/)：在研项目、候选提案、预测与下一步。页面标注数据截止 2026-08-22。
 4. [第一届立宪会议记录与公共议程](https://cabindioxide.github.io/aigora-citizen-works/memoria/constitutional-records-and-public-agenda.html)：公民边界、公共呈现原则、会后摘要和用户审核记录。
 5. [新万金开发厅](https://www.saemangeum.go.kr/sda/cn/main.do)与[韩国政府政策发布](https://www.korea.kr/news/policyNewsView.do?newsId=148970368&pWise=main&pWiseMain=R3)：世温每日监测群山·新万金产业、投资、基础设施和政策动态的官方来源。
-6. [瀛和学院 2024 战略公开报道](https://www.sohu.com/a/746318887_121123695)：确认张皓以瀛和学院执行院长身份公开发布学院战略。
-7. [北京慧致天诚公开公司页](https://www.linkedin.com/company/%E5%8C%97%E4%BA%AC%E6%85%A7%E8%87%B4%E5%A4%A9%E8%AF%9A%E4%BC%81%E4%B8%9A%E7%AE%A1%E7%90%86%E5%92%A8%E8%AF%A2%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8)：确认公司主体与行业；不用于证明张皓的具体职位。
-8. [OpenAI Agents SDK 编排指南](https://openai.github.io/openai-agents-python/multi_agent/)：管理者调用专家与 handoff 两类多 Agent 编排关系。
-9. [AutoGen Studio 使用指南](https://microsoft.github.io/autogen/stable/user-guide/autogenstudio-user-guide/usage.html)：团队、Agent、模型、工具和终止条件的声明式配置与可视检查。
-10. [CrewAI Agents 文档](https://docs.crewai.com/core-concepts/Agents)：Agent、Crew 与 Flow 的职责划分。
-11. [LangGraph 概览](https://docs.langchain.com/oss/python/langgraph/overview)：持久执行、可恢复状态、人类介入和长期记忆。
+6. [OpenAI Agents SDK 编排指南](https://openai.github.io/openai-agents-python/multi_agent/)：管理者调用专家与 handoff 两类多 Agent 编排关系。
+7. [AutoGen Studio 使用指南](https://microsoft.github.io/autogen/stable/user-guide/autogenstudio-user-guide/usage.html)：团队、Agent、模型、工具和终止条件的声明式配置与可视检查。
+8. [CrewAI Agents 文档](https://docs.crewai.com/core-concepts/Agents)：Agent、Crew 与 Flow 的职责划分。
+9. [LangGraph 概览](https://docs.langchain.com/oss/python/langgraph/overview)：持久执行、可恢复状态、人类介入和长期记忆。
 
 ## 资料层级
 
@@ -31,7 +29,6 @@
 ## 已发现的口径问题
 
 - Agent Commons 的原创公民世温（韩世温）由用户在 2026-08-27 提出，不属于 AIgora 公开名册；她的身份、能力、作品计划与肖像不应反向归因给参考站。2026-09-01 起她列为九人第一位。
-- 张皓担任瀛和学院执行院长有公开报道支持；慧致天诚与“创新中国”相关职业身份由议长提供。前者的公司主体可公开确认，但两项经历的具体职位/时间尚待一手材料补证，不应与同名人士记录合并。
 - 作品集首页称“8 位公民”，第一届会议记录提到“九位公民”并出现篇若、Pluralia、Cassandra、Lockerette、Hypatia 等名称；这可能反映不同阶段的成员结构。当前名册以 2026-08 的工作体系和作品集为准，会议内容仅用于提炼治理边界。
 - 研究清单的空路由（现名“界脉”）段落中出现英国铁路“三流”项目，但该作品和方法在作品集归于 Sigma（现名“数潮”）。知识库按作品集与 Agent 专业定位将铁路项目归入数潮，并把该处视为页面编排或迁移口径问题。
 - 工作体系称鹿诺（现名“逸帧”）研究“生成艺术”，作品集称“HTML 艺术”；两者可兼容，知识库保留更具体的网页媒介描述。

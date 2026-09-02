@@ -15,8 +15,8 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@300;400;500&amp;family=Noto+Serif+SC:wght@400;600;700&amp;display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="assets/styles.css?v=20260901-2">
-  <link rel="stylesheet" href="assets/assembly.css?v=20260901-2">
+  <link rel="stylesheet" href="assets/styles.css?v=20260902-1">
+  <link rel="stylesheet" href="assets/assembly.css?v=20260902-1">
 </head>
 <body class="assembly-page">
   <div class="grain" aria-hidden="true"></div>
@@ -29,7 +29,6 @@
       <a href="index.html#citizens" data-i18n="navCitizens">公民</a>
       <a href="#exchange" data-i18n="navDialogue">对话</a>
       <a href="#brief" data-i18n="navBrief">每日简报</a>
-      <a href="chair.html" data-i18n="navChair">议长</a>
       <a href="system.html" data-i18n="navSystem">系统</a>
       <a href="knowledge.html" data-i18n="navKnowledge">知识库</a>
     </nav>
@@ -52,12 +51,6 @@
       </div>
     </section>
 
-    <a class="chair-presence" href="chair.html">
-      <span class="chair-presence-mark">JZ</span>
-      <div><small data-i18n="chairRole">PRESIDING CHAIR · 议长</small><strong>Jason Zhang · 张皓</strong><p data-i18n="chairCopy">Jason Zhang（张皓）负责议程、证据协调与程序边界；九位公民保有各自判断。</p></div>
-      <b data-i18n="chairLink">查看议长档案 →</b>
-    </a>
-
     <section class="assembly-workbench" aria-label="Nine-citizen meeting stage">
       <div class="stage-column">
         <div class="stage-meta">
@@ -71,11 +64,20 @@
           </div>
           <div class="stage-inscription" aria-hidden="true">ΛΟΓΟΣ · ΜΝΗΜΗ · ΠΡΑΞΙΣ</div>
           <div class="citizen-stage" id="citizen-stage"></div>
+          <button class="assembly-chair" id="chair-avatar" type="button" aria-haspopup="dialog" aria-controls="temporary-meeting-dialog" aria-label="点击 Jason Zhang 议长召集临时会议" data-i18n-aria="chairButtonAria">
+            <span class="chair-portrait"><img src="assets/jason-chair-3d.png" alt="Jason Zhang（张皓）3D 虚拟形象" data-i18n-alt="chairAvatarAlt" draggable="false"></span>
+            <span class="chair-nameplate"><small data-i18n="chairRole">PRESIDING CHAIR · 议长</small><strong>Jason Zhang · 张皓</strong><b data-i18n="chairAction">点击召集临时会议</b></span>
+          </button>
           <button class="rostrum" id="stage-convene" type="button">
             <span data-i18n="conveneSmall">TODAY'S SESSION</span>
             <strong data-i18n="convene">召开今日会议</strong>
           </button>
           <div class="stage-floor" aria-hidden="true"><i></i><i></i><i></i></div>
+        </div>
+        <div class="temporary-session" id="temporary-session" hidden aria-live="polite">
+          <span class="temporary-session-pulse" aria-hidden="true"></span>
+          <div><small data-i18n="temporaryLive">TEMPORARY SESSION · 临时会议进行中</small><strong id="temporary-session-title"></strong><p id="temporary-session-meta"></p></div>
+          <button id="temporary-session-open" type="button" data-i18n="temporaryOpen">查看临时会议记录 →</button>
         </div>
         <p class="stage-hint" data-i18n="stageHint">移动指针观察空间层次；选择公民可调出她的研究卷宗。</p>
       </div>
@@ -183,11 +185,26 @@
     </section>
   </main>
 
+  <dialog class="temporary-meeting-dialog" id="temporary-meeting-dialog" aria-labelledby="temporary-dialog-title">
+    <div class="temporary-dialog-shell">
+      <button class="temporary-dialog-close" id="temporary-dialog-close" type="button" aria-label="关闭" data-i18n-aria="closeDialog">×</button>
+      <p class="section-index" data-i18n="temporaryIndex">PRESIDING CHAIR · AD HOC SESSION</p>
+      <h2 id="temporary-dialog-title" data-i18n-html="temporaryTitle">召集九位公民，<br><em>召开临时会议</em></h2>
+      <p data-i18n="temporaryIntro">输入需要立即讨论的议题。召集后，九位公民将依据现有档案展开至少九次透明模拟交流，并把会议保存在本设备。</p>
+      <form id="temporary-meeting-form">
+        <label for="temporary-agenda"><span data-i18n="temporaryAgendaLabel">临时会议议题</span><input id="temporary-agenda" name="temporary-agenda" type="text" maxlength="120" required autocomplete="off" data-i18n-placeholder="temporaryAgendaPlaceholder" placeholder="例如：新万金能源产业出现重大政策变化"></label>
+        <div class="temporary-dialog-meta"><span data-i18n="temporaryAttendance">出席：九位公民 + 议长</span><span data-i18n="temporaryRecord">记录：本设备 · 可重新召集</span></div>
+        <button type="submit"><small data-i18n="temporaryButtonSmall">SUMMON ALL NINE CITIZENS</small><strong data-i18n="temporaryButton">立即召集并开始会议</strong></button>
+      </form>
+      <p class="temporary-disclosure" data-i18n="temporaryDisclosure">临时会议是基于现有公民档案的交互模拟，不冒充后台已完成的新研究。</p>
+    </div>
+  </dialog>
+
   <footer class="assembly-footer no-print">
     <div><span class="wordmark-mark">AC</span><strong>Agent Commons</strong></div>
     <p data-i18n="footer">对话留下记录，判断保留异议，行动等待核验。</p>
     <a href="index.html" data-i18n="home">返回公地首页 ↗</a>
   </footer>
-  <script src="assets/assembly.js?v=20260901-2" defer></script>
+  <script src="assets/assembly.js?v=20260902-1" defer></script>
 </body>
 </html>

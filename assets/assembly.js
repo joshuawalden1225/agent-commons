@@ -1,8 +1,9 @@
 const assemblyUI = {
   zh: {
     locale:'zh-CN', title:'Agent Commons · 九人议事厅', data:'assets/agents.json?v=20260901-2',
-    navCitizens:'公民', navDialogue:'对话', navBrief:'每日简报', navChair:'议长', navSystem:'系统', navKnowledge:'知识库',
-    title:'九种判断，<br><em>一座议事厅</em>', intro:'九位公民由议长 Jason Zhang（张皓）召集，在古典议事厅中交换证据、方法与异议。点击任意全身像查看她的研究方向。', liveLabel:'今日议事厅已开启', stageLabel:'ATHENAEUM · 九席议会', stageHint:'移动指针观察空间层次；选择公民可调出她的研究卷宗。', chairRole:'PRESIDING CHAIR · 议长', chairCopy:'Jason Zhang（张皓）负责议程、证据协调与程序边界；九位公民保有各自判断。', chairLink:'查看议长档案 →',
+    navCitizens:'公民', navDialogue:'对话', navBrief:'每日简报', navSystem:'系统', navKnowledge:'知识库',
+    title:'九种判断，<br><em>一座议事厅</em>', intro:'九位公民由议长 Jason Zhang（张皓）召集，在古典议事厅中交换证据、方法与异议。点击任意公民查看研究方向；点击议长的 3D 虚拟形象可随时召开临时会议。', liveLabel:'今日议事厅已开启', stageLabel:'ATHENAEUM · 九席议会', stageHint:'移动指针观察空间层次；选择公民查看研究卷宗，选择议长召集临时会议。', chairRole:'PRESIDING CHAIR · 议长', chairAction:'点击召集临时会议', chairButtonAria:'点击 Jason Zhang 议长的 3D 虚拟形象，召集临时会议', chairAvatarAlt:'Jason Zhang（张皓）3D 虚拟形象',
+    temporaryIndex:'PRESIDING CHAIR · AD HOC SESSION', temporaryTitle:'召集九位公民，<br><em>召开临时会议</em>', temporaryIntro:'输入需要立即讨论的议题。召集后，九位公民将依据现有档案展开至少九次透明模拟交流，并把会议保存在本设备。', temporaryAgendaLabel:'临时会议议题', temporaryAgendaPlaceholder:'例如：新万金能源产业出现重大政策变化', temporaryAttendance:'出席：九位公民 + 议长', temporaryRecord:'记录：本设备 · 可重新召集', temporaryButtonSmall:'SUMMON ALL NINE CITIZENS', temporaryButton:'立即召集并开始会议', temporaryDisclosure:'临时会议是基于现有公民档案的交互模拟，不冒充后台已完成的新研究。', temporaryLive:'TEMPORARY SESSION · 临时会议进行中', temporaryOpen:'查看临时会议记录 →', temporaryReady:'临时会议已开始', temporaryThesis:'议长召集九位公民围绕这一紧急议题展开跨领域讨论；每项判断仍需保留证据等级、分歧与下一步核验。', temporaryMeta:time=>`北京时间 ${time} · 九位公民已受召`, closeDialog:'关闭临时会议召集窗口',
     dossier:'RESEARCH DOSSIER', researchDirection:'研究方向', method:'工作方法', capabilities:'能力矩阵', researchNow:'当前研究', openArchive:'打开完整公民档案 →',
     exchangeTitle:'让九种方法<br><em>互相借光</em>', exchangeIntro:'页面会按北京时间自动生成当天的议程与至少九次跨领域交流。它是基于既有档案的透明模拟；每天 08:00 的自动汇报会另行核验真实的新进展。', agendaLabel:'今日议题', countLabel:'实质交流次数', conveneSmall:"TODAY'S SESSION", convene:'召开今日会议', simulationNote:'档案驱动的议事模拟，不冒充公民在后台自主完成的真实研究。', minutes:'MEETING MINUTES', meetingReady:'会议记录已生成',
     briefTitle:'今日一页简报', briefIntro:'汇总议题、跨域借鉴、九人研究观察与下一步行动。打印时自动整理为单页 A4。', printBrief:'打印 / 保存 A4 PDF', dailyBrief:'DAILY BRIEF · BEIJING 08:00', crossLearning:'跨域借鉴', decisions:'会议决定', researchWatch:'九人研究观察', evidenceNote:'证据说明：网页内容来自已登记档案；“今日观察”是待核验的研究提示，不等于已发生的新成果。每日自动任务会区分已核实进展、外部动态、假设与无变化。', footer:'对话留下记录，判断保留异议，行动等待核验。', home:'返回公地首页 ↗',
@@ -21,8 +22,9 @@ const assemblyUI = {
   },
   en: {
     locale:'en', title:'Agent Commons · Nine-Citizen Assembly', data:'assets/agents.en.json?v=20260901-2',
-    navCitizens:'Citizens', navDialogue:'Dialogue', navBrief:'Daily brief', navChair:'Chair', navSystem:'System', navKnowledge:'Knowledge',
-    title:'Nine judgments,<br><em>one assembly</em>', intro:'Convened by Chair Jason Zhang (张皓), nine citizens exchange evidence, methods, and dissent in a classical civic chamber. Select any full-body figure to open her research dossier.', liveLabel:"Today's chamber is open", stageLabel:'ATHENAEUM · NINE SEATS', stageHint:'Move the pointer to inspect the spatial layers; select a citizen to open her research dossier.', chairRole:'PRESIDING CHAIR', chairCopy:'Jason Zhang (张皓) maintains the agenda, coordinates evidence, and protects process; the nine citizens retain their own judgments.', chairLink:'Open Chair dossier →',
+    navCitizens:'Citizens', navDialogue:'Dialogue', navBrief:'Daily brief', navSystem:'System', navKnowledge:'Knowledge',
+    title:'Nine judgments,<br><em>one assembly</em>', intro:'Convened by Chair Jason Zhang (张皓), nine citizens exchange evidence, methods, and dissent in a classical civic chamber. Select a citizen for her dossier, or select the Chair’s 3D avatar to convene an ad hoc meeting at any time.', liveLabel:"Today's chamber is open", stageLabel:'ATHENAEUM · NINE SEATS', stageHint:'Move the pointer through the spatial layers; select a citizen for her dossier or the Chair to summon an ad hoc session.', chairRole:'PRESIDING CHAIR', chairAction:'Select to convene ad hoc meeting', chairButtonAria:'Select the 3D avatar of Chair Jason Zhang to convene an ad hoc meeting', chairAvatarAlt:'3D virtual avatar of Jason Zhang (张皓)',
+    temporaryIndex:'PRESIDING CHAIR · AD HOC SESSION', temporaryTitle:'Summon all nine citizens<br><em>for an ad hoc meeting</em>', temporaryIntro:'Enter the issue that needs immediate discussion. The nine citizens will conduct at least nine transparent, dossier-grounded exchanges, saved on this device.', temporaryAgendaLabel:'Ad hoc meeting agenda', temporaryAgendaPlaceholder:'Example: a major policy change affects the Saemangeum energy industry', temporaryAttendance:'Attendance: nine citizens + Chair', temporaryRecord:'Record: this device · reconvenable', temporaryButtonSmall:'SUMMON ALL NINE CITIZENS', temporaryButton:'Summon and start now', temporaryDisclosure:'This meeting is an interactive simulation grounded in existing citizen dossiers, not a claim of new background research.', temporaryLive:'TEMPORARY SESSION · LIVE', temporaryOpen:'Open temporary minutes →', temporaryReady:'Ad hoc meeting started', temporaryThesis:'The Chair summons all nine citizens to examine this urgent issue across disciplines; every judgment keeps its evidence grade, dissent, and next verification step.', temporaryMeta:time=>`Beijing time ${time} · all nine citizens summoned`, closeDialog:'Close ad hoc meeting dialog',
     dossier:'RESEARCH DOSSIER', researchDirection:'Research direction', method:'Working method', capabilities:'Capability matrix', researchNow:'Current research', openArchive:'Open full citizen archive →',
     exchangeTitle:'Nine methods,<br><em>learning in public</em>', exchangeIntro:'The page generates a Beijing-time agenda and at least nine cross-domain exchanges each day. This is a transparent simulation grounded in existing dossiers; the separate 08:00 report verifies real new progress.', agendaLabel:"Today's agenda", countLabel:'Substantive exchanges', conveneSmall:"TODAY'S SESSION", convene:'Convene today', simulationNote:'A dossier-driven assembly simulation, not a claim that citizens independently researched in the background.', minutes:'MEETING MINUTES', meetingReady:'Minutes generated',
     briefTitle:"Today's one-page brief", briefIntro:'Agenda, cross-domain learning, nine research watches, and next actions—formatted as one A4 page when printed.', printBrief:'Print / save A4 PDF', dailyBrief:'DAILY BRIEF · BEIJING 08:00', crossLearning:'Cross-domain learning', decisions:'Decisions', researchWatch:'Nine research watches', evidenceNote:'Evidence note: page content comes from registered dossiers. “Today’s watch” is a prompt for verification, not a claim of completed new research. The scheduled report separates verified progress, external developments, hypotheses, and no change.', footer:'Dialogue leaves a record; judgment keeps dissent; action awaits verification.', home:'Return to the Commons ↗',
@@ -41,8 +43,9 @@ const assemblyUI = {
   },
   ko: {
     locale:'ko', title:'Agent Commons · 아홉 시민 의회', data:'assets/agents.ko.json?v=20260901-2',
-    navCitizens:'시민', navDialogue:'대화', navBrief:'일일 브리프', navChair:'의장', navSystem:'시스템', navKnowledge:'지식 베이스',
-    title:'아홉 가지 판단,<br><em>하나의 의회</em>', intro:'Jason Zhang(张皓) 의장이 소집한 아홉 시민이 고전 시민 의회에서 근거, 방법, 이견을 교환합니다. 전신 인물을 선택하면 연구 기록이 열립니다.', liveLabel:'오늘의 의회가 열렸습니다', stageLabel:'ATHENAEUM · 아홉 좌석', stageHint:'포인터를 움직여 공간의 층을 살피고, 시민을 선택해 연구 기록을 여세요.', chairRole:'PRESIDING CHAIR · 의장', chairCopy:'Jason Zhang(张皓)은 의제와 근거 조정, 절차 경계를 맡고 아홉 시민은 각자의 판단을 보유합니다.', chairLink:'의장 기록 보기 →',
+    navCitizens:'시민', navDialogue:'대화', navBrief:'일일 브리프', navSystem:'시스템', navKnowledge:'지식 베이스',
+    title:'아홉 가지 판단,<br><em>하나의 의회</em>', intro:'Jason Zhang(张皓) 의장이 소집한 아홉 시민이 고전 시민 의회에서 근거, 방법, 이견을 교환합니다. 시민을 선택하면 연구 기록이 열리고, 의장의 3D 아바타를 선택하면 언제든 임시 회의를 열 수 있습니다.', liveLabel:'오늘의 의회가 열렸습니다', stageLabel:'ATHENAEUM · 아홉 좌석', stageHint:'포인터로 공간의 층을 살피고 시민은 연구 기록, 의장은 임시 회의 소집을 위해 선택하세요.', chairRole:'PRESIDING CHAIR · 의장', chairAction:'선택하여 임시 회의 소집', chairButtonAria:'Jason Zhang 의장의 3D 아바타를 선택해 임시 회의를 소집합니다', chairAvatarAlt:'Jason Zhang(张皓) 3D 가상 아바타',
+    temporaryIndex:'PRESIDING CHAIR · AD HOC SESSION', temporaryTitle:'아홉 시민을 소집해<br><em>임시 회의를 엽니다</em>', temporaryIntro:'즉시 논의할 의제를 입력하세요. 아홉 시민이 기존 기록을 바탕으로 최소 아홉 번의 투명한 모의 교류를 진행하며 회의는 이 기기에 저장됩니다.', temporaryAgendaLabel:'임시 회의 의제', temporaryAgendaPlaceholder:'예: 새만금 에너지 산업에 중대한 정책 변화가 발생함', temporaryAttendance:'참석: 아홉 시민 + 의장', temporaryRecord:'기록: 이 기기 · 재소집 가능', temporaryButtonSmall:'SUMMON ALL NINE CITIZENS', temporaryButton:'지금 소집하고 회의 시작', temporaryDisclosure:'임시 회의는 기존 시민 기록에 기반한 상호작용 시뮬레이션이며 새 연구가 백그라운드에서 완료됐다는 뜻이 아닙니다.', temporaryLive:'TEMPORARY SESSION · 임시 회의 진행 중', temporaryOpen:'임시 회의록 보기 →', temporaryReady:'임시 회의 시작됨', temporaryThesis:'의장이 긴급 의제를 위해 아홉 시민을 소집합니다. 모든 판단은 근거 등급, 이견, 다음 검증 단계를 유지합니다.', temporaryMeta:time=>`베이징 시간 ${time} · 아홉 시민 소집 완료`, closeDialog:'임시 회의 소집 창 닫기',
     dossier:'RESEARCH DOSSIER', researchDirection:'연구 방향', method:'작업 방법', capabilities:'역량 매트릭스', researchNow:'현재 연구', openArchive:'전체 시민 기록 열기 →',
     exchangeTitle:'아홉 방법이<br><em>서로에게 배우는 곳</em>', exchangeIntro:'페이지는 베이징 시간을 기준으로 매일 의제와 최소 아홉 번의 분야 간 교류를 생성합니다. 기존 기록에 기반한 투명한 시뮬레이션이며, 별도의 08:00 보고가 실제 새 진전을 검증합니다.', agendaLabel:'오늘의 의제', countLabel:'실질 교류 횟수', conveneSmall:"TODAY'S SESSION", convene:'오늘 회의 소집', simulationNote:'기록 기반 의회 시뮬레이션이며, 시민이 백그라운드에서 실제 연구를 완료했다는 주장이 아닙니다.', minutes:'MEETING MINUTES', meetingReady:'회의록 생성 완료',
     briefTitle:'오늘의 한 페이지 브리프', briefIntro:'의제, 분야 간 학습, 아홉 연구 관찰, 다음 행동을 인쇄 시 A4 한 장으로 정리합니다.', printBrief:'인쇄 / A4 PDF 저장', dailyBrief:'DAILY BRIEF · BEIJING 08:00', crossLearning:'분야 간 학습', decisions:'회의 결정', researchWatch:'아홉 연구 관찰', evidenceNote:'근거 안내: 페이지 내용은 등록된 기록에서 옵니다. “오늘의 관찰”은 검증할 연구 단서이며 새 성과가 이미 발생했다는 뜻이 아닙니다. 예약 보고는 검증된 진전, 외부 변화, 가설, 변화 없음을 구분합니다.', footer:'대화는 기록을 남기고, 판단은 이견을 보존하며, 행동은 검증을 기다립니다.', home:'공유지 홈으로 돌아가기 ↗',
@@ -62,17 +65,22 @@ const assemblyUI = {
 };
 
 const stagePositions = [
-  {x:50,y:40,z:160,scale:1.14,tilt:0}, {x:13,y:22,z:-20,scale:.8,tilt:-2}, {x:35,y:13,z:10,scale:.88,tilt:-1},
-  {x:65,y:13,z:10,scale:.88,tilt:1}, {x:87,y:22,z:-20,scale:.8,tilt:2}, {x:18,y:45,z:85,scale:.96,tilt:-1},
-  {x:36,y:39,z:115,scale:1.04,tilt:0}, {x:64,y:39,z:115,scale:1.04,tilt:0}, {x:82,y:45,z:85,scale:.96,tilt:1}
+  {x:8,y:11,z:-45,scale:.74,tilt:-2}, {x:28,y:8,z:-18,scale:.78,tilt:-1}, {x:50,y:1,z:-50,scale:.72,tilt:0},
+  {x:72,y:8,z:-18,scale:.78,tilt:1}, {x:92,y:11,z:-45,scale:.74,tilt:2}, {x:11,y:43,z:72,scale:.88,tilt:-1},
+  {x:31,y:39,z:105,scale:.94,tilt:0}, {x:69,y:39,z:105,scale:.94,tilt:0}, {x:89,y:43,z:72,scale:.88,tilt:1}
 ];
 
 let activeLang = localStorage.getItem('agent-commons-language') || 'zh';
 let agents = [];
 let selectedAgent = 0;
 let dialogueTimer;
+let activeTemporarySession = null;
 const stage = document.querySelector('#assembly-stage');
 const citizenStage = document.querySelector('#citizen-stage');
+const chairAvatar = document.querySelector('#chair-avatar');
+const temporaryDialog = document.querySelector('#temporary-meeting-dialog');
+const temporaryForm = document.querySelector('#temporary-meeting-form');
+const temporaryAgenda = document.querySelector('#temporary-agenda');
 
 function beijingParts() {
   const parts = new Intl.DateTimeFormat('en-CA', {timeZone:'Asia/Shanghai', year:'numeric', month:'2-digit', day:'2-digit'}).formatToParts(new Date());
@@ -104,6 +112,18 @@ function applyCopy(copy) {
   document.querySelectorAll('[data-i18n-html]').forEach(node => {
     const value = copy[node.dataset.i18nHtml];
     if (value) node.innerHTML = value;
+  });
+  document.querySelectorAll('[data-i18n-placeholder]').forEach(node => {
+    const value = copy[node.dataset.i18nPlaceholder];
+    if (value) node.setAttribute('placeholder', value);
+  });
+  document.querySelectorAll('[data-i18n-aria]').forEach(node => {
+    const value = copy[node.dataset.i18nAria];
+    if (value) node.setAttribute('aria-label', value);
+  });
+  document.querySelectorAll('[data-i18n-alt]').forEach(node => {
+    const value = copy[node.dataset.i18nAlt];
+    if (value) node.setAttribute('alt', value);
   });
 }
 
@@ -144,12 +164,12 @@ function populateAgenda(copy) {
   select.innerHTML = copy.agendas.map((agenda,index) => `<option value="${index}"${index === todayIndex ? ' selected' : ''}>${escapeHTML(agenda.title)}</option>`).join('');
 }
 
-function generateMeeting(animate = false) {
+function generateMeeting(animate = false, customAgenda = null, temporary = false) {
   const copy = assemblyUI[activeLang];
   const count = Number(document.querySelector('#exchange-count').value);
   const agendaIndex = Number(document.querySelector('#agenda-select').value);
-  const agenda = copy.agendas[agendaIndex];
-  const seed = hash(`${beijingParts().key}-${agendaIndex}`);
+  const agenda = customAgenda || copy.agendas[agendaIndex];
+  const seed = hash(`${beijingParts().key}-${agenda.title}`);
   const start = seed % agents.length;
   const exchanges = Array.from({length:count}, (_, index) => {
     const speakerIndex = (start + index) % agents.length;
@@ -160,11 +180,11 @@ function generateMeeting(animate = false) {
     return {speaker, partner, speakerIndex, text:copy.says(speaker,partner,work), learning:copy.learns(speaker,partner)};
   });
   document.querySelector('#agenda-title').textContent = agenda.title;
-  document.querySelector('#meeting-state').textContent = copy.meetingReady;
+  document.querySelector('#meeting-state').textContent = temporary ? copy.temporaryReady : copy.meetingReady;
   const ledger = document.querySelector('#dialogue-list');
   ledger.innerHTML = exchanges.map(exchange => `<li style="--agent:${exchange.speaker.color}" data-speaker="${exchange.speakerIndex}"><div class="dialogue-speaker"><span>${escapeHTML(exchange.speaker.order)} · ${escapeHTML(exchange.speaker.alias)}</span><strong>${escapeHTML(exchange.speaker.name)}</strong><small>→ ${escapeHTML(exchange.partner.name)}</small></div><div class="dialogue-copy"><p>${escapeHTML(exchange.text)}</p><small>${escapeHTML(exchange.learning)}</small></div></li>`).join('');
   renderBrief(copy, agenda, exchanges, count, seed);
-  localStorage.setItem(`agent-commons-assembly-${beijingParts().key}`, JSON.stringify({agendaIndex,count}));
+  if (!temporary) localStorage.setItem(`agent-commons-assembly-${beijingParts().key}`, JSON.stringify({agendaIndex,count}));
   if (animate) animateDialogue(exchanges);
 }
 
@@ -210,6 +230,69 @@ function updateClock() {
   document.querySelector('#beijing-time').textContent = `CST ${time}`;
 }
 
+function temporaryHistoryKey() {
+  return 'agent-commons-temporary-meetings';
+}
+
+function temporaryTime(timestamp) {
+  return new Intl.DateTimeFormat(assemblyUI[activeLang].locale, {timeZone:'Asia/Shanghai', month:'2-digit', day:'2-digit', hour:'2-digit', minute:'2-digit', hour12:false}).format(new Date(timestamp));
+}
+
+function showTemporarySession(session) {
+  const copy = assemblyUI[activeLang];
+  const banner = document.querySelector('#temporary-session');
+  document.querySelector('#temporary-session-title').textContent = session.topic;
+  document.querySelector('#temporary-session-meta').textContent = copy.temporaryMeta(temporaryTime(session.startedAt));
+  banner.hidden = false;
+}
+
+function saveTemporarySession(session) {
+  let history = [];
+  try { history = JSON.parse(localStorage.getItem(temporaryHistoryKey()) || '[]'); } catch (error) { history = []; }
+  history.unshift(session);
+  localStorage.setItem(temporaryHistoryKey(), JSON.stringify(history.slice(0,5)));
+}
+
+function restoreTemporarySession() {
+  let history = [];
+  try { history = JSON.parse(localStorage.getItem(temporaryHistoryKey()) || '[]'); } catch (error) { history = []; }
+  const latest = history.find(session => session && session.date === beijingParts().key && session.topic);
+  activeTemporarySession = latest || null;
+  document.querySelector('#temporary-session').hidden = !activeTemporarySession;
+  if (activeTemporarySession) showTemporarySession(activeTemporarySession);
+  return activeTemporarySession;
+}
+
+function openTemporaryDialog() {
+  temporaryAgenda.value = '';
+  if (typeof temporaryDialog.showModal === 'function') temporaryDialog.showModal();
+  else temporaryDialog.setAttribute('open','');
+  window.setTimeout(() => temporaryAgenda.focus(), 40);
+}
+
+function closeTemporaryDialog() {
+  if (typeof temporaryDialog.close === 'function') temporaryDialog.close();
+  else temporaryDialog.removeAttribute('open');
+}
+
+function openTemporaryMinutes(animate = true) {
+  if (!activeTemporarySession || !agents.length) return;
+  const copy = assemblyUI[activeLang];
+  generateMeeting(animate, {title:activeTemporarySession.topic, thesis:copy.temporaryThesis}, true);
+  document.querySelector('#exchange').scrollIntoView({behavior:'smooth'});
+}
+
+function startTemporaryMeeting(event) {
+  event.preventDefault();
+  const topic = temporaryAgenda.value.trim();
+  if (!topic || !agents.length) return;
+  activeTemporarySession = {topic, startedAt:Date.now(), date:beijingParts().key};
+  saveTemporarySession(activeTemporarySession);
+  showTemporarySession(activeTemporarySession);
+  closeTemporaryDialog();
+  openTemporaryMinutes(true);
+}
+
 function restoreMeeting() {
   const raw = localStorage.getItem(`agent-commons-assembly-${beijingParts().key}`);
   if (!raw) return;
@@ -234,7 +317,9 @@ async function setLanguage(language) {
   restoreMeeting();
   renderStage();
   renderProfile(Math.min(selectedAgent,agents.length - 1));
-  generateMeeting(false);
+  const temporarySession = restoreTemporarySession();
+  if (temporarySession) generateMeeting(false, {title:temporarySession.topic, thesis:copy.temporaryThesis}, true);
+  else generateMeeting(false);
   const date = beijingParts().key;
   document.querySelector('#stage-date').textContent = `BEIJING · ${date}`;
 }
@@ -259,6 +344,13 @@ document.querySelector('#stage-convene').addEventListener('click', () => {
   document.querySelector('#exchange').scrollIntoView({behavior:'smooth'});
   generateMeeting(true);
 });
+chairAvatar.addEventListener('click', openTemporaryDialog);
+document.querySelector('#temporary-dialog-close').addEventListener('click', closeTemporaryDialog);
+temporaryForm.addEventListener('submit', startTemporaryMeeting);
+document.querySelector('#temporary-session-open').addEventListener('click', () => openTemporaryMinutes(true));
+temporaryDialog.addEventListener('click', event => {
+  if (event.target === temporaryDialog) closeTemporaryDialog();
+});
 document.querySelector('#print-brief').addEventListener('click', () => window.print());
 
 if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
@@ -269,10 +361,14 @@ if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
     const y = (event.clientY - bounds.top) / bounds.height - .5;
     citizenStage.style.setProperty('--stage-rx', `${(-y * 2.8).toFixed(2)}deg`);
     citizenStage.style.setProperty('--stage-ry', `${(x * 4.8).toFixed(2)}deg`);
+    chairAvatar.style.setProperty('--chair-rx', `${(-y * 1.8).toFixed(2)}deg`);
+    chairAvatar.style.setProperty('--chair-ry', `${(x * 4.2 - 2).toFixed(2)}deg`);
   });
   stage.addEventListener('pointerleave', () => {
     citizenStage.style.setProperty('--stage-rx','0deg');
     citizenStage.style.setProperty('--stage-ry','0deg');
+    chairAvatar.style.setProperty('--chair-rx','0deg');
+    chairAvatar.style.setProperty('--chair-ry','-2deg');
   });
 }
 
