@@ -167,7 +167,7 @@ function renderStage() {
   citizenStage.innerHTML = agents.map((agent, index) => {
     const style = `--delay:${index * .17}s;--agent:${agent.color}`;
     return `<button class="delegate orbit-person${index === selectedAgent ? ' active' : ''}" data-index="${index}" data-orbit-index="${index + 1}" data-ego="${escapeHTML(agent.id)}" type="button" style="${style}" aria-haspopup="dialog" aria-controls="temporary-meeting-dialog" aria-label="${escapeHTML(agent.name)} · ${escapeHTML(agent.field)}">
-      <img src="assets/assembly/${agent.id}-full.png" data-fallback="${escapeHTML(agent.portrait)}" alt="" draggable="false"><span class="delegate-name">${escapeHTML(agent.name)} · ${escapeHTML(agent.field)}</span><span class="ego-effect ego-${escapeHTML(agent.id)}" aria-hidden="true"><i></i><i></i><i></i></span>
+      <img src="assets/assembly/${agent.id}-ue5.png" data-fallback="${escapeHTML(agent.portrait)}" alt="" draggable="false"><span class="delegate-name">${escapeHTML(agent.name)} · ${escapeHTML(agent.field)}</span><span class="ego-effect ego-${escapeHTML(agent.id)}" aria-hidden="true"><i></i><i></i><i></i></span>
     </button>`;
   }).join('');
   citizenStage.querySelectorAll('img').forEach(image => image.addEventListener('error', () => {
