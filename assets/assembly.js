@@ -400,7 +400,7 @@ async function setLanguage(language) {
   document.querySelectorAll('[data-lang]').forEach(button => button.classList.toggle('active', button.dataset.lang === activeLang));
   const [response, frontiersResponse] = await Promise.all([
     fetch(copy.data),
-    fetch('assets/research-frontiers.json?v=20260903-1')
+    fetch('assets/research-frontiers.json?v=20260904-1')
   ]);
   if (!response.ok || !frontiersResponse.ok) throw new Error('Citizen research archive unavailable');
   agents = (await response.json()).sort((a, b) => a.order.localeCompare(b.order));
