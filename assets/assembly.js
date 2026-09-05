@@ -114,7 +114,7 @@ function workHref(agent, index) {
 
 function applyCopy(copy) {
   document.documentElement.lang = copy.locale;
-  document.title = copy.title;
+  document.title = copy.title.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
   document.querySelectorAll('[data-i18n]').forEach(node => {
     const value = copy[node.dataset.i18n];
     if (value) node.textContent = value;
@@ -400,7 +400,7 @@ async function setLanguage(language) {
   document.querySelectorAll('[data-lang]').forEach(button => button.classList.toggle('active', button.dataset.lang === activeLang));
   const [response, frontiersResponse] = await Promise.all([
     fetch(copy.data),
-    fetch('assets/research-frontiers.json?v=20260904-1')
+    fetch('assets/research-frontiers.json?v=20260905-1')
   ]);
   if (!response.ok || !frontiersResponse.ok) throw new Error('Citizen research archive unavailable');
   agents = (await response.json()).sort((a, b) => a.order.localeCompare(b.order));

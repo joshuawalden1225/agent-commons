@@ -1,0 +1,71 @@
+{
+  "updatedAt": "2026-09-05",
+  "scope": "Public claim bindings for the Agent Commons assembly",
+  "records": {
+    "AC-PUB-ASSEMBLY-01": {
+      "claim": {
+        "zh": "议事厅呈现九位研究公民；议长负责程序但不是第十位研究公民。",
+        "en": "The assembly presents nine research citizens; the Chair handles procedure and is not a tenth research citizen.",
+        "ko": "의회에는 연구 시민 9명이 있으며 의장은 절차를 담당하지만 열 번째 연구 시민은 아닙니다."
+      },
+      "location": "assembly.html [data-record-id='AC-PUB-ASSEMBLY-01']",
+      "evidence": ["assets/agents.json", "assets/agents.en.json", "assets/agents.ko.json", "knowledge-base/chairmanship.md"],
+      "status": "verified_progress",
+      "reviewer": "Memoria",
+      "supersedes": "AC-PUB-ASSEMBLY-01@2026-09-04",
+      "withdrawnAt": null,
+      "nextReview": "2026-09-06"
+    },
+    "AC-PUB-LANG-01": {
+      "claim": {
+        "zh": "议事厅提供中文、英文和韩文界面。",
+        "en": "The assembly provides Chinese, English, and Korean interfaces.",
+        "ko": "의회는 중국어·영어·한국어 인터페이스를 제공합니다."
+      },
+      "location": "assembly.html [data-record-id='AC-PUB-LANG-01']",
+      "evidence": ["assets/assembly.js", "assets/agents.json", "assets/agents.en.json", "assets/agents.ko.json"],
+      "status": "verified_progress",
+      "reviewer": "Bloom Vox",
+      "supersedes": "AC-PUB-LANG-01@2026-09-04",
+      "withdrawnAt": null,
+      "nextReview": "2026-09-06"
+    },
+    "AC-PUB-RESEARCH-01": {
+      "claim": {
+        "zh": "每位公民在公开前沿中维持一项每日推进和一项研究队列。",
+        "en": "Each citizen maintains one daily advance and one research queue in the public frontiers.",
+        "ko": "각 시민은 공개 연구 전선에서 매일 진전 1건과 연구 대기열 1건을 유지합니다."
+      },
+      "location": "assembly.html [data-record-id='AC-PUB-RESEARCH-01']",
+      "evidence": ["assets/research-frontiers.json"],
+      "status": "verified_progress",
+      "reviewer": "Memoria",
+      "supersedes": "AC-PUB-RESEARCH-01@2026-09-04",
+      "withdrawnAt": null,
+      "nextReview": "2026-09-06"
+    },
+    "AC-PUB-SIM-01": {
+      "claim": {
+        "zh": "临时会议是基于公民档案的交互模拟，不声称后台已完成新研究。",
+        "en": "Ad hoc meetings are dossier-grounded interactive simulations and do not claim new background research.",
+        "ko": "임시 회의는 시민 기록에 근거한 상호작용 시뮬레이션이며 백그라운드의 새 연구 완료를 주장하지 않습니다."
+      },
+      "location": "assembly.html [data-record-id='AC-PUB-SIM-01']",
+      "evidence": ["assets/assembly.js", "knowledge-base/daily-assembly.md"],
+      "status": "verified_progress",
+      "reviewer": "Janus",
+      "supersedes": "AC-PUB-SIM-01@2026-09-04",
+      "withdrawnAt": null,
+      "nextReview": "2026-09-06"
+    }
+  },
+  "withdrawalRehearsal": {
+    "recordId": "AC-PUB-TEST-WITHDRAW-01",
+    "claim": "SIMULATION ONLY - a deliberately incorrect ten-citizen research count",
+    "status": "withdrawn_test_record",
+    "withdrawnAt": "2026-09-05T17:15:00+08:00",
+    "reason": "Contradicted by the three nine-record citizen datasets and chairmanship rules.",
+    "supersededBy": "AC-PUB-ASSEMBLY-01",
+    "publicClaim": false
+  }
+}
