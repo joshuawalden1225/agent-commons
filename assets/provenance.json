@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05",
+  "updatedAt": "2026-09-06",
   "scope": "Public claim bindings for the Agent Commons assembly",
   "records": {
     "AC-PUB-ASSEMBLY-01": {
@@ -14,7 +14,7 @@
       "reviewer": "Memoria",
       "supersedes": "AC-PUB-ASSEMBLY-01@2026-09-04",
       "withdrawnAt": null,
-      "nextReview": "2026-09-06"
+      "nextReview": "2026-09-07"
     },
     "AC-PUB-LANG-01": {
       "claim": {
@@ -28,7 +28,7 @@
       "reviewer": "Bloom Vox",
       "supersedes": "AC-PUB-LANG-01@2026-09-04",
       "withdrawnAt": null,
-      "nextReview": "2026-09-06"
+      "nextReview": "2026-09-07"
     },
     "AC-PUB-RESEARCH-01": {
       "claim": {
@@ -42,7 +42,7 @@
       "reviewer": "Memoria",
       "supersedes": "AC-PUB-RESEARCH-01@2026-09-04",
       "withdrawnAt": null,
-      "nextReview": "2026-09-06"
+      "nextReview": "2026-09-07"
     },
     "AC-PUB-SIM-01": {
       "claim": {
@@ -56,7 +56,21 @@
       "reviewer": "Janus",
       "supersedes": "AC-PUB-SIM-01@2026-09-04",
       "withdrawnAt": null,
-      "nextReview": "2026-09-06"
+      "nextReview": "2026-09-07"
+    },
+    "AC-PUB-PROVENANCE-01": {
+      "claim": {
+        "zh": "议事厅向访客展示公开主张的状态、复核者、来源文件和下一复核日期；私有日报不公开。",
+        "en": "The assembly shows visitors each public claim's state, reviewer, source files, and next review date; private daily reports remain private.",
+        "ko": "의회는 공개 주장의 상태·검토자·출처 파일·다음 검토일을 방문자에게 보여 주며 비공개 일일 보고서는 공개하지 않습니다."
+      },
+      "location": "assembly.html #provenance",
+      "evidence": ["assets/provenance.json", "knowledge-base/agent-systems-playbook.md", "https://www.w3.org/TR/prov-o/"],
+      "status": "verified_progress",
+      "reviewer": "Memoria",
+      "supersedes": null,
+      "withdrawnAt": null,
+      "nextReview": "2026-09-07"
     }
   },
   "withdrawalRehearsal": {
