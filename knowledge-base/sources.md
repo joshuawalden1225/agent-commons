@@ -11,6 +11,11 @@
 7. [AutoGen Studio 使用指南](https://microsoft.github.io/autogen/stable/user-guide/autogenstudio-user-guide/usage.html)：团队、Agent、模型、工具和终止条件的声明式配置与可视检查。
 8. [CrewAI Agents 文档](https://docs.crewai.com/core-concepts/Agents)：Agent、Crew 与 Flow 的职责划分。
 9. [LangGraph 概览](https://docs.langchain.com/oss/python/langgraph/overview)：持久执行、可恢复状态、人类介入和长期记忆。
+10. [CrewAI v1.15.19](https://github.com/crewAIInc/crewAI/releases/tag/1.15.19)与[v1.15.20](https://github.com/crewAIInc/crewAI/releases/tag/1.15.20)：2026-09-04 的终止原因、全路径 hook/deny 传播与旧版工具别名修复；状态为 `external development`。
+11. [OpenAI Agents SDK v0.22.0](https://github.com/openai/openai-agents-python/releases/tag/v0.22.0)：2026-08-19 的重放安全、终止失败处理与检查点用量隔离；2026-09-01—07 未核实到新发布，状态为 `no verified change`。
+12. [LangGraph SDK 0.4.4](https://github.com/langchain-ai/langgraph/releases/tag/sdk%3D%3D0.4.4)：2026-08-27 的 thread-stream trace 路由；2026-09-01—07 未核实到新发布，状态为 `no verified change`。
+13. [AutoGen 官方仓库](https://github.com/microsoft/autogen)：2026-09-07 复核为 Maintenance Mode，最新发布仍为 2025-09-30 的 python-v0.7.5；状态为 `maintenance mode · no verified change`。
+14. [新万金供水干线实施计划批准公告](https://admin.korea.kr/briefing/pressReleaseView.do?newsId=156780508&pWise=mSub&pWiseSub=C1)：2026-09-07 发布，所述批准/公告事件日为 2026-09-04；状态为 `external development / implementation-plan approved`，不代表已开工或完工。
 
 ## 资料层级
 

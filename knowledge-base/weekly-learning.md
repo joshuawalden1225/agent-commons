@@ -25,3 +25,29 @@
 | LangGraph | [Overview](https://docs.langchain.com/oss/python/langgraph/overview) | 持久执行、可恢复状态、人类介入和长期记忆 | 每日/每周任务保留检查点与无变化结果，使运行可续接 |
 
 本文件保存结构化学习记录；网站读取 `assets/weekly-learning.json` 展示最新观察。自动任务可以更新观察与候选实验，但不得自行改变九位公民人格、议长权限、用户终审或正式规则。
+
+## 本周观察（2026-09-07）
+
+**检查窗口：** 2026-09-01—2026-09-07　**证据截止：** 2026-09-07 17:12（北京时间）
+
+| 项目 | 发布日 / 事件日 | 证据状态 | 来源事实 | 可迁移原则 | Agent Commons 候选 |
+|---|---|---|---|---|---|
+| CrewAI | 2026-09-04 / 2026-09-04 | `external development` | [v1.15.19](https://github.com/crewAIInc/crewAI/releases/tag/1.15.19) 记录每次 Crew 运行怎样结束，并让模型调用钩子覆盖所有路径、传播 deny；[v1.15.20](https://github.com/crewAIInc/crewAI/releases/tag/1.15.20) 随后修复旧版工具别名发现 | 失败、拒绝与未完成都需要结构化终止回执，而非只保存成功输出 | 候选运行回执：计划时间、实际时间、终止原因、证据增量、策略拦截和下一检查点 |
+| OpenAI Agents SDK | 2026-08-19 / 2026-08-19 | `no verified change` | 本周没有核实到新发布；当前 [v0.22.0](https://github.com/openai/openai-agents-python/releases/tag/v0.22.0) 会从持久/重放状态移除被输出护栏拒绝的终止工具输出，并隔离检查点使用量 | 护栏效果必须在重放后继续成立；检查点计量不能串账 | 候选重放安全脱敏不变式与检查点核账测试 |
+| LangGraph | 2026-08-27 / 2026-08-27 | `no verified change` | 本周没有核实到新发布；当前 [SDK 0.4.4](https://github.com/langchain-ai/langgraph/releases/tag/sdk%3D%3D0.4.4) 将 LangSmith trace 从 thread stream 路由到正确追踪边界 | 可观测性要沿事件边界进入长期记录，并保存关联关系 | 候选关联 ID：会议交流 → 研究产物 → 公开来源 |
+| AutoGen | 最新发布 2025-09-30 / 复核 2026-09-07 | `maintenance mode · no verified change` | [官方仓库](https://github.com/microsoft/autogen) 处于 Maintenance Mode，最新发布仍为 python-v0.7.5，并建议新用户转向 Microsoft Agent Framework | 来源生命周期状态本身就是证据，维护态样本不能自动代表前沿方向 | 在来源登记中标注 `active / maintenance / superseded`，并监控后继项目；不作架构迁移 |
+
+### 四层蒸馏结论
+
+1. **来源事实：** 只有 CrewAI 在本周窗口内出现可核验发布；另外三个项目均明确记录 `no verified change`，AutoGen 另标维护态。
+2. **可迁移原则：** 运行终止、护栏重放、事件关联与来源生命周期都应成为可查询状态。
+3. **本地制度候选：** 运行回执、重放安全检查、跨产物关联 ID 和来源生命周期标签；均未提升为正式规则。
+4. **可测实验：** 只开放以下三项七天候选，截止 2026-09-14；任何回退条件触发即停止并保留结果。
+
+| 实验 | 指标 | 负责人 | 截止 | 回退条件 |
+|---|---|---|---|---|
+| E1 终止回执完整性 | 100% 定时运行含 `scheduledTime / actualTime / endReason / evidenceDelta / policyStop / nextCheckpoint` | 墨契 + 药镜 | 2026-09-14 | 运行开销增加 >10%，或用户可见简报增加超过一行 |
+| E2 重放安全与计量隔离 | 9/9 合成阻断案例未进入持久状态，且检查点计数可对账 | 药镜 + 界脉 | 2026-09-14 | 合法证据链接被误删，或状态恢复失败 |
+| E3 交流—产物—来源关联 | 9/9 每日交流可解析到发言者、研究产物、证据状态/来源和下一负责人 | 逸帧 + 墨契 | 2026-09-14 | 页面 p95 加载增加 >200 ms，或暴露私有路径 |
+
+**治理边界：** 本周只更新学习登记与候选实验，没有改变九位公民人格、议长权限、用户终审或正式架构。

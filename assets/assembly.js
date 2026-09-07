@@ -213,6 +213,14 @@ function provenanceErrors(manifest) {
   document.querySelectorAll('[data-record-id]').forEach(node => {
     if (!manifest.records[node.dataset.recordId]) errors.push(`DOM.${node.dataset.recordId}`);
   });
+  const rehearsal = manifest.withdrawalRehearsal;
+  if (rehearsal) {
+    ['recordId','status','withdrawnAt','reason','supersededBy'].forEach(field => {
+      if (rehearsal[field] === undefined || rehearsal[field] === null || rehearsal[field] === '') errors.push(`withdrawalRehearsal.${field}`);
+    });
+    if (rehearsal.publicClaim !== false) errors.push('withdrawalRehearsal.publicClaim');
+    if (rehearsal.supersededBy && !manifest.records[rehearsal.supersededBy]) errors.push('withdrawalRehearsal.supersededBy');
+  }
   return [...new Set(errors)];
 }
 
@@ -441,8 +449,8 @@ async function setLanguage(language) {
   document.querySelectorAll('[data-lang]').forEach(button => button.classList.toggle('active', button.dataset.lang === activeLang));
   const [response, frontiersResponse, provenanceResponse] = await Promise.all([
     fetch(copy.data),
-    fetch('assets/research-frontiers.json?v=20260906-1'),
-    fetch('assets/provenance.json?v=20260906-1')
+    fetch('assets/research-frontiers.json?v=20260907-1'),
+    fetch('assets/provenance.json?v=20260907-1')
   ]);
   if (!response.ok || !frontiersResponse.ok || !provenanceResponse.ok) throw new Error('Citizen research archive unavailable');
   agents = (await response.json()).sort((a, b) => a.order.localeCompare(b.order));

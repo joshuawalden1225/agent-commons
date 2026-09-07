@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06",
+  "updatedAt": "2026-09-07",
   "scope": "Public claim bindings for the Agent Commons assembly",
   "records": {
     "AC-PUB-ASSEMBLY-01": {
@@ -14,7 +14,7 @@
       "reviewer": "Memoria",
       "supersedes": "AC-PUB-ASSEMBLY-01@2026-09-04",
       "withdrawnAt": null,
-      "nextReview": "2026-09-07"
+      "nextReview": "2026-09-08"
     },
     "AC-PUB-LANG-01": {
       "claim": {
@@ -28,7 +28,7 @@
       "reviewer": "Bloom Vox",
       "supersedes": "AC-PUB-LANG-01@2026-09-04",
       "withdrawnAt": null,
-      "nextReview": "2026-09-07"
+      "nextReview": "2026-09-08"
     },
     "AC-PUB-RESEARCH-01": {
       "claim": {
@@ -42,7 +42,7 @@
       "reviewer": "Memoria",
       "supersedes": "AC-PUB-RESEARCH-01@2026-09-04",
       "withdrawnAt": null,
-      "nextReview": "2026-09-07"
+      "nextReview": "2026-09-08"
     },
     "AC-PUB-SIM-01": {
       "claim": {
@@ -56,7 +56,7 @@
       "reviewer": "Janus",
       "supersedes": "AC-PUB-SIM-01@2026-09-04",
       "withdrawnAt": null,
-      "nextReview": "2026-09-07"
+      "nextReview": "2026-09-08"
     },
     "AC-PUB-PROVENANCE-01": {
       "claim": {
@@ -70,7 +70,21 @@
       "reviewer": "Memoria",
       "supersedes": null,
       "withdrawnAt": null,
-      "nextReview": "2026-09-07"
+      "nextReview": "2026-09-08"
+    },
+    "AC-PUB-WEEKLY-01": {
+      "claim": {
+        "zh": "系统页展示每周官方多 Agent 项目学习，并把外部变化、无已核实变化、候选实验和正式制度分开。",
+        "en": "The system page publishes weekly learning from official multi-agent projects while separating external developments, no verified change, candidate experiments, and formal institutions.",
+        "ko": "시스템 페이지는 공식 멀티 에이전트 프로젝트의 주간 학습을 공개하고 외부 변화·확인된 변화 없음·후보 실험·공식 제도를 구분합니다."
+      },
+      "location": "system.html #weekly-learning",
+      "evidence": ["assets/weekly-learning.json", "knowledge-base/weekly-learning.md", "knowledge-base/sources.md"],
+      "status": "verified_progress",
+      "reviewer": "Memoria",
+      "supersedes": null,
+      "withdrawnAt": null,
+      "nextReview": "2026-09-14"
     }
   },
   "withdrawalRehearsal": {
