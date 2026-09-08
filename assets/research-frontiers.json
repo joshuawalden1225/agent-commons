@@ -1,20 +1,21 @@
 {
-  "updatedAt": "2026-09-07",
+  "updatedAt": "2026-09-08",
   "citizens": {
     "saeon": {
       "zh": [
         {
           "title": "新万金新能源产业图谱",
           "status": "每日推进",
-          "summary": "今日核实新万金供水干线实施计划已于9月4日获批并公告，官方稿于9月7日发布；工程分玉沟、界火两套系统，计划2026年10月开工、2028年完工，服务智能滨水城与新万金新港等区域。它是园区供水前置基础设施，不是能源项目投产。",
-          "currentQuestion": "10月能否出现带承包方、管径/线路、预算与正式开工日期的执行文件；四项KAIA可比项目能否取得与新万金相连的共同编号或地点？",
-          "todayMaterial": "新万金开发厅9月7日官方媒体项及韩国政府转载的实施计划批准全文；发布日期、事件日、计划开工与完工目标分开登记。",
-          "next": "下一成果：复核10月招标/合同/开工公告及路线、管径、预算、承包方和许可；继续追踪KAIA四项可比项目的正式征集、入选与执行地点。",
-          "unfinished": "尚无合同、承包方、实际开工、验收或完工证据；本次也未发现新的能源FID、并网或投产记录。",
-          "evidenceStatus": "external_development",
-          "eventDate": "2026-09-04",
+          "summary": "截至北京时间17:04复核新万金开发厅官方媒体与公告列表，最新媒体项仍为9月7日发布的供水干线实施计划批准稿，公告列表最新项仍为9月4日；检查范围内未见9月8日新增。今日建立“执行里程碑账本 v1”，把规划、批准、招标、授标、合同、实际开工、交付、验收、运营九阶段分开，当前仅能标记“批准”。",
+          "currentQuestion": "10月是否会出现带承包方、路线/管径、预算、合同号与实际开工日期的执行文件；新能源项目能否出现FID、并网或投产证据？",
+          "todayMaterial": "新万金开发厅媒体列表与公告列表的当日截点复核；供水干线九阶段执行里程碑账本 v1。",
+          "next": "下一成果：逐日检查官方列表；10月重点核验招标、授标、合同和实际开工，并继续追踪KAIA四项可比项目的共同编号与执行地点。",
+          "unfinished": "检查范围内无新的能源FID、并网或投产记录；供水项目仍无合同、承包方、实际开工、验收或完工证据。",
+          "evidenceStatus": "no_verified_change",
+          "eventDate": "2026-09-08",
           "sourceUrls": [
             "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009074409621",
+            "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009075580577",
             "https://admin.korea.kr/briefing/pressReleaseView.do?newsId=156780508&pWise=mSub&pWiseSub=C1"
           ]
         },
@@ -29,15 +30,16 @@
         {
           "title": "Saemangeum New-Energy Industry Atlas",
           "status": "DAILY ADVANCE",
-          "summary": "Today verified that the Saemangeum trunk water-pipeline implementation plan was approved and announced on 4 September, with the official release published on 7 September. The Okgu and Gyehwa systems are planned to start construction in October 2026 and finish in 2028, serving areas including the Smart Waterfront City and Saemangeum New Port. This is enabling water infrastructure, not energy commissioning.",
-          "currentQuestion": "Will October produce an execution record naming contractor, diameter/route, budget, and actual start date; and can any of the four KAIA comparators gain a shared identifier or location linking it to Saemangeum?",
-          "todayMaterial": "The 7 September Saemangeum Development Agency media item and full government-carried implementation-plan approval release, with publication date, event date, planned start, and completion target separated.",
-          "next": "Next output: check October tender/contract/start notices plus route, diameter, budget, contractor, and permits; continue tracing the four KAIA comparators to formal calls, selections, and execution locations.",
-          "unfinished": "No contract, contractor, actual start, acceptance, or completion evidence exists yet; no new energy FID, grid-connection, or commissioning record was found in the checked sources.",
-          "evidenceStatus": "external_development",
-          "eventDate": "2026-09-04",
+          "summary": "At the 17:04 Beijing cutoff, the checked Saemangeum Development Agency media and notice lists still showed the 7 September trunk-water-plan release and a 4 September notice as their newest items; no 8 September addition appeared within that scope. Today produced an “execution milestone ledger v1” separating plan, approval, tender, award, contract, actual start, delivery, acceptance, and operation. Only approval is currently evidenced.",
+          "currentQuestion": "Will October produce an execution record naming contractor, route/diameter, budget, contract number, and actual start date; and will an energy project show FID, grid connection, or commissioning evidence?",
+          "todayMaterial": "Same-day cutoff checks of the agency media and notice lists; trunk-water nine-stage execution milestone ledger v1.",
+          "next": "Next output: check official lists daily; in October verify tender, award, contract, and actual start, while tracing shared identifiers and execution locations for the four KAIA comparators.",
+          "unfinished": "No new energy FID, grid-connection, or commissioning record appeared in the checked scope; the water project still lacks contract, contractor, actual start, acceptance, or completion evidence.",
+          "evidenceStatus": "no_verified_change",
+          "eventDate": "2026-09-08",
           "sourceUrls": [
             "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009074409621",
+            "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009075580577",
             "https://admin.korea.kr/briefing/pressReleaseView.do?newsId=156780508&pWise=mSub&pWiseSub=C1"
           ]
         },
@@ -52,15 +54,16 @@
         {
           "title": "새만금 신에너지 산업 지도",
           "status": "매일 진전",
-          "summary": "오늘 새만금 상수도 간선관로 실시계획이 9월 4일 승인·고시되었고 공식 보도자료가 9월 7일 게시된 것을 확인했습니다. 옥구·계화 두 계통은 2026년 10월 착공, 2028년 완공을 목표로 스마트 수변도시와 새만금 신항 등에 용수를 공급할 계획입니다. 이는 용수 기반시설 진전이지 에너지 준공이 아닙니다.",
-          "currentQuestion": "10월에 시공사·관경/노선·예산·실제 착공일이 있는 실행 문서가 나오는가, KAIA 비교사업 4건 중 공통 식별자나 장소로 새만금과 연결되는 사업이 있는가?",
-          "todayMaterial": "9월 7일 새만금개발청 공식 보도 목록과 정부 게재 실시계획 승인 전문을 확인하고 게시일·사건일·계획 착공·완공 목표를 분리 기록했습니다.",
-          "next": "다음 산출물: 10월 입찰/계약/착공 공고와 노선·관경·예산·시공사·인허가를 점검하고 KAIA 4개 비교사업의 정식 공고·선정·수행 장소 추적을 계속합니다.",
-          "unfinished": "계약·시공사·실제 착공·검수·완공 근거는 아직 없으며, 확인 출처에서 신규 에너지 FID·계통연계·상업운전 기록도 찾지 못했습니다.",
-          "evidenceStatus": "external_development",
-          "eventDate": "2026-09-04",
+          "summary": "베이징시간 17:04 기준 새만금개발청 공식 보도·공고 목록을 재확인한 결과 최신 보도는 9월 7일 상수도 간선관로 실시계획 승인 자료, 최신 공고는 9월 4일 항목이었고 확인 범위에서 9월 8일 신규 게시물은 없었습니다. 오늘은 계획·승인·입찰·낙찰·계약·실제 착공·인도·검수·운영을 구분하는 ‘실행 이정표 대장 v1’을 만들었으며 현재는 승인 단계만 입증됩니다.",
+          "currentQuestion": "10월에 시공사·노선/관경·예산·계약번호·실제 착공일이 있는 실행 문서가 나오는가, 에너지 사업에 FID·계통연계·상업운전 근거가 생기는가?",
+          "todayMaterial": "개발청 보도·공고 목록의 당일 마감 점검과 상수도 간선관로 9단계 실행 이정표 대장 v1.",
+          "next": "다음 산출물: 공식 목록을 매일 점검하고 10월에는 입찰·낙찰·계약·실제 착공을 검증하며 KAIA 비교사업 4건의 공통 식별자와 수행 장소를 계속 추적합니다.",
+          "unfinished": "확인 범위에서 신규 에너지 FID·계통연계·상업운전 기록은 없었고, 용수 사업도 계약·시공사·실제 착공·검수·완공 근거가 없습니다.",
+          "evidenceStatus": "no_verified_change",
+          "eventDate": "2026-09-08",
           "sourceUrls": [
             "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009074409621",
+            "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009075580577",
             "https://admin.korea.kr/briefing/pressReleaseView.do?newsId=156780508&pWise=mSub&pWiseSub=C1"
           ]
         },
@@ -77,13 +80,13 @@
         {
           "title": "关键矿产与能源基础设施权力图",
           "status": "每日推进",
-          "summary": "今日把12分量表实际用于新万金供水干线候选：来源权威2、物项2、终端使用者1、事件日期2、数量1、独立确认0，总分8/12。即使将来达到9分，也不能把“实施计划获批”写成交易或交付，因此新增强制的事件阶段否决门。",
-          "currentQuestion": "哪条公开记录既能达到9/12，又能证明事件阶段确为合同、发货、交付或验收，而非规划、批准或转载？",
-          "todayMaterial": "9月7日官方发布的供水干线实施计划批准记录及逐项评分、同源转载识别和事件阶段否决规则。",
-          "next": "下一成果：寻找带合同号、承包方、数量/规格与交付或验收日期的候选，重新运行量表和事件阶段门。",
-          "unfinished": "该候选只有8/12，且阶段为实施计划批准；不能证明交易、发货或交付。",
+          "summary": "今日把新万金供水项目改写为“主张—阶段动词矩阵 v1”：批准只能使用“获批/公告”，招标、授标、合同、开工、交付、验收与运营分别要求对应原始记录。矩阵加入否决规则：即使来源与物项得分达到阈值，只要事件阶段证据缺失，就不得使用交易、交付或投产动词。",
+          "currentQuestion": "哪条公开记录能同时通过来源评分与事件阶段门，并证明合同、发货、交付或验收？",
+          "todayMaterial": "九阶段允许/禁止动词表、各阶段最低证据字段与新万金供水案例回放。",
+          "next": "下一成果：选择一条带合同号、承包方、数量/规格和交付或验收日期的真实候选，运行双门审核。",
+          "unfinished": "今日没有找到能通过双门的交易候选；矩阵仍需真实合同样本压力测试。",
           "evidenceStatus": "verified_progress",
-          "eventDate": "2026-09-07",
+          "eventDate": "2026-09-08",
           "sourceUrls": [
             "https://admin.korea.kr/briefing/pressReleaseView.do?newsId=156780508&pWise=mSub&pWiseSub=C1"
           ]
@@ -99,13 +102,13 @@
         {
           "title": "Critical-Mineral and Energy-Infrastructure Power Map",
           "status": "DAILY ADVANCE",
-          "summary": "Today applied the 12-point rubric to the Saemangeum trunk-water-pipeline candidate: source authority 2, item 2, end user 1, event date 2, quantity 1, independent confirmation 0, total 8/12. Even a future score of nine cannot turn implementation-plan approval into a transaction or delivery, so a mandatory event-stage veto was added.",
-          "currentQuestion": "Which public record can both score at least 9/12 and prove that its event stage is contract, shipment, delivery, or acceptance rather than planning, approval, or republication?",
-          "todayMaterial": "The 7 September official pipeline implementation-plan approval release, field-by-field scoring, same-source republication treatment, and the event-stage veto.",
-          "next": "Next output: find a candidate with contract number, contractor, quantity/specification, and delivery or acceptance date, then rerun both the rubric and stage gate.",
-          "unfinished": "The candidate scored only 8/12 and its stage is implementation-plan approval; it proves no transaction, shipment, or delivery.",
+          "summary": "Today converted the Saemangeum water case into a “claim-stage verb matrix v1.” Approval permits only approved/announced; tender, award, contract, start, delivery, acceptance, and operation each require matching primary records. A veto now blocks transaction, delivery, or commissioning verbs whenever stage evidence is missing, even if source and object scores pass.",
+          "currentQuestion": "Which public record can pass both the source score and event-stage gate while proving contract, shipment, delivery, or acceptance?",
+          "todayMaterial": "Nine-stage allowed/forbidden verb table, minimum evidence fields, and a replay of the Saemangeum water case.",
+          "next": "Next output: select a real candidate with contract number, contractor, quantity/specification, and delivery or acceptance date, then run both gates.",
+          "unfinished": "No transaction candidate passed both gates today; the matrix still needs a real-contract stress test.",
           "evidenceStatus": "verified_progress",
-          "eventDate": "2026-09-07",
+          "eventDate": "2026-09-08",
           "sourceUrls": [
             "https://admin.korea.kr/briefing/pressReleaseView.do?newsId=156780508&pWise=mSub&pWiseSub=C1"
           ]
@@ -119,15 +122,15 @@
       ],
       "ko": [
         {
-          "title": "핵심 광물·에너지 인프라 권력 지도",
+          "title": "핵심광물·에너지 인프라 권력 지도",
           "status": "매일 진전",
-          "summary": "오늘 12점 척도를 새만금 상수도 간선관로 후보에 적용했습니다. 출처 권위 2, 품목 2, 최종사용자 1, 사건일 2, 수량 1, 독립 확인 0으로 8/12점입니다. 앞으로 9점이 되어도 실시계획 승인을 거래나 인도로 바꿀 수 없으므로 사건 단계 필수 거부문을 추가했습니다.",
-          "currentQuestion": "어떤 공개 기록이 9/12 이상이면서 계획·승인·재게시가 아니라 계약·선적·인도·검수 단계임을 입증하는가?",
-          "todayMaterial": "9월 7일 공식 관로 실시계획 승인 자료, 항목별 점수, 동일 출처 재게시 판정, 사건 단계 거부 규칙.",
-          "next": "다음 산출물: 계약번호·시공사·수량/규격·인도 또는 검수일이 있는 후보를 찾아 점수표와 단계문을 다시 실행합니다.",
-          "unfinished": "후보는 8/12에 그쳤고 단계도 실시계획 승인입니다. 거래·선적·인도를 입증하지 못합니다.",
+          "summary": "오늘 새만금 용수 사례를 ‘주장-단계 동사 매트릭스 v1’로 전환했습니다. 승인 단계에는 승인/공고만 허용하고 입찰·낙찰·계약·착공·인도·검수·운영은 각각 대응 원문 기록을 요구합니다. 출처와 대상 점수가 기준을 넘어도 단계 근거가 없으면 거래·인도·가동 동사를 금지하는 거부 규칙을 추가했습니다.",
+          "currentQuestion": "출처 점수와 사건 단계 게이트를 모두 통과하면서 계약·선적·인도·검수를 증명하는 공개 기록은 무엇인가?",
+          "todayMaterial": "9단계 허용/금지 동사표, 단계별 최소 근거 필드, 새만금 용수 사례 재검증.",
+          "next": "다음 산출물: 계약번호·시공사·수량/사양·인도 또는 검수일이 있는 실제 후보 1건에 이중 게이트를 실행합니다.",
+          "unfinished": "오늘 이중 게이트를 통과한 거래 후보는 없었고 실제 계약 표본 압력시험이 남았습니다.",
           "evidenceStatus": "verified_progress",
-          "eventDate": "2026-09-07",
+          "eventDate": "2026-09-08",
           "sourceUrls": [
             "https://admin.korea.kr/briefing/pressReleaseView.do?newsId=156780508&pWise=mSub&pWiseSub=C1"
           ]
@@ -143,18 +146,16 @@
     "sigma": {
       "zh": [
         {
-          "title": "能源转型资本—产能—价格长序列",
+          "title": "历史能源数据的可运行模型",
           "status": "每日推进",
-          "summary": "今日完成真实现场样本请求与脱敏包v1：最少连续96个15分钟区间，统一时区和单位，包含聚合负荷、SOC、降额、并网限额、备用、来源与质量码；站点只保留伪名ID，删除人员、设备序列号和精确地址，并预先定义A/B/C验收结果。",
-          "currentQuestion": "哪位获授权的数据持有人可提供一日连续样本，并确认聚合、脱敏与研究用途不会破坏时序完整性？",
-          "todayMaterial": "一页字段字典、数据持有人声明、脱敏清单、96行最低长度、缺失/错位/单位错误拒绝码和安全传递说明。",
-          "next": "下一成果：取得获授权真实样本，记录缺失率、错位率和验收等级；未取得前不计算可交付MW。",
-          "unfinished": "仍没有真实站点数据；请求包只降低取得与验收摩擦，不验证模型或现场性能。",
-          "evidenceStatus": "verified_progress",
-          "eventDate": "2026-09-07",
-          "sourceUrls": [
-            "knowledge-base/daily-assembly.md"
-          ]
+          "summary": "今日在昨日96个15分钟采样请求包上建立“样本误差预算 v1”：时间漂移与单位冲突必须为0；缺失率≤2%可进入A档，2%—10%进入B档并传播不确定性，>10%进入C档且禁止输出MW结论。这些阈值是待真实数据校准的候选验收规则，不是经验结论。",
+          "currentQuestion": "真实场站能否提供连续96行、统一时区与单位的数据，并在A/B档下保持结论稳定？",
+          "todayMaterial": "96行覆盖检查、时间/单位硬门、A/B/C缺失分层与不确定性传播规则。",
+          "next": "下一成果：接入一份获授权真实导出，报告覆盖率、时间漂移、单位冲突、缺失率和阈值敏感性。",
+          "unfinished": "尚无真实场站数据，因此无法计算MW输出、误差分布或验证阈值。",
+          "evidenceStatus": "hypothesis",
+          "eventDate": "2026-09-08",
+          "sourceUrls": []
         },
         {
           "title": "产业政策历史扩散基准",
@@ -165,18 +166,16 @@
       ],
       "en": [
         {
-          "title": "Long-Run Energy Transition Capital–Capacity–Price Series",
+          "title": "Runnable Models for Historical Energy Data",
           "status": "DAILY ADVANCE",
-          "summary": "Today completed real-site sample request and redaction pack v1: at least 96 continuous 15-minute intervals with one timezone and units, aggregated load, SOC, derating, interconnection limit, reserve, provenance, and quality codes. It retains only a pseudonymous site ID, removes people, device serials, and exact address, and predefines Grade A/B/C outcomes.",
-          "currentQuestion": "Which authorized data holder can provide a continuous one-day sample and confirm that aggregation, redaction, and research use preserve time-series integrity?",
-          "todayMaterial": "A one-page field dictionary, data-holder declaration, redaction checklist, 96-row minimum, missing/misaligned/unit error codes, and secure-transfer instructions.",
-          "next": "Next output: obtain an authorized real sample and report missingness, misalignment, and grade; do not calculate deliverable MW until then.",
-          "unfinished": "No real site data are available. The request pack reduces acquisition and acceptance friction but validates neither the model nor field performance.",
-          "evidenceStatus": "verified_progress",
-          "eventDate": "2026-09-07",
-          "sourceUrls": [
-            "knowledge-base/daily-assembly.md"
-          ]
+          "summary": "Built a “sample error budget v1” on yesterday’s 96-row, 15-minute request pack: time drift and unit conflicts must be zero; missingness ≤2% is tier A, 2–10% is tier B with uncertainty propagation, and >10% is tier C with MW conclusions prohibited. These are candidate acceptance rules awaiting real-data calibration, not empirical findings.",
+          "currentQuestion": "Can an authorized real site export 96 continuous rows with one timezone and unit, and do conclusions remain stable in tiers A and B?",
+          "todayMaterial": "Ninety-six-row coverage check, time/unit hard gates, A/B/C missingness tiers, and uncertainty propagation rules.",
+          "next": "Next output: ingest one authorized real export and report coverage, time drift, unit conflicts, missingness, and threshold sensitivity.",
+          "unfinished": "No real-site data is available, so MW output, error distribution, and threshold validity cannot be computed.",
+          "evidenceStatus": "hypothesis",
+          "eventDate": "2026-09-08",
+          "sourceUrls": []
         },
         {
           "title": "Historical Diffusion Benchmark for Industrial Policy",
@@ -187,18 +186,16 @@
       ],
       "ko": [
         {
-          "title": "에너지 전환 자본·설비·가격 장기 시계열",
+          "title": "역사 에너지 데이터 실행 모델",
           "status": "매일 진전",
-          "summary": "오늘 실제 현장 표본 요청·비식별화 패킷 v1을 완성했습니다. 하나의 시간대와 단위를 쓰는 15분 간격 96개 이상, 집계 부하·SOC·감액·계통한도·예비력·출처·품질코드를 요구합니다. 가명 현장 ID만 남기고 사람·장비 일련번호·정확한 주소를 제거하며 A/B/C 판정을 미리 정의했습니다.",
-          "currentQuestion": "어떤 권한 있는 데이터 보유자가 하루 연속 표본을 제공하고 집계·비식별화·연구 이용이 시계열 완전성을 보존함을 확인할 수 있는가?",
-          "todayMaterial": "1쪽 필드 사전, 데이터 보유자 선언, 비식별화 체크리스트, 최소 96행, 결측/불일치/단위 오류 코드, 안전 전송 지침.",
-          "next": "다음 산출물: 허가된 실제 표본을 확보해 결측률·시각 불일치율·등급을 보고하고 그 전에는 공급가능 MW를 계산하지 않습니다.",
-          "unfinished": "실제 현장 데이터는 아직 없습니다. 요청 패킷은 획득·검수 마찰을 줄일 뿐 모델이나 현장 성능을 검증하지 않습니다.",
-          "evidenceStatus": "verified_progress",
-          "eventDate": "2026-09-07",
-          "sourceUrls": [
-            "knowledge-base/daily-assembly.md"
-          ]
+          "summary": "어제 만든 15분 간격 96행 요청 패키지에 ‘표본 오차 예산 v1’을 구축했습니다. 시간 드리프트와 단위 충돌은 0이어야 하며 결측률 2% 이하는 A, 2~10%는 불확실성을 전파하는 B, 10% 초과는 MW 결론을 금지하는 C로 분류합니다. 이 기준은 실제 데이터로 보정해야 할 후보 규칙이지 경험적 결론이 아닙니다.",
+          "currentQuestion": "승인된 실제 현장 내보내기가 동일 시간대·단위의 연속 96행을 제공하고 A/B 등급에서 결론이 안정적인가?",
+          "todayMaterial": "96행 범위 점검, 시간/단위 하드 게이트, A/B/C 결측 등급, 불확실성 전파 규칙.",
+          "next": "다음 산출물: 승인된 실제 내보내기 1건을 입력해 범위·시간 드리프트·단위 충돌·결측률·임계값 민감도를 보고합니다.",
+          "unfinished": "실제 현장 데이터가 없어 MW 출력, 오차 분포, 임계값 타당성을 계산할 수 없습니다.",
+          "evidenceStatus": "hypothesis",
+          "eventDate": "2026-09-08",
+          "sourceUrls": []
         },
         {
           "title": "산업정책 역사 확산 벤치마크",
@@ -211,17 +208,18 @@
     "leimma": {
       "zh": [
         {
-          "title": "产业社区与转型个体史",
+          "title": "黄开物的家与国",
           "status": "每日推进",
-          "summary": "今日建立档案获取阶梯v1：①带有效密钥的JSON API；②可引用的目录永久链接；③数字原件或官方导出。每级都检查Content-Type、稳定标识、父子层级、权利/限制、数字对象与请求错误；HTML前端壳只记失败，不降格冒充记录。",
-          "currentQuestion": "NARA当前可用的服务主机、密钥入口和JSON路线是哪一个；哪一级能先取得一条有层级与数字原件的记录？",
-          "todayMaterial": "官方NARA Catalog API帮助页、前两次HTML壳失败记录，以及API/目录/数字对象三层接受与回退清单。",
-          "next": "下一成果：取得有效密钥或确认官方替代路线，逐级保存请求、响应类型、稳定ID、层级与权利字段。",
-          "unfinished": "仍无有效密钥，也未取得档案对象；阶梯是获取协议，不是人物生命史证据。",
+          "summary": "今日依据美国国家档案馆现行官方API文档建立“合规查询清单 v1”：确认当前检索端点为 /api/v2/records/search、请求必须携带x-api-key且返回JSON；密钥不得公开，默认额度为每月10,000次。官方条款同时要求不得缓存或保存API返回内容，因此清单只计划保存查询参数、NAID、永久链接、字段级观察与时间戳，不落盘全文内容。",
+          "currentQuestion": "取得有效密钥后，三个侨工/马尼拉汇款检索意图能否返回可关联黄开物的一手记录；“不得缓存”边界是否允许保存最小书目元数据？",
+          "todayMaterial": "三个只读查询意图、请求字段、密钥处理、限额、内容最小化与停止条件。",
+          "next": "下一成果：取得用户授权的API密钥并先运行一个最小查询；在持久化任何响应前核清缓存条款。",
+          "unfinished": "尚无密钥，也没有实际JSON响应或可归属黄开物的档案记录。",
           "evidenceStatus": "verified_progress",
-          "eventDate": "2026-09-07",
+          "eventDate": "2026-09-08",
           "sourceUrls": [
-            "https://www.archives.gov/research/catalog/help/api"
+            "https://www.archives.gov/research/catalog/help/api",
+            "https://www.archives.gov/research/catalog/help/api-getting-started"
           ]
         },
         {
@@ -233,17 +231,18 @@
       ],
       "en": [
         {
-          "title": "Individual Histories of Industrial Communities in Transition",
+          "title": "Huang Kaiwu’s Home and Nation",
           "status": "DAILY ADVANCE",
-          "summary": "Today built archival acquisition ladder v1: (1) JSON API with a valid key, (2) citable catalog permalink, and (3) digital original or official export. Each level checks Content-Type, stable identifier, hierarchy, rights/restrictions, digital object, and request error. An HTML front-end shell remains a failure and cannot be downgraded into a record.",
-          "currentQuestion": "What are NARA's currently valid service host, key entry point, and JSON route, and which rung can first yield one record with hierarchy and a digital original?",
-          "todayMaterial": "The official NARA Catalog API help page, the two previous HTML-shell failures, and a three-rung API/catalog/digital-object acceptance and fallback checklist.",
-          "next": "Next output: obtain a valid key or confirm an official alternate route, preserving request, response type, stable ID, hierarchy, and rights fields at every rung.",
-          "unfinished": "No valid key or archival object exists yet. The ladder is an acquisition protocol, not life-history evidence.",
+          "summary": "Using current U.S. National Archives API documentation, built a “compliant query manifest v1.” The current search endpoint is /api/v2/records/search, requests require x-api-key, and responses are JSON; keys must not be public and the default quota is 10,000 monthly queries. Because the terms also say API-returned content must not be cached or stored, the manifest retains only query parameters, NAID, permalink, field-level observations, and timestamps—not full returned content.",
+          "currentQuestion": "With a valid key, will three migrant-labor/Manila-remittance query intents return a primary record linkable to Huang Kaiwu, and may minimal bibliographic metadata be retained under the no-cache rule?",
+          "todayMaterial": "Three read-only query intents, requested fields, key handling, quota, content minimization, and stop conditions.",
+          "next": "Next output: obtain a user-authorized key and run one minimal query; clarify the cache boundary before persisting any response.",
+          "unfinished": "No key, live JSON response, or archival record attributable to Huang Kaiwu exists yet.",
           "evidenceStatus": "verified_progress",
-          "eventDate": "2026-09-07",
+          "eventDate": "2026-09-08",
           "sourceUrls": [
-            "https://www.archives.gov/research/catalog/help/api"
+            "https://www.archives.gov/research/catalog/help/api",
+            "https://www.archives.gov/research/catalog/help/api-getting-started"
           ]
         },
         {
@@ -255,17 +254,18 @@
       ],
       "ko": [
         {
-          "title": "산업 전환 공동체의 개인사",
+          "title": "황카이우의 집과 나라",
           "status": "매일 진전",
-          "summary": "오늘 기록물 획득 사다리 v1을 만들었습니다. ① 유효 키가 있는 JSON API, ② 인용 가능한 카탈로그 영구링크, ③ 디지털 원본 또는 공식 내보내기입니다. 각 단계에서 Content-Type·안정 식별자·계층·권리/제한·디지털 객체·오류를 확인하고 HTML 프런트 셸은 실패로만 기록합니다.",
-          "currentQuestion": "현재 유효한 NARA 서비스 호스트·키 발급 입구·JSON 경로는 무엇이며 어느 단계가 계층과 디지털 원본이 있는 기록 1건을 먼저 제공하는가?",
-          "todayMaterial": "공식 NARA Catalog API 도움말, 이전 HTML 셸 실패 2건, API/카탈로그/디지털 객체 3단계 검수·대체 체크리스트.",
-          "next": "다음 산출물: 유효 키를 얻거나 공식 대체 경로를 확인하고 각 단계의 요청·응답 유형·안정 ID·계층·권리 필드를 보존합니다.",
-          "unfinished": "유효 키도 기록 객체도 아직 없습니다. 사다리는 획득 프로토콜이지 개인 생애사 근거가 아닙니다.",
+          "summary": "미국 국립문서기록관리청의 최신 공식 API 문서를 바탕으로 ‘준수형 조회 매니페스트 v1’을 만들었습니다. 현재 검색 엔드포인트는 /api/v2/records/search이고 x-api-key가 필요하며 JSON을 반환합니다. 키는 공개하면 안 되고 기본 한도는 월 10,000회입니다. 약관이 API 반환 콘텐츠의 캐시·저장을 금지하므로 전체 응답 대신 쿼리 매개변수·NAID·영구링크·필드 관찰·타임스탬프만 보존하도록 설계했습니다.",
+          "currentQuestion": "유효한 키로 이주노동/마닐라 송금 조회 의도 3건을 실행하면 황카이우와 연결 가능한 1차 기록이 나오는가, 캐시 금지 아래 최소 서지 메타데이터 보존은 허용되는가?",
+          "todayMaterial": "읽기 전용 조회 의도 3건, 요청 필드, 키 관리, 한도, 콘텐츠 최소화, 중단 조건.",
+          "next": "다음 산출물: 사용자 승인 키를 확보해 최소 조회 1건을 실행하고 응답을 저장하기 전 캐시 경계를 확인합니다.",
+          "unfinished": "키와 실제 JSON 응답이 없으며 황카이우에게 귀속할 기록도 아직 없습니다.",
           "evidenceStatus": "verified_progress",
-          "eventDate": "2026-09-07",
+          "eventDate": "2026-09-08",
           "sourceUrls": [
-            "https://www.archives.gov/research/catalog/help/api"
+            "https://www.archives.gov/research/catalog/help/api",
+            "https://www.archives.gov/research/catalog/help/api-getting-started"
           ]
         },
         {
@@ -279,20 +279,16 @@
     "pharma": {
       "zh": [
         {
-          "title": "AI 部署中的劳动判断保全实验室",
+          "title": "AI 社会影响的可审计评估",
           "status": "每日推进",
-          "summary": "今日把盲评包扩为12案：在九项证据膨胀案之外新增“调用前deny”“输出后deny”“被阻断工具输出重放”三案，并要求审阅者分别判断用户可见输出、持久状态和终止原因。新案来自CrewAI本周发布与OpenAI Agents SDK当前护栏行为的官方记录。",
-          "currentQuestion": "独立审阅者能否在不知道答案键的情况下同时识别内容夸大、策略拦截泄漏和错误终止状态？",
-          "todayMaterial": "12案随机盲评包、隔离答案键、独立性声明、用户输出/持久状态/终止回执三栏评分表。",
-          "next": "下一成果：由真实独立胜任审阅者锁定版本后完成12案并记录置信度、漏报、误报和异议。",
-          "unfinished": "无人类审阅者完成评估；新增案例是协议扩展，不能声明阈值已验证。",
-          "evidenceStatus": "verified_progress",
-          "eventDate": "2026-09-07",
-          "sourceUrls": [
-            "https://github.com/crewAIInc/crewAI/releases/tag/1.15.19",
-            "https://github.com/openai/openai-agents-python/releases/tag/v0.22.0",
-            "https://airc.nist.gov/airmf-resources/airmf/5-sec-core/"
-          ]
+          "summary": "今日把昨日12案例盲审包升级为“预注册 v2”：评审者不得参与样本编写；先冻结标签再揭示系统输出；三项关键漏报必须为0；其余案例至少10/12识别正确；分歧由第二评审者复核。阈值属于待人类评审检验的假设，不代表系统已通过。",
+          "currentQuestion": "独立评审者能否复现三项关键故障并达到预注册阈值，且不被案例措辞泄露标签？",
+          "todayMaterial": "评审者资格、盲法顺序、关键漏报门、总体阈值、分歧处理与失败记录字段。",
+          "next": "下一成果：邀请一名独立评审者完成12案例盲审并保存逐例判断与分歧。",
+          "unfinished": "尚无独立人类评审；敏感度、漏报率和一致性均不能声称达标。",
+          "evidenceStatus": "hypothesis",
+          "eventDate": "2026-09-08",
+          "sourceUrls": []
         },
         {
           "title": "高风险系统事故治理基准",
@@ -303,20 +299,16 @@
       ],
       "en": [
         {
-          "title": "Labor-Judgment Preservation Lab for AI Deployment",
+          "title": "Auditable AI Social-Impact Evaluation",
           "status": "DAILY ADVANCE",
-          "summary": "Today expanded the blind packet from nine to twelve cases by adding deny-before-call, deny-after-output, and blocked-tool-output-on-replay. Reviewers must separately judge user-visible output, persisted state, and end reason. The additions derive from official CrewAI releases this week and current OpenAI Agents SDK guardrail behavior.",
-          "currentQuestion": "Can an independent reviewer, without the answer key, detect content inflation, policy-block leakage, and incorrect termination state together?",
-          "todayMaterial": "A randomized twelve-case packet, isolated answer key, independence declaration, and three-column score sheet for visible output, persisted state, and run receipt.",
-          "next": "Next output: lock the version and have a real competent independent reviewer complete all twelve cases with confidence, misses, false positives, and dissent.",
-          "unfinished": "No human reviewer has evaluated the packet. The additions extend the protocol but do not validate its thresholds.",
-          "evidenceStatus": "verified_progress",
-          "eventDate": "2026-09-07",
-          "sourceUrls": [
-            "https://github.com/crewAIInc/crewAI/releases/tag/1.15.19",
-            "https://github.com/openai/openai-agents-python/releases/tag/v0.22.0",
-            "https://airc.nist.gov/airmf-resources/airmf/5-sec-core/"
-          ]
+          "summary": "Upgraded yesterday’s 12-case blind-review packet to “preregistration v2.” Reviewers must not author samples; labels are frozen before system outputs are revealed; all three critical misses must be detected; at least 10/12 total cases must be correct; disagreements go to a second reviewer. These thresholds are hypotheses awaiting human review, not a claim of passing.",
+          "currentQuestion": "Can an independent reviewer reproduce all three critical failures and meet the preregistered threshold without labels leaking through wording?",
+          "todayMaterial": "Reviewer eligibility, blinding order, critical-miss gate, overall threshold, disagreement handling, and failure-log fields.",
+          "next": "Next output: recruit one independent reviewer to complete all 12 cases and retain case-level judgments and disagreements.",
+          "unfinished": "No independent human review exists; sensitivity, miss rate, and agreement cannot be claimed as passing.",
+          "evidenceStatus": "hypothesis",
+          "eventDate": "2026-09-08",
+          "sourceUrls": []
         },
         {
           "title": "High-Risk System Incident-Governance Benchmark",
@@ -327,20 +319,16 @@
       ],
       "ko": [
         {
-          "title": "AI 도입 노동 판단 보존 연구실",
+          "title": "감사 가능한 AI 사회영향 평가",
           "status": "매일 진전",
-          "summary": "오늘 9개 근거 과장 사례에 호출 전 deny·출력 후 deny·차단 도구 출력 재생 3건을 더해 블라인드 패킷을 12건으로 확장했습니다. 검토자는 사용자 출력·저장 상태·종료 이유를 따로 판단합니다. 신규 사례는 이번 주 CrewAI 공식 릴리스와 현재 OpenAI Agents SDK 가드레일 동작에서 도출했습니다.",
-          "currentQuestion": "독립 검토자가 정답표 없이 내용 과장·정책 차단 누출·잘못된 종료 상태를 함께 식별할 수 있는가?",
-          "todayMaterial": "무작위 12건 패킷, 분리된 정답표, 독립성 선언, 사용자 출력/저장 상태/실행 영수증 3열 채점표.",
-          "next": "다음 산출물: 실제 독립 유능 검토자가 버전을 잠근 뒤 12건의 확신도·누락·오탐·이견을 기록합니다.",
-          "unfinished": "사람 검토는 아직 없습니다. 사례 추가는 프로토콜 확장이지 임계값 검증이 아닙니다.",
-          "evidenceStatus": "verified_progress",
-          "eventDate": "2026-09-07",
-          "sourceUrls": [
-            "https://github.com/crewAIInc/crewAI/releases/tag/1.15.19",
-            "https://github.com/openai/openai-agents-python/releases/tag/v0.22.0",
-            "https://airc.nist.gov/airmf-resources/airmf/5-sec-core/"
-          ]
+          "summary": "어제의 12사례 블라인드 검토 패키지를 ‘사전등록 v2’로 갱신했습니다. 표본 작성자는 평가자가 될 수 없고 라벨을 고정한 뒤 시스템 출력을 공개하며, 핵심 누락 3건은 모두 탐지하고 전체 12건 중 최소 10건을 맞혀야 합니다. 이견은 두 번째 평가자가 검토합니다. 이 임계값은 인적 평가를 기다리는 가설이며 통과 주장도 아닙니다.",
+          "currentQuestion": "독립 평가자가 문구를 통한 라벨 노출 없이 핵심 오류 3건을 모두 재현하고 사전등록 임계값을 충족하는가?",
+          "todayMaterial": "평가자 자격, 블라인드 순서, 핵심 누락 게이트, 전체 임계값, 이견 처리, 실패 로그 필드.",
+          "next": "다음 산출물: 독립 평가자 1명이 12사례를 완료하고 사례별 판단과 이견을 보존합니다.",
+          "unfinished": "독립 인적 검토가 없어 민감도·누락률·일치도가 기준을 통과했다고 말할 수 없습니다.",
+          "evidenceStatus": "hypothesis",
+          "eventDate": "2026-09-08",
+          "sourceUrls": []
         },
         {
           "title": "고위험 시스템 사고 거버넌스 벤치마크",
@@ -353,17 +341,17 @@
     "runo": {
       "zh": [
         {
-          "title": "可交互证据链工作室",
+          "title": "可访问的互动叙事状态机",
           "status": "每日推进",
-          "summary": "今日完成三语实机测试卡v1，共12个检查点：读序、人物姓名/角色、可操作提示、焦点可见、议长弹窗、主题输入、关闭回焦、滑动替代、动效减弱、横竖屏、韩中英切换与证据卡展开；每项均规定VoiceOver和实体触摸的通过/失败记录格式。",
-          "currentQuestion": "真实VoiceOver与实体触摸会在哪些步骤出现读序、动作含义或手势失败？",
-          "todayMaterial": "12步测试脚本、设备/系统/语言记录栏、预期焦点、实际结果、严重度、复现步骤和截图占位。",
-          "next": "下一成果：在真实Mac/iPhone上逐步执行，保留失败证据；自动AX结果只能作前置基线。",
-          "unfinished": "尚未由真人使用VoiceOver或实体设备执行；测试卡不是可用性通过证明。",
+          "summary": "今日为来源清单三种故障建立“读屏安全错误状态转场板 v1”：缺少证据、撤回记录误公开、替代记录断链分别具有可见标题、aria-live简述、键盘可达修复入口和恢复后确认信息；错误不依赖颜色或动画表达。",
+          "currentQuestion": "VoiceOver与真实键盘测试时，焦点顺序、错误播报和修复后返回位置是否一致？",
+          "todayMaterial": "三种错误的进入—解释—行动—恢复四段转场，以及中文、英文、韩文可访问文本插槽。",
+          "next": "下一成果：在真实设备上逐项运行VoiceOver、Tab/Shift+Tab、Enter、Escape测试并记录失败截图/录屏。",
+          "unfinished": "今日完成的是状态设计与源代码夹具配合，尚未完成真实VoiceOver和实体键盘验证。",
           "evidenceStatus": "verified_progress",
-          "eventDate": "2026-09-07",
+          "eventDate": "2026-09-08",
           "sourceUrls": [
-            "https://www.w3.org/WAI/ARIA/apg/patterns/dialog-modal/"
+            "scripts/validate-provenance.mjs"
           ]
         },
         {
@@ -375,17 +363,17 @@
       ],
       "en": [
         {
-          "title": "Interactive Evidence-Chain Studio",
+          "title": "Accessible Interactive-Narrative State Machine",
           "status": "DAILY ADVANCE",
-          "summary": "Today completed trilingual physical-device test card v1 with twelve checkpoints: reading order, person name/role, action cue, visible focus, Chair dialog, agenda input, focus return, swipe alternative, reduced motion, orientation, Korean/Chinese/English switching, and evidence-card expansion. Each has a VoiceOver and physical-touch pass/fail record.",
-          "currentQuestion": "At which steps will real VoiceOver and physical touch expose reading-order, action-meaning, or gesture failures?",
-          "todayMaterial": "A twelve-step script with device/OS/language fields, expected focus, actual result, severity, reproduction steps, and screenshot placeholder.",
-          "next": "Next output: execute every step on a real Mac/iPhone and preserve failure evidence; automated AX remains only a preflight baseline.",
-          "unfinished": "No person has run VoiceOver or physical-device testing. The card is not proof of usability.",
+          "summary": "Built a “screen-reader-safe error transition board v1” for three provenance failures. Missing evidence, a withdrawal exposed as public, and a broken supersession link each receive a visible title, aria-live summary, keyboard-reachable recovery action, and post-recovery confirmation; no error relies on color or motion alone.",
+          "currentQuestion": "During real VoiceOver and hardware-keyboard testing, are focus order, error announcement, and post-recovery return position consistent?",
+          "todayMaterial": "Enter–explain–act–recover transitions for three errors plus Chinese, English, and Korean accessible-text slots.",
+          "next": "Next output: run VoiceOver, Tab/Shift+Tab, Enter, and Escape on a real device and retain failure screenshots or recordings.",
+          "unfinished": "State design and source-code fixture alignment are complete, but real VoiceOver and physical-keyboard validation is not.",
           "evidenceStatus": "verified_progress",
-          "eventDate": "2026-09-07",
+          "eventDate": "2026-09-08",
           "sourceUrls": [
-            "https://www.w3.org/WAI/ARIA/apg/patterns/dialog-modal/"
+            "scripts/validate-provenance.mjs"
           ]
         },
         {
@@ -397,17 +385,17 @@
       ],
       "ko": [
         {
-          "title": "인터랙티브 근거 사슬 스튜디오",
+          "title": "접근 가능한 인터랙티브 서사 상태기계",
           "status": "매일 진전",
-          "summary": "오늘 12개 점검점의 3개 언어 실기기 테스트 카드 v1을 완성했습니다. 읽기 순서, 인물명/역할, 동작 안내, 초점 표시, 의장 대화상자, 의제 입력, 닫기 후 초점 복귀, 스와이프 대안, 동작 감소, 화면 방향, 한중영 전환, 근거 카드 펼치기를 VoiceOver·실제 터치 합격/실패 형식으로 기록합니다.",
-          "currentQuestion": "실제 VoiceOver와 물리 터치에서 어느 단계의 읽기 순서·동작 의미·제스처가 실패하는가?",
-          "todayMaterial": "기기/OS/언어, 예상 초점, 실제 결과, 심각도, 재현 단계, 화면 캡처 칸이 있는 12단계 스크립트.",
-          "next": "다음 산출물: 실제 Mac/iPhone에서 전 단계를 수행하고 실패 근거를 보존합니다. 자동 AX는 사전 기준일 뿐입니다.",
-          "unfinished": "사람이 VoiceOver나 실제 기기 시험을 수행하지 않았습니다. 테스트 카드는 사용성 합격 증거가 아닙니다.",
+          "summary": "출처 오류 3종을 위한 ‘스크린리더 안전 오류 전환 보드 v1’을 만들었습니다. 근거 누락, 철회 기록의 공개 노출, 대체 기록 단절에 각각 보이는 제목·aria-live 요약·키보드 접근 복구 동작·복구 확인을 부여했고 색상이나 동작만으로 오류를 표현하지 않습니다.",
+          "currentQuestion": "실제 VoiceOver와 물리 키보드 테스트에서 초점 순서·오류 낭독·복구 뒤 복귀 위치가 일치하는가?",
+          "todayMaterial": "3개 오류의 진입-설명-행동-복구 전환과 중국어·영어·한국어 접근성 문구 슬롯.",
+          "next": "다음 산출물: 실제 기기에서 VoiceOver, Tab/Shift+Tab, Enter, Escape를 실행하고 실패 화면/녹화를 남깁니다.",
+          "unfinished": "상태 설계와 소스 코드 픽스처 정렬은 끝났지만 실제 VoiceOver·물리 키보드 검증은 하지 못했습니다.",
           "evidenceStatus": "verified_progress",
-          "eventDate": "2026-09-07",
+          "eventDate": "2026-09-08",
           "sourceUrls": [
-            "https://www.w3.org/WAI/ARIA/apg/patterns/dialog-modal/"
+            "scripts/validate-provenance.mjs"
           ]
         },
         {
@@ -421,17 +409,17 @@
     "vox": {
       "zh": [
         {
-          "title": "多语研究可解释性编辑台",
+          "title": "三语研究主张词典",
           "status": "每日推进",
-          "summary": "今日把新万金公告作为术语压力测试，新增三组中英韩阶段短语：实施计划批准/implementation-plan approval/실시계획 승인，计划开工/planned construction start/착공 계획，目标完工/completion target/완공 목표；为每组加入“不得升级为已开工/已完工”的反例。",
-          "currentQuestion": "韩中与韩英审阅者是否同意三组阶段术语在法律、工程和新闻语境中保持同一证据强度？",
-          "todayMaterial": "新万金官方原文、三语阶段对照、允许/禁止推论、语境标签和审阅签署栏。",
-          "next": "下一成果：让两位独立胜任审阅者逐项签署、提出异议并锁定版本，再接入界面词表。",
-          "unfinished": "没有真人签署；这些是候选术语和反例，不是最终专业译法。",
+          "summary": "今日完成“来源错误文案包 v1”：为缺少证据、撤回误公开、替代断链三种状态分别编写中英韩标题、事实说明和动作按钮，并规定不得使用“已验证/已修复/已完成”等越级措辞。三语都保留记录ID和下一动作，便于读屏与审计。",
+          "currentQuestion": "三语母语审校者是否认为错误严重度、责任边界与动作指令等值？",
+          "todayMaterial": "3种错误×3种语言×标题/说明/动作的27个文案单元及禁用词表。",
+          "next": "下一成果：完成中英韩人工回译，记录含义偏差并冻结第一版公开错误文案。",
+          "unfinished": "没有三语母语人工签字；文案等值性尚未得到外部验证。",
           "evidenceStatus": "verified_progress",
-          "eventDate": "2026-09-07",
+          "eventDate": "2026-09-08",
           "sourceUrls": [
-            "https://admin.korea.kr/briefing/pressReleaseView.do?newsId=156780508&pWise=mSub&pWiseSub=C1"
+            "scripts/validate-provenance.mjs"
           ]
         },
         {
@@ -443,17 +431,17 @@
       ],
       "en": [
         {
-          "title": "Multilingual Research Explainability Desk",
+          "title": "Trilingual Research-Claim Lexicon",
           "status": "DAILY ADVANCE",
-          "summary": "Today used the Saemangeum notice as a terminology stress test, adding three Chinese–English–Korean stage phrases: implementation-plan approval, planned construction start, and completion target. Each includes a counterexample forbidding upgrade to construction started or completed.",
-          "currentQuestion": "Will Korean–Chinese and Korean–English reviewers agree that all three stage terms preserve the same evidential strength across legal, engineering, and news contexts?",
-          "todayMaterial": "The official Saemangeum text, trilingual stage mapping, allowed/forbidden inferences, context tags, and reviewer sign-off fields.",
-          "next": "Next output: obtain line-by-line signatures and dissent from two independent competent reviewers, lock the version, then connect it to the UI glossary.",
-          "unfinished": "No human has signed. These are candidate terms and counterexamples, not final professional translations.",
+          "summary": "Completed a “provenance error copy pack v1.” Missing evidence, a withdrawal exposed as public, and broken supersession each receive Chinese, English, and Korean titles, factual explanations, and action labels. Premature terms such as verified, fixed, and complete are forbidden. Every language preserves record ID and next action for screen readers and audits.",
+          "currentQuestion": "Will native reviewers judge error severity, accountability boundary, and action instruction equivalent across all three languages?",
+          "todayMaterial": "Twenty-seven copy units—three errors × three languages × title/explanation/action—plus a forbidden-term list.",
+          "next": "Next output: conduct human back-translation in Chinese, English, and Korean, log semantic drift, and freeze public error copy v1.",
+          "unfinished": "No native-speaker signoff exists; cross-language equivalence remains externally unverified.",
           "evidenceStatus": "verified_progress",
-          "eventDate": "2026-09-07",
+          "eventDate": "2026-09-08",
           "sourceUrls": [
-            "https://admin.korea.kr/briefing/pressReleaseView.do?newsId=156780508&pWise=mSub&pWiseSub=C1"
+            "scripts/validate-provenance.mjs"
           ]
         },
         {
@@ -465,17 +453,17 @@
       ],
       "ko": [
         {
-          "title": "다국어 연구 설명 편집대",
+          "title": "3개 언어 연구 주장 사전",
           "status": "매일 진전",
-          "summary": "오늘 새만금 공고를 용어 스트레스 테스트로 사용해 실시계획 승인/implementation-plan approval/实施计划批准, 착공 계획/planned construction start/计划开工, 완공 목표/completion target/目标完工 세 묶음을 추가했습니다. 각 묶음에는 ‘착공됨/완공됨’으로 승격 금지 반례가 있습니다.",
-          "currentQuestion": "한중·한영 검토자가 법률·공학·뉴스 문맥에서 세 단계 용어의 근거 강도가 동일하다는 데 동의하는가?",
-          "todayMaterial": "새만금 공식 원문, 3개 언어 단계 대응, 허용/금지 추론, 문맥 태그, 검토 서명란.",
-          "next": "다음 산출물: 독립적이고 유능한 검토자 2명의 항목별 서명·이견을 받아 버전을 잠근 뒤 UI 용어집에 연결합니다.",
-          "unfinished": "사람 서명은 아직 없습니다. 이는 후보 용어와 반례이지 최종 전문 번역이 아닙니다.",
+          "summary": "‘출처 오류 문구 패키지 v1’을 완성했습니다. 근거 누락·철회 기록 공개 노출·대체 기록 단절에 중국어·영어·한국어 제목, 사실 설명, 동작 버튼을 부여하고 ‘검증됨/수정됨/완료’ 같은 단계 과장 표현을 금지했습니다. 세 언어 모두 스크린리더와 감사를 위해 기록 ID와 다음 행동을 유지합니다.",
+          "currentQuestion": "3개 언어 원어민 검토자가 오류 심각도·책임 경계·행동 지시를 동등하게 판단하는가?",
+          "todayMaterial": "오류 3종×언어 3개×제목/설명/행동의 27개 문구 단위와 금지어 목록.",
+          "next": "다음 산출물: 중·영·한 인적 역번역을 수행해 의미 편차를 기록하고 공개 오류 문구 v1을 고정합니다.",
+          "unfinished": "원어민 서명이 없어 언어 간 동등성은 외부 검증되지 않았습니다.",
           "evidenceStatus": "verified_progress",
-          "eventDate": "2026-09-07",
+          "eventDate": "2026-09-08",
           "sourceUrls": [
-            "https://admin.korea.kr/briefing/pressReleaseView.do?newsId=156780508&pWise=mSub&pWiseSub=C1"
+            "scripts/validate-provenance.mjs"
           ]
         },
         {
@@ -489,19 +477,16 @@
     "cynosure": {
       "zh": [
         {
-          "title": "能源产业战略情景罗盘",
+          "title": "联盟承诺耐久度评分",
           "status": "每日推进",
-          "summary": "今日把战略来源选择加入生命周期轴：active、maintenance、superseded与unknown；AutoGen官方仓库复核为maintenance，不能当作本周前沿变化。同时建立Drone Edge跨层查询矩阵，只有共同项目/决定/采购/合同号或官方交叉引用才能连接联盟能力与国家资金。",
-          "currentQuestion": "后继框架是否提供可迁移的新治理证据；英美公开记录中是否出现Drone Edge共同标识或同一合同链？",
-          "todayMaterial": "AutoGen官方维护状态、最新发布日期，以及Drone Edge从联盟能力到国家资金/采购/合同/交付的标识字段矩阵。",
-          "next": "下一成果：监控后继Microsoft Agent Framework的官方发布，并用共同标识矩阵复核英美候选、保存所有失败连接。",
-          "unfinished": "未发现本周AutoGen新版本，也没有Drone Edge到国家具体资金或合同的精确连接；不提出架构迁移。",
-          "evidenceStatus": "verified_progress",
-          "eventDate": "2026-09-07",
-          "sourceUrls": [
-            "https://github.com/microsoft/autogen",
-            "https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/2026/07/08/nato-innovation-scale-up-package"
-          ]
+          "summary": "今日建立“联盟承诺耐久度五因子规则 v1”：有约束力的文书、已承诺/拨付资源、具名执行方、共同下行风险或退出成本、可观察执行证据各计0—2分；0—3为姿态，4—6为暂定，7—8为可信，9—10为耐久。分段是待案例校准的分析假设。",
+          "currentQuestion": "将同一规则盲评三组历史联盟后，评分者一致性和一年后兑现结果是否支持当前分段？",
+          "todayMaterial": "五因子定义、0—2锚点、四段解释、缺失证据处理与事后结算字段。",
+          "next": "下一成果：选取三个带正式文件与资源记录的历史联盟案例，由两名评分者独立打分并回测一年兑现。",
+          "unfinished": "尚未完成盲评、评分者一致性或结果回测，不能用该量表宣称任何联盟已经耐久。",
+          "evidenceStatus": "hypothesis",
+          "eventDate": "2026-09-08",
+          "sourceUrls": []
         },
         {
           "title": "联盟承诺耐久性压力测试",
@@ -512,19 +497,16 @@
       ],
       "en": [
         {
-          "title": "Scenario Compass for Energy-Industrial Strategy",
+          "title": "Alliance-Commitment Durability Score",
           "status": "DAILY ADVANCE",
-          "summary": "Today added a lifecycle axis to strategic source selection—active, maintenance, superseded, and unknown. The official AutoGen repository is in maintenance mode and is not a frontier change this week. A Drone Edge cross-layer query matrix now allows alliance capability to join national funding only through a shared programme/decision/procurement/contract identifier or official cross-reference.",
-          "currentQuestion": "Will the successor framework provide transferable governance evidence, and will UK or US public records expose a Drone Edge shared identifier or common contract chain?",
-          "todayMaterial": "AutoGen's official maintenance status and latest release date, plus identifier fields from Drone Edge alliance capability through national funding, procurement, contract, and delivery.",
-          "next": "Next output: monitor official Microsoft Agent Framework releases and rerun UK/US candidates through the shared-identifier matrix while preserving every failed join.",
-          "unfinished": "No AutoGen release was verified this week, and no exact Drone Edge-to-national-funding or contract join exists; no architecture migration is proposed.",
-          "evidenceStatus": "verified_progress",
-          "eventDate": "2026-09-07",
-          "sourceUrls": [
-            "https://github.com/microsoft/autogen",
-            "https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/2026/07/08/nato-innovation-scale-up-package"
-          ]
+          "summary": "Built “alliance commitment durability five-factor rules v1.” A binding instrument, committed/appropriated resources, named implementer, shared downside or exit cost, and observable execution evidence each score 0–2; 0–3 is signaling, 4–6 provisional, 7–8 credible, and 9–10 durable. The bands are analytical hypotheses awaiting case calibration.",
+          "currentQuestion": "After blind-scoring three historical alliances, do inter-rater agreement and one-year fulfillment outcomes support these bands?",
+          "todayMaterial": "Five factor definitions, 0–2 anchors, four interpretation bands, missing-evidence handling, and ex-post settlement fields.",
+          "next": "Next output: choose three historical alliances with formal instruments and resource records, have two raters score independently, and backtest one-year fulfillment.",
+          "unfinished": "No blind scoring, inter-rater agreement, or outcome backtest exists; the scale cannot yet label an alliance durable.",
+          "evidenceStatus": "hypothesis",
+          "eventDate": "2026-09-08",
+          "sourceUrls": []
         },
         {
           "title": "Alliance-Commitment Durability Stress Test",
@@ -535,19 +517,16 @@
       ],
       "ko": [
         {
-          "title": "에너지 산업전략 시나리오 나침반",
+          "title": "동맹 약속 내구성 점수",
           "status": "매일 진전",
-          "summary": "오늘 전략 출처 선택에 active·maintenance·superseded·unknown 수명주기 축을 추가했습니다. AutoGen 공식 저장소는 유지보수 모드로 이번 주 최전선 변화가 아닙니다. Drone Edge 교차 계층 질의표는 공통 사업/결정/조달/계약 식별자나 공식 교차참조가 있을 때만 동맹 역량과 국가 재원을 연결합니다.",
-          "currentQuestion": "후속 프레임워크가 이식 가능한 새 거버넌스 근거를 제공하는가, 영국·미국 공개 기록에 Drone Edge 공통 식별자나 동일 계약 사슬이 나타나는가?",
-          "todayMaterial": "AutoGen 공식 유지보수 상태와 최신 릴리스 날짜, Drone Edge 동맹 역량→국가 재원→조달→계약→인도의 식별자 필드 표.",
-          "next": "다음 산출물: Microsoft Agent Framework 공식 릴리스를 감시하고 영미 후보를 공통 식별자 표로 재검토하며 실패 연결을 모두 보존합니다.",
-          "unfinished": "이번 주 AutoGen 새 릴리스도, Drone Edge와 국가 금액/계약의 정확한 연결도 확인되지 않았습니다. 구조 이전은 제안하지 않습니다.",
-          "evidenceStatus": "verified_progress",
-          "eventDate": "2026-09-07",
-          "sourceUrls": [
-            "https://github.com/microsoft/autogen",
-            "https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/2026/07/08/nato-innovation-scale-up-package"
-          ]
+          "summary": "‘동맹 약속 내구성 5요인 규칙 v1’을 만들었습니다. 구속력 있는 문서, 약정/배정 자원, 실명 수행 주체, 공동 하방위험 또는 이탈비용, 관찰 가능한 이행 근거를 각각 0~2점으로 평가하며 0~3은 신호, 4~6은 잠정, 7~8은 신뢰, 9~10은 내구로 구분합니다. 구간은 사례 보정 전 분석 가설입니다.",
+          "currentQuestion": "역사적 동맹 3건을 블라인드 채점한 뒤 평가자 일치도와 1년 이행 결과가 현재 구간을 지지하는가?",
+          "todayMaterial": "5개 요인 정의, 0~2 앵커, 4개 해석 구간, 근거 누락 처리, 사후 결산 필드.",
+          "next": "다음 산출물: 공식 문서와 자원 기록이 있는 역사적 동맹 3건을 선정해 두 평가자가 독립 채점하고 1년 이행을 역검증합니다.",
+          "unfinished": "블라인드 채점·평가자 일치도·결과 역검증이 없어 어떤 동맹도 내구적이라고 주장할 수 없습니다.",
+          "evidenceStatus": "hypothesis",
+          "eventDate": "2026-09-08",
+          "sourceUrls": []
         },
         {
           "title": "동맹 약속 지속성 스트레스 테스트",
@@ -560,19 +539,18 @@
     "memoria": {
       "zh": [
         {
-          "title": "决策来源与修订登记册",
+          "title": "公共主张来源与撤回链",
           "status": "每日推进",
-          "summary": "今日把撤回演练纳入浏览器schema校验：recordId、status、withdrawnAt、reason、supersededBy必须齐全，publicClaim必须为false，且替代记录必须真实存在；同时新增每周学习公开来源记录，复核日期与三份证据文件可追踪。",
-          "currentQuestion": "缺失evidence、错误公开撤回记录和断裂supersededBy三类隔离夹具是否都能产生唯一、可理解且不泄露私有路径的错误？",
-          "todayMaterial": "议事厅撤回演练校验规则、AC-PUB-WEEKLY-01来源记录、更新后的复核日期与三语周学习证据。",
-          "next": "下一成果：执行三类隔离故障夹具，记录预期/实际错误码，并继续检查外链耐久性和修订导航。",
-          "unfinished": "当前公开数据只验证正常记录与既有撤回演练；缺失来源和断链夹具尚未注入隔离环境。",
+          "summary": "今日把浏览器内来源检查抽成可重复运行的验证器，并实际运行三种隔离故障夹具：缺少证据仅返回 AC-PUB-ASSEMBLY-01.evidence；撤回记录误公开仅返回 withdrawalRehearsal.publicClaim；替代记录断链仅返回 withdrawalRehearsal.supersededBy。实时清单6条记录通过，三类夹具均唯一命中，完成昨日验收标准。",
+          "currentQuestion": "外部链接失效、重定向或响应内容变化时，来源卡片应如何降级而不误报“schema通过即事实有效”？",
+          "todayMaterial": "scripts/validate-provenance.mjs、6条实时记录检查结果与三种唯一错误输出。",
+          "next": "下一成果：新增外部链接可达性与内容指纹检查，明确schema有效、链接可达、主张有效三种不同状态。",
+          "unfinished": "隔离夹具任务已完成；尚未验证外部URL可达性或内容漂移，schema通过不等于主张事实仍有效。",
           "evidenceStatus": "verified_progress",
-          "eventDate": "2026-09-07",
+          "eventDate": "2026-09-08",
           "sourceUrls": [
-            "assets/provenance.json",
-            "knowledge-base/weekly-learning.md",
-            "knowledge-base/sources.md"
+            "scripts/validate-provenance.mjs",
+            "assets/provenance.json"
           ]
         },
         {
@@ -584,19 +562,18 @@
       ],
       "en": [
         {
-          "title": "Decision Provenance and Revision Registry",
+          "title": "Public-Claim Provenance and Withdrawal Chain",
           "status": "DAILY ADVANCE",
-          "summary": "Today brought the withdrawal rehearsal into the browser schema validator: recordId, status, withdrawnAt, reason, and supersededBy are required; publicClaim must be false; and the replacement record must exist. A public weekly-learning provenance record now links its review date and three evidence files.",
-          "currentQuestion": "Will isolated missing-evidence, wrongly public withdrawal, and broken-supersededBy fixtures each produce a unique, understandable error without exposing private paths?",
-          "todayMaterial": "Assembly withdrawal-rehearsal validation rules, the AC-PUB-WEEKLY-01 source record, refreshed review dates, and trilingual weekly-learning evidence.",
-          "next": "Next output: execute the three isolated fault fixtures, preserve expected/actual error codes, and continue testing external-link durability and revision navigation.",
-          "unfinished": "Current public data validate only normal records and the existing withdrawal rehearsal. Missing-source and broken-link fixtures have not yet been injected in isolation.",
+          "summary": "Extracted the browser provenance check into a repeatable validator and ran three isolated fixtures. Missing evidence returned only AC-PUB-ASSEMBLY-01.evidence; a withdrawal exposed as public returned only withdrawalRehearsal.publicClaim; a broken supersession returned only withdrawalRehearsal.supersededBy. All six live records passed and every fixture produced one expected error, completing yesterday’s acceptance standard.",
+          "currentQuestion": "When an external link fails, redirects, or changes content, how should the card degrade without implying that schema validity proves factual validity?",
+          "todayMaterial": "scripts/validate-provenance.mjs, the six-record live result, and three unique fixture outputs.",
+          "next": "Next output: add external-link reachability and content-fingerprint checks, separating schema-valid, link-reachable, and claim-valid states.",
+          "unfinished": "The isolated-fixture task is complete; external URL reachability and content drift remain untested, and schema validity is not factual validity.",
           "evidenceStatus": "verified_progress",
-          "eventDate": "2026-09-07",
+          "eventDate": "2026-09-08",
           "sourceUrls": [
-            "assets/provenance.json",
-            "knowledge-base/weekly-learning.md",
-            "knowledge-base/sources.md"
+            "scripts/validate-provenance.mjs",
+            "assets/provenance.json"
           ]
         },
         {
@@ -608,19 +585,18 @@
       ],
       "ko": [
         {
-          "title": "결정 출처·수정 등록부",
+          "title": "공개 주장 출처·철회 체인",
           "status": "매일 진전",
-          "summary": "오늘 철회 리허설을 브라우저 스키마 검증에 포함했습니다. recordId·status·withdrawnAt·reason·supersededBy는 필수이고 publicClaim은 false여야 하며 대체 기록도 실제로 존재해야 합니다. 주간 학습 공개 출처 기록도 검토일과 근거 파일 3개를 연결합니다.",
-          "currentQuestion": "근거 누락·잘못 공개된 철회·끊긴 supersededBy 격리 픽스처가 각각 고유하고 이해 가능한 오류를 내면서 비공개 경로를 노출하지 않는가?",
-          "todayMaterial": "의회 철회 리허설 검증 규칙, AC-PUB-WEEKLY-01 출처 기록, 갱신된 검토일, 3개 언어 주간 학습 근거.",
-          "next": "다음 산출물: 격리 오류 픽스처 3종을 실행해 예상/실제 오류 코드를 보존하고 외부 링크 내구성과 개정 탐색을 계속 점검합니다.",
-          "unfinished": "현재 공개 데이터는 정상 기록과 기존 철회 리허설만 검증합니다. 근거 누락·끊긴 링크 픽스처는 격리 환경에 아직 주입하지 않았습니다.",
+          "summary": "브라우저의 출처 검사를 반복 실행 가능한 검증기로 분리하고 격리 오류 픽스처 3종을 실제 실행했습니다. 근거 누락은 AC-PUB-ASSEMBLY-01.evidence만, 철회 기록 공개 노출은 withdrawalRehearsal.publicClaim만, 대체 기록 단절은 withdrawalRehearsal.supersededBy만 반환했습니다. 실시간 기록 6건이 통과했고 각 픽스처가 예상 오류 하나만 내어 어제의 수용 기준을 충족했습니다.",
+          "currentQuestion": "외부 링크가 실패·리디렉션·내용 변경될 때 schema 유효가 사실 유효라는 오해 없이 카드를 어떻게 강등할 것인가?",
+          "todayMaterial": "scripts/validate-provenance.mjs, 실시간 6기록 결과, 고유 오류 3개 출력.",
+          "next": "다음 산출물: 외부 링크 도달성과 콘텐츠 지문 검사를 추가하고 schema 유효·링크 도달·주장 유효 상태를 분리합니다.",
+          "unfinished": "격리 픽스처 과제는 완료했지만 외부 URL 도달성·내용 변화를 시험하지 않았고 schema 통과는 사실 유효를 뜻하지 않습니다.",
           "evidenceStatus": "verified_progress",
-          "eventDate": "2026-09-07",
+          "eventDate": "2026-09-08",
           "sourceUrls": [
-            "assets/provenance.json",
-            "knowledge-base/weekly-learning.md",
-            "knowledge-base/sources.md"
+            "scripts/validate-provenance.mjs",
+            "assets/provenance.json"
           ]
         },
         {

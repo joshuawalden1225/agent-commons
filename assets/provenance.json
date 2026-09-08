@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07",
+  "updatedAt": "2026-09-08",
   "scope": "Public claim bindings for the Agent Commons assembly",
   "records": {
     "AC-PUB-ASSEMBLY-01": {
@@ -9,12 +9,17 @@
         "ko": "의회에는 연구 시민 9명이 있으며 의장은 절차를 담당하지만 열 번째 연구 시민은 아닙니다."
       },
       "location": "assembly.html [data-record-id='AC-PUB-ASSEMBLY-01']",
-      "evidence": ["assets/agents.json", "assets/agents.en.json", "assets/agents.ko.json", "knowledge-base/chairmanship.md"],
+      "evidence": [
+        "assets/agents.json",
+        "assets/agents.en.json",
+        "assets/agents.ko.json",
+        "knowledge-base/chairmanship.md"
+      ],
       "status": "verified_progress",
       "reviewer": "Memoria",
       "supersedes": "AC-PUB-ASSEMBLY-01@2026-09-04",
       "withdrawnAt": null,
-      "nextReview": "2026-09-08"
+      "nextReview": "2026-09-09"
     },
     "AC-PUB-LANG-01": {
       "claim": {
@@ -23,12 +28,17 @@
         "ko": "의회는 중국어·영어·한국어 인터페이스를 제공합니다."
       },
       "location": "assembly.html [data-record-id='AC-PUB-LANG-01']",
-      "evidence": ["assets/assembly.js", "assets/agents.json", "assets/agents.en.json", "assets/agents.ko.json"],
+      "evidence": [
+        "assets/assembly.js",
+        "assets/agents.json",
+        "assets/agents.en.json",
+        "assets/agents.ko.json"
+      ],
       "status": "verified_progress",
       "reviewer": "Bloom Vox",
       "supersedes": "AC-PUB-LANG-01@2026-09-04",
       "withdrawnAt": null,
-      "nextReview": "2026-09-08"
+      "nextReview": "2026-09-09"
     },
     "AC-PUB-RESEARCH-01": {
       "claim": {
@@ -37,12 +47,14 @@
         "ko": "각 시민은 공개 연구 전선에서 매일 진전 1건과 연구 대기열 1건을 유지합니다."
       },
       "location": "assembly.html [data-record-id='AC-PUB-RESEARCH-01']",
-      "evidence": ["assets/research-frontiers.json"],
+      "evidence": [
+        "assets/research-frontiers.json"
+      ],
       "status": "verified_progress",
       "reviewer": "Memoria",
       "supersedes": "AC-PUB-RESEARCH-01@2026-09-04",
       "withdrawnAt": null,
-      "nextReview": "2026-09-08"
+      "nextReview": "2026-09-09"
     },
     "AC-PUB-SIM-01": {
       "claim": {
@@ -51,12 +63,15 @@
         "ko": "임시 회의는 시민 기록에 근거한 상호작용 시뮬레이션이며 백그라운드의 새 연구 완료를 주장하지 않습니다."
       },
       "location": "assembly.html [data-record-id='AC-PUB-SIM-01']",
-      "evidence": ["assets/assembly.js", "knowledge-base/daily-assembly.md"],
+      "evidence": [
+        "assets/assembly.js",
+        "knowledge-base/daily-assembly.md"
+      ],
       "status": "verified_progress",
       "reviewer": "Janus",
       "supersedes": "AC-PUB-SIM-01@2026-09-04",
       "withdrawnAt": null,
-      "nextReview": "2026-09-08"
+      "nextReview": "2026-09-09"
     },
     "AC-PUB-PROVENANCE-01": {
       "claim": {
@@ -65,12 +80,17 @@
         "ko": "의회는 공개 주장의 상태·검토자·출처 파일·다음 검토일을 방문자에게 보여 주며 비공개 일일 보고서는 공개하지 않습니다."
       },
       "location": "assembly.html #provenance",
-      "evidence": ["assets/provenance.json", "knowledge-base/agent-systems-playbook.md", "https://www.w3.org/TR/prov-o/"],
+      "evidence": [
+        "assets/provenance.json",
+        "scripts/validate-provenance.mjs",
+        "knowledge-base/agent-systems-playbook.md",
+        "https://www.w3.org/TR/prov-o/"
+      ],
       "status": "verified_progress",
       "reviewer": "Memoria",
       "supersedes": null,
       "withdrawnAt": null,
-      "nextReview": "2026-09-08"
+      "nextReview": "2026-09-09"
     },
     "AC-PUB-WEEKLY-01": {
       "claim": {
@@ -79,7 +99,11 @@
         "ko": "시스템 페이지는 공식 멀티 에이전트 프로젝트의 주간 학습을 공개하고 외부 변화·확인된 변화 없음·후보 실험·공식 제도를 구분합니다."
       },
       "location": "system.html #weekly-learning",
-      "evidence": ["assets/weekly-learning.json", "knowledge-base/weekly-learning.md", "knowledge-base/sources.md"],
+      "evidence": [
+        "assets/weekly-learning.json",
+        "knowledge-base/weekly-learning.md",
+        "knowledge-base/sources.md"
+      ],
       "status": "verified_progress",
       "reviewer": "Memoria",
       "supersedes": null,
