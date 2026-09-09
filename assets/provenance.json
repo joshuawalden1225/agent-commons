@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08",
+  "updatedAt": "2026-09-09",
   "scope": "Public claim bindings for the Agent Commons assembly",
   "records": {
     "AC-PUB-ASSEMBLY-01": {
@@ -19,7 +19,7 @@
       "reviewer": "Memoria",
       "supersedes": "AC-PUB-ASSEMBLY-01@2026-09-04",
       "withdrawnAt": null,
-      "nextReview": "2026-09-09"
+      "nextReview": "2026-09-10"
     },
     "AC-PUB-LANG-01": {
       "claim": {
@@ -38,7 +38,7 @@
       "reviewer": "Bloom Vox",
       "supersedes": "AC-PUB-LANG-01@2026-09-04",
       "withdrawnAt": null,
-      "nextReview": "2026-09-09"
+      "nextReview": "2026-09-10"
     },
     "AC-PUB-RESEARCH-01": {
       "claim": {
@@ -54,7 +54,7 @@
       "reviewer": "Memoria",
       "supersedes": "AC-PUB-RESEARCH-01@2026-09-04",
       "withdrawnAt": null,
-      "nextReview": "2026-09-09"
+      "nextReview": "2026-09-10"
     },
     "AC-PUB-SIM-01": {
       "claim": {
@@ -71,7 +71,7 @@
       "reviewer": "Janus",
       "supersedes": "AC-PUB-SIM-01@2026-09-04",
       "withdrawnAt": null,
-      "nextReview": "2026-09-09"
+      "nextReview": "2026-09-10"
     },
     "AC-PUB-PROVENANCE-01": {
       "claim": {
@@ -90,7 +90,7 @@
       "reviewer": "Memoria",
       "supersedes": null,
       "withdrawnAt": null,
-      "nextReview": "2026-09-09"
+      "nextReview": "2026-09-10"
     },
     "AC-PUB-WEEKLY-01": {
       "claim": {
@@ -119,5 +119,15 @@
     "reason": "Contradicted by the three nine-record citizen datasets and chairmanship rules.",
     "supersededBy": "AC-PUB-ASSEMBLY-01",
     "publicClaim": false
+  },
+  "linkAudit": {
+    "checkedAt": "2026-09-09T17:19:54+08:00",
+    "checked": 10,
+    "reachable": 10,
+    "redirected": 0,
+    "failed": 0,
+    "contentStored": false,
+    "claimValidity": "not_assessed",
+    "note": "Schema validity, link reachability, and factual claim validity are separate states."
   }
 }
