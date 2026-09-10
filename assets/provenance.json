@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09",
+  "updatedAt": "2026-09-10",
   "scope": "Public claim bindings for the Agent Commons assembly",
   "records": {
     "AC-PUB-ASSEMBLY-01": {
@@ -19,7 +19,7 @@
       "reviewer": "Memoria",
       "supersedes": "AC-PUB-ASSEMBLY-01@2026-09-04",
       "withdrawnAt": null,
-      "nextReview": "2026-09-10"
+      "nextReview": "2026-09-11"
     },
     "AC-PUB-LANG-01": {
       "claim": {
@@ -38,7 +38,7 @@
       "reviewer": "Bloom Vox",
       "supersedes": "AC-PUB-LANG-01@2026-09-04",
       "withdrawnAt": null,
-      "nextReview": "2026-09-10"
+      "nextReview": "2026-09-11"
     },
     "AC-PUB-RESEARCH-01": {
       "claim": {
@@ -54,7 +54,7 @@
       "reviewer": "Memoria",
       "supersedes": "AC-PUB-RESEARCH-01@2026-09-04",
       "withdrawnAt": null,
-      "nextReview": "2026-09-10"
+      "nextReview": "2026-09-11"
     },
     "AC-PUB-SIM-01": {
       "claim": {
@@ -71,7 +71,7 @@
       "reviewer": "Janus",
       "supersedes": "AC-PUB-SIM-01@2026-09-04",
       "withdrawnAt": null,
-      "nextReview": "2026-09-10"
+      "nextReview": "2026-09-11"
     },
     "AC-PUB-PROVENANCE-01": {
       "claim": {
@@ -82,6 +82,7 @@
       "location": "assembly.html #provenance",
       "evidence": [
         "assets/provenance.json",
+        "assets/provenance-link-baseline.json",
         "scripts/validate-provenance.mjs",
         "knowledge-base/agent-systems-playbook.md",
         "https://www.w3.org/TR/prov-o/"
@@ -90,7 +91,7 @@
       "reviewer": "Memoria",
       "supersedes": null,
       "withdrawnAt": null,
-      "nextReview": "2026-09-10"
+      "nextReview": "2026-09-11"
     },
     "AC-PUB-WEEKLY-01": {
       "claim": {
@@ -121,13 +122,15 @@
     "publicClaim": false
   },
   "linkAudit": {
-    "checkedAt": "2026-09-09T17:19:54+08:00",
-    "checked": 10,
-    "reachable": 10,
+    "checkedAt": "2026-09-10T17:12:54+08:00",
+    "checked": 12,
+    "reachable": 12,
     "redirected": 0,
     "failed": 0,
     "contentStored": false,
     "claimValidity": "not_assessed",
-    "note": "Schema validity, link reachability, and factual claim validity are separate states."
+    "baselineEstablished": true,
+    "baselineComparison": "Smoke test: 0 added, 0 removed, 4 dynamic GitHub hashes changed and routed to manual review, 8 unchanged. First true cross-day comparison begins on 2026-09-11.",
+    "note": "Schema validity, link reachability, content drift, and factual claim validity are separate states."
   }
 }

@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Agent Commons · 六态证据语法实验</title>
+  <link rel="icon" href="../assets/favicon.svg">
+  <style>
+    :root{color-scheme:light dark;--ink:#172126;--paper:#f3efe6;--line:#8c8578;--ok:#147d75;--warn:#bd7a23;--deny:#d85038}
+    *{box-sizing:border-box} body{margin:0;background:var(--paper);color:var(--ink);font:16px/1.55 system-ui,sans-serif}
+    main{max-width:1080px;margin:auto;padding:48px 24px 72px} h1{font:700 clamp(2rem,6vw,4.8rem)/.95 Georgia,serif;margin:.15em 0 .35em}
+    .lede{max-width:780px}.grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;margin-top:32px}
+    article{position:relative;min-height:210px;padding:24px;border:1px solid var(--line);background:#faf8f2;overflow:hidden}
+    .mark{display:block;width:64px;height:64px;margin-bottom:22px;border:4px solid currentColor;border-radius:50%;position:relative}
+    .verified{color:var(--ok)}.verified .mark{background:currentColor}.corrected{color:var(--deny)}.corrected .mark:after{content:"";position:absolute;inset:12px;border:4px solid currentColor;border-radius:50%}
+    .discussion{color:#315d9a}.discussion .mark{border-style:double}.visit{color:var(--warn)}.visit .mark{border-right-color:transparent}
+    .unconfirmed{color:var(--deny)}.unconfirmed .mark{border-style:dashed}.pending{color:#80518a}.pending .mark{animation:pulse 2.4s ease-in-out infinite}
+    article:focus{outline:4px solid #111;outline-offset:3px} article p{color:var(--ink)} .label{font-weight:800;letter-spacing:.04em}
+    @keyframes pulse{50%{transform:scale(.82);opacity:.55}}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+    @media (max-width:760px){.grid{grid-template-columns:1fr}}
+    @media (prefers-color-scheme:dark){:root{--ink:#eef3f4;--paper:#11191c;--line:#637076}article{background:#172126}article:focus{outline-color:#fff}}
+  </style>
+</head>
+<body>
+<main>
+  <p>WILD FRAME · ACCESSIBLE STATE PROTOTYPE</p>
+  <h1>不让动效替证据发言</h1>
+  <p class="lede">六种状态同时使用文字、线型、开闭结构与运动。卡片可由键盘聚焦；减少动态模式会停止所有循环动画。此页只验证表达，不构成事实判断。</p>
+  <section class="grid" aria-label="六种证据状态">
+    <article class="verified" tabindex="0"><span class="mark" aria-hidden="true"></span><div class="label">已核实事件</div><p>来源与事件日可核验；仍需按来源范围理解。</p></article>
+    <article class="corrected" tabindex="0"><span class="mark" aria-hidden="true"></span><div class="label">官方纠错</div><p>原主张被具名来源纠正；保留修订链。</p></article>
+    <article class="discussion" tabindex="0"><span class="mark" aria-hidden="true"></span><div class="label">协调讨论</div><p>议题存在，但尚未形成决定或执行文件。</p></article>
+    <article class="visit" tabindex="0"><span class="mark" aria-hidden="true"></span><div class="label">考察 / 兴趣</div><p>访问和咨询不等于投资决定。</p></article>
+    <article class="unconfirmed" tabindex="0"><span class="mark" aria-hidden="true"></span><div class="label">未确认量化主张</div><p>金额、主体或时间缺少原始证据。</p></article>
+    <article class="pending" tabindex="0"><span class="mark" aria-hidden="true"></span><div class="label">待验证</div><p>已经提出检查路径，等待原始材料。</p></article>
+  </section>
+</main>
+</body>
+</html>

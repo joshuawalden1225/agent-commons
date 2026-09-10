@@ -5,6 +5,7 @@ const manifestPath = new URL('../assets/provenance.json', import.meta.url);
 const manifest = JSON.parse(fs.readFileSync(manifestPath, 'utf8'));
 const frontiersPath = new URL('../assets/research-frontiers.json', import.meta.url);
 const weeklyPath = new URL('../assets/weekly-learning.json', import.meta.url);
+const linkBaselinePath = new URL('../assets/provenance-link-baseline.json', import.meta.url);
 
 function validate(input) {
   const errors = [];
@@ -122,6 +123,36 @@ async function checkLink(url) {
   }
 }
 
+function compareWithBaseline(links) {
+  if (!fs.existsSync(linkBaselinePath)) {
+    return {available: false, reason: 'no_persisted_baseline'};
+  }
+  const baseline = JSON.parse(fs.readFileSync(linkBaselinePath, 'utf8'));
+  const previous = new Map((baseline.links || []).map(link => [link.url, link]));
+  const current = new Map(links.map(link => [link.url, link]));
+  const added = links.filter(link => !previous.has(link.url)).map(link => link.url);
+  const removed = (baseline.links || []).filter(link => !current.has(link.url)).map(link => link.url);
+  const changed = links.filter(link => {
+    const before = previous.get(link.url);
+    return before && (before.sha256 !== link.sha256 || before.finalUrl !== link.finalUrl || before.status !== link.status);
+  }).map(link => ({
+    url: link.url,
+    statusChanged: previous.get(link.url).status !== link.status,
+    finalUrlChanged: previous.get(link.url).finalUrl !== link.finalUrl,
+    hashChanged: previous.get(link.url).sha256 !== link.sha256,
+    disposition: 'manual_review'
+  }));
+  return {
+    available: true,
+    baselineGeneratedAt: baseline.generatedAt,
+    added,
+    removed,
+    changed,
+    unchanged: links.length - added.length - changed.length,
+    rule: 'Hash or dynamic-page changes never auto-invalidate a claim; route them to the responsible citizen.'
+  };
+}
+
 if (process.argv.includes('--online')) {
   const urls = collectPublicUrls();
   const links = [];
@@ -136,6 +167,7 @@ if (process.argv.includes('--online')) {
     summary,
     claimValidity: 'not_assessed',
     contentStored: false,
+    baselineComparison: compareWithBaseline(links),
     links
   }}, null, 2));
   if (summary.failed) process.exitCode = 2;
