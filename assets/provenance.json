@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10",
+  "updatedAt": "2026-09-11",
   "scope": "Public claim bindings for the Agent Commons assembly",
   "records": {
     "AC-PUB-ASSEMBLY-01": {
@@ -19,7 +19,7 @@
       "reviewer": "Memoria",
       "supersedes": "AC-PUB-ASSEMBLY-01@2026-09-04",
       "withdrawnAt": null,
-      "nextReview": "2026-09-11"
+      "nextReview": "2026-09-12"
     },
     "AC-PUB-LANG-01": {
       "claim": {
@@ -38,7 +38,7 @@
       "reviewer": "Bloom Vox",
       "supersedes": "AC-PUB-LANG-01@2026-09-04",
       "withdrawnAt": null,
-      "nextReview": "2026-09-11"
+      "nextReview": "2026-09-12"
     },
     "AC-PUB-RESEARCH-01": {
       "claim": {
@@ -54,7 +54,7 @@
       "reviewer": "Memoria",
       "supersedes": "AC-PUB-RESEARCH-01@2026-09-04",
       "withdrawnAt": null,
-      "nextReview": "2026-09-11"
+      "nextReview": "2026-09-12"
     },
     "AC-PUB-SIM-01": {
       "claim": {
@@ -71,7 +71,7 @@
       "reviewer": "Janus",
       "supersedes": "AC-PUB-SIM-01@2026-09-04",
       "withdrawnAt": null,
-      "nextReview": "2026-09-11"
+      "nextReview": "2026-09-12"
     },
     "AC-PUB-PROVENANCE-01": {
       "claim": {
@@ -91,7 +91,7 @@
       "reviewer": "Memoria",
       "supersedes": null,
       "withdrawnAt": null,
-      "nextReview": "2026-09-11"
+      "nextReview": "2026-09-12"
     },
     "AC-PUB-WEEKLY-01": {
       "claim": {
@@ -122,7 +122,7 @@
     "publicClaim": false
   },
   "linkAudit": {
-    "checkedAt": "2026-09-10T17:12:54+08:00",
+    "checkedAt": "2026-09-11T17:08:26+08:00",
     "checked": 12,
     "reachable": 12,
     "redirected": 0,
@@ -130,7 +130,7 @@
     "contentStored": false,
     "claimValidity": "not_assessed",
     "baselineEstablished": true,
-    "baselineComparison": "Smoke test: 0 added, 0 removed, 4 dynamic GitHub hashes changed and routed to manual review, 8 unchanged. First true cross-day comparison begins on 2026-09-11.",
+    "baselineComparison": "First true cross-day comparison: 0 added, 0 removed, 7 HTML hashes changed and routed to responsible review, 5 stable resources unchanged. Four GitHub pages were treated as dynamic noise; NATO treaty and both Saemangeum registers were reread with no claim-stage change. Baseline refreshed after review.",
     "note": "Schema validity, link reachability, content drift, and factual claim validity are separate states."
   }
 }

@@ -163,11 +163,17 @@ if (process.argv.includes('--online')) {
     redirected: links.filter(link => link.redirected).length,
     failed: links.filter(link => !link.ok).length
   };
+  const baselineComparison = compareWithBaseline(links);
+  const refreshBaseline = process.argv.includes('--refresh-baseline') && !summary.failed;
+  if (refreshBaseline) {
+    fs.writeFileSync(linkBaselinePath, `${JSON.stringify({generatedAt: new Date().toISOString(), links}, null, 2)}\n`);
+  }
   console.log(JSON.stringify({...baseResult, linkAudit: {
     summary,
     claimValidity: 'not_assessed',
     contentStored: false,
-    baselineComparison: compareWithBaseline(links),
+    baselineComparison,
+    baselineRefreshed: refreshBaseline,
     links
   }}, null, 2));
   if (summary.failed) process.exitCode = 2;

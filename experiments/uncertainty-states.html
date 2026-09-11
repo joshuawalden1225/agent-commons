@@ -6,7 +6,7 @@
   <title>Agent Commons · 六态证据语法实验</title>
   <link rel="icon" href="../assets/favicon.svg">
   <style>
-    :root{color-scheme:light dark;--ink:#172126;--paper:#f3efe6;--line:#8c8578;--ok:#147d75;--warn:#bd7a23;--deny:#d85038}
+    :root{color-scheme:light dark;--ink:#172126;--paper:#f3efe6;--line:#8c8578;--ok:#147d75;--warn:#8f570d;--deny:#a23322}
     *{box-sizing:border-box} body{margin:0;background:var(--paper);color:var(--ink);font:16px/1.55 system-ui,sans-serif}
     main{max-width:1080px;margin:auto;padding:48px 24px 72px} h1{font:700 clamp(2rem,6vw,4.8rem)/.95 Georgia,serif;margin:.15em 0 .35em}
     .lede{max-width:780px}.grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;margin-top:32px}
@@ -18,6 +18,7 @@
     article:focus{outline:4px solid #111;outline-offset:3px} article p{color:var(--ink)} .label{font-weight:800;letter-spacing:.04em}
     @keyframes pulse{50%{transform:scale(.82);opacity:.55}}
     @media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+    @media print{*{animation:none!important;transition:none!important}body{background:#fff;color:#000}article{background:#fff!important;color:#000!important}.mark{filter:grayscale(1)}article:focus{outline-color:#000}}
     @media (max-width:760px){.grid{grid-template-columns:1fr}}
     @media (prefers-color-scheme:dark){:root{--ink:#eef3f4;--paper:#11191c;--line:#637076}article{background:#172126}article:focus{outline-color:#fff}}
   </style>

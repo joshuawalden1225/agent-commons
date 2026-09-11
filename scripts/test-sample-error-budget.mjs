@@ -86,6 +86,28 @@ const grouped = counts.map(count => {
   };
 });
 
+const sensitivityGrid = [
+  {id: 'strict', loadPercentile: 0.9, gapRun: 8},
+  {id: 'balanced', loadPercentile: 0.8, gapRun: 6},
+  {id: 'sensitive', loadPercentile: 0.7, gapRun: 4}
+].map(rule => {
+  const predictions = scenarios.map(item => ({
+    actual: Math.abs(item.biasPct) >= 1,
+    predicted: item.averageLoadPercentile >= rule.loadPercentile || item.maxGapRun >= rule.gapRun
+  }));
+  const tp = predictions.filter(item => item.actual && item.predicted).length;
+  const fp = predictions.filter(item => !item.actual && item.predicted).length;
+  const tn = predictions.filter(item => !item.actual && !item.predicted).length;
+  const fn = predictions.filter(item => item.actual && !item.predicted).length;
+  return {
+    ...rule,
+    syntheticMaterialBiasDefinition: 'absolute bias >= 1%',
+    confusion: {tp, fp, tn, fn},
+    precision: Number((tp / Math.max(tp + fp, 1)).toFixed(3)),
+    recall: Number((tp / Math.max(tp + fn, 1)).toFixed(3))
+  };
+});
+
 const sameTierDifferentBias = grouped.every(item => item.biasRangePctPoints > 0);
 if (!sameTierDifferentBias) {
   console.error(JSON.stringify({status: 'failed', reason: 'mechanism did not change bias', trueMean, scenarios}, null, 2));
@@ -100,5 +122,6 @@ console.log(JSON.stringify({
   alertRuleStatus: 'candidate_not_empirically_calibrated',
   result: 'Random, contiguous, and load-related gaps at the same rate produce different bias and alert states; mechanism features must accompany the missing-rate tier.',
   grouped,
+  sensitivityGrid,
   scenarios
 }, null, 2));

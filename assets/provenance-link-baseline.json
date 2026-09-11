@@ -1,19 +1,137 @@
 {
-  "generatedAt": "2026-09-10T17:12:54+08:00",
-  "contentStored": false,
-  "claimValidity": "not_assessed",
+  "generatedAt": "2026-09-11T09:08:26.682Z",
   "links": [
-    {"url":"https://github.com/crewAIInc/crewAI/releases/tag/1.15.19","status":200,"finalUrl":"https://github.com/crewAIInc/crewAI/releases/tag/1.15.19","contentType":"text/html; charset=utf-8","bytes":213479,"sha256":"cc3d5d83203c424e361a3a24b34220b571b9b01453b0ac5cb2b51cd7d4a2c44b"},
-    {"url":"https://github.com/langchain-ai/langgraph/releases/tag/sdk%3D%3D0.4.4","status":200,"finalUrl":"https://github.com/langchain-ai/langgraph/releases/tag/sdk%3D%3D0.4.4","contentType":"text/html; charset=utf-8","bytes":206109,"sha256":"93e3eaab49051340eea84747852d47690a5660fcc08fe8f97a65ed24126e69ef"},
-    {"url":"https://github.com/microsoft/autogen","status":200,"finalUrl":"https://github.com/microsoft/autogen","contentType":"text/html; charset=utf-8","bytes":401500,"sha256":"c6c8022057fe64d7cf0aa2347267852789cadfe44e7439441388465eb6ce4e4f"},
-    {"url":"https://github.com/openai/openai-agents-python/releases/tag/v0.22.0","status":200,"finalUrl":"https://github.com/openai/openai-agents-python/releases/tag/v0.22.0","contentType":"text/html; charset=utf-8","bytes":225801,"sha256":"d55b622289281ef25d0032abc8cb89a64dad44a097b8a82fb99ac7fd13a50bca"},
-    {"url":"https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/1949/04/04/the-north-atlantic-treaty","status":200,"finalUrl":"https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/1949/04/04/the-north-atlantic-treaty","contentType":"text/html;charset=utf-8","bytes":329469,"sha256":"f44dc2dd90d044059a8699aa5a0161dfec5ff06532cc191c53f85da2367f4395"},
-    {"url":"https://www.saemangeum.go.kr/common/fileDown.do?key=36776&type=brd","status":200,"finalUrl":"https://www.saemangeum.go.kr/common/fileDown.do?key=36776&type=brd","contentType":"application/octet-stream; charset=UTF-8","bytes":157006,"sha256":"8b6bb1a49e52571e81d6b2d8d3c63deb5992960f2c5161c12fb75e050c48de74"},
-    {"url":"https://www.saemangeum.go.kr/common/fileDown.do?key=36811&type=brd","status":200,"finalUrl":"https://www.saemangeum.go.kr/common/fileDown.do?key=36811&type=brd","contentType":"application/octet-stream; charset=UTF-8","bytes":283954,"sha256":"74d21877d4b2c69df1b45d07ebb1d334425f188e43e5ffdf3339a4cf81f7592f"},
-    {"url":"https://www.saemangeum.go.kr/common/fileDown.do?key=36826&type=brd","status":200,"finalUrl":"https://www.saemangeum.go.kr/common/fileDown.do?key=36826&type=brd","contentType":"application/octet-stream; charset=UTF-8","bytes":252735,"sha256":"bbf87c4e8a2d67747324e300881be6b844e416a9370668b8790e56cd2e25928d"},
-    {"url":"https://www.saemangeum.go.kr/common/fileDown.do?key=36841&type=brd","status":200,"finalUrl":"https://www.saemangeum.go.kr/common/fileDown.do?key=36841&type=brd","contentType":"application/octet-stream; charset=UTF-8","bytes":193878,"sha256":"061220f0cec2bf6be44e496ae9fa04eaf3f56fb97b46c657dee68b8a4ac7c886"},
-    {"url":"https://www.saemangeum.go.kr/sda/brd/list.do?key=2009074409621","status":200,"finalUrl":"https://www.saemangeum.go.kr/sda/brd/list.do?key=2009074409621","contentType":"text/html;charset=UTF-8","bytes":131403,"sha256":"315aaf9ee25dacf45d87e67e2dc2bd97159fb2e5a4f86302c90c6e3df953aab4"},
-    {"url":"https://www.saemangeum.go.kr/sda/brd/list.do?key=2009075580577","status":200,"finalUrl":"https://www.saemangeum.go.kr/sda/brd/list.do?key=2009075580577","contentType":"text/html;charset=UTF-8","bytes":130398,"sha256":"eb6366afe6f8a7c3adc6b7ead0dd2e58e0abbe1f497621d26a6fb756902859ba"},
-    {"url":"https://www.w3.org/TR/prov-o/","status":200,"finalUrl":"https://www.w3.org/TR/prov-o/","contentType":"text/html; charset=utf-8","bytes":464179,"sha256":"6b96671ab84faf12ce3f041aca12c3f93a6df2ed242348810743179a68e69555"}
+    {
+      "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.19",
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.19",
+      "redirected": false,
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 213549,
+      "sha256": "c849698392081d799035ab17b780cfab899c5f4c1866c5d8c7f5a96b8635aa3e",
+      "elapsedMs": 611
+    },
+    {
+      "url": "https://github.com/langchain-ai/langgraph/releases/tag/sdk%3D%3D0.4.4",
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://github.com/langchain-ai/langgraph/releases/tag/sdk%3D%3D0.4.4",
+      "redirected": false,
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 206179,
+      "sha256": "e8ed8f8581903afa505b1877c51d7af9e52cac65b2cf96258e61826114f5c241",
+      "elapsedMs": 643
+    },
+    {
+      "url": "https://github.com/microsoft/autogen",
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://github.com/microsoft/autogen",
+      "redirected": false,
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 401572,
+      "sha256": "01eea47deb6ef3139c6b9a88c29dda7e230d2dc360592bbee669922e441da798",
+      "elapsedMs": 569
+    },
+    {
+      "url": "https://github.com/openai/openai-agents-python/releases/tag/v0.22.0",
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://github.com/openai/openai-agents-python/releases/tag/v0.22.0",
+      "redirected": false,
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 225867,
+      "sha256": "efe97ed0faf3c2461b8eca6aba665086da462b3a1ab3370effe135548e380905",
+      "elapsedMs": 626
+    },
+    {
+      "url": "https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/1949/04/04/the-north-atlantic-treaty",
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/1949/04/04/the-north-atlantic-treaty",
+      "redirected": false,
+      "contentType": "text/html;charset=utf-8",
+      "bytes": 329509,
+      "sha256": "a06ea2e35385aab28db22df4b501440e86ddeb08cb0e3e9cda079da66d9b9ded",
+      "elapsedMs": 92
+    },
+    {
+      "url": "https://www.saemangeum.go.kr/common/fileDown.do?key=36776&type=brd",
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.saemangeum.go.kr/common/fileDown.do?key=36776&type=brd",
+      "redirected": false,
+      "contentType": "application/octet-stream; charset=UTF-8",
+      "bytes": 157006,
+      "sha256": "8b6bb1a49e52571e81d6b2d8d3c63deb5992960f2c5161c12fb75e050c48de74",
+      "elapsedMs": 452
+    },
+    {
+      "url": "https://www.saemangeum.go.kr/common/fileDown.do?key=36811&type=brd",
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.saemangeum.go.kr/common/fileDown.do?key=36811&type=brd",
+      "redirected": false,
+      "contentType": "application/octet-stream; charset=UTF-8",
+      "bytes": 283954,
+      "sha256": "74d21877d4b2c69df1b45d07ebb1d334425f188e43e5ffdf3339a4cf81f7592f",
+      "elapsedMs": 417
+    },
+    {
+      "url": "https://www.saemangeum.go.kr/common/fileDown.do?key=36826&type=brd",
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.saemangeum.go.kr/common/fileDown.do?key=36826&type=brd",
+      "redirected": false,
+      "contentType": "application/octet-stream; charset=UTF-8",
+      "bytes": 252735,
+      "sha256": "bbf87c4e8a2d67747324e300881be6b844e416a9370668b8790e56cd2e25928d",
+      "elapsedMs": 420
+    },
+    {
+      "url": "https://www.saemangeum.go.kr/common/fileDown.do?key=36841&type=brd",
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.saemangeum.go.kr/common/fileDown.do?key=36841&type=brd",
+      "redirected": false,
+      "contentType": "application/octet-stream; charset=UTF-8",
+      "bytes": 193878,
+      "sha256": "061220f0cec2bf6be44e496ae9fa04eaf3f56fb97b46c657dee68b8a4ac7c886",
+      "elapsedMs": 278
+    },
+    {
+      "url": "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009074409621",
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009074409621",
+      "redirected": false,
+      "contentType": "text/html;charset=UTF-8",
+      "bytes": 131566,
+      "sha256": "098e776ce35f926dd935370efb4e2828eb755273b00c19d7a75c902e6713a217",
+      "elapsedMs": 1192
+    },
+    {
+      "url": "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009075580577",
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009075580577",
+      "redirected": false,
+      "contentType": "text/html;charset=UTF-8",
+      "bytes": 130398,
+      "sha256": "239566e88d5dba5de64b3a01f2b0e9f74ff4a94bac766c761c9ddcadefd7a9f9",
+      "elapsedMs": 1227
+    },
+    {
+      "url": "https://www.w3.org/TR/prov-o/",
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.w3.org/TR/prov-o/",
+      "redirected": false,
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 464179,
+      "sha256": "6b96671ab84faf12ce3f041aca12c3f93a6df2ed242348810743179a68e69555",
+      "elapsedMs": 209
+    }
   ]
 }
