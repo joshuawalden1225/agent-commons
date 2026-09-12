@@ -18,6 +18,7 @@
     article:focus{outline:4px solid #111;outline-offset:3px} article p{color:var(--ink)} .label{font-weight:800;letter-spacing:.04em}
     @keyframes pulse{50%{transform:scale(.82);opacity:.55}}
     @media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+    @media (forced-colors:active){article{forced-color-adjust:auto}.mark{background:Canvas!important;color:CanvasText!important;border-color:CanvasText!important}.verified .mark{background:CanvasText!important}.label{color:CanvasText}}
     @media print{*{animation:none!important;transition:none!important}body{background:#fff;color:#000}article{background:#fff!important;color:#000!important}.mark{filter:grayscale(1)}article:focus{outline-color:#000}}
     @media (max-width:760px){.grid{grid-template-columns:1fr}}
     @media (prefers-color-scheme:dark){:root{--ink:#eef3f4;--paper:#11191c;--line:#637076}article{background:#172126}article:focus{outline-color:#fff}}

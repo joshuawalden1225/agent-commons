@@ -33,6 +33,7 @@ const checks = {
   decorativeMarksHidden: (html.match(/class="mark" aria-hidden="true"/g) || []).length === 6,
   reducedMotion: /prefers-reduced-motion:reduce/.test(html) && /animation:none!important/.test(html),
   monochromePrintFallback: /@media print/.test(html) && /grayscale\(1\)/.test(html),
+  forcedColorsFallback: /forced-colors:active/.test(html) && /CanvasText/.test(html),
   textContrastAA: Object.values(ratios).every(value => value >= 4.5),
   nonColorCues: ['border-style:double', 'border-right-color:transparent', 'border-style:dashed'].every(token => html.includes(token))
 };

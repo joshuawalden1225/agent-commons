@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T09:08:26.682Z",
+  "generatedAt": "2026-09-12T09:08:58.632Z",
   "links": [
     {
       "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.19",
@@ -8,9 +8,9 @@
       "finalUrl": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.19",
       "redirected": false,
       "contentType": "text/html; charset=utf-8",
-      "bytes": 213549,
-      "sha256": "c849698392081d799035ab17b780cfab899c5f4c1866c5d8c7f5a96b8635aa3e",
-      "elapsedMs": 611
+      "bytes": 215547,
+      "sha256": "7eab367a88069e871f286b61c41f76a8e38b9948164d0e03e280d3e4354512f3",
+      "elapsedMs": 538
     },
     {
       "url": "https://github.com/langchain-ai/langgraph/releases/tag/sdk%3D%3D0.4.4",
@@ -19,9 +19,9 @@
       "finalUrl": "https://github.com/langchain-ai/langgraph/releases/tag/sdk%3D%3D0.4.4",
       "redirected": false,
       "contentType": "text/html; charset=utf-8",
-      "bytes": 206179,
-      "sha256": "e8ed8f8581903afa505b1877c51d7af9e52cac65b2cf96258e61826114f5c241",
-      "elapsedMs": 643
+      "bytes": 208175,
+      "sha256": "395a8d40166be76f57fe210444522b219b3c8cb80278ea0570a11421d57c5341",
+      "elapsedMs": 623
     },
     {
       "url": "https://github.com/microsoft/autogen",
@@ -30,9 +30,9 @@
       "finalUrl": "https://github.com/microsoft/autogen",
       "redirected": false,
       "contentType": "text/html; charset=utf-8",
-      "bytes": 401572,
-      "sha256": "01eea47deb6ef3139c6b9a88c29dda7e230d2dc360592bbee669922e441da798",
-      "elapsedMs": 569
+      "bytes": 403482,
+      "sha256": "ba387eaf67a7b1be35a119b1038a6e29d1c8208b05a520e8d0d3430565bee224",
+      "elapsedMs": 725
     },
     {
       "url": "https://github.com/openai/openai-agents-python/releases/tag/v0.22.0",
@@ -41,9 +41,20 @@
       "finalUrl": "https://github.com/openai/openai-agents-python/releases/tag/v0.22.0",
       "redirected": false,
       "contentType": "text/html; charset=utf-8",
-      "bytes": 225867,
-      "sha256": "efe97ed0faf3c2461b8eca6aba665086da462b3a1ab3370effe135548e380905",
-      "elapsedMs": 626
+      "bytes": 227867,
+      "sha256": "20253b74079babc33cc92240ef3197a9e8543886c9b5127976787106bf254c0c",
+      "elapsedMs": 543
+    },
+    {
+      "url": "https://www.hyundaimotorgroup.com/en/news/hyundai-motor-group-to-establish-innovation-hub-to-lead-robotics-ai-and-hydrogen-energy-in-korea",
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.hyundaimotorgroup.com/en/news/hyundai-motor-group-to-establish-innovation-hub-to-lead-robotics-ai-and-hydrogen-energy-in-korea",
+      "redirected": false,
+      "contentType": "text/html;charset=UTF-8",
+      "bytes": 211794,
+      "sha256": "99aa8533b3311445766464950458c43c2156c76a5497dbcf70df54722b1c4ab1",
+      "elapsedMs": 405
     },
     {
       "url": "https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/1949/04/04/the-north-atlantic-treaty",
@@ -53,30 +64,8 @@
       "redirected": false,
       "contentType": "text/html;charset=utf-8",
       "bytes": 329509,
-      "sha256": "a06ea2e35385aab28db22df4b501440e86ddeb08cb0e3e9cda079da66d9b9ded",
-      "elapsedMs": 92
-    },
-    {
-      "url": "https://www.saemangeum.go.kr/common/fileDown.do?key=36776&type=brd",
-      "ok": true,
-      "status": 200,
-      "finalUrl": "https://www.saemangeum.go.kr/common/fileDown.do?key=36776&type=brd",
-      "redirected": false,
-      "contentType": "application/octet-stream; charset=UTF-8",
-      "bytes": 157006,
-      "sha256": "8b6bb1a49e52571e81d6b2d8d3c63deb5992960f2c5161c12fb75e050c48de74",
-      "elapsedMs": 452
-    },
-    {
-      "url": "https://www.saemangeum.go.kr/common/fileDown.do?key=36811&type=brd",
-      "ok": true,
-      "status": 200,
-      "finalUrl": "https://www.saemangeum.go.kr/common/fileDown.do?key=36811&type=brd",
-      "redirected": false,
-      "contentType": "application/octet-stream; charset=UTF-8",
-      "bytes": 283954,
-      "sha256": "74d21877d4b2c69df1b45d07ebb1d334425f188e43e5ffdf3339a4cf81f7592f",
-      "elapsedMs": 417
+      "sha256": "d5d44e078406ffcb5092dba18858579ac5ea70e67602cdfe91c3c2f42bcaca39",
+      "elapsedMs": 619
     },
     {
       "url": "https://www.saemangeum.go.kr/common/fileDown.do?key=36826&type=brd",
@@ -87,7 +76,7 @@
       "contentType": "application/octet-stream; charset=UTF-8",
       "bytes": 252735,
       "sha256": "bbf87c4e8a2d67747324e300881be6b844e416a9370668b8790e56cd2e25928d",
-      "elapsedMs": 420
+      "elapsedMs": 618
     },
     {
       "url": "https://www.saemangeum.go.kr/common/fileDown.do?key=36841&type=brd",
@@ -98,7 +87,29 @@
       "contentType": "application/octet-stream; charset=UTF-8",
       "bytes": 193878,
       "sha256": "061220f0cec2bf6be44e496ae9fa04eaf3f56fb97b46c657dee68b8a4ac7c886",
-      "elapsedMs": 278
+      "elapsedMs": 444
+    },
+    {
+      "url": "https://www.saemangeum.go.kr/common/fileDown.do?key=36864&type=brd",
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.saemangeum.go.kr/common/fileDown.do?key=36864&type=brd",
+      "redirected": false,
+      "contentType": "application/octet-stream; charset=UTF-8",
+      "bytes": 197953,
+      "sha256": "59220b668e9a1e997cf65842c43b53ae660c2cae9b5815dac71751886969ec0b",
+      "elapsedMs": 396
+    },
+    {
+      "url": "https://www.saemangeum.go.kr/common/fileDown.do?key=36879&type=brd",
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.saemangeum.go.kr/common/fileDown.do?key=36879&type=brd",
+      "redirected": false,
+      "contentType": "application/octet-stream; charset=UTF-8",
+      "bytes": 285608,
+      "sha256": "b7a4efb42287d92472a5ba70d7c3271dab8b22c64a7d8a32612393018ea09400",
+      "elapsedMs": 368
     },
     {
       "url": "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009074409621",
@@ -107,9 +118,9 @@
       "finalUrl": "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009074409621",
       "redirected": false,
       "contentType": "text/html;charset=UTF-8",
-      "bytes": 131566,
-      "sha256": "098e776ce35f926dd935370efb4e2828eb755273b00c19d7a75c902e6713a217",
-      "elapsedMs": 1192
+      "bytes": 131389,
+      "sha256": "a946cad15d66d3f13536477570945891579409b9fd015448d054c8f12c65dda9",
+      "elapsedMs": 1289
     },
     {
       "url": "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009075580577",
@@ -119,8 +130,8 @@
       "redirected": false,
       "contentType": "text/html;charset=UTF-8",
       "bytes": 130398,
-      "sha256": "239566e88d5dba5de64b3a01f2b0e9f74ff4a94bac766c761c9ddcadefd7a9f9",
-      "elapsedMs": 1227
+      "sha256": "7bb0854a655b32b9aadf6df9c1b76766b72a8cde557dececb5ac8fd62a22125d",
+      "elapsedMs": 1215
     },
     {
       "url": "https://www.w3.org/TR/prov-o/",
@@ -131,7 +142,7 @@
       "contentType": "text/html; charset=utf-8",
       "bytes": 464179,
       "sha256": "6b96671ab84faf12ce3f041aca12c3f93a6df2ed242348810743179a68e69555",
-      "elapsedMs": 209
+      "elapsedMs": 77
     }
   ]
 }

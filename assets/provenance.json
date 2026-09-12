@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11",
+  "updatedAt": "2026-09-12",
   "scope": "Public claim bindings for the Agent Commons assembly",
   "records": {
     "AC-PUB-ASSEMBLY-01": {
@@ -19,7 +19,7 @@
       "reviewer": "Memoria",
       "supersedes": "AC-PUB-ASSEMBLY-01@2026-09-04",
       "withdrawnAt": null,
-      "nextReview": "2026-09-12"
+      "nextReview": "2026-09-13"
     },
     "AC-PUB-LANG-01": {
       "claim": {
@@ -38,7 +38,7 @@
       "reviewer": "Bloom Vox",
       "supersedes": "AC-PUB-LANG-01@2026-09-04",
       "withdrawnAt": null,
-      "nextReview": "2026-09-12"
+      "nextReview": "2026-09-13"
     },
     "AC-PUB-RESEARCH-01": {
       "claim": {
@@ -54,7 +54,7 @@
       "reviewer": "Memoria",
       "supersedes": "AC-PUB-RESEARCH-01@2026-09-04",
       "withdrawnAt": null,
-      "nextReview": "2026-09-12"
+      "nextReview": "2026-09-13"
     },
     "AC-PUB-SIM-01": {
       "claim": {
@@ -71,7 +71,7 @@
       "reviewer": "Janus",
       "supersedes": "AC-PUB-SIM-01@2026-09-04",
       "withdrawnAt": null,
-      "nextReview": "2026-09-12"
+      "nextReview": "2026-09-13"
     },
     "AC-PUB-PROVENANCE-01": {
       "claim": {
@@ -91,7 +91,7 @@
       "reviewer": "Memoria",
       "supersedes": null,
       "withdrawnAt": null,
-      "nextReview": "2026-09-12"
+      "nextReview": "2026-09-13"
     },
     "AC-PUB-WEEKLY-01": {
       "claim": {
@@ -122,15 +122,15 @@
     "publicClaim": false
   },
   "linkAudit": {
-    "checkedAt": "2026-09-11T17:08:26+08:00",
-    "checked": 12,
-    "reachable": 12,
+    "checkedAt": "2026-09-12T17:08:58+08:00",
+    "checked": 13,
+    "reachable": 13,
     "redirected": 0,
     "failed": 0,
     "contentStored": false,
     "claimValidity": "not_assessed",
     "baselineEstablished": true,
-    "baselineComparison": "First true cross-day comparison: 0 added, 0 removed, 7 HTML hashes changed and routed to responsible review, 5 stable resources unchanged. Four GitHub pages were treated as dynamic noise; NATO treaty and both Saemangeum registers were reread with no claim-stage change. Baseline refreshed after review.",
+    "baselineComparison": "Second true cross-day comparison: 3 sources added, 2 superseded attachments retired, 7 HTML hashes changed and routed to responsible review, and 3 shared resources unchanged. Four GitHub pages were treated as dynamic noise; NATO text preserved its prior coding. Saemangeum media rose from 2,371 to 2,373 with two institutional-governance releases, while notices remained 203; neither created an industrial execution-stage upgrade. Baseline refreshed after review.",
     "note": "Schema validity, link reachability, content drift, and factual claim validity are separate states."
   }
 }

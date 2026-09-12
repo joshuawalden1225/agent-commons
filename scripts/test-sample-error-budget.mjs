@@ -108,6 +108,22 @@ const sensitivityGrid = [
   };
 });
 
+const balancedRule = sensitivityGrid.find(rule => rule.id === 'balanced');
+const balancedPredictions = scenarios.map(item => item.averageLoadPercentile >= balancedRule.loadPercentile || item.maxGapRun >= balancedRule.gapRun);
+const materialitySensitivity = [0.5, 1, 1.5].map(materialityPct => {
+  const actuals = scenarios.map(item => Math.abs(item.biasPct) >= materialityPct);
+  const tp = actuals.filter((actual, index) => actual && balancedPredictions[index]).length;
+  const fp = actuals.filter((actual, index) => !actual && balancedPredictions[index]).length;
+  const tn = actuals.filter((actual, index) => !actual && !balancedPredictions[index]).length;
+  const fn = actuals.filter((actual, index) => actual && !balancedPredictions[index]).length;
+  return {
+    materialityPct,
+    confusion: {tp, fp, tn, fn},
+    precision: Number((tp / Math.max(tp + fp, 1)).toFixed(3)),
+    recall: Number((tp / Math.max(tp + fn, 1)).toFixed(3))
+  };
+});
+
 const sameTierDifferentBias = grouped.every(item => item.biasRangePctPoints > 0);
 if (!sameTierDifferentBias) {
   console.error(JSON.stringify({status: 'failed', reason: 'mechanism did not change bias', trueMean, scenarios}, null, 2));
@@ -123,5 +139,6 @@ console.log(JSON.stringify({
   result: 'Random, contiguous, and load-related gaps at the same rate produce different bias and alert states; mechanism features must accompany the missing-rate tier.',
   grouped,
   sensitivityGrid,
+  materialitySensitivity,
   scenarios
 }, null, 2));
