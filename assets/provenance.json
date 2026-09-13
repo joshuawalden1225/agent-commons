@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12",
+  "updatedAt": "2026-09-13",
   "scope": "Public claim bindings for the Agent Commons assembly",
   "records": {
     "AC-PUB-ASSEMBLY-01": {
@@ -19,7 +19,7 @@
       "reviewer": "Memoria",
       "supersedes": "AC-PUB-ASSEMBLY-01@2026-09-04",
       "withdrawnAt": null,
-      "nextReview": "2026-09-13"
+      "nextReview": "2026-09-14"
     },
     "AC-PUB-LANG-01": {
       "claim": {
@@ -38,7 +38,7 @@
       "reviewer": "Bloom Vox",
       "supersedes": "AC-PUB-LANG-01@2026-09-04",
       "withdrawnAt": null,
-      "nextReview": "2026-09-13"
+      "nextReview": "2026-09-14"
     },
     "AC-PUB-RESEARCH-01": {
       "claim": {
@@ -54,7 +54,7 @@
       "reviewer": "Memoria",
       "supersedes": "AC-PUB-RESEARCH-01@2026-09-04",
       "withdrawnAt": null,
-      "nextReview": "2026-09-13"
+      "nextReview": "2026-09-14"
     },
     "AC-PUB-SIM-01": {
       "claim": {
@@ -71,7 +71,7 @@
       "reviewer": "Janus",
       "supersedes": "AC-PUB-SIM-01@2026-09-04",
       "withdrawnAt": null,
-      "nextReview": "2026-09-13"
+      "nextReview": "2026-09-14"
     },
     "AC-PUB-PROVENANCE-01": {
       "claim": {
@@ -91,7 +91,7 @@
       "reviewer": "Memoria",
       "supersedes": null,
       "withdrawnAt": null,
-      "nextReview": "2026-09-13"
+      "nextReview": "2026-09-14"
     },
     "AC-PUB-WEEKLY-01": {
       "claim": {
@@ -122,15 +122,15 @@
     "publicClaim": false
   },
   "linkAudit": {
-    "checkedAt": "2026-09-12T17:08:58+08:00",
-    "checked": 13,
-    "reachable": 13,
+    "checkedAt": "2026-09-13T17:13:10+08:00",
+    "checked": 14,
+    "reachable": 14,
     "redirected": 0,
     "failed": 0,
     "contentStored": false,
     "claimValidity": "not_assessed",
     "baselineEstablished": true,
-    "baselineComparison": "Second true cross-day comparison: 3 sources added, 2 superseded attachments retired, 7 HTML hashes changed and routed to responsible review, and 3 shared resources unchanged. Four GitHub pages were treated as dynamic noise; NATO text preserved its prior coding. Saemangeum media rose from 2,371 to 2,373 with two institutional-governance releases, while notices remained 203; neither created an industrial execution-stage upgrade. Baseline refreshed after review.",
+    "baselineComparison": "Third true cross-day audit first compared the 13-source 12 September baseline: 0 added or removed, 8 HTML hashes changed and routed to responsible review, and 5 stable resources remained unchanged. Domain rereads confirmed media remained 2,373, notices remained 203, and no claim-stage change occurred on the Hyundai or NATO pages; four GitHub pages remained dynamic noise. One official 21 August Saemangeum implementation timeline was newly annotated, and the reviewed baseline was refreshed to 14 reachable sources.",
     "note": "Schema validity, link reachability, content drift, and factual claim validity are separate states."
   }
 }

@@ -1,0 +1,47 @@
+{
+  "version": "2026-09-13-v1",
+  "status": "candidate_unanswered",
+  "blindBeforeRealData": true,
+  "decisionQuestion": "Which definition of material error would change an operational decision?",
+  "options": [
+    {
+      "id": "mean_bias",
+      "unit": "percent of interval mean",
+      "candidateThresholds": [0.5, 1.0, 1.5],
+      "decisionChanged": null,
+      "falsePositiveCost": null,
+      "falseNegativeCost": null,
+      "selectedThreshold": null,
+      "domainOwner": null,
+      "signoffDate": null
+    },
+    {
+      "id": "peak_omission",
+      "unit": "missed peak intervals or MW",
+      "candidateThresholds": [],
+      "decisionChanged": null,
+      "falsePositiveCost": null,
+      "falseNegativeCost": null,
+      "selectedThreshold": null,
+      "domainOwner": null,
+      "signoffDate": null
+    },
+    {
+      "id": "cost_loss",
+      "unit": "currency per reporting window",
+      "candidateThresholds": [],
+      "decisionChanged": null,
+      "falsePositiveCost": null,
+      "falseNegativeCost": null,
+      "selectedThreshold": null,
+      "domainOwner": null,
+      "signoffDate": null
+    }
+  ],
+  "stoppingConditions": [
+    "Stop if the domain owner cannot name a decision changed by the metric.",
+    "Stop if the threshold is chosen after inspecting real outcomes.",
+    "Stop if units or aggregation windows differ across comparison groups.",
+    "Stop if missing observations are silently converted to zero."
+  ]
+}

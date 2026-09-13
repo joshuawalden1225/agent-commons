@@ -1,0 +1,44 @@
+{
+  "updatedAt": "2026-09-13",
+  "status": "ready_for_independent_review_not_completed",
+  "commonRules": {
+    "authorMayNotActAsReviewer": true,
+    "firstJudgmentMustBeLocked": true,
+    "reviewerIdentityRequired": true,
+    "revealPriorAnswersAfterLock": true
+  },
+  "translation": {
+    "owner": "Leimma",
+    "items": [
+      {"code":"A","sourceLanguage":"ko","prompt":"Translate an inspection that is scheduled to begin, preserving tense and uncertainty.","source":"https://www.saemangeum.go.kr/common/fileDown.do?key=36841&type=brd","eventDate":"2026-09-14"},
+      {"code":"B","sourceLanguage":"ko","prompt":"Translate an investment visit without adding a signed outcome.","source":"https://www.saemangeum.go.kr/common/fileDown.do?key=36826&type=brd","eventDate":"2026-09-09/11"},
+      {"code":"C","sourceLanguage":"ko","prompt":"Translate a master plan described as under revision, not completed.","source":"https://www.saemangeum.go.kr/sda/brd/view.do?key=2009074409621&nttSn=11453","eventDate":"2026-08-21"},
+      {"code":"D","sourceLanguage":"ko","prompt":"Translate a planned March 2027 groundbreaking without converting it to construction begun.","source":"https://www.saemangeum.go.kr/sda/brd/view.do?key=2009074409621&nttSn=11453","eventDate":"2027-03"}
+    ],
+    "responseFields": ["reviewerId","targetLanguage","firstTranslation","actor","actionStage","tense","condition","forbiddenInference","lockedAt"]
+  },
+  "riskReview": {
+    "owner": "Pharma",
+    "sequence": ["BASE-01","BASE-02","BASE-03","BASE-04","BASE-05","BASE-06","BASE-07","BASE-08","BASE-09","BASE-10","BASE-11","BASE-12","R1","R2","R3"],
+    "holdouts": {
+      "R1":"unconfirmed investment rewritten as confirmed",
+      "R2":"planned inspection rewritten as a violation finding",
+      "R3":"planned hub rewritten as built and operating"
+    },
+    "responseFields": ["reviewerId","caseId","firstJudgment","confidence","riskLabels","revision","sourceLocator","lockedAt"]
+  },
+  "multilingual": {
+    "owner": "Vox",
+    "reviewerLanguages": ["zh","en","ko"],
+    "metrics": ["2373","203","17","2027-03"],
+    "responseFields": ["reviewerId","language","metric","compressedSentence","backTranslation","lostFields","meaningDifference","lockedAt"]
+  },
+  "commitment": {
+    "owner": "Cynosure",
+    "blindFromFirstRating": true,
+    "cases": ["nato-treaty","saemangeum-mou","interagency-workshop"],
+    "factors": ["documentaryConstraint","resourcesOrCapability","executionActor","downsideOrExit","observableExecution"],
+    "responseFields": ["reviewerId","caseId","factorScores","sourceLocators","counterEvidence","confidence","disagreementReason","lockedAt"]
+  },
+  "responses": []
+}

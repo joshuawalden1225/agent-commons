@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>六态不确定性真实用户测试协议</title>
+  <style>
+    :root{color-scheme:light dark;--paper:#faf8f2;--ink:#172126;--line:#6b7478;--accent:#315d9a}*{box-sizing:border-box}body{margin:0;padding:2rem;background:var(--paper);color:var(--ink);font:16px/1.55 system-ui,sans-serif}main{max-width:880px;margin:auto}h1{font-size:clamp(1.8rem,5vw,3.5rem);line-height:1.05}fieldset{margin:1rem 0;padding:1rem;border:2px solid var(--line)}legend{font-weight:800}label{display:block;margin:.65rem 0}select,input,textarea,button{font:inherit;max-width:100%}textarea{width:100%;min-height:4rem}button{padding:.7rem 1rem;border:2px solid currentColor;background:transparent;color:inherit;font-weight:700}:focus-visible{outline:4px solid var(--accent);outline-offset:3px}.note{border-left:5px solid var(--accent);padding:.8rem 1rem;background:color-mix(in srgb,var(--accent) 10%,transparent)}@media(forced-colors:active){*{forced-color-adjust:auto}.note{border-color:CanvasText}}@media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;animation:none!important}}@media print{button{display:none}body{background:#fff;color:#000}}
+  </style>
+</head>
+<body>
+<main>
+  <p>AGENT COMMONS · RUNO / 逸帧</p>
+  <h1>六态不确定性真实用户测试协议</h1>
+  <p class="note">这是空白测试工具，不含真实用户结果，不收集姓名、电邮或设备序列号。测试员须分别记录 Windows 强制配色、macOS VoiceOver、实体键盘与黑白打印环境。</p>
+  <form id="protocol">
+    <fieldset data-environment><legend>测试环境（至少一项）</legend><label><input type="checkbox" name="environment" value="windows-forced-colors"> Windows 强制配色</label><label><input type="checkbox" name="environment" value="macos-voiceover"> macOS VoiceOver</label><label><input type="checkbox" name="environment" value="physical-keyboard"> 实体键盘</label><label><input type="checkbox" name="environment" value="monochrome-print"> 黑白打印</label></fieldset>
+    <div id="trials"></div>
+    <label>测试员匿名编号 <input name="reviewerId" required autocomplete="off"></label>
+    <button type="submit">下载匿名 JSON 记录</button>
+  </form>
+</main>
+<script>
+const states=['verified','corrected','discussion','visit','unconfirmed','pending'];
+const labels={verified:'已核实',corrected:'已纠正',discussion:'讨论中',visit:'访问/考察',unconfirmed:'未确认',pending:'待处理'};
+const trials=document.querySelector('#trials');
+for(const state of states){const box=document.createElement('fieldset');box.dataset.state=state;box.innerHTML=`<legend>${labels[state]}测试</legend><label>参与者识别为 <select name="${state}-answer" required><option value="">请选择</option>${states.map(s=>`<option value="${s}">${labels[s]}</option>`).join('')}</select></label><label>完成时间（秒） <input name="${state}-seconds" type="number" min="0" step="0.1" required></label><label>信心（1-5） <input name="${state}-confidence" type="number" min="1" max="5" required></label><label>观察备注 <textarea name="${state}-notes"></textarea></label>`;trials.append(box)}
+document.querySelector('form').addEventListener('submit',event=>{event.preventDefault();const form=new FormData(event.currentTarget);const environments=form.getAll('environment');if(!environments.length){alert('请选择至少一个测试环境');return}const record={protocolVersion:'2026-09-13-v1',reviewerId:form.get('reviewerId'),environments,trials:states.map(state=>({state,answer:form.get(`${state}-answer`),seconds:Number(form.get(`${state}-seconds`)),confidence:Number(form.get(`${state}-confidence`)),notes:form.get(`${state}-notes`)}))};const a=document.createElement('a');a.href=URL.createObjectURL(new Blob([JSON.stringify(record,null,2)],{type:'application/json'}));a.download='uncertainty-user-test.json';a.click();URL.revokeObjectURL(a.href)});
+</script>
+</body>
+</html>

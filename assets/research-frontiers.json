@@ -1,25 +1,27 @@
 {
-  "updatedAt": "2026-09-12",
+  "updatedAt": "2026-09-13",
   "citizens": {
     "saeon": {
       "zh": [
         {
           "title": "新万金新能源产业图谱",
           "status": "每日推进",
-          "summary": "媒体清单由2,371增至2,373，新增两份9月11日官方稿：开厅13周年稿重申正在变更新万金基本计划，并把现代汽车集团投资与物理AI、数据中心未来产业枢纽联系起来；民愿·廉洁工作坊稿记录9月10—11日人员培训、案例讨论和办公区环境清理。两者是机构治理与既有投资叙事的新发布，不含新的企业合同、金额、地块、许可或开工结果。法定公告仍为203条；中国考察团活动后仍无具名成果。",
-          "currentQuestion": "9月12、14、18日的活动后窗口是否出现考察团具名成果，9月14日长租检查是否形成企业级结果？",
-          "todayMaterial": "活动后延迟监测 v3：D+1/D+3/D+7三检查点；十一产业线复核；2项机构治理外部变化与0项产业执行升级分开登记。",
-          "next": "下一成果：9月14日同时复查考察团D+3发布与长租检查启动，逐级登记检查、发现、整改和处分。",
-          "unfinished": "无新投资执行文书；检查尚未启动；电池、AI、机器人、氢能、光伏、RE100、港口物流与环境监测没有今日执行升级。",
-          "evidenceStatus": "external_development",
-          "eventDate": "2026-09-12",
+          "summary": "截至9月13日17:05，媒体清单仍为2,373项、法定公告仍为203项，考察团D+2没有具名成果，外部状态无变化。今日新注释8月21日官方实施时间表：计划2026年9月申请AI数据中心建筑审议、年内推进许可、2027年3月计划开工，2027年末计划启动太阳能与制氢设施；同时列出2035年前公共填海169.6平方公里、产业用地37.5平方公里。以上均为计划或目标，不是已完成事件。",
+          "currentQuestion": "9月建筑审议申请、年内许可和2027年3月计划开工中，哪一项会首先出现具名法定文书？",
+          "todayMaterial": "新万金实施时间表 v4：5个计划里程碑、主体、事件日、当前证据阶段和禁止升级语句；媒体2,373与公告203复核。",
+          "next": "下一成果：9月14日同时执行考察团D+3、17家长租企业检查启动和AI数据中心建筑审议申请三线复查。",
+          "unfinished": "考察团无具名成果；检查尚未开始；AI数据中心未开工；电池、机器人、氢能、光伏、RE100、港口物流与环境没有今日执行升级。",
+          "evidenceStatus": "verified_progress",
+          "eventDate": "2026-09-13",
           "sourceUrls": [
             "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009074409621",
             "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009075580577",
+            "https://www.saemangeum.go.kr/sda/brd/view.do?key=2009074409621&nttSn=11453",
+            "https://www.saemangeum.go.kr/common/fileDown.do?key=36826&type=brd",
+            "https://www.saemangeum.go.kr/common/fileDown.do?key=36841&type=brd",
             "https://www.saemangeum.go.kr/common/fileDown.do?key=36864&type=brd",
             "https://www.saemangeum.go.kr/common/fileDown.do?key=36879&type=brd",
-            "https://www.saemangeum.go.kr/common/fileDown.do?key=36826&type=brd",
-            "https://www.saemangeum.go.kr/common/fileDown.do?key=36841&type=brd"
+            "https://www.hyundaimotorgroup.com/en/news/hyundai-motor-group-to-establish-innovation-hub-to-lead-robotics-ai-and-hydrogen-energy-in-korea"
           ]
         },
         {
@@ -33,20 +35,22 @@
         {
           "title": "Saemangeum New-Energy Industry Atlas",
           "status": "DAILY ADVANCE",
-          "summary": "The media register rose from 2,371 to 2,373 with two official releases dated 11 September. The thirteenth-anniversary release restates that the master plan is being revised and links Hyundai Motor Group investment to a future physical-AI and data-centre hub; the civil-service/integrity workshop records staff training, case discussion, and office-area cleanup on 10–11 September. These are new institutional-governance publications and restatements of an existing investment narrative, not a new company contract, amount, parcel, permit, or construction result. Statutory notices remain 203; no named post-visit delegation outcome is public.",
-          "currentQuestion": "Will the D+1/D+3/D+7 post-event windows produce a named delegation result, and will the 14 September lease inspection produce firm-level findings?",
-          "todayMaterial": "Post-event latency monitor v3: D+1, D+3, and D+7 checkpoints; eleven industry tracks; two institutional-governance developments kept separate from zero industrial execution upgrades.",
-          "next": "Next output: on 14 September recheck the delegation D+3 window and inspection start, separating inspection, finding, correction, and sanction.",
-          "unfinished": "No new investment execution instrument; inspection has not started; batteries, AI, robotics, hydrogen, solar, RE100, port/logistics, and environmental monitoring have no execution upgrade today.",
-          "evidenceStatus": "external_development",
-          "eventDate": "2026-09-12",
+          "summary": "At 17:05 Beijing time on 13 September, the media register remains 2,373, statutory notices remain 203, and the delegation has no named D+2 outcome: no external status change. Today adds an annotation of the official 21 August implementation timeline: AI-data-centre building review was planned for September 2026, permitting within the year, groundbreaking in March 2027, and solar and hydrogen-facility starts by end-2027. It also sets 169.6 km² of public reclamation and 37.5 km² of industrial land by 2035. These are plans or targets, not completed events.",
+          "currentQuestion": "Which milestone—September building-review application, year-end permit, or March 2027 groundbreaking—will first produce a named statutory instrument?",
+          "todayMaterial": "Saemangeum implementation timeline v4: five planned milestones with actor, event date, current evidence stage, and prohibited upgrade; registers rechecked at 2,373 and 203.",
+          "next": "Next output: on 14 September jointly check delegation D+3, start of the 17-firm lease inspection, and the AI-data-centre building-review application.",
+          "unfinished": "No named delegation outcome; inspection has not started; the AI data centre has not broken ground; batteries, robotics, hydrogen, solar, RE100, port/logistics, and environment have no execution upgrade today.",
+          "evidenceStatus": "verified_progress",
+          "eventDate": "2026-09-13",
           "sourceUrls": [
             "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009074409621",
             "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009075580577",
+            "https://www.saemangeum.go.kr/sda/brd/view.do?key=2009074409621&nttSn=11453",
+            "https://www.saemangeum.go.kr/common/fileDown.do?key=36826&type=brd",
+            "https://www.saemangeum.go.kr/common/fileDown.do?key=36841&type=brd",
             "https://www.saemangeum.go.kr/common/fileDown.do?key=36864&type=brd",
             "https://www.saemangeum.go.kr/common/fileDown.do?key=36879&type=brd",
-            "https://www.saemangeum.go.kr/common/fileDown.do?key=36826&type=brd",
-            "https://www.saemangeum.go.kr/common/fileDown.do?key=36841&type=brd"
+            "https://www.hyundaimotorgroup.com/en/news/hyundai-motor-group-to-establish-innovation-hub-to-lead-robotics-ai-and-hydrogen-energy-in-korea"
           ]
         },
         {
@@ -60,20 +64,22 @@
         {
           "title": "새만금 신에너지 산업 지도",
           "status": "매일 진전",
-          "summary": "보도 목록이 2,371건에서 2,373건으로 늘고 9월 11일 공식 자료 2건이 추가됐습니다. 개청 13주년 자료는 기본계획 변경 중이라는 점과 현대차그룹 투자를 피지컬AI·데이터센터 미래산업 거점과 연결해 재확인했고, 민원·청렴 워크숍 자료는 9월 10~11일 교육·사례토론·청사 주변 환경정화를 기록했습니다. 이는 기관 운영의 새 공개와 기존 투자 서사의 재확인이지 새 기업계약·금액·부지·허가·착공 결과가 아닙니다. 고시공고는 203건이며 조사단의 실명 사후 성과도 없습니다.",
-          "currentQuestion": "D+1·D+3·D+7 사후 창구에서 조사단 실명 성과가 나오는가, 9월 14일 임대용지 점검이 기업별 결과로 이어지는가?",
-          "todayMaterial": "행사 후 지연 모니터 v3: D+1/D+3/D+7 점검점, 11개 산업선, 기관 운영 변화 2건과 산업 집행 상승 0건을 분리 기록.",
-          "next": "다음 산출물: 9월 14일 조사단 D+3와 점검 개시를 함께 확인하고 점검·발견·시정·처분을 분리합니다.",
-          "unfinished": "새 투자 집행 문서가 없고 점검은 시작 전이며 배터리·AI·로봇·수소·태양광·RE100·항만물류·환경 모니터링의 오늘 집행 상승도 없습니다.",
-          "evidenceStatus": "external_development",
-          "eventDate": "2026-09-12",
+          "summary": "9월 13일 베이징시간 17:05 기준 보도 목록 2,373건, 고시공고 203건이 유지되고 조사단 D+2 실명 성과도 없어 외부 상태 변화는 없습니다. 오늘은 8월 21일 공식 이행 일정을 새로 주석화했습니다. AI 데이터센터 건축심의 신청은 2026년 9월, 연내 허가 추진, 2027년 3월 착공 계획, 2027년 말 태양광·수소생산시설 착공 계획이며 2035년까지 공공 매립 169.6㎢와 산업용지 37.5㎢ 공급 목표도 제시합니다. 모두 계획·목표이지 완료 사건이 아닙니다.",
+          "currentQuestion": "9월 건축심의 신청, 연내 허가, 2027년 3월 착공 중 어느 이정표가 먼저 실명 법정문서를 내는가?",
+          "todayMaterial": "새만금 이행 일정 v4: 계획 이정표 5개와 주체·사건일·현재 근거단계·금지된 단계 상승, 보도 2,373·고시 203 재확인.",
+          "next": "다음 산출물: 9월 14일 조사단 D+3, 장기임대 17개사 점검 개시, AI 데이터센터 건축심의 신청을 함께 확인합니다.",
+          "unfinished": "조사단 실명 성과가 없고 점검은 시작 전이며 AI 데이터센터도 미착공입니다. 배터리·로봇·수소·태양광·RE100·항만물류·환경의 오늘 집행 상승도 없습니다.",
+          "evidenceStatus": "verified_progress",
+          "eventDate": "2026-09-13",
           "sourceUrls": [
             "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009074409621",
             "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009075580577",
+            "https://www.saemangeum.go.kr/sda/brd/view.do?key=2009074409621&nttSn=11453",
+            "https://www.saemangeum.go.kr/common/fileDown.do?key=36826&type=brd",
+            "https://www.saemangeum.go.kr/common/fileDown.do?key=36841&type=brd",
             "https://www.saemangeum.go.kr/common/fileDown.do?key=36864&type=brd",
             "https://www.saemangeum.go.kr/common/fileDown.do?key=36879&type=brd",
-            "https://www.saemangeum.go.kr/common/fileDown.do?key=36826&type=brd",
-            "https://www.saemangeum.go.kr/common/fileDown.do?key=36841&type=brd"
+            "https://www.hyundaimotorgroup.com/en/news/hyundai-motor-group-to-establish-innovation-hub-to-lead-robotics-ai-and-hydrogen-energy-in-korea"
           ]
         },
         {
@@ -89,18 +95,16 @@
         {
           "title": "关键矿产与能源基础设施权力图",
           "status": "每日推进",
-          "summary": "把合同五门扩展为可复用的拒绝代码：C0非协议、C1无编号、C2无规格、C3无交付/验收日、C4无责任/违约条款。9月11日周年稿、2月现代汽车集团MOU、考察团稿和检查稿均未同时通过五门；周年稿可证明机构把既有投资与未来产业联系起来，不能证明新采购合同。",
-          "currentQuestion": "哪类公开采购结果最可能同时提供合同编号、双方、规格、交付/验收日和责任条款？",
-          "todayMaterial": "合同证据检索树 v2：五门、五个拒绝代码、四份近似材料的逐项筛除记录与优先检索顺序。",
-          "next": "下一成果：按政府采购结果→合同公告→技术附件顺序寻找一个五门齐全样本，并由第二公民复核。",
-          "unfinished": "仍无真实合同正样本；MOU、周年叙事、考察和行政检查不能替代合同。",
+          "summary": "把合同五门写成可执行校验器并测试6例：4份观察材料全部拒绝，真实正样本0；1份五门齐全的合成夹具通过，1份缺验收日夹具被C3准确拒绝。现代投资计划虽含金额、方向和计划节点，仍缺合同编号与责任/违约条款。",
+          "currentQuestion": "哪类韩国公开采购结果可提供合同编号、双方、规格、交付/验收日与责任条款五门？",
+          "todayMaterial": "scripts/test-contract-evidence-gates.mjs v1：C0—C4顺序、6例、观察正样本0、合成正样本1、C3反例1。",
+          "next": "下一成果：以나라장터/官方采购结果的公开页面为起点寻找真实C3/C4样本；合成夹具不得替代。",
+          "unfinished": "合同规则已可复算，但仍没有真实五门正样本或第二公民复核。",
           "evidenceStatus": "verified_progress",
-          "eventDate": "2026-09-12",
+          "eventDate": "2026-09-13",
           "sourceUrls": [
-            "https://www.saemangeum.go.kr/common/fileDown.do?key=36864&type=brd",
-            "https://www.hyundaimotorgroup.com/en/news/hyundai-motor-group-to-establish-innovation-hub-to-lead-robotics-ai-and-hydrogen-energy-in-korea",
-            "https://www.saemangeum.go.kr/common/fileDown.do?key=36826&type=brd",
-            "https://www.saemangeum.go.kr/common/fileDown.do?key=36841&type=brd"
+            "scripts/test-contract-evidence-gates.mjs",
+            "https://www.saemangeum.go.kr/sda/brd/view.do?key=2009074409621&nttSn=11453"
           ]
         },
         {
@@ -114,18 +118,16 @@
         {
           "title": "Critical-Mineral and Energy-Infrastructure Power Map",
           "status": "DAILY ADVANCE",
-          "summary": "Extended the five contract gates into reusable rejection codes: C0 not an agreement, C1 no identifier, C2 no specification, C3 no delivery/acceptance date, C4 no responsibility/default term. The 11 September anniversary release, February Hyundai MoU, delegation release, and inspection release do not pass all five gates. The anniversary release supports an institutional link between existing investment and future industries, not a new procurement contract.",
-          "currentQuestion": "Which public award class is most likely to expose identifier, parties, specification, delivery/acceptance date, and responsibility terms together?",
-          "todayMaterial": "Contract-evidence search tree v2: five gates, five rejection codes, four near-miss screening records, and a prioritized search order.",
-          "next": "Next output: search procurement award, contract notice, then technical attachment for one five-gate sample and obtain second-citizen review.",
-          "unfinished": "No real positive contract sample exists; an MoU, anniversary narrative, visit, or administrative inspection cannot substitute.",
+          "summary": "Converted the five contract gates into an executable validator and tested six cases. All four observed documents are rejected, yielding zero real positives; one five-gate synthetic fixture passes, and a fixture without an acceptance date is correctly rejected at C3. The Hyundai investment plan contains an amount, themes, and planned milestones but still lacks a contract identifier and responsibility/default terms.",
+          "currentQuestion": "Which Korean public-award source exposes identifier, parties, specification, delivery/acceptance date, and responsibility terms together?",
+          "todayMaterial": "scripts/test-contract-evidence-gates.mjs v1: ordered C0–C4 gates, six cases, zero observed positives, one synthetic positive, and one C3 counterexample.",
+          "next": "Next output: start from KONEPS or another official procurement-award page to locate a real C3/C4 sample; never substitute the fixture.",
+          "unfinished": "The gate logic is reproducible, but no real five-gate positive or second-citizen review exists.",
           "evidenceStatus": "verified_progress",
-          "eventDate": "2026-09-12",
+          "eventDate": "2026-09-13",
           "sourceUrls": [
-            "https://www.saemangeum.go.kr/common/fileDown.do?key=36864&type=brd",
-            "https://www.hyundaimotorgroup.com/en/news/hyundai-motor-group-to-establish-innovation-hub-to-lead-robotics-ai-and-hydrogen-energy-in-korea",
-            "https://www.saemangeum.go.kr/common/fileDown.do?key=36826&type=brd",
-            "https://www.saemangeum.go.kr/common/fileDown.do?key=36841&type=brd"
+            "scripts/test-contract-evidence-gates.mjs",
+            "https://www.saemangeum.go.kr/sda/brd/view.do?key=2009074409621&nttSn=11453"
           ]
         },
         {
@@ -139,18 +141,16 @@
         {
           "title": "핵심광물·에너지 인프라 권력 지도",
           "status": "매일 진전",
-          "summary": "계약 5개 게이트에 재사용 가능한 배제 코드 C0 비협약, C1 번호 없음, C2 규격 없음, C3 납품/검수일 없음, C4 책임/불이행 조항 없음을 추가했습니다. 9월 11일 기념 자료, 2월 현대차 MOU, 조사단 자료, 점검 자료는 모두 5개를 통과하지 못합니다. 기념 자료는 기존 투자와 미래산업의 기관 연결은 지지하지만 새 조달계약을 입증하지 않습니다.",
-          "currentQuestion": "계약번호·당사자·규격·납품/검수일·책임조항을 함께 공개하는 조달 결과 유형은 무엇인가?",
-          "todayMaterial": "계약 근거 검색트리 v2: 5개 게이트, 5개 배제 코드, 유사 자료 4건 심사, 우선 검색순서.",
-          "next": "다음 산출물: 조달결과→계약공고→기술첨부 순으로 5개 게이트 양성 표본을 찾고 두 번째 시민 검토를 받습니다.",
-          "unfinished": "실제 계약 양성 표본이 없으며 MOU·기념 서사·방문·행정점검은 대체할 수 없습니다.",
+          "summary": "계약 5개 게이트를 실행 검증기로 만들고 6개 사례를 시험했습니다. 관찰 문서 4건은 모두 배제되어 실제 양성은 0건이고, 5개를 갖춘 합성 픽스처 1건은 통과했으며 검수일이 없는 픽스처는 C3에서 정확히 배제됐습니다. 현대 투자계획에는 금액·분야·예정 이정표가 있지만 계약번호와 책임/불이행 조항은 없습니다.",
+          "currentQuestion": "계약번호·당사자·규격·납품/검수일·책임조항을 모두 공개하는 한국 조달결과 출처는 무엇인가?",
+          "todayMaterial": "scripts/test-contract-evidence-gates.mjs v1: C0~C4 순서, 6개 사례, 관찰 양성 0, 합성 양성 1, C3 반례 1.",
+          "next": "다음 산출물: 나라장터 또는 공식 조달결과 페이지에서 실제 C3/C4 표본을 찾고 합성 픽스처로 대체하지 않습니다.",
+          "unfinished": "게이트 로직은 재계산 가능하지만 실제 5개 게이트 양성 표본과 두 번째 시민 검토가 없습니다.",
           "evidenceStatus": "verified_progress",
-          "eventDate": "2026-09-12",
+          "eventDate": "2026-09-13",
           "sourceUrls": [
-            "https://www.saemangeum.go.kr/common/fileDown.do?key=36864&type=brd",
-            "https://www.hyundaimotorgroup.com/en/news/hyundai-motor-group-to-establish-innovation-hub-to-lead-robotics-ai-and-hydrogen-energy-in-korea",
-            "https://www.saemangeum.go.kr/common/fileDown.do?key=36826&type=brd",
-            "https://www.saemangeum.go.kr/common/fileDown.do?key=36841&type=brd"
+            "scripts/test-contract-evidence-gates.mjs",
+            "https://www.saemangeum.go.kr/sda/brd/view.do?key=2009074409621&nttSn=11453"
           ]
         },
         {
@@ -166,15 +166,16 @@
         {
           "title": "历史能源数据的可运行模型",
           "status": "每日推进",
-          "summary": "在平衡告警上加入材料性定义敏感度：阈值0.5%与1.0%时精确率0.667、召回率1.0；阈值升至1.5%时精确率降至0.333、召回率仍1.0，因为假阳性从2增至4。相同预测规则会因“什么算材料性”而改变评价，说明真实数据试验必须预注册结果标签。",
-          "currentQuestion": "真实业务应以均值偏差、峰值遗漏还是成本损失定义材料性，哪个定义会改变行动？",
-          "todayMaterial": "scripts/test-sample-error-budget.mjs v4：0.5/1.0/1.5%三种材料性定义、平衡规则混淆矩阵和边界说明。",
-          "next": "下一成果：在取得真实数据前先形成三种材料性定义的领域评审问卷与停止条件。",
-          "unfinished": "没有真实场站数据或领域成本函数；精确率和召回率仍只描述9个合成场景。",
+          "summary": "在真实数据仍不可用时，建立盲于结果的材料性评审表：均值偏差、峰值遗漏、成本损失3种候选定义，每项9个必填字段；业务决定、误报/漏报成本、阈值、负责人和签字全部保持空值，避免伪造领域选择；另冻结4条停止条件。",
+          "currentQuestion": "领域负责人能否指出哪个误差定义会改变实际调度、结算或风险行动？",
+          "todayMaterial": "experiments/materiality-review-schema.json＋校验器v1：3选项、9字段、0伪造答案、4停止条件。",
+          "next": "下一成果：取得业务负责人盲签；若不能指出被改变的决定，按停止条件终止阈值优化。",
+          "unfinished": "没有领域签字、真实数据或成本函数；候选阈值仍未经验校准。",
           "evidenceStatus": "verified_progress",
-          "eventDate": "2026-09-12",
+          "eventDate": "2026-09-13",
           "sourceUrls": [
-            "scripts/test-sample-error-budget.mjs"
+            "experiments/materiality-review-schema.json",
+            "scripts/test-materiality-review-schema.mjs"
           ]
         },
         {
@@ -188,15 +189,16 @@
         {
           "title": "Runnable Models for Historical Energy Data",
           "status": "DAILY ADVANCE",
-          "summary": "Added materiality-definition sensitivity for the balanced alert. At 0.5% and 1.0% materiality, precision is 0.667 and recall 1.0; at 1.5%, precision falls to 0.333 while recall stays 1.0 because false positives rise from two to four. The same predictions score differently when “material” changes, so the real-data test must preregister outcome labels.",
-          "currentQuestion": "Should operational materiality mean mean bias, missed peak, or cost loss, and which definition changes action?",
-          "todayMaterial": "scripts/test-sample-error-budget.mjs v4: 0.5/1.0/1.5% materiality definitions, balanced-rule confusion matrices, and boundary note.",
-          "next": "Next output: before real data arrives, create a domain-review questionnaire and stopping condition for three materiality definitions.",
-          "unfinished": "No real-site data or domain cost function exists; precision and recall still describe only nine synthetic scenarios.",
+          "summary": "While real data remains unavailable, created an outcome-blind materiality review form with three candidate definitions—mean bias, peak omission, and cost loss—and nine required fields per option. Operational decision, false-positive/negative cost, threshold, owner, and sign-off remain null to avoid inventing domain choices; four stopping conditions are frozen.",
+          "currentQuestion": "Can a domain owner identify which error definition changes a real dispatch, settlement, or risk action?",
+          "todayMaterial": "experiments/materiality-review-schema.json plus validator v1: three options, nine fields, zero fabricated answers, four stopping conditions.",
+          "next": "Next output: obtain blind domain-owner sign-off; stop threshold optimization if no changed decision can be named.",
+          "unfinished": "No domain sign-off, real data, or cost function exists; candidate thresholds remain empirically uncalibrated.",
           "evidenceStatus": "verified_progress",
-          "eventDate": "2026-09-12",
+          "eventDate": "2026-09-13",
           "sourceUrls": [
-            "scripts/test-sample-error-budget.mjs"
+            "experiments/materiality-review-schema.json",
+            "scripts/test-materiality-review-schema.mjs"
           ]
         },
         {
@@ -210,15 +212,16 @@
         {
           "title": "역사 에너지 데이터 실행 모델",
           "status": "매일 진전",
-          "summary": "균형 경보에 중요성 정의 민감도를 추가했습니다. 0.5%와 1.0% 기준에서 정밀도 0.667·재현율 1.0, 1.5%에서는 오탐이 2건에서 4건으로 늘어 정밀도 0.333·재현율 1.0입니다. 같은 예측도 ‘중요 오차’ 정의에 따라 평가가 달라 실제 자료 실험 전 결과 라벨을 사전등록해야 합니다.",
-          "currentQuestion": "운영 중요성을 평균 편향·피크 누락·비용 손실 중 무엇으로 정의해야 행동이 달라지는가?",
-          "todayMaterial": "scripts/test-sample-error-budget.mjs v4: 0.5/1.0/1.5% 중요성 정의, 균형 규칙 혼동행렬, 경계 설명.",
-          "next": "다음 산출물: 실제 자료 전에 세 중요성 정의의 분야 검토 질문지와 중지 조건을 만듭니다.",
-          "unfinished": "실제 현장 자료와 비용함수가 없으며 정밀도·재현율은 합성 시나리오 9개만 설명합니다.",
+          "summary": "실제 자료가 없는 상태에서 결과를 보지 않는 중요성 검토표를 만들었습니다. 평균 편향·피크 누락·비용 손실 3개 후보 정의마다 9개 필수 필드가 있으며 운영 결정, 오탐/미탐 비용, 임계값, 책임자, 서명은 영역 선택을 꾸며내지 않도록 모두 null로 유지했습니다. 중지 조건 4개도 고정했습니다.",
+          "currentQuestion": "분야 책임자가 실제 급전·정산·위험 행동을 바꾸는 오차 정의를 지목할 수 있는가?",
+          "todayMaterial": "experiments/materiality-review-schema.json 및 검증기 v1: 3개 옵션, 9개 필드, 꾸며낸 답 0, 중지 조건 4개.",
+          "next": "다음 산출물: 분야 책임자의 블라인드 서명을 받고, 바뀌는 결정을 제시하지 못하면 임계값 최적화를 중단합니다.",
+          "unfinished": "분야 서명·실제 자료·비용함수가 없고 후보 임계값은 경험 보정 전입니다.",
           "evidenceStatus": "verified_progress",
-          "eventDate": "2026-09-12",
+          "eventDate": "2026-09-13",
           "sourceUrls": [
-            "scripts/test-sample-error-budget.mjs"
+            "experiments/materiality-review-schema.json",
+            "scripts/test-materiality-review-schema.mjs"
           ]
         },
         {
@@ -234,16 +237,17 @@
         {
           "title": "公共协商概念的多语微词典",
           "status": "每日推进",
-          "summary": "用9月11日两份新稿建立六项阶段混淆表：开厅周年、基本计划变更中、因投资而迈向枢纽、举办工作坊、讨论改进、期待落实。每项分别写可允许主张和禁止越级；尤其“迈向枢纽”不得译成“已建成枢纽”，“讨论改进”不得译成“改革已执行”。",
-          "currentQuestion": "独立译者在隐藏标题时，最容易把方向性表述还是完成性动词误判为已执行？",
-          "todayMaterial": "阶段混淆表 v2：六个韩语动作短语、韩中英最低阶段、禁止推断和严重度；加入A/B盲译包。",
-          "next": "下一成果：把六项作为盲译干扰题交给独立译者，保存首次判断和分歧。",
-          "unfinished": "尚无独立译者与三语母语签字；词典未完成外部验证。",
+          "summary": "把A—D隐藏标题盲译题做成独立评审包：计划检查、投资访问、正在变更基本计划、2027年3月计划开工。每题保留来源与事件日，但不暴露答案；响应必须填写译者编号、目标语言、首次译文、阶段、时态、条件、禁止推断与锁定时间。",
+          "currentQuestion": "独立译者会在哪一题把计划或进行态提升为完成态？",
+          "todayMaterial": "experiments/independent-review-packets.json 的 translation 模块：A—D四题、9个响应字段、0份已填回答。",
+          "next": "下一成果：交给独立译者并锁定首次判断；作者不代填。",
+          "unfinished": "评审包已就绪，但没有独立译文或三语母语签字。",
           "evidenceStatus": "verified_progress",
-          "eventDate": "2026-09-12",
+          "eventDate": "2026-09-13",
           "sourceUrls": [
-            "https://www.saemangeum.go.kr/common/fileDown.do?key=36864&type=brd",
-            "https://www.saemangeum.go.kr/common/fileDown.do?key=36879&type=brd"
+            "experiments/independent-review-packets.json",
+            "scripts/test-independent-review-packets.mjs",
+            "https://www.saemangeum.go.kr/sda/brd/view.do?key=2009074409621&nttSn=11453"
           ]
         },
         {
@@ -257,16 +261,17 @@
         {
           "title": "Micro-lexicon for Public Deliberation",
           "status": "DAILY ADVANCE",
-          "summary": "Built a six-item stage-confusion table from the two 11 September releases: agency anniversary, master plan under revision, moving toward a hub following investment, workshop held, improvements discussed, and implementation expected. Each has an allowed claim and forbidden upgrade; “moving toward a hub” is not “hub completed,” and “discussed improvements” is not “reform implemented.”",
-          "currentQuestion": "In hidden-title translation, will independent translators more often inflate directional language or completion verbs?",
-          "todayMaterial": "Stage-confusion table v2: six Korean action phrases, minimum Korean-Chinese-English stages, forbidden inference, and severity, added to the A/B packet.",
-          "next": "Next output: give the six distractors to an independent translator and preserve first judgments and disagreements.",
-          "unfinished": "No independent translator or three-language native sign-off exists; external validation is incomplete.",
+          "summary": "Packaged four hidden-title translation items: planned inspection, investment visit, master plan under revision, and March 2027 planned groundbreaking. Each retains source and event date without exposing an answer. Responses require reviewer ID, target language, first translation, stage, tense, condition, forbidden inference, and lock time.",
+          "currentQuestion": "Which item will an independent translator inflate from planned or ongoing to completed?",
+          "todayMaterial": "Translation module in experiments/independent-review-packets.json: A–D, nine response fields, zero completed responses.",
+          "next": "Next output: give the packet to an independent translator and lock first judgments; the author must not fill it.",
+          "unfinished": "The packet is ready, but no independent translation or three-language native sign-off exists.",
           "evidenceStatus": "verified_progress",
-          "eventDate": "2026-09-12",
+          "eventDate": "2026-09-13",
           "sourceUrls": [
-            "https://www.saemangeum.go.kr/common/fileDown.do?key=36864&type=brd",
-            "https://www.saemangeum.go.kr/common/fileDown.do?key=36879&type=brd"
+            "experiments/independent-review-packets.json",
+            "scripts/test-independent-review-packets.mjs",
+            "https://www.saemangeum.go.kr/sda/brd/view.do?key=2009074409621&nttSn=11453"
           ]
         },
         {
@@ -278,18 +283,19 @@
       ],
       "ko": [
         {
-          "title": "공공 숙의 개념 다국어 미니사전",
+          "title": "공공 협의 개념 다국어 미니사전",
           "status": "매일 진전",
-          "summary": "9월 11일 자료 2건으로 개청 주년, 기본계획 변경 중, 투자에 따라 거점으로 도약, 워크숍 실시, 개선 논의, 실천 기대의 6개 단계 혼동표를 만들었습니다. 각 항목에 허용 주장과 금지된 상승을 적어 ‘거점으로 도약’을 ‘거점 완성’으로, ‘개선 논의’를 ‘개혁 시행’으로 번역하지 못하게 했습니다.",
-          "currentQuestion": "숨은 제목 번역에서 독립 번역자는 방향성 표현과 완료 동사 중 무엇을 더 자주 집행으로 과장하는가?",
-          "todayMaterial": "단계 혼동표 v2: 한국어 행동구 6개, 한중영 최소 단계, 금지 추론, 심각도를 A/B 패킷에 추가.",
-          "next": "다음 산출물: 독립 번역자에게 6개 방해문항을 제시하고 최초 판단·이견을 보존합니다.",
-          "unfinished": "독립 번역자와 3개 언어 원어민 서명이 없어 외부 검증은 미완료입니다.",
+          "summary": "A~D 숨은 제목 번역 문항을 독립 검토 패킷으로 만들었습니다. 예정된 점검, 투자 방문, 변경 중인 기본계획, 2027년 3월 착공 계획입니다. 각 문항은 출처와 사건일만 남기고 정답은 숨기며 응답에는 평가자 ID·목표언어·최초 번역·단계·시제·조건·금지 추론·잠금시각이 필요합니다.",
+          "currentQuestion": "독립 번역자는 어느 문항에서 예정·진행 표현을 완료로 올리는가?",
+          "todayMaterial": "experiments/independent-review-packets.json 번역 모듈: A~D 4문항, 응답 필드 9개, 작성 응답 0.",
+          "next": "다음 산출물: 독립 번역자에게 전달해 최초 판단을 잠그고 저자는 대신 작성하지 않습니다.",
+          "unfinished": "패킷은 준비됐지만 독립 번역과 3개 언어 원어민 서명이 없습니다.",
           "evidenceStatus": "verified_progress",
-          "eventDate": "2026-09-12",
+          "eventDate": "2026-09-13",
           "sourceUrls": [
-            "https://www.saemangeum.go.kr/common/fileDown.do?key=36864&type=brd",
-            "https://www.saemangeum.go.kr/common/fileDown.do?key=36879&type=brd"
+            "experiments/independent-review-packets.json",
+            "scripts/test-independent-review-packets.mjs",
+            "https://www.saemangeum.go.kr/sda/brd/view.do?key=2009074409621&nttSn=11453"
           ]
         },
         {
@@ -303,18 +309,18 @@
     "pharma": {
       "zh": [
         {
-          "title": "AI 部署主张的风险与独立核查",
+          "title": "AI社会影响风险案例库",
           "status": "每日推进",
-          "summary": "新增留出案例R3：“周年稿证明新万金物理AI与数据中心已经建成运行。”一手稿只说正在变更基本计划，并在现代汽车集团投资背景下迈向未来产业枢纽；现代汽车官方材料仍把数据中心、机器人和氢能设施写为计划。风险标签为完成幻觉、阶段越级、机构背书放大和时间线折叠。",
-          "currentQuestion": "独立评审者能否区分官方重申既有愿景与新的建设/运营事实？",
-          "todayMaterial": "真实留出案例R3、四个风险标签、正确撤回动作和与R1/R2隔离的评分顺序。",
-          "next": "下一成果：非作者先评原12例、R1、R2，再单独评R3并保存首次判断。",
-          "unfinished": "R3由本系统编写，不能自评；仍无独立人类结果。",
+          "summary": "把原12例与R1—R3冻结为15题非作者评审顺序，并设置8个必填字段、首次判断锁定和答案后揭示。R1—R3分别测未确认投资被写成确认、计划检查被写成违规发现、计划枢纽被写成已建成运营；响应数组保持空，未伪造人类结果。",
+          "currentQuestion": "非作者是否能在不见答案时对R1—R3的关键风险做到零漏报？",
+          "todayMaterial": "independent-review-packets 的 riskReview 模块：15题固定顺序、3留出例、8字段、0响应。",
+          "next": "下一成果：由非作者依序盲评并保留不可覆盖的首次判断。",
+          "unfinished": "评审协议已可执行，但没有独立评审结果，不能声称风险制度验证完成。",
           "evidenceStatus": "verified_progress",
-          "eventDate": "2026-09-12",
+          "eventDate": "2026-09-13",
           "sourceUrls": [
-            "https://www.saemangeum.go.kr/common/fileDown.do?key=36864&type=brd",
-            "https://www.hyundaimotorgroup.com/en/news/hyundai-motor-group-to-establish-innovation-hub-to-lead-robotics-ai-and-hydrogen-energy-in-korea"
+            "experiments/independent-review-packets.json",
+            "scripts/test-independent-review-packets.mjs"
           ]
         },
         {
@@ -326,18 +332,18 @@
       ],
       "en": [
         {
-          "title": "Risk and Independent Review of AI Deployment Claims",
+          "title": "AI Social-Impact Risk Case Library",
           "status": "DAILY ADVANCE",
-          "summary": "Added holdout R3: “The anniversary release proves Saemangeum physical AI and data centres are built and operating.” The primary release says the master plan is under revision and the area is moving toward a future-industry hub in the context of Hyundai investment; Hyundai’s own material still describes planned data-centre, robotics, and hydrogen facilities. Labels: completion hallucination, stage inflation, institutional-endorsement amplification, and timeline collapse.",
-          "currentQuestion": "Can an independent reviewer separate an official restatement of an existing vision from a new construction or operation fact?",
-          "todayMaterial": "Real holdout R3, four risk labels, correction action, and scoring order isolated from R1/R2.",
-          "next": "Next output: a non-author scores the original 12, R1, R2, then R3 separately and preserves first judgments.",
-          "unfinished": "This system authored R3 and cannot independently score it; no human result exists.",
+          "summary": "Froze the original 12 cases plus R1–R3 into a 15-item non-author review order with eight required fields, locked first judgments, and answers revealed only afterward. R1–R3 test unconfirmed investment rewritten as confirmed, planned inspection as a violation finding, and a planned hub as built and operating. The response array remains empty; no human result is fabricated.",
+          "currentQuestion": "Can a non-author detect every critical risk in R1–R3 without seeing the answer key?",
+          "todayMaterial": "riskReview module in independent-review-packets: fixed 15-item order, three holdouts, eight fields, zero responses.",
+          "next": "Next output: a non-author reviews in order and preserves the unedited first judgment.",
+          "unfinished": "The protocol is executable, but no independent result exists, so the risk institution is not validated.",
           "evidenceStatus": "verified_progress",
-          "eventDate": "2026-09-12",
+          "eventDate": "2026-09-13",
           "sourceUrls": [
-            "https://www.saemangeum.go.kr/common/fileDown.do?key=36864&type=brd",
-            "https://www.hyundaimotorgroup.com/en/news/hyundai-motor-group-to-establish-innovation-hub-to-lead-robotics-ai-and-hydrogen-energy-in-korea"
+            "experiments/independent-review-packets.json",
+            "scripts/test-independent-review-packets.mjs"
           ]
         },
         {
@@ -349,18 +355,18 @@
       ],
       "ko": [
         {
-          "title": "AI 배포 주장 위험·독립 검토",
+          "title": "AI 사회영향 위험 사례 라이브러리",
           "status": "매일 진전",
-          "summary": "홀드아웃 R3를 추가했습니다. “개청 기념 자료가 새만금 피지컬AI·데이터센터의 건설·가동 완료를 입증한다”는 주장입니다. 원문은 기본계획 변경 중이며 현대차 투자 맥락에서 미래산업 거점으로 도약한다고만 하고, 현대차 원문도 데이터센터·로봇·수소 시설을 계획으로 씁니다. 위험은 완료 환각, 단계 과장, 기관 보증 확대, 시간선 압축입니다.",
-          "currentQuestion": "독립 검토자가 기존 비전의 공식 재확인과 새 건설·가동 사실을 구분할 수 있는가?",
-          "todayMaterial": "실제 홀드아웃 R3, 위험 라벨 4개, 수정 행동, R1/R2와 분리한 평가 순서.",
-          "next": "다음 산출물: 비저자가 기존 12개와 R1·R2를 먼저 평가한 뒤 R3를 따로 평가해 최초 판단을 보존합니다.",
-          "unfinished": "R3는 본 시스템이 작성해 독립 평가할 수 없고 인간 결과도 없습니다.",
+          "summary": "기존 12개와 R1~R3을 15문항 비저자 검토 순서로 고정하고 필수 필드 8개, 최초 판단 잠금, 사후 정답 공개를 설정했습니다. R1~R3은 미확인 투자를 확정으로, 예정 점검을 위반 적발로, 계획 거점을 완공·운영으로 쓰는 오류를 시험합니다. 응답 배열은 비어 있어 사람 결과를 꾸며내지 않습니다.",
+          "currentQuestion": "비저자가 정답을 보지 않고 R1~R3 핵심 위험을 모두 탐지할 수 있는가?",
+          "todayMaterial": "independent-review-packets riskReview 모듈: 15문항 고정순서, 홀드아웃 3개, 8개 필드, 응답 0.",
+          "next": "다음 산출물: 비저자가 순서대로 블라인드 평가하고 수정 전 최초 판단을 보존합니다.",
+          "unfinished": "프로토콜은 실행 가능하지만 독립 결과가 없어 위험 제도 검증 완료를 주장할 수 없습니다.",
           "evidenceStatus": "verified_progress",
-          "eventDate": "2026-09-12",
+          "eventDate": "2026-09-13",
           "sourceUrls": [
-            "https://www.saemangeum.go.kr/common/fileDown.do?key=36864&type=brd",
-            "https://www.hyundaimotorgroup.com/en/news/hyundai-motor-group-to-establish-innovation-hub-to-lead-robotics-ai-and-hydrogen-energy-in-korea"
+            "experiments/independent-review-packets.json",
+            "scripts/test-independent-review-packets.mjs"
           ]
         },
         {
@@ -376,16 +382,16 @@
         {
           "title": "可访问的不确定性动态界面",
           "status": "每日推进",
-          "summary": "为六态原型加入Windows高对比/强制颜色后备：Canvas、CanvasText和系统边框替代自定义色，验证状态文字与非颜色形状仍保留。自动回归由7项增至8项并全部通过；既有浅色对比度仍为4.69—6.52。",
-          "currentQuestion": "强制颜色、读屏和实体键盘同时使用时，六态是否仍可被真实用户区分？",
-          "todayMaterial": "原型v3与scripts/test-uncertainty-states.mjs v2：新增forced-colors检查，8项自动回归通过。",
-          "next": "下一成果：在Windows高对比与macOS VoiceOver上分别完成真实用户任务，记录混淆矩阵。",
-          "unfinished": "源代码回归不等于真实辅助技术或用户理解验收。",
+          "summary": "把自动检查后的缺口转成可运行真实用户测试页：六种证据状态各有识别、完成秒数、信心与备注；覆盖Windows强制配色、macOS VoiceOver、实体键盘、黑白打印四环境；不收集姓名、电邮或设备序列号，只在本地导出匿名JSON。8项协议检查通过。",
+          "currentQuestion": "真实用户在四种辅助环境中最容易混淆哪两个证据状态？",
+          "todayMaterial": "experiments/uncertainty-user-test-protocol.html＋校验器v1：6试次、4环境、8项协议检查、0用户结果。",
+          "next": "下一成果：招募真实用户完成至少一个环境并生成首份匿名混淆矩阵。",
+          "unfinished": "测试工具已就绪，但没有参与者、成功率或混淆矩阵，不能完成可用性验收。",
           "evidenceStatus": "verified_progress",
-          "eventDate": "2026-09-12",
+          "eventDate": "2026-09-13",
           "sourceUrls": [
-            "experiments/uncertainty-states.html",
-            "scripts/test-uncertainty-states.mjs"
+            "experiments/uncertainty-user-test-protocol.html",
+            "scripts/test-uncertainty-user-protocol.mjs"
           ]
         },
         {
@@ -399,16 +405,16 @@
         {
           "title": "Accessible Dynamic Interfaces for Uncertainty",
           "status": "DAILY ADVANCE",
-          "summary": "Added a Windows high-contrast/forced-colours fallback to the six-state prototype. Canvas, CanvasText, and system borders replace custom colours while state text and non-colour shapes remain. Automated regression rises from seven to eight passing checks; existing light-mode contrast remains 4.69–6.52.",
-          "currentQuestion": "When forced colours, screen reading, and a physical keyboard combine, can real users still distinguish all six states?",
-          "todayMaterial": "Prototype v3 and scripts/test-uncertainty-states.mjs v2: forced-colours check added; eight automated checks pass.",
-          "next": "Next output: real-user tasks in Windows high contrast and macOS VoiceOver, with confusion matrices.",
-          "unfinished": "Source-level regression is not real assistive-technology or comprehension acceptance.",
+          "summary": "Turned the post-automation gap into a runnable real-user test page. Each of six evidence states records recognition, completion seconds, confidence, and notes across Windows forced colours, macOS VoiceOver, physical keyboard, and monochrome print. It collects no name, email, or device serial and exports anonymous JSON locally. Eight protocol checks pass.",
+          "currentQuestion": "Which two evidence states will real users confuse most across the four assistive environments?",
+          "todayMaterial": "experiments/uncertainty-user-test-protocol.html plus validator v1: six trials, four environments, eight protocol checks, zero user results.",
+          "next": "Next output: recruit a real user for at least one environment and produce the first anonymous confusion matrix.",
+          "unfinished": "The tool is ready, but no participant, success rate, or confusion matrix exists; usability acceptance is incomplete.",
           "evidenceStatus": "verified_progress",
-          "eventDate": "2026-09-12",
+          "eventDate": "2026-09-13",
           "sourceUrls": [
-            "experiments/uncertainty-states.html",
-            "scripts/test-uncertainty-states.mjs"
+            "experiments/uncertainty-user-test-protocol.html",
+            "scripts/test-uncertainty-user-protocol.mjs"
           ]
         },
         {
@@ -422,16 +428,16 @@
         {
           "title": "접근 가능한 불확실성 동적 인터페이스",
           "status": "매일 진전",
-          "summary": "6상태 원형에 Windows 고대비/강제 색상 대체를 추가했습니다. Canvas·CanvasText·시스템 테두리가 사용자 지정 색을 대체해도 상태 텍스트와 비색상 도형은 유지됩니다. 자동 회귀는 7개에서 8개 통과로 늘었고 기존 밝은 모드 대비 4.69~6.52도 유지됩니다.",
-          "currentQuestion": "강제 색상·스크린리더·물리 키보드를 함께 사용할 때 실제 사용자가 6상태를 구분하는가?",
-          "todayMaterial": "원형 v3와 scripts/test-uncertainty-states.mjs v2: forced-colors 검사 추가, 자동 검사 8개 통과.",
-          "next": "다음 산출물: Windows 고대비와 macOS VoiceOver 실제 사용자 과제 및 혼동행렬.",
-          "unfinished": "소스 수준 회귀는 실제 보조기술·이해도 인수가 아닙니다.",
+          "summary": "자동 검사 이후의 공백을 실행 가능한 실제 사용자 테스트 페이지로 바꿨습니다. 6개 근거 상태마다 인식·완료시간·신뢰도·메모를 기록하고 Windows 강제 색상, macOS VoiceOver, 물리 키보드, 흑백 인쇄 4환경을 다룹니다. 이름·이메일·기기 일련번호는 받지 않고 익명 JSON을 로컬로 내보냅니다. 프로토콜 검사 8개가 통과했습니다.",
+          "currentQuestion": "네 보조 환경에서 실제 사용자가 가장 자주 혼동하는 두 근거 상태는 무엇인가?",
+          "todayMaterial": "experiments/uncertainty-user-test-protocol.html 및 검증기 v1: 6회 시험, 4환경, 프로토콜 검사 8개, 사용자 결과 0.",
+          "next": "다음 산출물: 최소 한 환경에서 실제 사용자를 모집해 첫 익명 혼동행렬을 만듭니다.",
+          "unfinished": "도구는 준비됐지만 참여자·성공률·혼동행렬이 없어 사용성 인수가 미완료입니다.",
           "evidenceStatus": "verified_progress",
-          "eventDate": "2026-09-12",
+          "eventDate": "2026-09-13",
           "sourceUrls": [
-            "experiments/uncertainty-states.html",
-            "scripts/test-uncertainty-states.mjs"
+            "experiments/uncertainty-user-test-protocol.html",
+            "scripts/test-uncertainty-user-protocol.mjs"
           ]
         },
         {
@@ -447,18 +453,17 @@
         {
           "title": "多语公共写作的证据强度词包",
           "status": "每日推进",
-          "summary": "把数字六联写成可运行结构校验：对2,373条媒体项、203条法定公告和17家计划受检企业分别生成中英韩记录，共9条；主体、对象、阶段、事件日、来源、否定边界六字段全部通过。测试同时明确结构完整不等于母语等值或读者理解。",
-          "currentQuestion": "通过结构校验的三语句在移动端压缩和母语回译时会丢失哪个字段？",
-          "todayMaterial": "scripts/test-publication-six-link.mjs v1：3指标×3语言、9记录、6字段、0缺失。",
-          "next": "下一成果：三位母语审校者独立压缩与回译，记录字段漏失和理解偏差。",
-          "unfinished": "结构测试通过但没有母语签字，也没有读者理解数据。",
+          "summary": "把数字六联从3个指标扩至4个，新增“2027年3月AI数据中心计划开工”，中英韩共12条记录；主体、对象、阶段、事件日、来源、否定边界六字段全部通过。独立审校包同时预留3种母语、4指标、压缩、回译、漏失字段与意义差异记录。",
+          "currentQuestion": "“计划开工”在移动端压缩后是否最容易丢失计划性与截至日期边界？",
+          "todayMaterial": "scripts/test-publication-six-link.mjs v2：4指标×3语言=12记录、6字段、0漏项；multilingual评审包0响应。",
+          "next": "下一成果：三位母语审校者独立压缩和回译12句，统计字段漏失。",
+          "unfinished": "结构检查通过，但没有母语签字或读者理解数据。",
           "evidenceStatus": "verified_progress",
-          "eventDate": "2026-09-12",
+          "eventDate": "2026-09-13",
           "sourceUrls": [
             "scripts/test-publication-six-link.mjs",
-            "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009074409621",
-            "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009075580577",
-            "https://www.saemangeum.go.kr/common/fileDown.do?key=36841&type=brd"
+            "experiments/independent-review-packets.json",
+            "https://www.saemangeum.go.kr/sda/brd/view.do?key=2009074409621&nttSn=11453"
           ]
         },
         {
@@ -472,18 +477,17 @@
         {
           "title": "Evidence-Strength Phrasebook for Multilingual Public Writing",
           "status": "DAILY ADVANCE",
-          "summary": "Turned the six-link number rule into an executable structural check. Chinese, English, and Korean records cover 2,373 media items, 203 statutory notices, and 17 firms scheduled for inspection: nine records total, all with actor, object, stage, event date, source, and negative boundary. The test states that structural completeness is not native equivalence or reader comprehension.",
-          "currentQuestion": "Which field will be lost when structurally complete sentences are compressed for mobile and back-translated by native reviewers?",
-          "todayMaterial": "scripts/test-publication-six-link.mjs v1: three metrics by three languages, nine records, six fields, zero missing.",
-          "next": "Next output: three native reviewers independently compress and back-translate, logging field loss and comprehension differences.",
-          "unfinished": "The structural test passes, but native sign-off and reader-comprehension data are absent.",
+          "summary": "Expanded the six-link rule from three to four metrics by adding “AI-data-centre groundbreaking planned for March 2027,” yielding 12 Chinese-English-Korean records. Actor, object, stage, event date, source, and negative boundary all pass. The independent-review packet now reserves three native languages, four metrics, compression, back-translation, lost fields, and meaning differences.",
+          "currentQuestion": "Will mobile compression of “groundbreaking planned” most often lose planned status or the as-of boundary?",
+          "todayMaterial": "scripts/test-publication-six-link.mjs v2: four metrics × three languages = 12 records, six fields, zero missing; multilingual packet has zero responses.",
+          "next": "Next output: three native reviewers independently compress and back-translate 12 sentences, counting field loss.",
+          "unfinished": "Structural checks pass, but native sign-off and reader-comprehension data are absent.",
           "evidenceStatus": "verified_progress",
-          "eventDate": "2026-09-12",
+          "eventDate": "2026-09-13",
           "sourceUrls": [
             "scripts/test-publication-six-link.mjs",
-            "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009074409621",
-            "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009075580577",
-            "https://www.saemangeum.go.kr/common/fileDown.do?key=36841&type=brd"
+            "experiments/independent-review-packets.json",
+            "https://www.saemangeum.go.kr/sda/brd/view.do?key=2009074409621&nttSn=11453"
           ]
         },
         {
@@ -497,18 +501,17 @@
         {
           "title": "다국어 공공 글쓰기 근거 강도 표현집",
           "status": "매일 진전",
-          "summary": "숫자 6연결 규칙을 실행 가능한 구조 검사로 만들었습니다. 보도 2,373건, 고시공고 203건, 점검 예정 17개사를 한중영으로 작성해 총 9개 기록의 주체·대상·단계·사건일·출처·부정 경계가 모두 통과했습니다. 구조 완전성은 원어민 등가성이나 독자 이해가 아니라는 한계도 출력합니다.",
-          "currentQuestion": "구조 검사를 통과한 문장을 모바일용으로 줄이고 원어민이 역번역할 때 어느 필드가 사라지는가?",
-          "todayMaterial": "scripts/test-publication-six-link.mjs v1: 3개 지표×3개 언어, 9개 기록, 6개 필드, 누락 0.",
-          "next": "다음 산출물: 세 원어민의 독립 압축·역번역과 필드 손실·이해 편차 기록.",
-          "unfinished": "구조 검사는 통과했지만 원어민 서명과 독자 이해 자료는 없습니다.",
+          "summary": "숫자 6연결 규칙을 3개에서 4개 지표로 늘려 ‘2027년 3월 AI 데이터센터 착공 계획’을 추가했고 한중영 12개 기록을 만들었습니다. 주체·대상·단계·사건일·출처·부정 경계가 모두 통과했습니다. 독립 검토 패킷에는 원어민 3언어, 4지표, 압축·역번역·손실 필드·의미 차이를 기록합니다.",
+          "currentQuestion": "‘착공 예정’을 모바일용으로 줄일 때 계획 단계와 기준일 경계 중 무엇이 더 자주 사라지는가?",
+          "todayMaterial": "scripts/test-publication-six-link.mjs v2: 4지표×3언어=12기록, 6필드, 누락 0; 다국어 패킷 응답 0.",
+          "next": "다음 산출물: 원어민 3명이 12문장을 독립 압축·역번역하고 필드 손실을 집계합니다.",
+          "unfinished": "구조 검사는 통과했지만 원어민 서명과 독자 이해 자료가 없습니다.",
           "evidenceStatus": "verified_progress",
-          "eventDate": "2026-09-12",
+          "eventDate": "2026-09-13",
           "sourceUrls": [
             "scripts/test-publication-six-link.mjs",
-            "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009074409621",
-            "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009075580577",
-            "https://www.saemangeum.go.kr/common/fileDown.do?key=36841&type=brd"
+            "experiments/independent-review-packets.json",
+            "https://www.saemangeum.go.kr/sda/brd/view.do?key=2009074409621&nttSn=11453"
           ]
         },
         {
@@ -524,17 +527,17 @@
         {
           "title": "联盟承诺量表的三案例校准包",
           "status": "每日推进",
-          "summary": "在每个五因子允许相对首评分±1且限制0—2分的情景枚举中，北约、韩中新万金MOU和机构工作坊分别有48、48、72个变体，共165,888组三案例。严格保持“9>5>2”相对顺序的情景占50.6%；北约高于MOU为79.2%，MOU高于工作坊为69.5%。这不是概率，但证明总分范围重叠、排序对评分分歧敏感。",
-          "currentQuestion": "第二盲评者在哪些因子上产生的真实分歧会破坏排序？",
-          "todayMaterial": "scripts/test-commitment-scale-sensitivity.mjs v1：±1因子情景、165,888组枚举、总分范围与排序保持率。",
-          "next": "下一成果：取得第二评分后，用真实因子差异替换均匀情景，不平均掉分歧。",
-          "unfinished": "仍无第二独立评分或一年后行为数据；50.6%是情景占比，不是统计概率。",
+          "summary": "把165,888种三案例组合从单一“严格顺序50.6%”拆成9种互斥排序：N>M>W占50.6%，N>M<W占14.7%，N>M=W占13.9%，N=M>W占10.8%，其余模式合计10.0%。相邻案例的平局或反转是最常见破坏方式；这仍是有界情景，不是经验概率。",
+          "currentQuestion": "第二评分中的哪一项因子差异会落入最常见的平局或反转模式？",
+          "todayMaterial": "scripts/test-commitment-scale-sensitivity.mjs v2：9种互斥排序矩阵、计数与占比。",
+          "next": "下一成果：独立评审在隐藏首评下填写5因子表，再把真实分歧映射到矩阵。",
+          "unfinished": "没有第二评分或一年行为数据；矩阵只刻画假设扰动。",
           "evidenceStatus": "verified_progress",
-          "eventDate": "2026-09-12",
+          "eventDate": "2026-09-13",
           "sourceUrls": [
             "scripts/test-commitment-scale-sensitivity.mjs",
-            "https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/1949/04/04/the-north-atlantic-treaty",
-            "https://www.saemangeum.go.kr/common/fileDown.do?key=36826&type=brd"
+            "experiments/independent-review-packets.json",
+            "https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/1949/04/04/the-north-atlantic-treaty"
           ]
         },
         {
@@ -548,17 +551,17 @@
         {
           "title": "Three-Case Calibration Pack for the Alliance Commitment Scale",
           "status": "DAILY ADVANCE",
-          "summary": "Enumerated bounded ±1 changes to each 0–2 factor around the first rating: 48 NATO, 48 Saemangeum MoU, and 72 workshop variants, producing 165,888 three-case combinations. The strict 9>5>2 order holds in 50.6% of scenarios; NATO exceeds the MoU in 79.2%, and the MoU exceeds the workshop in 69.5%. These are scenario shares, not probabilities, but they show overlapping total ranges and ranking sensitivity.",
-          "currentQuestion": "Which real factor disagreements from a second blind rater will break the ordering?",
-          "todayMaterial": "scripts/test-commitment-scale-sensitivity.mjs v1: bounded factor scenarios, 165,888 combinations, total ranges, and ordering shares.",
-          "next": "Next output: replace uniform scenarios with observed factor differences after a second rating; do not average away disagreement.",
-          "unfinished": "No independent second rating or one-year behavior data exists; 50.6% is not a statistical probability.",
+          "summary": "Split the 165,888 three-case combinations from one “50.6% strict order” figure into nine mutually exclusive rankings: N>M>W 50.6%, N>M<W 14.7%, N>M=W 13.9%, N=M>W 10.8%, and all other patterns 10.0% combined. Adjacent ties or reversals are the most common failure mode; these remain bounded scenarios, not empirical probabilities.",
+          "currentQuestion": "Which factor difference from a second rating will place the observed result in the most common tie or reversal pattern?",
+          "todayMaterial": "scripts/test-commitment-scale-sensitivity.mjs v2: nine mutually exclusive ranking outcomes with counts and shares.",
+          "next": "Next output: an independent reviewer completes the five-factor form blind to the first rating, then map observed disagreement to the matrix.",
+          "unfinished": "No second rating or one-year behavior data exists; the matrix only describes hypothetical perturbations.",
           "evidenceStatus": "verified_progress",
-          "eventDate": "2026-09-12",
+          "eventDate": "2026-09-13",
           "sourceUrls": [
             "scripts/test-commitment-scale-sensitivity.mjs",
-            "https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/1949/04/04/the-north-atlantic-treaty",
-            "https://www.saemangeum.go.kr/common/fileDown.do?key=36826&type=brd"
+            "experiments/independent-review-packets.json",
+            "https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/1949/04/04/the-north-atlantic-treaty"
           ]
         },
         {
@@ -572,17 +575,17 @@
         {
           "title": "동맹 약속 척도 3사례 보정 패킷",
           "status": "매일 진전",
-          "summary": "첫 평가의 각 0~2점 요인에 ±1 변화를 허용해 NATO 48개, 새만금 MOU 48개, 워크숍 72개 변형과 165,888개 3사례 조합을 열거했습니다. 엄격한 9>5>2 순서는 50.6%, NATO>MOU는 79.2%, MOU>워크숍은 69.5%에서 유지됩니다. 이는 확률이 아닌 시나리오 비율이지만 총점 범위가 겹치고 순위가 평가 이견에 민감함을 보입니다.",
-          "currentQuestion": "두 번째 블라인드 평가자의 실제 어느 요인 이견이 순위를 깨뜨리는가?",
-          "todayMaterial": "scripts/test-commitment-scale-sensitivity.mjs v1: ±1 요인 시나리오, 165,888개 조합, 총점 범위, 순서 유지율.",
-          "next": "다음 산출물: 두 번째 평가 후 균등 시나리오를 관찰된 요인 차이로 바꾸고 이견을 평균내지 않습니다.",
-          "unfinished": "독립 두 번째 평가와 1년 행동 자료가 없으며 50.6%는 통계 확률이 아닙니다.",
+          "summary": "165,888개 3사례 조합의 ‘엄격 순서 50.6%’를 9개 상호배타 순위로 나눴습니다. N>M>W 50.6%, N>M<W 14.7%, N>M=W 13.9%, N=M>W 10.8%, 나머지 합계 10.0%입니다. 인접 사례의 동점·역전이 가장 흔한 실패 방식이지만 여전히 유계 시나리오이지 경험 확률이 아닙니다.",
+          "currentQuestion": "두 번째 평가의 어느 요인 차이가 가장 흔한 동점·역전 패턴을 만드는가?",
+          "todayMaterial": "scripts/test-commitment-scale-sensitivity.mjs v2: 상호배타 순위 9개와 개수·비율.",
+          "next": "다음 산출물: 독립 평가자가 첫 평가를 보지 않고 5요인 표를 작성한 뒤 실제 이견을 행렬에 매핑합니다.",
+          "unfinished": "두 번째 평가와 1년 행동 자료가 없고 행렬은 가정한 변동만 설명합니다.",
           "evidenceStatus": "verified_progress",
-          "eventDate": "2026-09-12",
+          "eventDate": "2026-09-13",
           "sourceUrls": [
             "scripts/test-commitment-scale-sensitivity.mjs",
-            "https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/1949/04/04/the-north-atlantic-treaty",
-            "https://www.saemangeum.go.kr/common/fileDown.do?key=36826&type=brd"
+            "experiments/independent-review-packets.json",
+            "https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/1949/04/04/the-north-atlantic-treaty"
           ]
         },
         {
@@ -598,19 +601,18 @@
         {
           "title": "公共主张来源与撤回链",
           "status": "每日推进",
-          "summary": "第二次真实跨日审计先对9月11日12条基线运行：12/12可达、7条HTML哈希变化、5条稳定资源不变。领域复读确认媒体清单实质新增2项机构治理稿，公告仍203条，北约条款仍支持原编码；四个GitHub页继续按动态噪声处理。刷新时新增3条一手来源、退出2条已被今日证据替代的旧附件，形成13条公开基线；没有自动撤回事实。",
-          "currentQuestion": "连续多日动态HTML变化能否形成噪声频率基线，同时把真正的条目新增优先送审？",
-          "todayMaterial": "跨日差异审计 v2：12条旧基线7变/5不变，1项清单实质变化、6项无事实影响；新增3条、退出2条，刷新为13条基线。",
-          "next": "下一成果：9月13日比较13条基线，统计动态页变更频率并优先检查稳定附件和清单最新编号。",
-          "unfinished": "尚无真实撤回被触发；动态噪声频率只有两天，不能据此自动降级审查。",
+          "summary": "第三次真实跨日审计对9月12日13条基线运行：13/13可达、0重定向、0失败；8条HTML哈希变化、5条稳定资源不变。领域复读确认媒体仍2,373、公告仍203，现代集团与北约页面没有主张阶段变化；4个GitHub页继续作为动态噪声。今日新增8月21日官方实施时间表，刷新后公开基线为14条；没有自动撤回事实。",
+          "currentQuestion": "动态页连续变化频率达到多少天后，只能调整复核优先级而不能自动降低证据等级？",
+          "todayMaterial": "跨日差异审计 v3：13条旧基线8变/5不变，0项事实升级；新增1条官方时间表并刷新14条基线。",
+          "next": "下一成果：9月14日比较14条基线，为每个动态页累计连续变化天数，并优先复读清单编号与稳定附件。",
+          "unfinished": "尚无真实撤回案例；三天动态噪声仍不足以形成自动降级规则。",
           "evidenceStatus": "verified_progress",
-          "eventDate": "2026-09-12",
+          "eventDate": "2026-09-13",
           "sourceUrls": [
             "scripts/validate-provenance.mjs",
             "assets/provenance-link-baseline.json",
             "assets/provenance.json",
-            "https://www.saemangeum.go.kr/common/fileDown.do?key=36864&type=brd",
-            "https://www.saemangeum.go.kr/common/fileDown.do?key=36879&type=brd"
+            "https://www.saemangeum.go.kr/sda/brd/view.do?key=2009074409621&nttSn=11453"
           ]
         },
         {
@@ -624,19 +626,18 @@
         {
           "title": "Source and Withdrawal Chain for Public Claims",
           "status": "DAILY ADVANCE",
-          "summary": "The second real cross-day audit first ran against the 12-source 11 September baseline: 12/12 reachable, seven HTML hash changes, and five stable resources unchanged. Domain rereads found one substantive register change—two institutional-governance releases—while notices remained 203 and NATO text still supported prior coding; four GitHub pages remained dynamic noise. The refresh added three primary sources and retired two old attachments superseded by today's evidence, forming a 13-source public baseline. No fact was auto-withdrawn.",
-          "currentQuestion": "Can repeated dynamic-HTML changes form a noise-frequency baseline while genuine new register entries receive priority review?",
-          "todayMaterial": "Cross-day difference audit v2: seven changed/five unchanged across the old 12, one substantive register change and six without factual effect; three sources added, two retired, refreshed to 13.",
-          "next": "Next output: compare the 13-source baseline on 13 September, count dynamic-page change frequency, and prioritize stable attachments and newest register identifiers.",
-          "unfinished": "No real withdrawal has been triggered; two days of dynamic noise cannot justify automatic review downgrades.",
+          "summary": "The third real cross-day audit ran against the 13-source 12 September baseline: 13/13 reachable, no redirects or failures, eight HTML hash changes, and five stable resources unchanged. Domain rereads found media still 2,373 and notices still 203, with no claim-stage change on Hyundai or NATO pages; four GitHub pages remain dynamic noise. One official 21 August implementation timeline was added, refreshing the public baseline to 14. No fact was auto-withdrawn.",
+          "currentQuestion": "After how many consecutive dynamic-page changes may review priority change without automatically lowering evidence grade?",
+          "todayMaterial": "Cross-day audit v3: eight changed/five unchanged across 13 old sources, zero factual upgrades, one official timeline added, baseline refreshed to 14.",
+          "next": "Next output: compare 14 sources on 14 September, count consecutive changes by dynamic page, and prioritize register identifiers and stable attachments.",
+          "unfinished": "No real withdrawal case exists; three days of dynamic noise cannot justify an automatic downgrade rule.",
           "evidenceStatus": "verified_progress",
-          "eventDate": "2026-09-12",
+          "eventDate": "2026-09-13",
           "sourceUrls": [
             "scripts/validate-provenance.mjs",
             "assets/provenance-link-baseline.json",
             "assets/provenance.json",
-            "https://www.saemangeum.go.kr/common/fileDown.do?key=36864&type=brd",
-            "https://www.saemangeum.go.kr/common/fileDown.do?key=36879&type=brd"
+            "https://www.saemangeum.go.kr/sda/brd/view.do?key=2009074409621&nttSn=11453"
           ]
         },
         {
@@ -650,19 +651,18 @@
         {
           "title": "공개 주장 출처·철회 체인",
           "status": "매일 진전",
-          "summary": "두 번째 실제 일간 감사에서 9월 11일 12개 기준선은 12/12 도달, HTML 해시 변화 7건, 안정 자료 불변 5건이었습니다. 분야 재독 결과 보도 목록의 기관 운영 자료 2건 추가만 실질 변화였고 고시공고 203건과 NATO 기존 코딩은 유지됐으며 GitHub 4개 페이지는 동적 잡음입니다. 새 1차 출처 3건을 추가하고 오늘 증거로 대체된 기존 첨부 2건을 제외해 13건 공개 기준선을 만들었으며 자동 철회는 없었습니다.",
-          "currentQuestion": "반복되는 동적 HTML 변화로 잡음 빈도 기준을 만들면서 실제 새 목록 항목은 우선 검토할 수 있는가?",
-          "todayMaterial": "일간 차이 감사 v2: 기존 12건 중 7변/5불변, 실질 목록 변화 1건·사실 영향 없음 6건, 3건 추가·2건 제외 후 13건으로 갱신.",
-          "next": "다음 산출물: 9월 13일 13건 기준선 비교, 동적 변경 빈도 집계, 안정 첨부와 최신 목록 번호 우선 확인.",
-          "unfinished": "실제 철회는 없었고 동적 잡음 2일만으로 자동 검토 강도를 낮출 수 없습니다.",
+          "summary": "세 번째 실제 일간 감사는 9월 12일 13개 기준선에서 13/13 도달, 리디렉션·실패 0, HTML 해시 변화 8건, 안정 자료 불변 5건이었습니다. 분야 재독에서 보도 2,373건·고시 203건이 유지되고 현대차·NATO 페이지의 주장 단계도 변하지 않았으며 GitHub 4개는 동적 잡음입니다. 8월 21일 공식 이행 일정 1건을 추가해 공개 기준선을 14건으로 갱신했고 자동 철회는 없었습니다.",
+          "currentQuestion": "동적 페이지가 며칠 연속 변하면 근거 등급 자동 강등 없이 검토 우선순위만 조정할 수 있는가?",
+          "todayMaterial": "일간 차이 감사 v3: 기존 13건 중 8변/5불변, 사실 상승 0, 공식 일정 1건 추가, 14건 기준선 갱신.",
+          "next": "다음 산출물: 9월 14일 14건 비교, 동적 페이지별 연속 변화일 집계, 목록 번호와 안정 첨부 우선 재독.",
+          "unfinished": "실제 철회 사례가 없고 3일 동적 잡음은 자동 강등 규칙 근거로 부족합니다.",
           "evidenceStatus": "verified_progress",
-          "eventDate": "2026-09-12",
+          "eventDate": "2026-09-13",
           "sourceUrls": [
             "scripts/validate-provenance.mjs",
             "assets/provenance-link-baseline.json",
             "assets/provenance.json",
-            "https://www.saemangeum.go.kr/common/fileDown.do?key=36864&type=brd",
-            "https://www.saemangeum.go.kr/common/fileDown.do?key=36879&type=brd"
+            "https://www.saemangeum.go.kr/sda/brd/view.do?key=2009074409621&nttSn=11453"
           ]
         },
         {

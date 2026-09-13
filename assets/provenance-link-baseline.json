@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T09:08:58.632Z",
+  "generatedAt": "2026-09-13T09:13:10.790Z",
   "links": [
     {
       "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.19",
@@ -8,9 +8,9 @@
       "finalUrl": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.19",
       "redirected": false,
       "contentType": "text/html; charset=utf-8",
-      "bytes": 215547,
-      "sha256": "7eab367a88069e871f286b61c41f76a8e38b9948164d0e03e280d3e4354512f3",
-      "elapsedMs": 538
+      "bytes": 215553,
+      "sha256": "e02801ce1baf3024fdb874a4a43b16ce794c1d8584ef1d5c1f6ce7a168b3c6fc",
+      "elapsedMs": 562
     },
     {
       "url": "https://github.com/langchain-ai/langgraph/releases/tag/sdk%3D%3D0.4.4",
@@ -19,9 +19,9 @@
       "finalUrl": "https://github.com/langchain-ai/langgraph/releases/tag/sdk%3D%3D0.4.4",
       "redirected": false,
       "contentType": "text/html; charset=utf-8",
-      "bytes": 208175,
-      "sha256": "395a8d40166be76f57fe210444522b219b3c8cb80278ea0570a11421d57c5341",
-      "elapsedMs": 623
+      "bytes": 208185,
+      "sha256": "8533e5b7ac7d7ed0cb2335e0ecd2414064a6278626133ae83581add6dfc0d7e5",
+      "elapsedMs": 815
     },
     {
       "url": "https://github.com/microsoft/autogen",
@@ -30,9 +30,9 @@
       "finalUrl": "https://github.com/microsoft/autogen",
       "redirected": false,
       "contentType": "text/html; charset=utf-8",
-      "bytes": 403482,
-      "sha256": "ba387eaf67a7b1be35a119b1038a6e29d1c8208b05a520e8d0d3430565bee224",
-      "elapsedMs": 725
+      "bytes": 403486,
+      "sha256": "b50532ab212f52bc4c6ebb2d61029b44a5faaffbd8a52b8c3df8a274c376ba8b",
+      "elapsedMs": 523
     },
     {
       "url": "https://github.com/openai/openai-agents-python/releases/tag/v0.22.0",
@@ -41,9 +41,9 @@
       "finalUrl": "https://github.com/openai/openai-agents-python/releases/tag/v0.22.0",
       "redirected": false,
       "contentType": "text/html; charset=utf-8",
-      "bytes": 227867,
-      "sha256": "20253b74079babc33cc92240ef3197a9e8543886c9b5127976787106bf254c0c",
-      "elapsedMs": 543
+      "bytes": 227877,
+      "sha256": "c33d145b467eccf801a3cfd041397064ae792a501c612845770b73a396e6fbb1",
+      "elapsedMs": 511
     },
     {
       "url": "https://www.hyundaimotorgroup.com/en/news/hyundai-motor-group-to-establish-innovation-hub-to-lead-robotics-ai-and-hydrogen-energy-in-korea",
@@ -53,8 +53,8 @@
       "redirected": false,
       "contentType": "text/html;charset=UTF-8",
       "bytes": 211794,
-      "sha256": "99aa8533b3311445766464950458c43c2156c76a5497dbcf70df54722b1c4ab1",
-      "elapsedMs": 405
+      "sha256": "6982216e24b3774037bd65050acd116a9ec6ae13851685294af4a35fad31b36b",
+      "elapsedMs": 513
     },
     {
       "url": "https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/1949/04/04/the-north-atlantic-treaty",
@@ -64,8 +64,8 @@
       "redirected": false,
       "contentType": "text/html;charset=utf-8",
       "bytes": 329509,
-      "sha256": "d5d44e078406ffcb5092dba18858579ac5ea70e67602cdfe91c3c2f42bcaca39",
-      "elapsedMs": 619
+      "sha256": "211fdddf5d76a1adb9f460ea3531716b86ae4471a355561bdf7bfd7b745cd27e",
+      "elapsedMs": 368
     },
     {
       "url": "https://www.saemangeum.go.kr/common/fileDown.do?key=36826&type=brd",
@@ -76,7 +76,7 @@
       "contentType": "application/octet-stream; charset=UTF-8",
       "bytes": 252735,
       "sha256": "bbf87c4e8a2d67747324e300881be6b844e416a9370668b8790e56cd2e25928d",
-      "elapsedMs": 618
+      "elapsedMs": 535
     },
     {
       "url": "https://www.saemangeum.go.kr/common/fileDown.do?key=36841&type=brd",
@@ -87,7 +87,7 @@
       "contentType": "application/octet-stream; charset=UTF-8",
       "bytes": 193878,
       "sha256": "061220f0cec2bf6be44e496ae9fa04eaf3f56fb97b46c657dee68b8a4ac7c886",
-      "elapsedMs": 444
+      "elapsedMs": 498
     },
     {
       "url": "https://www.saemangeum.go.kr/common/fileDown.do?key=36864&type=brd",
@@ -98,7 +98,7 @@
       "contentType": "application/octet-stream; charset=UTF-8",
       "bytes": 197953,
       "sha256": "59220b668e9a1e997cf65842c43b53ae660c2cae9b5815dac71751886969ec0b",
-      "elapsedMs": 396
+      "elapsedMs": 373
     },
     {
       "url": "https://www.saemangeum.go.kr/common/fileDown.do?key=36879&type=brd",
@@ -109,7 +109,7 @@
       "contentType": "application/octet-stream; charset=UTF-8",
       "bytes": 285608,
       "sha256": "b7a4efb42287d92472a5ba70d7c3271dab8b22c64a7d8a32612393018ea09400",
-      "elapsedMs": 368
+      "elapsedMs": 479
     },
     {
       "url": "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009074409621",
@@ -118,9 +118,9 @@
       "finalUrl": "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009074409621",
       "redirected": false,
       "contentType": "text/html;charset=UTF-8",
-      "bytes": 131389,
-      "sha256": "a946cad15d66d3f13536477570945891579409b9fd015448d054c8f12c65dda9",
-      "elapsedMs": 1289
+      "bytes": 131330,
+      "sha256": "5ead6a20d34851f10cf3f4fd0b40525c973f1bac9ef8759d47572a3cd7bdab74",
+      "elapsedMs": 1192
     },
     {
       "url": "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009075580577",
@@ -130,8 +130,19 @@
       "redirected": false,
       "contentType": "text/html;charset=UTF-8",
       "bytes": 130398,
-      "sha256": "7bb0854a655b32b9aadf6df9c1b76766b72a8cde557dececb5ac8fd62a22125d",
-      "elapsedMs": 1215
+      "sha256": "2a3315e414ac7a0a9f9ed96cc18e1c8e79a9f3167d8fe12103049edf10069b4f",
+      "elapsedMs": 1283
+    },
+    {
+      "url": "https://www.saemangeum.go.kr/sda/brd/view.do?key=2009074409621&nttSn=11453",
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.saemangeum.go.kr/sda/brd/view.do?key=2009074409621&nttSn=11453",
+      "redirected": false,
+      "contentType": "text/html;charset=UTF-8",
+      "bytes": 139376,
+      "sha256": "05ca459472359ca2b19cde1d9fdab0d0e68796b1846c4f5c620d1464bc92ec19",
+      "elapsedMs": 1322
     },
     {
       "url": "https://www.w3.org/TR/prov-o/",
@@ -142,7 +153,7 @@
       "contentType": "text/html; charset=utf-8",
       "bytes": 464179,
       "sha256": "6b96671ab84faf12ce3f041aca12c3f93a6df2ed242348810743179a68e69555",
-      "elapsedMs": 77
+      "elapsedMs": 75
     }
   ]
 }
