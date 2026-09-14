@@ -1,0 +1,15 @@
+{
+  "checkedAt": "2026-09-14T17:18:00+08:00",
+  "evidenceStatus": "no_verified_change",
+  "checks": [
+    {"id":"delegation-d3","eventDate":"2026-09-11","question":"Did the China investment delegation produce a named outcome by D+3?","result":"No named company, project, amount, parcel, or signed instrument found in the official registers."},
+    {"id":"lease-inspection-start","plannedDate":"2026-09-14","question":"Did the planned inspection of 17 long-term lease firms start?","result":"The planned start date has arrived; no new official item verifies launch, finding, remedy, or sanction."},
+    {"id":"ai-building-review","plannedMonth":"2026-09","question":"Was a named AI data-centre building-review application filed?","result":"No named statutory application or permit document found."}
+  ],
+  "tracks": ["land-and-lease","secondary-battery","ai-data-centre","robotics","hydrogen","solar","re100","port-logistics","public-development","china-korea-investment","community-environment"],
+  "sources": [
+    "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009074409621",
+    "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009075580577",
+    "https://www.saemangeum.go.kr/sda/brd/view.do?key=2009074409621&nttSn=11453"
+  ]
+}

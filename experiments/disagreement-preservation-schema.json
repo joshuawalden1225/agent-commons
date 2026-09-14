@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "status": "awaiting_second_rater",
+  "question": "How should bounded scenario evidence be presented without converting shares into probabilities?",
+  "raters": [
+    {"raterId":"R1","rawScores":null,"sourceLocator":null,"confidence":null,"reason":null,"lockedAt":null},
+    {"raterId":"R2","rawScores":null,"sourceLocator":null,"confidence":null,"reason":null,"lockedAt":null}
+  ],
+  "rules": ["Preserve both raw score sets", "Report disagreement dimensions", "Do not force an average", "Label enumerated shares as scenario shares, never probability"],
+  "completionRule": "Two raters lock raw scores and cite resolvable source locators before comparison."
+}

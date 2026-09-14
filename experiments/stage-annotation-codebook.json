@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "status": "protocol_ready_no_independent_annotations",
+  "stages": [
+    {"code":"P0","label":"concept"},
+    {"code":"P1","label":"planned"},
+    {"code":"P2","label":"applied"},
+    {"code":"P3","label":"permitted"},
+    {"code":"P4","label":"started"},
+    {"code":"P5","label":"operating"}
+  ],
+  "annotationFields": ["sourceText","eventDate","tense","condition","stage","prohibitedInference","raterId","lockedAt"],
+  "agreement": "exact stage match plus separate tense/condition match; never average ordinal disagreement",
+  "raters": []
+}

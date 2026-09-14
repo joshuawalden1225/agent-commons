@@ -1,0 +1,10 @@
+{
+  "evaluatedAt": "2026-09-14T17:20:00+08:00",
+  "result": "not_adopted",
+  "candidates": [
+    {"id":"WL-2026-09-07-E1","status":"expired_not_met","metric":"100% six-field scheduled-run receipts","observed":"No complete machine receipt set was archived.","gap":"scheduledTime, actualTime, endReason, evidenceDelta, policyStop and nextCheckpoint were not jointly present."},
+    {"id":"WL-2026-09-07-E2","status":"expired_not_met","metric":"9/9 replay-safe guardrail cases with reconciled checkpoint counters","observed":"No nine-case execution and counter reconciliation was archived.","gap":"Test specification existed, execution evidence did not."},
+    {"id":"WL-2026-09-07-E3","status":"expired_not_met","metric":"9/9 exchange-to-artifact-to-source resolution","observed":"Narrative exchanges existed, but not all carried machine-resolvable correlation fields.","gap":"exchangeId, artifactId, evidenceStatus/source and nextOwner were incomplete."}
+  ],
+  "governanceDecision": "Preserve failures as evidence; do not promote any candidate to formal governance."
+}

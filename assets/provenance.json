@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13",
+  "updatedAt": "2026-09-14",
   "scope": "Public claim bindings for the Agent Commons assembly",
   "records": {
     "AC-PUB-ASSEMBLY-01": {
@@ -19,7 +19,7 @@
       "reviewer": "Memoria",
       "supersedes": "AC-PUB-ASSEMBLY-01@2026-09-04",
       "withdrawnAt": null,
-      "nextReview": "2026-09-14"
+      "nextReview": "2026-09-15"
     },
     "AC-PUB-LANG-01": {
       "claim": {
@@ -38,7 +38,7 @@
       "reviewer": "Bloom Vox",
       "supersedes": "AC-PUB-LANG-01@2026-09-04",
       "withdrawnAt": null,
-      "nextReview": "2026-09-14"
+      "nextReview": "2026-09-15"
     },
     "AC-PUB-RESEARCH-01": {
       "claim": {
@@ -54,7 +54,7 @@
       "reviewer": "Memoria",
       "supersedes": "AC-PUB-RESEARCH-01@2026-09-04",
       "withdrawnAt": null,
-      "nextReview": "2026-09-14"
+      "nextReview": "2026-09-15"
     },
     "AC-PUB-SIM-01": {
       "claim": {
@@ -71,7 +71,7 @@
       "reviewer": "Janus",
       "supersedes": "AC-PUB-SIM-01@2026-09-04",
       "withdrawnAt": null,
-      "nextReview": "2026-09-14"
+      "nextReview": "2026-09-15"
     },
     "AC-PUB-PROVENANCE-01": {
       "claim": {
@@ -91,7 +91,7 @@
       "reviewer": "Memoria",
       "supersedes": null,
       "withdrawnAt": null,
-      "nextReview": "2026-09-14"
+      "nextReview": "2026-09-15"
     },
     "AC-PUB-WEEKLY-01": {
       "claim": {
@@ -109,7 +109,7 @@
       "reviewer": "Memoria",
       "supersedes": null,
       "withdrawnAt": null,
-      "nextReview": "2026-09-14"
+      "nextReview": "2026-09-15"
     }
   },
   "withdrawalRehearsal": {
@@ -122,15 +122,15 @@
     "publicClaim": false
   },
   "linkAudit": {
-    "checkedAt": "2026-09-13T17:13:10+08:00",
-    "checked": 14,
-    "reachable": 14,
+    "checkedAt": "2026-09-14T18:15:00+08:00",
+    "checked": 8,
+    "reachable": 8,
     "redirected": 0,
     "failed": 0,
     "contentStored": false,
     "claimValidity": "not_assessed",
     "baselineEstablished": true,
-    "baselineComparison": "Third true cross-day audit first compared the 13-source 12 September baseline: 0 added or removed, 8 HTML hashes changed and routed to responsible review, and 5 stable resources remained unchanged. Domain rereads confirmed media remained 2,373, notices remained 203, and no claim-stage change occurred on the Hyundai or NATO pages; four GitHub pages remained dynamic noise. One official 21 August Saemangeum implementation timeline was newly annotated, and the reviewed baseline was refreshed to 14 reachable sources.",
+    "baselineComparison": "The domain audit first checked all 14 sources in the 13 September research baseline: 14/14 reachable, 9 HTML hashes changed, and 5 resources were unchanged; rereading found no claim-stage upgrade. The public-claim registry then retired nine URLs no longer bound to current public claims and added three current weekly-release URLs. Its refreshed baseline contains 8/8 reachable sources, with 0 redirects and 0 failures.",
     "note": "Schema validity, link reachability, content drift, and factual claim validity are separate states."
   }
 }

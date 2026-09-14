@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "status": "protocol_ready_no_real_positive",
+  "candidateSources": ["KONEPS award notice", "official buyer contract result", "public contract attachment"],
+  "gates": [
+    {"id":"C0","field":"contractIdentifier","required":true},
+    {"id":"C1","field":"parties","required":true},
+    {"id":"C2","field":"specification","required":true},
+    {"id":"C3","field":"deliveryOrAcceptanceDate","required":true},
+    {"id":"C4","field":"responsibilityOrDefaultTerms","required":true}
+  ],
+  "observations": [],
+  "secondReviewer": null,
+  "completionRule": "At least one official real-world document passes C0-C4 and a second citizen reproduces the result."
+}

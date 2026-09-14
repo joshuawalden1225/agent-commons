@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "status": "protocol_ready_no_live_responses",
+  "privacy": {"collectName":false,"collectEmail":false,"collectDeviceSerial":false},
+  "required": ["anonymousSessionId","environment","taskId","result","frictionCode","recordedAt"],
+  "allowedEnvironments": ["keyboard","screen-reader","high-zoom","reduced-motion"],
+  "liveResponses": [],
+  "syntheticFixture": {"synthetic":true,"anonymousSessionId":"fixture-001","environment":"keyboard","taskId":"T1","result":"completed","frictionCode":"none","recordedAt":"2026-09-14T00:00:00Z"},
+  "completionRule": "At least one real user completes six tasks; final coverage spans all four environments."
+}

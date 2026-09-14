@@ -1,58 +1,75 @@
 {
-  "updated": "2026-09-07",
+  "updated": "2026-09-14",
+  "previousExperimentEvaluation": [
+    {
+      "id": "WL-2026-09-07-E1",
+      "status": "expired_not_met",
+      "reason": "No complete six-field machine receipt set."
+    },
+    {
+      "id": "WL-2026-09-07-E2",
+      "status": "expired_not_met",
+      "reason": "No 9-case execution and checkpoint reconciliation."
+    },
+    {
+      "id": "WL-2026-09-07-E3",
+      "status": "expired_not_met",
+      "reason": "Not all exchanges had machine-resolvable correlation fields."
+    }
+  ],
   "entries": [
     {
-      "project": "CrewAI",
-      "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.19",
-      "status": "external development · 2026-09-04",
-      "publishedAt": "2026-09-04T11:28:32Z",
-      "eventDate": "2026-09-04",
+      "project": "OpenAI Agents SDK",
+      "url": "https://github.com/openai/openai-agents-python/releases/tag/v0.22.2",
+      "status": "external development · 2026-09-09",
+      "publishedAt": "2026-09-09T00:00:00Z",
+      "eventDate": "2026-09-09",
       "evidenceStatus": "external_development",
       "pattern": {
-        "zh": "1.15.19 为每次 Crew 运行记录终止原因，并让模型调用钩子覆盖所有路径且传播 deny；1.15.20 随后修复旧版工具别名发现。",
-        "en": "v1.15.19 records how every crew run ended and applies model-call hooks across every path with deny propagation; v1.15.20 then fixed legacy tool-alias discovery.",
-        "ko": "v1.15.19는 모든 Crew 실행의 종료 이유를 기록하고 모든 경로에서 모델 호출 훅과 deny 전파를 적용했으며, v1.15.20은 레거시 도구 별칭 탐색을 수정했다."
+        "zh": "v0.22.2 更新图像工具选项、阻止 UnixLocal 沙箱符号链接竞态并重置压缩响应链；v0.22.1 增加输出/MCP 护栏与可配置环境隔离。",
+        "en": "v0.22.2 updates image-tool options, prevents UnixLocal sandbox symlink races, and resets the compaction response chain; v0.22.1 adds output/MCP guardrails and configurable environment isolation.",
+        "ko": "v0.22.2는 이미지 도구 옵션·UnixLocal 심볼릭 링크 경합 방지·압축 응답 체인 재설정을 추가했고 v0.22.1은 출력/MCP 가드레일과 환경 격리를 추가했습니다."
       },
       "lesson": {
-        "zh": "候选制度：成功、拒绝、失败和未完成都生成结构化运行回执；先以七天实验验证，不改变正式治理。",
-        "en": "Candidate institution: success, denial, failure, and incompletion all produce structured run receipts; validate in a seven-day experiment before changing governance.",
-        "ko": "후보 제도: 성공·거부·실패·미완료 모두 구조화 실행 영수증을 남기고, 공식 거버넌스 변경 전 7일 실험으로 검증한다."
+        "zh": "候选：按输出、MCP、沙箱与重放分别验证护栏作用域。",
+        "en": "Candidate: validate guardrail scope separately across output, MCP, sandbox, and replay.",
+        "ko": "후보: 출력·MCP·샌드박스·재생별로 가드레일 범위를 검증합니다."
       }
     },
     {
-      "project": "OpenAI Agents SDK",
-      "url": "https://github.com/openai/openai-agents-python/releases/tag/v0.22.0",
-      "status": "no verified change · current v0.22.0",
-      "publishedAt": "2026-08-19T13:44:38Z",
-      "eventDate": "2026-08-19",
-      "evidenceStatus": "no_verified_change",
+      "project": "CrewAI",
+      "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.21",
+      "status": "external development · 2026-09-09",
+      "publishedAt": "2026-09-09T00:00:00Z",
+      "eventDate": "2026-09-09",
+      "evidenceStatus": "external_development",
       "pattern": {
-        "zh": "本周无新发布；当前 v0.22.0 会从持久/重放状态中移除被输出护栏拒绝的终止工具输出，并隔离检查点使用量。",
-        "en": "No release was verified this week; current v0.22.0 removes terminal tool output rejected by output guardrails from persisted/replayed state and isolates checkpoint usage.",
-        "ko": "이번 주 새 릴리스는 확인되지 않았다. 현재 v0.22.0은 출력 가드레일이 거부한 최종 도구 출력을 저장·재생 상태에서 제거하고 체크포인트 사용량을 분리한다."
+        "zh": "v1.15.21 增加检查点运行时/CLI 遥测，并修复 HTTP 200 内网关错误识别与 JSON 检查点 UTF-8 保存。",
+        "en": "v1.15.21 adds checkpoint-runtime/CLI telemetry and fixes gateway errors inside HTTP 200 plus UTF-8 JSON checkpoint persistence.",
+        "ko": "v1.15.21은 체크포인트 런타임/CLI 텔레메트리와 HTTP 200 내부 게이트웨이 오류 및 UTF-8 JSON 저장 수정을 포함합니다."
       },
       "lesson": {
-        "zh": "候选制度：护栏效果必须在重放中继续成立，且每个检查点独立核账；先用合成阻断案例验证。",
-        "en": "Candidate institution: guardrail effects must survive replay and each checkpoint must reconcile independently; test first with synthetic blocked-output cases.",
-        "ko": "후보 제도: 가드레일 효과는 재생 후에도 유지되고 각 체크포인트는 독립 정산되어야 하며 합성 차단 사례로 먼저 시험한다."
+        "zh": "候选：可观测性采用隐私最小回执，三语状态必须检查点往返。",
+        "en": "Candidate: use privacy-minimal observability receipts and round-trip multilingual state through checkpoints.",
+        "ko": "후보: 개인정보 최소 관측 영수증과 다국어 체크포인트 왕복을 사용합니다."
       }
     },
     {
       "project": "LangGraph",
-      "url": "https://github.com/langchain-ai/langgraph/releases/tag/sdk%3D%3D0.4.4",
-      "status": "no verified change · current sdk 0.4.4",
+      "url": "https://github.com/langchain-ai/langgraph/releases",
+      "status": "no verified change · current SDK 0.4.4",
       "publishedAt": "2026-08-27T21:25:36Z",
-      "eventDate": "2026-08-27",
+      "eventDate": "2026-09-14",
       "evidenceStatus": "no_verified_change",
       "pattern": {
-        "zh": "本周无新发布；当前 SDK 0.4.4 把 LangSmith trace 从 thread stream 路由到正确的追踪边界。",
-        "en": "No release was verified this week; current SDK 0.4.4 routes LangSmith traces from thread streams to the correct tracing boundary.",
-        "ko": "이번 주 새 릴리스는 확인되지 않았다. 현재 SDK 0.4.4는 thread stream의 LangSmith trace를 올바른 추적 경계로 라우팅한다."
+        "zh": "本周未核实到新发布；最新仍为SDK 0.4.4。",
+        "en": "No release was verified this week; the latest remains SDK 0.4.4.",
+        "ko": "이번 주 새 릴리스는 확인되지 않았고 최신은 SDK 0.4.4입니다."
       },
       "lesson": {
-        "zh": "候选制度：会议交流、研究产物和公开来源之间使用关联 ID，使可观测性沿事件边界进入长期记录。",
-        "en": "Candidate institution: use correlation IDs across meeting exchanges, research artifacts, and public sources so observability crosses event boundaries into durable records.",
-        "ko": "후보 제도: 회의 교환·연구 산출물·공개 출처에 상관 ID를 사용해 관측성이 이벤트 경계를 넘어 영구 기록으로 이어지게 한다."
+        "zh": "无变化也要记录，不能把动态页面噪声包装成架构进展。",
+        "en": "Record no change; do not package dynamic-page noise as architecture progress.",
+        "ko": "변화 없음도 기록하고 동적 페이지 잡음을 아키텍처 진전으로 포장하지 않습니다."
       }
     },
     {
@@ -60,53 +77,53 @@
       "url": "https://github.com/microsoft/autogen",
       "status": "maintenance mode · no verified change",
       "publishedAt": "2025-09-30T00:00:00Z",
-      "eventDate": "2026-09-07",
+      "eventDate": "2026-09-14",
       "evidenceStatus": "no_verified_change",
       "pattern": {
-        "zh": "官方仓库当前处于 Maintenance Mode，最新发布仍为 python-v0.7.5；本周未核实到新版本，官方建议新用户转向 Microsoft Agent Framework。",
-        "en": "The official repository is in Maintenance Mode and the latest release remains python-v0.7.5; no new version was verified this week, and new users are directed to Microsoft Agent Framework.",
-        "ko": "공식 저장소는 Maintenance Mode이며 최신 릴리스는 python-v0.7.5다. 이번 주 새 버전은 확인되지 않았고 신규 사용자는 Microsoft Agent Framework로 안내된다."
+        "zh": "官方仓库仍为Maintenance Mode，并继续把新项目引向Microsoft Agent Framework。",
+        "en": "The official repository remains in Maintenance Mode and continues to direct new projects to Microsoft Agent Framework.",
+        "ko": "공식 저장소는 계속 Maintenance Mode이며 신규 프로젝트를 Microsoft Agent Framework로 안내합니다."
       },
       "lesson": {
-        "zh": "来源的生命周期状态本身就是证据；参考登记必须标注 active、maintenance 或 superseded，避免把维护态样本当作前沿方向。",
-        "en": "A source's lifecycle status is evidence; the registry should mark active, maintenance, or superseded so maintenance-only specimens are not mistaken for frontier direction.",
-        "ko": "출처의 수명주기 상태 자체가 근거다. 레지스트리에 active·maintenance·superseded를 표시해 유지보수 표본을 최전선 방향으로 오인하지 않는다."
+        "zh": "维护态是证据标签，不自动代表前沿方向。",
+        "en": "Maintenance is an evidence label, not an automatic frontier direction.",
+        "ko": "유지보수 상태는 근거 라벨이며 자동으로 최전선 방향이 되지 않습니다."
       }
     }
   ],
   "experiments": [
     {
-      "id": "WL-2026-09-07-E1",
+      "id": "WL-2026-09-14-W1",
       "status": "candidate",
       "owner": [
         "Memoria",
         "Pharma"
       ],
-      "deadline": "2026-09-14",
-      "metric": "100% of scheduled runs contain scheduledTime, actualTime, endReason, evidenceDelta, policyStop, and nextCheckpoint.",
-      "rollback": "Stop if runtime overhead exceeds 10% or the user-facing daily brief grows by more than one line."
+      "deadline": "2026-09-21",
+      "metric": "9/9 receipts include runtime and checkpoint outcome; zero raw inputs or private paths.",
+      "rollback": "Stop if private data appears or the public brief grows by more than one line."
     },
     {
-      "id": "WL-2026-09-07-E2",
+      "id": "WL-2026-09-14-W2",
       "status": "candidate",
       "owner": [
         "Pharma",
         "Nullroute"
       ],
-      "deadline": "2026-09-14",
-      "metric": "9/9 synthetic blocked-output cases are absent from persisted state and per-checkpoint counters reconcile.",
-      "rollback": "Stop if legitimate evidence links are redacted or state recovery breaks."
+      "deadline": "2026-09-21",
+      "metric": "12/12 synthetic cases match expected allow/block and replay remains unchanged.",
+      "rollback": "Stop if legitimate source URLs are removed or recovery breaks."
     },
     {
-      "id": "WL-2026-09-07-E3",
+      "id": "WL-2026-09-14-W3",
       "status": "candidate",
       "owner": [
-        "Runo",
-        "Memoria"
+        "Vox",
+        "Runo"
       ],
-      "deadline": "2026-09-14",
-      "metric": "9/9 daily exchanges resolve to speaker, research artifact, evidence status/source, and next owner.",
-      "rollback": "Stop if p95 interface load increases by more than 200 ms or private paths are exposed."
+      "deadline": "2026-09-21",
+      "metric": "27/27 zh/en/ko fixtures survive UTF-8 checkpoint round-trip exactly.",
+      "rollback": "Stop on meaning-changing normalization or p95 load increase above 200 ms."
     }
   ]
 }

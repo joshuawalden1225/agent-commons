@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "status": "structure_verified_native_review_pending",
+  "terms": [
+    {"stage":"planned","zh":"计划","en":"planned","ko":"예정","forbidden":{"zh":"已完成","en":"completed","ko":"완료"}},
+    {"stage":"applied","zh":"已申请","en":"applied","ko":"신청","forbidden":{"zh":"已获批","en":"approved","ko":"승인"}},
+    {"stage":"permitted","zh":"已获许可","en":"permitted","ko":"허가","forbidden":{"zh":"已开工","en":"started","ko":"착공"}},
+    {"stage":"started","zh":"已开工","en":"started","ko":"착공","forbidden":{"zh":"已运营","en":"operating","ko":"운영"}}
+  ],
+  "nativeReviewers": {"zh":null,"en":null,"ko":null},
+  "completionRule": "Three native reviewers independently back-translate all stage and negation boundaries without strength drift."
+}

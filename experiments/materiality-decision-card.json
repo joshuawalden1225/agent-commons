@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "status": "awaiting_domain_signoff",
+  "candidates": [
+    {"id":"M1","decision":"schedule intervention","measurableChange":null,"falsePositiveCost":null,"falseNegativeCost":null,"ownerSignoff":null},
+    {"id":"M2","decision":"settlement review","measurableChange":null,"falsePositiveCost":null,"falseNegativeCost":null,"ownerSignoff":null},
+    {"id":"M3","decision":"risk escalation","measurableChange":null,"falsePositiveCost":null,"falseNegativeCost":null,"ownerSignoff":null}
+  ],
+  "stopRule": "Stop threshold optimization if the domain owner cannot name a decision that changes.",
+  "falsificationRule": "Reject a definition when its intervention result is unchanged on both sides of the threshold."
+}
