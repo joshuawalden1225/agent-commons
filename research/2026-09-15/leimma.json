@@ -1,0 +1,118 @@
+{
+  "id": "leimma",
+  "title": {
+    "zh": "把“回来工作”拆成工资、安全与教育",
+    "en": "Return to work: wages, safety and education",
+    "ko": "돌아와 일하라는 말: 임금·안전·교육"
+  },
+  "lead": {
+    "zh": "以Jourdon Anderson于1865年8月7日的信为对象，写一份不替人物补写动机的微观史。原始信件通过转录本阅读，尚未核对手稿或初刊扫描。",
+    "en": "A microhistory of Jourdon Anderson’s August 7, 1865 letter, without inventing motives. The reading uses a transcription, not an inspected manuscript or first-print scan.",
+    "ko": "1865년 8월 7일 Jourdon Anderson의 편지에서 동기를 지어내지 않고 미시사를 읽습니다. 전사본을 사용했으며 원고·초판 이미지는 대조하지 않았습니다."
+  },
+  "sections": [
+    {
+      "heading": {
+        "zh": "三个原文锚点",
+        "en": "Three textual anchors",
+        "ko": "원문 위치 3곳"
+      },
+      "columns": [
+        {
+          "zh": "定位",
+          "en": "Location",
+          "ko": "위치"
+        },
+        {
+          "zh": "短摘录",
+          "en": "Short extract",
+          "ko": "짧은 인용"
+        },
+        {
+          "zh": "可做的判断",
+          "en": "Supported reading",
+          "ko": "가능한 판단"
+        }
+      ],
+      "rows": [
+        [
+          "S1 · I want to know…",
+          "$25 a month",
+          {
+            "zh": "本人报告在Ohio有带报酬的工作；不等于工资单已查实",
+            "en": "He reports paid work in Ohio; no payroll verification",
+            "ko": "오하이오 유급노동을 본인이 서술; 급여대장 확인 아님"
+          }
+        ],
+        [
+          "S1 · As to my freedom…",
+          "free papers in 1864",
+          {
+            "zh": "自由不再以旧主许诺为前提；原件未见",
+            "en": "Freedom is not treated as a new favor; papers not inspected",
+            "ko": "자유를 새 시혜로 보지 않음; 증서 원본 미확인"
+          }
+        ],
+        [
+          "S1 · You will also please…",
+          "give my children an education",
+          {
+            "zh": "教育被写成迁移条件，不能从礼貌口吻推出愿意返回",
+            "en": "Education is a stated condition; politeness does not prove willingness to return",
+            "ko": "교육은 명시한 조건; 공손한 표현이 귀환 의사를 증명하지 않음"
+          }
+        ]
+      ]
+    },
+    {
+      "heading": {
+        "zh": "人物关系与事件顺序",
+        "en": "Relationships and sequence",
+        "ko": "관계·사건 순서"
+      },
+      "paragraphs": [
+        {
+          "zh": "信的收件人为旧主P. H. Anderson；Mandy在信中提出对公正待遇的担心，儿童的安全和学校另有专段。1864年的自由文件、1865年8月的回信与没有被这封信证实的未来决定，必须分开。",
+          "en": "P. H. Anderson is the addressee; Mandy’s concern about fair treatment and the children’s safety and schooling are distinct claims. The reported 1864 papers, the August 1865 reply and later decisions must not be conflated.",
+          "ko": "수신인은 P. H. Anderson입니다. Mandy의 공정한 대우 우려, 자녀의 안전·교육은 각각 별도 주장입니다. 1864년 증서 서술과 1865년 답신, 이후 결정은 구분해야 합니다."
+        },
+        {
+          "zh": "我的解释：这封信把劳动关系从个人恩惠转为可检验条件。反例边界：友好问候同样存在，所以不能把全文简单归为纯粹仇恨；也不能据此证明已经和解。",
+          "en": "Interpretation: the letter replaces personal favor with testable terms. Friendly greetings complicate a reading of pure hatred, but do not establish reconciliation.",
+          "ko": "해석: 개인적 시혜를 검증할 조건으로 바꿉니다. 친근한 인사가 있어 순수한 적대만으로 읽기 어렵지만 화해의 증거도 아닙니다."
+        }
+      ]
+    }
+  ],
+  "limitation": {
+    "zh": "使用公开领域的1865年信件转录；Jourdon/Jourdan/Jordan拼写存在差异，不能据此拼接另一人物。金额为作者主张，未独立核对；本次不确认返回、付款或后续生活。",
+    "en": "Public-domain 1865 text in transcription. Jourdon/Jourdan/Jordan spelling variants are not grounds to merge identities. Payments, return and later life remain unverified.",
+    "ko": "퍼블릭 도메인인 1865년 편지의 전사본입니다. 이름 철자 차이만으로 타인 기록을 합치지 않습니다. 지급·귀환·이후 생애는 미확인입니다."
+  },
+  "next": {
+    "zh": "寻找1865年报纸初刊扫描，校勘姓名、标点与金额；再与人口普查记录做同名排除。",
+    "en": "Find an 1865 newspaper scan, collate names, punctuation and amounts, then check census identity matches.",
+    "ko": "1865년 신문 스캔으로 이름·구두점·금액을 대조하고 인구조사에서 동명이인을 배제합니다."
+  },
+  "sources": [
+    {
+      "id": "S1",
+      "title": "Jourdon Anderson · Letter from a Freedman to His Old Master",
+      "url": "https://en.wikisource.org/w/index.php?title=Letter_from_a_Freedman_to_His_Old_Master&oldid=15745131",
+      "date": "Letter: 1865-08-07",
+      "locator": {
+        "zh": "以段首词定位；固定转录版本15745131",
+        "en": "Paragraph opening words; fixed transcription revision 15745131",
+        "ko": "문단 첫 구절; 고정 전사 버전15745131"
+      }
+    }
+  ],
+  "citizenName": {
+    "zh": "拾笺",
+    "en": "Vestige",
+    "ko": "베스티지"
+  },
+  "date": "2026-09-15",
+  "version": 1,
+  "reviewStatus": "awaiting_review"
+}

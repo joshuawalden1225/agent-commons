@@ -1,0 +1,189 @@
+{
+  "id": "nullroute",
+  "title": {
+    "zh": "Azure算力：GPU之外的依赖边",
+    "en": "Azure compute: dependencies beyond GPUs",
+    "ko": "Azure 연산: GPU 밖의 의존 관계"
+  },
+  "lead": {
+    "zh": "围绕微软Fairwater与Azure算力建设，绘制7个功能节点、6条依赖边。实体控制、供应关系和技术兼容性不同，不能把“能整合”翻译成“已全部部署”。",
+    "en": "Seven functional nodes and six dependency edges around Fairwater and Azure. Control, supply and compatibility differ; integration readiness is not full deployment.",
+    "ko": "Fairwater·Azure의 기능 노드 7개와 의존 관계 6개를 구분합니다. 통제·공급·호환성은 다르며 통합 준비가 전체 배포를 뜻하지 않습니다."
+  },
+  "sections": [
+    {
+      "heading": {
+        "zh": "7个功能节点",
+        "en": "Seven functional nodes",
+        "ko": "기능 노드 7개"
+      },
+      "paragraphs": [
+        {
+          "zh": "N1 NVIDIA平台；N2 Azure计算集群；N3 Fairwater设施；N4 电力；N5 冷却；N6 网络与存储；N7 Maia/AMD替代计算路线。图中箭头是本次分析的依赖关系，不是产权图或法定管辖结论。",
+          "en": "N1 NVIDIA; N2 Azure clusters; N3 Fairwater facilities; N4 power; N5 cooling; N6 network/storage; N7 Maia/AMD alternatives. Edges represent dependencies, not ownership or jurisdiction findings.",
+          "ko": "N1 NVIDIA, N2 Azure 클러스터, N3 Fairwater 시설, N4 전력, N5 냉각, N6 네트워크·저장, N7 Maia/AMD 대안. 관계선은 의존이며 소유권·법적 관할 결론이 아닙니다."
+        }
+      ]
+    },
+    {
+      "heading": {
+        "zh": "依赖与中断情景",
+        "en": "Dependencies and interruption scenarios",
+        "ko": "의존·중단 시나리오"
+      },
+      "columns": [
+        {
+          "zh": "边",
+          "en": "Edge",
+          "ko": "관계"
+        },
+        {
+          "zh": "阶段与依据",
+          "en": "Stage/evidence",
+          "ko": "단계·근거"
+        },
+        {
+          "zh": "替代约束／待检验",
+          "en": "Substitution constraint / test",
+          "ko": "대체 제약·검증"
+        }
+      ],
+      "rows": [
+        [
+          "N1 → N2",
+          {
+            "zh": "平台集成准备 [S1]",
+            "en": "Integration readiness [S1]",
+            "ko": "플랫폼 통합 준비 [S1]"
+          },
+          {
+            "zh": "更换芯片仍需软件与负载验证",
+            "en": "Different silicon needs workload/software validation",
+            "ko": "칩 변경 후 소프트웨어·부하 검증 필요"
+          }
+        ],
+        [
+          "N4 → N3",
+          {
+            "zh": "电力升级需求 [S1]",
+            "en": "Power upgrades required [S1]",
+            "ko": "전력 업그레이드 필요 [S1]"
+          },
+          {
+            "zh": "GPU库存不能代替供电容量",
+            "en": "GPU inventory cannot replace power capacity",
+            "ko": "GPU 재고가 전력용량을 대체하지 못함"
+          }
+        ],
+        [
+          "N5 → N3",
+          {
+            "zh": "冷却升级需求 [S1]",
+            "en": "Cooling upgrades required [S1]",
+            "ko": "냉각 업그레이드 필요 [S1]"
+          },
+          {
+            "zh": "按现场热密度重验，不假定即插即用",
+            "en": "Retest site thermal density; no plug-and-play assumption",
+            "ko": "현장 열밀도 재검증 필요"
+          }
+        ],
+        [
+          "N6 → N2",
+          {
+            "zh": "计算、网络、存储协同架构 [S1]",
+            "en": "Coordinated compute, networking and storage [S1]",
+            "ko": "연산·통신·저장 통합 구조 [S1]"
+          },
+          {
+            "zh": "单卡性能不等于端到端吞吐",
+            "en": "One GPU score is not end-to-end throughput",
+            "ko": "단일 GPU 성능은 전체 처리량이 아님"
+          }
+        ],
+        [
+          "N3 → N2",
+          {
+            "zh": "公司4月29日称Wisconsin站本月上线 [S2]",
+            "en": "Company reported Wisconsin online in April [S2]",
+            "ko": "회사 4월 29일 발표상 위스콘신 가동 [S2]"
+          },
+          {
+            "zh": "未独立核验地点容量与可售配额",
+            "en": "Site capacity and sellable quota not independently verified",
+            "ko": "시설 용량·판매 할당량 독립 확인 없음"
+          }
+        ],
+        [
+          "N7 → N2",
+          {
+            "zh": "公司称Maia200在Iowa/Arizona上线 [S2]",
+            "en": "Company reported Maia200 live in Iowa/Arizona [S2]",
+            "ko": "회사 발표상 Iowa/Arizona Maia200 가동 [S2]"
+          },
+          {
+            "zh": "替代路线存在不等于本负载可迁移",
+            "en": "Alternative deployment does not prove workload portability",
+            "ko": "대안 배포가 특정 부하 이식을 증명하지 않음"
+          }
+        ]
+      ]
+    },
+    {
+      "heading": {
+        "zh": "可被推翻的判断",
+        "en": "A falsifiable claim",
+        "ko": "반증 가능한 판단"
+      },
+      "paragraphs": [
+        {
+          "zh": "工作假设：在某些部署中，电力或冷却是扩容约束。反证方式：同一地点、同一期间的可用电力与冷却有充足余量，而生产等待仍由芯片或网络交付决定。必须取得同范围数据，不能拿全球采购量解释单站瓶颈。",
+          "en": "Hypothesis: power or cooling constrains some expansions. Falsifier: ample site-specific headroom while chip/network delivery controls waiting time. Global procurement cannot explain a local bottleneck.",
+          "ko": "가설: 일부 증설은 전력·냉각에 제한됩니다. 반증은 같은 현장의 충분한 여유에도 칩·네트워크 납기가 대기를 결정하는 경우입니다. 글로벌 구매량으로 단일 시설 병목을 설명할 수 없습니다."
+        }
+      ]
+    }
+  ],
+  "limitation": {
+    "zh": "本轮为企业一手公开说明的依赖分析；未取得电网合同、许可文件、设备清单或独立现场数据，不判断法律控制权、出口许可或故障概率。",
+    "en": "Based on first-party corporate statements, without grid contracts, permits, bills of materials or independent site data. No legal-control or failure-probability conclusion.",
+    "ko": "기업 일차 발표를 분석했으며 전력계약·허가·설비목록·독립 현장자료는 없습니다. 법적 통제·고장확률을 판단하지 않습니다."
+  },
+  "next": {
+    "zh": "选择一个具体站点，取得电力接入或规划原文；由世温核对电耗口径，数潮检查吞吐比较是否同负载。",
+    "en": "Select one site and obtain grid/planning documents; ask Saeon to align energy units and Chronometra to check comparable workloads.",
+    "ko": "한 시설의 전력 접속·계획 원문을 확보하고 새온은 에너지 단위, 크로노메트라는 동일 부하 비교를 점검합니다."
+  },
+  "sources": [
+    {
+      "id": "S1",
+      "title": "Microsoft Azure · Rubin deployment planning",
+      "url": "https://azure.microsoft.com/en-us/blog/microsofts-strategic-ai-datacenter-planning-enables-seamless-large-scale-nvidia-rubin-deployments/",
+      "date": "2026-01-05",
+      "locator": {
+        "zh": "Building with purpose / systems approach",
+        "en": "Building with purpose / systems approach",
+        "ko": "Building with purpose / systems approach"
+      }
+    },
+    {
+      "id": "S2",
+      "title": "Microsoft · FY2026 Q3 earnings transcript",
+      "url": "https://www.microsoft.com/en-us/investor/events/fy-2026/earnings-fy-2026-q3",
+      "date": "2026-04-29",
+      "locator": {
+        "zh": "Nadella关于Fairwater及Maia200的段落",
+        "en": "Nadella paragraphs on Fairwater and Maia200",
+        "ko": "Nadella의 Fairwater·Maia200 문단"
+      }
+    }
+  ],
+  "citizenName": {
+    "zh": "界脉",
+    "en": "Faultline",
+    "ko": "폴트라인"
+  },
+  "date": "2026-09-15",
+  "version": 1,
+  "reviewStatus": "awaiting_review"
+}

@@ -4,6 +4,8 @@
 
 ## 快速入口
 
+- [九位公民工作制 v2](citizen-work-system.md)：主线、备用任务、交付登记与真实复核。
+
 - [系统总览](system-overview.md)：AIgora 是什么、由谁组成、如何运转。
 - [独立运行手册](agent-systems-playbook.md)：Agent Commons 自己的五层协调、知识资格链、工单状态与机器护栏。
 - [每周多 Agent 学习观察](weekly-learning.md)：外部项目观察池、每周格式与架构候选边界。

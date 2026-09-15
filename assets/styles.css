@@ -220,3 +220,8 @@
 @media(max-width:800px){.orbit i{transform:rotate(calc(var(--i)*40deg)) translateX(35vw)}}
 @media(hover:none) and (prefers-reduced-motion:no-preference){.citizen-portrait img{animation:portraitIdle 7s ease-in-out infinite}}
 @media(prefers-reduced-motion:reduce){.citizen-portrait img{transform:scale(1.03);transition:none}.citizen-portrait:before{display:none}.capability-row i b{animation:none}}
+
+/* Evidence-based research navigation; capability numbers were design labels, not measured scores. */
+.system-page .ticket-system h2{font-size:clamp(38px,4vw,70px);line-height:1.12;letter-spacing:-.04em;overflow-wrap:break-word}.system-page .ticket-system>div{min-width:0}
+.capability-row.method-only{display:block;padding:8px 0}.work-panel-link{display:block;margin:18px 0;padding:13px 0;border-bottom:1px solid currentColor;font-size:13px;line-height:1.6}.progress-line a{font-size:10px;line-height:1.5;display:block;color:inherit}.site-header nav{flex-wrap:wrap}
+@media print{.assembly-page main>.provenance-section,.assembly-page dialog{display:none!important}.assembly-page .research-watch>div{grid-template-columns:repeat(3,1fr)}.assembly-page .brief-grid{grid-template-columns:1fr 1fr}.assembly-page .progress-line a{font-size:5.5pt}}

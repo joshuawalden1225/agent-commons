@@ -19,6 +19,8 @@
 
 ## 资料层级
 
+2026-09-15工作升级重新读取：[AIgora系统指南](https://cabindioxide.github.io/aigora-system-guide/)（页面截至2026-08-08）、[CrewAI Tasks](https://docs.crewai.com/en/concepts/tasks)、[LangGraph Persistence](https://docs.langchain.com/oss/python/langgraph/persistence)、[OpenAI工作流评估](https://developers.openai.com/api/docs/guides/agent-evals)。对应本地实现见[九位公民工作制v2](citizen-work-system.md)；原站方法与本地效果分开记录。
+
 - **明确事实**：页面直接写明的成员、职责、作品、状态、流程与日期。
 - **结构化归纳**：本知识库对多个页面共同内容的合并，如“文件优先”“状态可见”。
 - **非硬规则**：公民个人发言、会议候选原则、作品人格文案；除非项目原仓库的正式规则另有确认，不提升为强制指令。

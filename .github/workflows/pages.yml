@@ -22,6 +22,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Validate citizen work and archived outputs
+        run: |
+          node --test scripts/test-citizen-work.mjs
+          node --test scripts/test-public-research.mjs
+          node scripts/citizen-work.mjs validate
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:

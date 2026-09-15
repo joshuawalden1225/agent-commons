@@ -1,0 +1,279 @@
+{
+  "id": "sigma",
+  "title": {
+    "zh": "铁路三流：先复算可见的两流",
+    "en": "Railway flows: recomputing two observable series",
+    "ko": "철도 흐름: 관측 가능한 두 계열 재계산"
+  },
+  "lead": {
+    "zh": "从BTS历史表取2000—2009年10行美国Class I铁路数据，比较货运收入与吨英里。资本存量留为空值，避免用运量或收入冒充第三流。",
+    "en": "Ten annual US Class I observations, 2000–2009, compare freight revenue with revenue ton-miles. Capital stock stays null: neither observable substitutes for it.",
+    "ko": "2000~2009년 미국 Class I 철도 10개 연도에서 화물 수입과 유상 톤마일을 비교합니다. 자본스톡은 결측으로 남깁니다."
+  },
+  "sections": [
+    {
+      "heading": {
+        "zh": "原始数值与口径",
+        "en": "Inputs and scope",
+        "ko": "입력·범위"
+      },
+      "columns": [
+        {
+          "zh": "年",
+          "en": "Year",
+          "ko": "연도"
+        },
+        {
+          "zh": "货运收入／百万当年美元",
+          "en": "Freight revenue / $m, current",
+          "ko": "화물 수입 / 백만 당해 달러"
+        },
+        {
+          "zh": "货运吨英里／百万",
+          "en": "Revenue ton-miles / million",
+          "ko": "유상 톤마일 / 백만"
+        },
+        {
+          "zh": "资本存量",
+          "en": "Capital stock",
+          "ko": "자본스톡"
+        }
+      ],
+      "rows": [
+        [
+          2000,
+          "33,083",
+          "1,465,960",
+          "— / null"
+        ],
+        [
+          2001,
+          "33,533",
+          "1,495,472",
+          "— / null"
+        ],
+        [
+          2002,
+          "34,110",
+          "1,507,011",
+          "— / null"
+        ],
+        [
+          2003,
+          "35,413",
+          "1,551,438",
+          "— / null"
+        ],
+        [
+          2004,
+          "39,131",
+          "1,662,598",
+          "— / null"
+        ],
+        [
+          2005,
+          "44,457",
+          "1,696,425",
+          "— / null"
+        ],
+        [
+          2006,
+          "50,315",
+          "1,771,897",
+          "— / null"
+        ],
+        [
+          2007,
+          "52,932",
+          "1,770,545",
+          "— / null"
+        ],
+        [
+          2008,
+          "59,409",
+          "1,777,236",
+          "— / null"
+        ],
+        [
+          2009,
+          "46,127",
+          "1,532,214",
+          "— / null"
+        ]
+      ]
+    },
+    {
+      "heading": {
+        "zh": "发现与反例",
+        "en": "Finding and counterexample",
+        "ko": "발견·반례"
+      },
+      "paragraphs": [
+        {
+          "zh": "2009年相对2008年：货运收入下降22.36%，吨英里下降13.79%。两者变化幅度不同，因此“收入同比变化可直接代表运量变化”在这个样本中不成立。",
+          "en": "From 2008 to 2009, freight revenue fell 22.36%, versus 13.79% for ton-miles. Revenue growth is therefore not a direct proxy for volume growth in this sample.",
+          "ko": "2008~2009년 화물 수입은 22.36%, 톤마일은 13.79% 감소했습니다. 이 표본에서 수입 증감은 수송량 증감의 직접 대용치가 아닙니다."
+        },
+        {
+          "zh": "用2000年收入／吨英里比率解释2009年收入，与用2008年比率相比，两者误差均不为零。页面附可运行计算与全部10行输入；这是事后诊断，不是当年作出的预测，也不能证明某项政策导致变化。",
+          "en": "Applying either the 2000 or 2008 revenue/ton-mile ratio to 2009 volume produces nonzero error. Runnable calculations and all ten inputs are attached. This is retrospective diagnosis, not a historical forecast or causal policy claim.",
+          "ko": "2000년 또는 2008년 수입/톤마일 비율을 2009년 물량에 적용해도 오차가 남습니다. 입력 10행과 실행 계산을 제공합니다. 사후 진단이며 당시 예측이나 정책 인과 증명이 아닙니다."
+        }
+      ]
+    },
+    {
+      "heading": {
+        "zh": "两条透明基线",
+        "en": "Two transparent baselines",
+        "ko": "투명한 기준선 두 가지"
+      },
+      "paragraphs": [
+        {
+          "zh": "以2009年真实运量乘以历史单位收入，得到事后收入估计。绝对百分比误差以2009年真实收入46,127百万美元为分母；这些估计不是预测。",
+          "en": "Multiply observed 2009 volume by historical unit revenue for a retrospective revenue estimate. Absolute percentage error divides by actual 2009 revenue of $46,127 million. These are not forecasts.",
+          "ko": "2009년 실제 수송량에 과거 단위 수입을 곱한 사후 추정입니다. 절대 백분율 오차의 분모는 실제 수입 46,127백만 달러입니다. 예측값은 아닙니다."
+        }
+      ],
+      "columns": [
+        {
+          "zh": "基线",
+          "en": "Baseline",
+          "ko": "기준선"
+        },
+        {
+          "zh": "2009收入估计／百万美元",
+          "en": "2009 revenue estimate / $m",
+          "ko": "2009 수입 추정 / 백만 달러"
+        },
+        {
+          "zh": "绝对百分比误差",
+          "en": "Absolute percentage error",
+          "ko": "절대 백분율 오차"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "2000年单位收入不变",
+            "en": "Fixed 2000 unit revenue",
+            "ko": "2000 단위 수입 고정"
+          },
+          "34578.18",
+          "25.04%"
+        ],
+        [
+          {
+            "zh": "延用2008年单位收入",
+            "en": "Carry 2008 unit revenue",
+            "ko": "2008 단위 수입 적용"
+          },
+          "51218.47",
+          "11.04%"
+        ]
+      ]
+    }
+  ],
+  "limitation": {
+    "zh": "BTS归档页发表于2012年；货币未作通胀调整，样本不是原研究的英国历史铁路，不包含Amtrak或非Class I铁路。资本、货种与运距构成仍缺，尚不能宣布三流模型完成。",
+    "en": "BTS archived page dated 2012; nominal dollars, US—not the original British—railways, excluding Amtrak and non-Class I railways. Missing capital and commodity/haul mix prevent a complete three-flow model.",
+    "ko": "2012년 BTS 보관 페이지의 명목 달러 자료입니다. 원 연구의 영국 철도나 Amtrak·비Class I를 포함하지 않습니다. 자본·화물 구성·운송거리 구성이 없어 삼류 모델 완료로 볼 수 없습니다."
+  },
+  "next": {
+    "zh": "补取同范围资本存量与价格平减资料；保留原10行后增加下一时段检验，不因事后结果改写基线。",
+    "en": "Obtain matched capital-stock and deflator series, then add a later test period without rewriting the original baseline.",
+    "ko": "동일 범위 자본스톡·디플레이터를 확보하고 원 기준을 바꾸지 않은 채 후속 기간을 검증합니다."
+  },
+  "sources": [
+    {
+      "id": "S1",
+      "title": "BTS · Rail Profile (archived)",
+      "url": "https://www.bts.gov/archive/publications/national_transportation_statistics/table_rail_profile",
+      "date": "2012-11-21; data 2000–2009",
+      "locator": {
+        "zh": "FINANCIAL / Class I / Freight；PERFORMANCE / Revenue ton-miles of freight；注a",
+        "en": "FINANCIAL: Class I Freight; PERFORMANCE: Revenue ton-miles of freight; footnote a",
+        "ko": "FINANCIAL Class I Freight; PERFORMANCE Revenue ton-miles of freight; 각주a"
+      }
+    }
+  ],
+  "attachments": [
+    {
+      "label": {
+        "zh": "可运行计算模块",
+        "en": "Runnable calculation module",
+        "ko": "실행 가능한 계산 모듈"
+      },
+      "path": "assets/rail-analysis.mjs"
+    }
+  ],
+  "railRows": [
+    {
+      "year": 2000,
+      "freightRevenueMillionUSD": 33083,
+      "tonMilesMillion": 1465960,
+      "capitalStock": null
+    },
+    {
+      "year": 2001,
+      "freightRevenueMillionUSD": 33533,
+      "tonMilesMillion": 1495472,
+      "capitalStock": null
+    },
+    {
+      "year": 2002,
+      "freightRevenueMillionUSD": 34110,
+      "tonMilesMillion": 1507011,
+      "capitalStock": null
+    },
+    {
+      "year": 2003,
+      "freightRevenueMillionUSD": 35413,
+      "tonMilesMillion": 1551438,
+      "capitalStock": null
+    },
+    {
+      "year": 2004,
+      "freightRevenueMillionUSD": 39131,
+      "tonMilesMillion": 1662598,
+      "capitalStock": null
+    },
+    {
+      "year": 2005,
+      "freightRevenueMillionUSD": 44457,
+      "tonMilesMillion": 1696425,
+      "capitalStock": null
+    },
+    {
+      "year": 2006,
+      "freightRevenueMillionUSD": 50315,
+      "tonMilesMillion": 1771897,
+      "capitalStock": null
+    },
+    {
+      "year": 2007,
+      "freightRevenueMillionUSD": 52932,
+      "tonMilesMillion": 1770545,
+      "capitalStock": null
+    },
+    {
+      "year": 2008,
+      "freightRevenueMillionUSD": 59409,
+      "tonMilesMillion": 1777236,
+      "capitalStock": null
+    },
+    {
+      "year": 2009,
+      "freightRevenueMillionUSD": 46127,
+      "tonMilesMillion": 1532214,
+      "capitalStock": null
+    }
+  ],
+  "citizenName": {
+    "zh": "数潮",
+    "en": "Chronometra",
+    "ko": "크로노메트라"
+  },
+  "date": "2026-09-15",
+  "version": 1,
+  "reviewStatus": "awaiting_review"
+}

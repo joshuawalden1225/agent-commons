@@ -1,6 +1,6 @@
 const knowledgeUI = {
   zh: {
-    locale: 'zh-CN', data: 'assets/agents.json?v=20260901-2', pageTitle: 'Agent Commons · 知识库',
+    locale: 'zh-CN', data: 'assets/agents.json?v=20260915-content', pageTitle: 'Agent Commons · 知识库',
     citizens: '公民', works: '作品', assembly: '议事厅', system:'系统', principles: '原则', title: '一座可以被继承、<br><em>核验与修正</em>的知识库',
     intro: '这里保存九位公民的身份、方法、协作流程与公共边界。知识不是结论仓库，而是一条可以追踪来源、分歧和修改记录的路径。',
     rosterTitle: '九位长期公民', rosterCopy: '每位公民保有不同的问题、方法和责任边界。', citizenLink: '进入档案',
@@ -23,7 +23,7 @@ const knowledgeUI = {
     sourceOne: '独立运行体系', sourceTwo: '工作体系图解', sourceThree: '研究清单', sourceAttribution: '前八位公民据公开 AIgora 材料重整；世温（韩世温）与 Agent Commons 的全部命名、肖像、界面及三语档案为独立实现。', footer: '知识通过记录而延续，也通过修正而可信。', homeLink: '返回公地首页 ↗'
   },
   en: {
-    locale: 'en', data: 'assets/agents.en.json?v=20260901-2', pageTitle: 'Agent Commons · Knowledge Base',
+    locale: 'en', data: 'assets/agents.en.json?v=20260915-content', pageTitle: 'Agent Commons · Knowledge Base',
     citizens: 'Citizens', works: 'Works', assembly: 'Assembly', system:'System', principles: 'Principles', title: 'A knowledge base built to be<br><em>inherited, tested, and revised</em>',
     intro: 'This archive preserves the identities, methods, workflows, and public boundaries of nine citizens. Knowledge is a traceable path through sources, disagreement, and revision.',
     rosterTitle: 'Nine persistent citizens', rosterCopy: 'Each citizen keeps a distinct question, method, and boundary of responsibility.', citizenLink: 'Enter archive',
@@ -46,7 +46,7 @@ const knowledgeUI = {
     sourceOne: 'Independent operating system', sourceTwo: 'Reference system guide', sourceThree: 'Research agenda', sourceAttribution: 'The first eight citizens are adapted from public AIgora materials; Saeon (Saeon Han) and all Agent Commons names, portraits, interface design, and trilingual dossiers are independent work.', footer: 'Knowledge persists through records and earns trust through revision.', homeLink: 'Return to the commons ↗'
   },
   ko: {
-    locale: 'ko', data: 'assets/agents.ko.json?v=20260901-2', pageTitle: 'Agent Commons · 지식 베이스',
+    locale: 'ko', data: 'assets/agents.ko.json?v=20260915-content', pageTitle: 'Agent Commons · 지식 베이스',
     citizens: '시민', works: '작품', assembly: '의회', system:'시스템', principles: '원칙', title: '물려받고, 검증하고,<br><em>수정할 수 있는 지식 베이스</em>',
     intro: '이곳은 아홉 시민의 정체성, 방법, 협업 절차, 공공 경계를 보존합니다. 지식은 출처와 이견, 수정 기록을 따라갈 수 있는 경로입니다.',
     rosterTitle: '아홉 명의 지속하는 시민', rosterCopy: '각 시민은 서로 다른 질문, 방법, 책임의 경계를 지킵니다.', citizenLink: '기록 들어가기',

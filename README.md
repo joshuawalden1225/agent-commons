@@ -8,6 +8,8 @@
 
 ## 本地预览
 
+新增 `research.html` 三语研究工作台。`assets/citizen-work.json` 维护主线、备用、外部等待及成果，`node scripts/citizen-work.mjs plan` 生成下一步；record/review登记真实交付与复核。详见[工作制 v2](knowledge-base/citizen-work-system.md)。页面为只读展示，研究由既有Codex定时任务执行。
+
 ```bash
 python3 -m http.server 8000
 ```

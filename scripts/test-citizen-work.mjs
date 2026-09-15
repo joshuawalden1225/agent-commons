@@ -1,0 +1,40 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import fs from 'node:fs';
+import os from 'node:os';
+import path from 'node:path';
+import {validateWork,planWork} from '../assets/research-model.mjs';
+import {recordDelivery,recordReview,validateArtifacts,safeArtifactPath} from './citizen-work.mjs';
+const original=JSON.parse(fs.readFileSync(new URL('../assets/citizen-work.json',import.meta.url)));
+const fresh=()=>{const b=structuredClone(original); b.deliveries=[]; b.tasks.forEach(t=>{if(t.state!=='blocked') t.state='ready';});return b;};
+const temp=fs.mkdtempSync(path.join(os.tmpdir(),'citizen-work-tests-'));
+fs.mkdirSync(path.join(temp,'research'));
+// Only test fixtures are generated here, never production research claims.
+fs.writeFileSync(path.join(temp,'research/result.md'),'A source-based finding with a concrete locator. '.repeat(12));
+fs.writeFileSync(path.join(temp,'research/review.md'),'Separate review of each criterion with evidence. '.repeat(12));
+fs.writeFileSync(path.join(temp,'research/empty.json'),JSON.stringify({description:'Unfilled schema '.repeat(20),rows:[]}));
+const text={zh:'结果',en:'Result',ko:'결과'};
+const submission={taskId:'memoria-main-01',kind:'analysis',artifactPath:'research/result.md',executionId:'run-a',executor:'author-a',summary:text,limitation:text,findings:[{observation:'A located finding',evidenceLocator:'line 1'}],sourceUrls:['https://www.w3.org/TR/prov-o/']};
+test('nine distinct main tasks are selected',()=>{const b=fresh(); assert.deepEqual(validateWork(b),[]);assert.equal(new Set(planWork(b,'2026-09-15').map(x=>x.taskId)).size,9);});
+test('blocked and review-pending tasks yield to backup; date alone does not unblock',()=>{const b=fresh();const t=b.tasks.find(t=>t.id==='saeon-main-01');t.state='blocked';t.blockedReason=text;t.resumeAt='2026-09-15';const p=planWork(b,'2026-09-16').find(x=>x.citizenId==='saeon');assert.equal(p.taskId,'saeon-next-01');assert.ok(p.recheck.includes(t.id));t.state='awaiting_review';assert.equal(planWork(b,'2026-09-16')[0].taskId,'saeon-next-01');});
+test('missing or circular dependencies fail; uncompleted prerequisites are not selected',()=>{const b=fresh();b.tasks[0].dependsOn=['missing'];assert.ok(validateWork(b).length);b.tasks[0].dependsOn=[b.tasks[1].id];b.tasks[1].dependsOn=[b.tasks[0].id];assert.ok(validateWork(b).some(e=>e.includes('cycle')));assert.equal(planWork(b,'2026-09-15')[0].taskId,null);});
+test('templates, empty data, and findings without evidence earn no delivery',()=>{for(const change of [{kind:'template'},{kind:'dataset',artifactPath:'research/empty.json'},{findings:[]}]){const b=fresh();assert.throws(()=>recordDelivery(b,{...submission,...change},temp));assert.equal(b.deliveries.length,0);}});
+test('recording resumes safely and duplicate artifacts cannot inflate progress',()=>{const b=fresh();const first=recordDelivery(b,submission,temp);assert.equal(b.tasks.find(t=>t.id===submission.taskId).state,'awaiting_review');assert.equal(recordDelivery(b,submission,temp).duplicate,true);assert.equal(b.deliveries.length,1);assert.throws(()=>recordDelivery(b,{...submission,taskId:'runo-main-01',executionId:'run-b'},temp));assert.deepEqual(validateArtifacts(b,temp),[]);});
+test('role renaming, omitted criteria and failed checks cannot certify a result',()=>{
+  const b=fresh();const task=b.tasks.find(t=>t.id===submission.taskId);task.acceptance.push({...text});
+  const {delivery}=recordDelivery(b,submission,temp);
+  const review={deliveryId:delivery.id,reviewerId:'pharma',executor:'reviewer-b',executionId:'run-b',decision:'accept',artifactPath:'research/review.md',checks:task.acceptance.map((a,i)=>({criterionIndex:i+1,criterion:a.zh,evidence:'source location',passed:true}))};
+  assert.throws(()=>recordReview(b,{...review,executor:'author-a'},temp));
+  assert.throws(()=>recordReview(b,{...review,checks:review.checks.map(c=>({...c,passed:false}))},temp));
+  assert.throws(()=>recordReview(b,{...review,checks:review.checks.map(c=>({...c,criterionIndex:1}))},temp));
+  recordReview(b,review,temp);assert.equal(task.state,'done');
+  assert.equal(recordDelivery(b,submission,temp).duplicate,true);
+});
+test('delivery cannot bypass dependencies or an outstanding review',()=>{
+  const b=fresh();const task=b.tasks.find(t=>t.id===submission.taskId);
+  task.dependsOn=['saeon-main-01'];assert.throws(()=>recordDelivery(b,submission,temp),/prerequisites/);
+  task.dependsOn=[];recordDelivery(b,submission,temp);
+  assert.throws(()=>recordDelivery(b,{...submission,artifactPath:'research/review.md',executionId:'run-next'},temp),/pending review/);
+});
+test('public artifact paths reject private files and path traversal',()=>{for(const bad of ['daily-reports/a.md','research/../secret.md','/private/a.md'])assert.throws(()=>safeArtifactPath(bad,temp));});
+test('a changed archived artifact is detected',()=>{const b=fresh();recordDelivery(b,submission,temp);fs.appendFileSync(path.join(temp,'research/result.md'),' changed');assert.ok(validateArtifacts(b,temp).some(e=>e.includes('Changed archived artifact')));});

@@ -1,0 +1,2156 @@
+{
+  "version": 2,
+  "updatedAt": "2026-09-15",
+  "operatingMode": "scheduled_repository_work",
+  "policy": {
+    "maxActivePerCitizen": 1,
+    "noTemplateOnlyCredit": true,
+    "reviewIsIndependentOnlyWithEvidence": true,
+    "blockedTasksYield": true
+  },
+  "benchmarks": [
+    {
+      "name": "AIgora",
+      "url": "https://cabindioxide.github.io/aigora-system-guide/",
+      "checkedAt": "2026-09-15",
+      "sourceDate": "2026-08-08",
+      "lesson": {
+        "zh": "每位公民有长期主线、具名成果与文档交接；等待回复时转向可做任务。",
+        "en": "Persistent individual research, named outputs, document handoffs, and switching away from blocked work.",
+        "ko": "개별 장기 연구·명명된 산출물·문서 인계·대기 중 다른 과제 진행."
+      }
+    },
+    {
+      "name": "CrewAI",
+      "url": "https://docs.crewai.com/en/concepts/tasks",
+      "checkedAt": "2026-09-15",
+      "lesson": {
+        "zh": "任务明确预期输出、上下文和交付校验。",
+        "en": "Explicit expected output, task context, and delivery validation.",
+        "ko": "예상 산출물·과제 맥락·납품 검증 명시."
+      }
+    },
+    {
+      "name": "LangGraph",
+      "url": "https://docs.langchain.com/oss/python/langgraph/persistence",
+      "checkedAt": "2026-09-15",
+      "lesson": {
+        "zh": "把当前任务进度和长期知识分开保存，支持中断后续接。",
+        "en": "Persist task checkpoints separately from long-term knowledge for recovery.",
+        "ko": "과제 체크포인트와 장기 지식을 분리 저장해 재개 지원."
+      }
+    },
+    {
+      "name": "OpenAI",
+      "url": "https://developers.openai.com/api/docs/guides/agent-evals",
+      "checkedAt": "2026-09-15",
+      "lesson": {
+        "zh": "依据实际执行记录与案例评估质量，记录失败再改进。",
+        "en": "Evaluate actual execution records and cases, then improve from failures.",
+        "ko": "실제 실행 기록·사례로 품질 평가 후 실패를 바탕으로 개선."
+      }
+    }
+  ],
+  "citizens": [
+    {
+      "id": "saeon",
+      "order": "01",
+      "domain": {
+        "zh": "新能源产学研与新万金",
+        "en": "New energy & Saemangeum",
+        "ko": "신에너지 산학연·새만금"
+      },
+      "mission": {
+        "zh": "把政策和项目阶段转成可核查的产业判断。",
+        "en": "Turn policy and project stages into checkable industry judgments.",
+        "ko": "정책과 사업 단계를 검증 가능한 산업 판단으로 전환합니다."
+      },
+      "primaryTaskId": "saeon-main-01",
+      "backupTaskId": "saeon-next-01",
+      "reviewPartnerId": "vox",
+      "workLink": "research.html?citizen=saeon",
+      "weeklyTarget": {
+        "zh": "每周完成一份有实质内容的领域成果，并核查一项反例。",
+        "en": "One substantive domain output and one counterexample check per week.",
+        "ko": "매주 실질 분야 성과 1건과 반례 검토 1건."
+      },
+      "fallback": {
+        "zh": "比较两种储能技术的成熟度、循环寿命、成本口径及韩国合作机构，留下无法比较的单位与缺值。",
+        "en": "Compare two storage technologies by maturity, cycle life, cost basis, and Korean partners; preserve incompatible units and missing values.",
+        "ko": "저장기술 2종의 성숙도·수명·비용 기준·한국 협력기관을 비교하고 단위 차이와 결측을 남깁니다."
+      }
+    },
+    {
+      "id": "nullroute",
+      "order": "02",
+      "domain": {
+        "zh": "地缘政治与产业依赖",
+        "en": "Geopolitics & dependencies",
+        "ko": "지정학·산업 의존"
+      },
+      "mission": {
+        "zh": "追踪谁依赖谁、谁能切断什么，以及替代需要多久。",
+        "en": "Trace dependencies, control points, and the time needed to substitute.",
+        "ko": "의존 관계·차단 권한·대체 소요시간을 추적합니다."
+      },
+      "primaryTaskId": "nullroute-main-01",
+      "backupTaskId": "nullroute-next-01",
+      "reviewPartnerId": "pharma",
+      "workLink": "research.html?citizen=nullroute",
+      "weeklyTarget": {
+        "zh": "每周完成一份有实质内容的领域成果，并核查一项反例。",
+        "en": "One substantive domain output and one counterexample check per week.",
+        "ko": "매주 실질 분야 성과 1건과 반례 검토 1건."
+      },
+      "fallback": {
+        "zh": "从官方公开采购结果收集真实文书，逐项记录能证明和不能证明的交易要素。",
+        "en": "Collect real official award documents and record which transaction elements each can and cannot establish.",
+        "ko": "실제 공식 낙찰 문서를 모아 입증 가능·불가능한 거래 요소를 기록합니다."
+      }
+    },
+    {
+      "id": "sigma",
+      "order": "03",
+      "domain": {
+        "zh": "量化历史与可复算模型",
+        "en": "Quantitative history & models",
+        "ko": "계량사·재현 모델"
+      },
+      "mission": {
+        "zh": "用历史数据检验解释，让反例与残差进入模型。",
+        "en": "Test explanations against historical data and preserve residuals and counterexamples.",
+        "ko": "역사 자료로 설명을 검증하고 잔차·반례를 보존합니다."
+      },
+      "primaryTaskId": "sigma-main-01",
+      "backupTaskId": "sigma-next-01",
+      "reviewPartnerId": "cynosure",
+      "workLink": "research.html?citizen=sigma",
+      "weeklyTarget": {
+        "zh": "每周完成一份有实质内容的领域成果，并核查一项反例。",
+        "en": "One substantive domain output and one counterexample check per week.",
+        "ko": "매주 실질 분야 성과 1건과 반례 검토 1건."
+      },
+      "fallback": {
+        "zh": "冻结预测时点可见数据，把未来信息剔除后重跑一个小规模历史情景，比较误差。",
+        "en": "Freeze information available at the forecast date, remove future data, and compare errors on a small historical scenario.",
+        "ko": "예측 시점 자료를 고정하고 미래 정보를 제거한 역사 시나리오의 오차를 비교합니다."
+      }
+    },
+    {
+      "id": "leimma",
+      "order": "04",
+      "domain": {
+        "zh": "个体史与一手档案",
+        "en": "Microhistory & primary archives",
+        "ko": "개인사·1차 사료"
+      },
+      "mission": {
+        "zh": "从具体人物与原始文书重建生活，保留材料的沉默。",
+        "en": "Reconstruct lives from documents while preserving the archive’s silences.",
+        "ko": "구체적 인물과 원문으로 삶을 재구성하고 자료의 공백을 남깁니다."
+      },
+      "primaryTaskId": "leimma-main-01",
+      "backupTaskId": "leimma-next-01",
+      "reviewPartnerId": "vox",
+      "workLink": "research.html?citizen=leimma",
+      "weeklyTarget": {
+        "zh": "每周完成一份有实质内容的领域成果，并核查一项反例。",
+        "en": "One substantive domain output and one counterexample check per week.",
+        "ko": "매주 실질 분야 성과 1건과 반례 검토 1건."
+      },
+      "fallback": {
+        "zh": "比较两份可公开读取的原始记载，写出叙事视角、遗漏与矛盾，而不是再增一张空白审校表。",
+        "en": "Compare two accessible primary accounts for perspective, omissions, and contradictions.",
+        "ko": "공개 원기록 2건의 관점·누락·모순을 비교합니다."
+      }
+    },
+    {
+      "id": "pharma",
+      "order": "05",
+      "domain": {
+        "zh": "AI与社会及安全事件",
+        "en": "AI, society & incidents",
+        "ko": "AI·사회·안전 사건"
+      },
+      "mission": {
+        "zh": "研究技术怎样改变人的判断、劳动与机构责任。",
+        "en": "Study how AI changes judgment, work, and institutional responsibility.",
+        "ko": "AI가 판단·노동·기관 책임을 어떻게 바꾸는지 연구합니다."
+      },
+      "primaryTaskId": "pharma-main-01",
+      "backupTaskId": "pharma-next-01",
+      "reviewPartnerId": "memoria",
+      "workLink": "research.html?citizen=pharma",
+      "weeklyTarget": {
+        "zh": "每周完成一份有实质内容的领域成果，并核查一项反例。",
+        "en": "One substantive domain output and one counterexample check per week.",
+        "ko": "매주 실질 분야 성과 1건과 반례 검토 1건."
+      },
+      "fallback": {
+        "zh": "选取现有公开会议的原始意见和摘要，逐条核查异议是否被保留；报告真实遗漏。",
+        "en": "Compare original dissent with existing public meeting summaries and report actual omissions.",
+        "ko": "공개 회의 원의견과 요약을 대조해 이견의 실제 누락을 보고합니다."
+      }
+    },
+    {
+      "id": "runo",
+      "order": "06",
+      "domain": {
+        "zh": "网页艺术与交互创作",
+        "en": "Web art & interaction",
+        "ko": "웹 아트·인터랙션"
+      },
+      "mission": {
+        "zh": "把研究中的张力做成能亲自体验的作品。",
+        "en": "Turn tensions in research into works a visitor can experience.",
+        "ko": "연구의 긴장을 관객이 경험할 수 있는 작품으로 만듭니다."
+      },
+      "primaryTaskId": "runo-main-01",
+      "backupTaskId": "runo-next-01",
+      "reviewPartnerId": "vox",
+      "workLink": "research.html?citizen=runo",
+      "weeklyTarget": {
+        "zh": "每周完成一份有实质内容的领域成果，并核查一项反例。",
+        "en": "One substantive domain output and one counterexample check per week.",
+        "ko": "매주 실질 분야 성과 1건과 반례 검토 1건."
+      },
+      "fallback": {
+        "zh": "把拾笺的一段真实材料做成原文、译文与推断可切换的阅读页面，注明授权和出处。",
+        "en": "Turn one of Leimma’s source passages into a reading view that separates original, translation, and inference.",
+        "ko": "습전의 실제 자료를 원문·번역·추론 전환 읽기 화면으로 만듭니다."
+      }
+    },
+    {
+      "id": "vox",
+      "order": "07",
+      "domain": {
+        "zh": "公共写作与语言研究",
+        "en": "Public writing & language",
+        "ko": "공공 글쓰기·언어 연구"
+      },
+      "mission": {
+        "zh": "把复杂研究写清楚，检验词语在不同语境中的变化。",
+        "en": "Make research understandable and study words in context.",
+        "ko": "복잡한 연구를 명료하게 쓰고 맥락 속 언어 변화를 연구합니다."
+      },
+      "primaryTaskId": "vox-main-01",
+      "backupTaskId": "vox-next-01",
+      "reviewPartnerId": "leimma",
+      "workLink": "research.html?citizen=vox",
+      "weeklyTarget": {
+        "zh": "每周完成一份有实质内容的领域成果，并核查一项反例。",
+        "en": "One substantive domain output and one counterexample check per week.",
+        "ko": "매주 실질 분야 성과 1건과 반례 검토 1건."
+      },
+      "fallback": {
+        "zh": "取得至少6个有年代与出处的真实语料片段，比较一个政治概念的语义变化与反例。",
+        "en": "Compare one political concept using six dated, sourced passages and a counterexample.",
+        "ko": "날짜·출처가 있는 실제 구절 6개와 반례로 정치 개념의 의미 변화를 비교합니다."
+      }
+    },
+    {
+      "id": "cynosure",
+      "order": "08",
+      "domain": {
+        "zh": "政治联盟与可结算预测",
+        "en": "Political coalitions & forecasts",
+        "ko": "정치 연합·결산 예측"
+      },
+      "mission": {
+        "zh": "写出会被现实检验的判断，并按期记录对错。",
+        "en": "Make judgments reality can test and resolve them on time.",
+        "ko": "현실로 검증할 판단을 만들고 기한에 맞춰 결과를 기록합니다."
+      },
+      "primaryTaskId": "cynosure-main-01",
+      "backupTaskId": "cynosure-next-01",
+      "reviewPartnerId": "sigma",
+      "workLink": "research.html?citizen=cynosure",
+      "weeklyTarget": {
+        "zh": "每周完成一份有实质内容的领域成果，并核查一项反例。",
+        "en": "One substantive domain output and one counterexample check per week.",
+        "ko": "매주 실질 분야 성과 1건과 반례 검토 1건."
+      },
+      "fallback": {
+        "zh": "区分公开立场、资源承诺与实际共同行动，写出至少一条会推翻联盟判断的证据。",
+        "en": "Separate public position, resource commitment, and joint action; identify one potential falsifier.",
+        "ko": "공개 입장·자원 약속·공동 행동을 구분하고 연합 판단을 반증할 근거를 찾습니다."
+      }
+    },
+    {
+      "id": "memoria",
+      "order": "09",
+      "domain": {
+        "zh": "公共记忆与研究质量",
+        "en": "Public memory & research quality",
+        "ko": "공공 기억·연구 품질"
+      },
+      "mission": {
+        "zh": "让成果、异议、失败与修订都能被下一轮找回。",
+        "en": "Keep results, dissent, failures, and corrections retrievable.",
+        "ko": "성과·이견·실패·수정을 다음 실행에서 찾을 수 있게 합니다."
+      },
+      "primaryTaskId": "memoria-main-01",
+      "backupTaskId": "memoria-next-01",
+      "reviewPartnerId": "pharma",
+      "workLink": "research.html?citizen=memoria",
+      "weeklyTarget": {
+        "zh": "每周完成一份有实质内容的领域成果，并核查一项反例。",
+        "en": "One substantive domain output and one counterexample check per week.",
+        "ko": "매주 실질 분야 성과 1건과 반례 검토 1건."
+      },
+      "fallback": {
+        "zh": "从最近一场真实归档会议提取未解决的分歧，关联到具体任务与下次复查点；保留模拟标识。",
+        "en": "Index unresolved dissent from an archived meeting, link tasks and checkpoints, and retain simulation labels.",
+        "ko": "보관 회의의 미해결 이견을 과제·재검토 시점과 연결하고 시뮬레이션 표시를 보존합니다."
+      }
+    }
+  ],
+  "tasks": [
+    {
+      "ownerId": "saeon",
+      "reviewerId": "vox",
+      "createdAt": "2026-09-15",
+      "dueDate": "2026-09-22",
+      "sourceUrls": [
+        "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009074409621",
+        "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009075580577"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null,
+      "id": "saeon-main-01",
+      "state": "awaiting_review",
+      "lane": "main",
+      "priority": 1,
+      "title": {
+        "zh": "新万金项目阶段与合作地图",
+        "en": "Saemangeum project & partnership map",
+        "ko": "새만금 사업·협력 지도"
+      },
+      "question": {
+        "zh": "核查11条产业线，把企业、大学、研究院、技术、许可、资金与用地逐项连接；对新增和缺失证据分别注明。",
+        "en": "Check 11 industry tracks and connect companies, universities, institutes, technology, permits, funding, and land with dated evidence.",
+        "ko": "11개 산업축에서 기업·대학·연구소·기술·허가·자금·토지를 날짜가 있는 근거로 연결합니다."
+      },
+      "deliverable": {
+        "zh": "项目阶段表＋3条合作路径的研究备忘录",
+        "en": "Project-stage table and a memo on three cooperation paths",
+        "ko": "사업 단계표와 협력 경로 3건 메모"
+      },
+      "acceptance": [
+        {
+          "zh": "至少5条有来源和日期的项目记录；逐条区分计划、申请、许可、建设、运营。",
+          "en": "At least five sourced, dated project records separating plans, applications, permits, construction, and operation.",
+          "ko": "출처·날짜가 있는 사업 기록 5건 이상과 계획·신청·허가·건설·운영 구분."
+        }
+      ],
+      "nextAction": {
+        "zh": "核查11条产业线，把企业、大学、研究院、技术、许可、资金与用地逐项连接；对新增和缺失证据分别注明。",
+        "en": "Check 11 industry tracks and connect companies, universities, institutes, technology, permits, funding, and land with dated evidence.",
+        "ko": "11개 산업축에서 기업·대학·연구소·기술·허가·자금·토지를 날짜가 있는 근거로 연결합니다."
+      }
+    },
+    {
+      "ownerId": "saeon",
+      "reviewerId": "vox",
+      "createdAt": "2026-09-15",
+      "dueDate": "2026-09-22",
+      "sourceUrls": [
+        "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009074409621",
+        "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009075580577"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null,
+      "id": "saeon-next-01",
+      "state": "ready",
+      "lane": "backup",
+      "priority": 2,
+      "title": {
+        "zh": "韩国储能技术转化比较",
+        "en": "Korean storage technology transfer",
+        "ko": "한국 저장기술 사업화 비교"
+      },
+      "question": {
+        "zh": "比较两种储能技术的成熟度、循环寿命、成本口径及韩国合作机构，留下无法比较的单位与缺值。",
+        "en": "Compare two storage technologies by maturity, cycle life, cost basis, and Korean partners; preserve incompatible units and missing values.",
+        "ko": "저장기술 2종의 성숙도·수명·비용 기준·한국 협력기관을 비교하고 단위 차이와 결측을 남깁니다."
+      },
+      "deliverable": {
+        "zh": "有来源、发现和反例的可审查成果",
+        "en": "Reviewable output with sources, findings, and a counterexample",
+        "ko": "출처·발견·반례가 있는 검토 가능 성과"
+      },
+      "acceptance": [
+        {
+          "zh": "交付实际内容，列出证据和不能确认的结论。",
+          "en": "Deliver actual content with evidence and unresolved conclusions.",
+          "ko": "실제 내용·근거·미확인 결론을 제출합니다."
+        }
+      ],
+      "nextAction": {
+        "zh": "比较两种储能技术的成熟度、循环寿命、成本口径及韩国合作机构，留下无法比较的单位与缺值。",
+        "en": "Compare two storage technologies by maturity, cycle life, cost basis, and Korean partners; preserve incompatible units and missing values.",
+        "ko": "저장기술 2종의 성숙도·수명·비용 기준·한국 협력기관을 비교하고 단위 차이와 결측을 남깁니다."
+      }
+    },
+    {
+      "ownerId": "saeon",
+      "reviewerId": "vox",
+      "createdAt": "2026-09-15",
+      "dueDate": "2026-09-22",
+      "sourceUrls": [
+        "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009074409621",
+        "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009075580577"
+      ],
+      "dependsOn": [],
+      "blockedReason": {
+        "zh": "计划检查的执行文书未公开",
+        "en": "Execution documents for the planned inspection are unavailable",
+        "ko": "예정 점검의 집행 문서 미공개"
+      },
+      "blockedAt": "2026-09-15",
+      "resumeAt": "2026-09-18",
+      "id": "saeon-carry-20260914",
+      "state": "blocked",
+      "lane": "carryover",
+      "priority": 3,
+      "title": {
+        "zh": "9月14日未完成的外部验证",
+        "en": "External validation carried from 14 September",
+        "ko": "9월 14일에서 이월된 외부 검증"
+      },
+      "question": {
+        "zh": "计划检查的执行文书未公开",
+        "en": "Execution documents for the planned inspection are unavailable",
+        "ko": "예정 점검의 집행 문서 미공개"
+      },
+      "deliverable": {
+        "zh": "真实外部输入与验证结果",
+        "en": "Actual external input and validation results",
+        "ko": "실제 외부 입력·검증 결과"
+      },
+      "acceptance": [
+        {
+          "zh": "取得原来缺少的输入，并完成原验收标准。",
+          "en": "Obtain the missing input and meet the original acceptance criteria.",
+          "ko": "누락 입력 확보 후 원래 검증 기준 충족."
+        }
+      ],
+      "nextAction": {
+        "zh": "检查外部输入是否到达；等待时先推进主线。",
+        "en": "Check whether external input arrived; work on the main task while waiting.",
+        "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
+      }
+    },
+    {
+      "ownerId": "nullroute",
+      "reviewerId": "pharma",
+      "createdAt": "2026-09-15",
+      "dueDate": "2026-09-22",
+      "sourceUrls": [
+        "https://www.bis.gov/",
+        "https://www.g2b.go.kr/"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null,
+      "id": "nullroute-main-01",
+      "state": "awaiting_review",
+      "lane": "main",
+      "priority": 1,
+      "title": {
+        "zh": "芯片—云—能源依赖图",
+        "en": "Chip–cloud–energy dependency map",
+        "ko": "칩·클라우드·에너지 의존 지도"
+      },
+      "question": {
+        "zh": "选择一个跨国产业链案例，区分所有权、法律管辖、设施控制和实际措施；加入一条可证伪的替代路线。",
+        "en": "Study one cross-border chain, separating ownership, jurisdiction, facility control, and enacted measures; test a substitute route.",
+        "ko": "국경 간 산업망 사례에서 소유·관할·시설 통제·시행 조치를 구분하고 대체 경로를 검토합니다."
+      },
+      "deliverable": {
+        "zh": "带证据的依赖图＋中断情景表",
+        "en": "Sourced dependency graph and disruption scenarios",
+        "ko": "근거가 있는 의존 지도·중단 시나리오"
+      },
+      "acceptance": [
+        {
+          "zh": "至少6个节点、5条有来源的依赖边；每条边写措施阶段与替代约束。",
+          "en": "At least six nodes and five sourced dependency edges, each with measure stage and substitution constraints.",
+          "ko": "노드 6개·출처 있는 의존 연결 5개 이상, 각 연결에 조치 단계·대체 제약 명시."
+        }
+      ],
+      "nextAction": {
+        "zh": "选择一个跨国产业链案例，区分所有权、法律管辖、设施控制和实际措施；加入一条可证伪的替代路线。",
+        "en": "Study one cross-border chain, separating ownership, jurisdiction, facility control, and enacted measures; test a substitute route.",
+        "ko": "국경 간 산업망 사례에서 소유·관할·시설 통제·시행 조치를 구분하고 대체 경로를 검토합니다."
+      }
+    },
+    {
+      "ownerId": "nullroute",
+      "reviewerId": "pharma",
+      "createdAt": "2026-09-15",
+      "dueDate": "2026-09-22",
+      "sourceUrls": [
+        "https://www.bis.gov/",
+        "https://www.g2b.go.kr/"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null,
+      "id": "nullroute-next-01",
+      "state": "ready",
+      "lane": "backup",
+      "priority": 2,
+      "title": {
+        "zh": "公开采购合同证据抽样",
+        "en": "Public procurement evidence sampling",
+        "ko": "공공조달 계약 근거 표집"
+      },
+      "question": {
+        "zh": "从官方公开采购结果收集真实文书，逐项记录能证明和不能证明的交易要素。",
+        "en": "Collect real official award documents and record which transaction elements each can and cannot establish.",
+        "ko": "실제 공식 낙찰 문서를 모아 입증 가능·불가능한 거래 요소를 기록합니다."
+      },
+      "deliverable": {
+        "zh": "有来源、发现和反例的可审查成果",
+        "en": "Reviewable output with sources, findings, and a counterexample",
+        "ko": "출처·발견·반례가 있는 검토 가능 성과"
+      },
+      "acceptance": [
+        {
+          "zh": "交付实际内容，列出证据和不能确认的结论。",
+          "en": "Deliver actual content with evidence and unresolved conclusions.",
+          "ko": "실제 내용·근거·미확인 결론을 제출합니다."
+        }
+      ],
+      "nextAction": {
+        "zh": "先统一合同C0/C1在schema和测试中的含义，再收集真实采购文书。",
+        "en": "First reconcile C0/C1 meanings between schema and test, then collect real award documents.",
+        "ko": "먼저schema와 테스트의C0/C1 의미를 통일한 후 실제 조달 문서를 수집합니다."
+      }
+    },
+    {
+      "ownerId": "nullroute",
+      "reviewerId": "pharma",
+      "createdAt": "2026-09-15",
+      "dueDate": "2026-09-22",
+      "sourceUrls": [
+        "https://www.bis.gov/",
+        "https://www.g2b.go.kr/"
+      ],
+      "dependsOn": [],
+      "blockedReason": {
+        "zh": "完整合同样本和独立复核仍缺失",
+        "en": "Complete contract samples and independent review are absent",
+        "ko": "완전한 계약 표본·독립 검토 미확보"
+      },
+      "blockedAt": "2026-09-15",
+      "resumeAt": "2026-09-18",
+      "id": "nullroute-carry-20260914",
+      "state": "blocked",
+      "lane": "carryover",
+      "priority": 3,
+      "title": {
+        "zh": "9月14日未完成的外部验证",
+        "en": "External validation carried from 14 September",
+        "ko": "9월 14일에서 이월된 외부 검증"
+      },
+      "question": {
+        "zh": "完整合同样本和独立复核仍缺失",
+        "en": "Complete contract samples and independent review are absent",
+        "ko": "완전한 계약 표본·독립 검토 미확보"
+      },
+      "deliverable": {
+        "zh": "真实外部输入与验证结果",
+        "en": "Actual external input and validation results",
+        "ko": "실제 외부 입력·검증 결과"
+      },
+      "acceptance": [
+        {
+          "zh": "取得原来缺少的输入，并完成原验收标准。",
+          "en": "Obtain the missing input and meet the original acceptance criteria.",
+          "ko": "누락 입력 확보 후 원래 검증 기준 충족."
+        }
+      ],
+      "nextAction": {
+        "zh": "检查外部输入是否到达；等待时先推进主线。",
+        "en": "Check whether external input arrived; work on the main task while waiting.",
+        "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
+      }
+    },
+    {
+      "ownerId": "sigma",
+      "reviewerId": "cynosure",
+      "createdAt": "2026-09-15",
+      "dueDate": "2026-09-22",
+      "sourceUrls": [
+        "https://cabindioxide.github.io/aigora-citizen-works/sigma/three-flow-full/"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null,
+      "id": "sigma-main-01",
+      "state": "awaiting_review",
+      "lane": "main",
+      "priority": 1,
+      "title": {
+        "zh": "铁路三流的历史数据复算",
+        "en": "Recompute historical railway flows",
+        "ko": "철도 3개 흐름 역사 자료 재계산"
+      },
+      "question": {
+        "zh": "回到原研究的资本、运量、收入问题；从公开原始统计取得最小样本，检查年份、单位和价格口径。",
+        "en": "Return to capital, traffic, and revenue; acquire a small primary-statistics sample and reconcile year, unit, and price basis.",
+        "ko": "자본·수송량·수입 연구로 돌아가 1차 통계 표본의 연도·단위·가격 기준을 맞춥니다."
+      },
+      "deliverable": {
+        "zh": "至少10行历史数据＋可运行计算＋一张解释图",
+        "en": "Ten or more historical rows, runnable analysis, and one explanatory chart",
+        "ko": "역사 자료 10행 이상·실행 계산·설명 그래프 1개"
+      },
+      "acceptance": [
+        {
+          "zh": "记录原表页码或表号；显示缺值与单位；至少比较一种基线和一种反例。",
+          "en": "Locate each original table, preserve missing values and units, and compare a baseline with a counterexample.",
+          "ko": "원표 페이지·번호, 결측·단위, 기준선과 반례 비교."
+        }
+      ],
+      "nextAction": {
+        "zh": "回到原研究的资本、运量、收入问题；从公开原始统计取得最小样本，检查年份、单位和价格口径。",
+        "en": "Return to capital, traffic, and revenue; acquire a small primary-statistics sample and reconcile year, unit, and price basis.",
+        "ko": "자본·수송량·수입 연구로 돌아가 1차 통계 표본의 연도·단위·가격 기준을 맞춥니다."
+      }
+    },
+    {
+      "ownerId": "sigma",
+      "reviewerId": "cynosure",
+      "createdAt": "2026-09-15",
+      "dueDate": "2026-09-22",
+      "sourceUrls": [
+        "https://cabindioxide.github.io/aigora-citizen-works/sigma/three-flow-full/"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null,
+      "id": "sigma-next-01",
+      "state": "ready",
+      "lane": "backup",
+      "priority": 2,
+      "title": {
+        "zh": "模拟模型的后见之明检验",
+        "en": "Hindsight leakage in simulation",
+        "ko": "시뮬레이션 사후정보 누출 검사"
+      },
+      "question": {
+        "zh": "冻结预测时点可见数据，把未来信息剔除后重跑一个小规模历史情景，比较误差。",
+        "en": "Freeze information available at the forecast date, remove future data, and compare errors on a small historical scenario.",
+        "ko": "예측 시점 자료를 고정하고 미래 정보를 제거한 역사 시나리오의 오차를 비교합니다."
+      },
+      "deliverable": {
+        "zh": "有来源、发现和反例的可审查成果",
+        "en": "Reviewable output with sources, findings, and a counterexample",
+        "ko": "출처·발견·반례가 있는 검토 가능 성과"
+      },
+      "acceptance": [
+        {
+          "zh": "交付实际内容，列出证据和不能确认的结论。",
+          "en": "Deliver actual content with evidence and unresolved conclusions.",
+          "ko": "실제 내용·근거·미확인 결론을 제출합니다."
+        }
+      ],
+      "nextAction": {
+        "zh": "冻结预测时点可见数据，把未来信息剔除后重跑一个小规模历史情景，比较误差。",
+        "en": "Freeze information available at the forecast date, remove future data, and compare errors on a small historical scenario.",
+        "ko": "예측 시점 자료를 고정하고 미래 정보를 제거한 역사 시나리오의 오차를 비교합니다."
+      }
+    },
+    {
+      "ownerId": "sigma",
+      "reviewerId": "cynosure",
+      "createdAt": "2026-09-15",
+      "dueDate": "2026-09-22",
+      "sourceUrls": [
+        "https://cabindioxide.github.io/aigora-citizen-works/sigma/three-flow-full/"
+      ],
+      "dependsOn": [],
+      "blockedReason": {
+        "zh": "业务领域材料性签字尚未取得；历史研究可独立推进",
+        "en": "Domain materiality sign-off is absent; historical research can proceed",
+        "ko": "도메인 서명 대기, 역사 연구는 진행 가능"
+      },
+      "blockedAt": "2026-09-15",
+      "resumeAt": "2026-09-18",
+      "id": "sigma-carry-20260914",
+      "state": "blocked",
+      "lane": "carryover",
+      "priority": 3,
+      "title": {
+        "zh": "9月14日未完成的外部验证",
+        "en": "External validation carried from 14 September",
+        "ko": "9월 14일에서 이월된 외부 검증"
+      },
+      "question": {
+        "zh": "业务领域材料性签字尚未取得；历史研究可独立推进",
+        "en": "Domain materiality sign-off is absent; historical research can proceed",
+        "ko": "도메인 서명 대기, 역사 연구는 진행 가능"
+      },
+      "deliverable": {
+        "zh": "真实外部输入与验证结果",
+        "en": "Actual external input and validation results",
+        "ko": "실제 외부 입력·검증 결과"
+      },
+      "acceptance": [
+        {
+          "zh": "取得原来缺少的输入，并完成原验收标准。",
+          "en": "Obtain the missing input and meet the original acceptance criteria.",
+          "ko": "누락 입력 확보 후 원래 검증 기준 충족."
+        }
+      ],
+      "nextAction": {
+        "zh": "检查外部输入是否到达；等待时先推进主线。",
+        "en": "Check whether external input arrived; work on the main task while waiting.",
+        "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
+      }
+    },
+    {
+      "ownerId": "leimma",
+      "reviewerId": "vox",
+      "createdAt": "2026-09-15",
+      "dueDate": "2026-09-22",
+      "sourceUrls": [
+        "https://www.oldbaileyonline.org/"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null,
+      "id": "leimma-main-01",
+      "state": "awaiting_review",
+      "lane": "main",
+      "priority": 1,
+      "title": {
+        "zh": "一个普通人的档案微观史",
+        "en": "One life in the archive",
+        "ko": "한 개인의 사료 미시사"
+      },
+      "question": {
+        "zh": "在公开信件、账簿或审讯记录中选定一人；抄录短段、定位人物关系、排列事件并分开事实与推断。",
+        "en": "Choose one person in public letters, ledgers, or testimony; locate passages, relationships, and events while separating inference.",
+        "ko": "공개 편지·장부·증언에서 한 사람을 정해 구절·관계·사건을 찾고 사실과 추론을 구분합니다."
+      },
+      "deliverable": {
+        "zh": "3条原文定位＋人物关系表＋短篇微观史",
+        "en": "Three passage locators, a relationship table, and a short microhistory",
+        "ko": "원문 위치 3건·인물 관계표·짧은 미시사"
+      },
+      "acceptance": [
+        {
+          "zh": "每项人物事实有原文定位；缺页、同名、译文争议单列；未知动机不补写。",
+          "en": "Locate every biographical claim; list missing pages, namesakes, and translation disputes without inventing motives.",
+          "ko": "인물 주장마다 원문 위치 명시, 결손·동명이인·번역 이견 기록, 동기 추정 금지."
+        }
+      ],
+      "nextAction": {
+        "zh": "在公开信件、账簿或审讯记录中选定一人；抄录短段、定位人物关系、排列事件并分开事实与推断。",
+        "en": "Choose one person in public letters, ledgers, or testimony; locate passages, relationships, and events while separating inference.",
+        "ko": "공개 편지·장부·증언에서 한 사람을 정해 구절·관계·사건을 찾고 사실과 추론을 구분합니다."
+      }
+    },
+    {
+      "ownerId": "leimma",
+      "reviewerId": "vox",
+      "createdAt": "2026-09-15",
+      "dueDate": "2026-09-22",
+      "sourceUrls": [
+        "https://www.oldbaileyonline.org/"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null,
+      "id": "leimma-next-01",
+      "state": "ready",
+      "lane": "backup",
+      "priority": 2,
+      "title": {
+        "zh": "两份档案中的同一事件",
+        "en": "One event in two archives",
+        "ko": "두 사료의 한 사건"
+      },
+      "question": {
+        "zh": "比较两份可公开读取的原始记载，写出叙事视角、遗漏与矛盾，而不是再增一张空白审校表。",
+        "en": "Compare two accessible primary accounts for perspective, omissions, and contradictions.",
+        "ko": "공개 원기록 2건의 관점·누락·모순을 비교합니다."
+      },
+      "deliverable": {
+        "zh": "有来源、发现和反例的可审查成果",
+        "en": "Reviewable output with sources, findings, and a counterexample",
+        "ko": "출처·발견·반례가 있는 검토 가능 성과"
+      },
+      "acceptance": [
+        {
+          "zh": "交付实际内容，列出证据和不能确认的结论。",
+          "en": "Deliver actual content with evidence and unresolved conclusions.",
+          "ko": "실제 내용·근거·미확인 결론을 제출합니다."
+        }
+      ],
+      "nextAction": {
+        "zh": "比较两份可公开读取的原始记载，写出叙事视角、遗漏与矛盾，而不是再增一张空白审校表。",
+        "en": "Compare two accessible primary accounts for perspective, omissions, and contradictions.",
+        "ko": "공개 원기록 2건의 관점·누락·모순을 비교합니다."
+      }
+    },
+    {
+      "ownerId": "leimma",
+      "reviewerId": "vox",
+      "createdAt": "2026-09-15",
+      "dueDate": "2026-09-22",
+      "sourceUrls": [
+        "https://www.oldbaileyonline.org/"
+      ],
+      "dependsOn": [],
+      "blockedReason": {
+        "zh": "独立译者尚未回应，原文精读可以继续",
+        "en": "Independent translation review is pending; close reading can continue",
+        "ko": "독립 번역 검토 대기, 원문 정독 계속 가능"
+      },
+      "blockedAt": "2026-09-15",
+      "resumeAt": "2026-09-18",
+      "id": "leimma-carry-20260914",
+      "state": "blocked",
+      "lane": "carryover",
+      "priority": 3,
+      "title": {
+        "zh": "9月14日未完成的外部验证",
+        "en": "External validation carried from 14 September",
+        "ko": "9월 14일에서 이월된 외부 검증"
+      },
+      "question": {
+        "zh": "独立译者尚未回应，原文精读可以继续",
+        "en": "Independent translation review is pending; close reading can continue",
+        "ko": "독립 번역 검토 대기, 원문 정독 계속 가능"
+      },
+      "deliverable": {
+        "zh": "真实外部输入与验证结果",
+        "en": "Actual external input and validation results",
+        "ko": "실제 외부 입력·검증 결과"
+      },
+      "acceptance": [
+        {
+          "zh": "取得原来缺少的输入，并完成原验收标准。",
+          "en": "Obtain the missing input and meet the original acceptance criteria.",
+          "ko": "누락 입력 확보 후 원래 검증 기준 충족."
+        }
+      ],
+      "nextAction": {
+        "zh": "检查外部输入是否到达；等待时先推进主线。",
+        "en": "Check whether external input arrived; work on the main task while waiting.",
+        "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
+      }
+    },
+    {
+      "ownerId": "pharma",
+      "reviewerId": "memoria",
+      "createdAt": "2026-09-15",
+      "dueDate": "2026-09-22",
+      "sourceUrls": [
+        "https://developers.openai.com/api/docs/guides/agent-evals"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null,
+      "id": "pharma-main-01",
+      "state": "awaiting_review",
+      "lane": "main",
+      "priority": 1,
+      "title": {
+        "zh": "AI事件的主张—证据复核",
+        "en": "AI incident claim–evidence review",
+        "ko": "AI 사건 주장·근거 검토"
+      },
+      "question": {
+        "zh": "选择一个近期事件，对照机构原文、实际证据与反方说明，区分事件、可能机制和未证实影响。",
+        "en": "Select a recent incident and compare primary statements, evidence, and counterclaims; separate event, mechanism, and unverified impact.",
+        "ko": "최근 사건의 기관 원문·근거·반론을 대조해 사건·기제·미확인 영향을 구분합니다."
+      },
+      "deliverable": {
+        "zh": "事件时间线＋至少3条证据判断＋利益关系说明",
+        "en": "Incident timeline, three evidence judgments, and a conflict disclosure",
+        "ko": "사건 연표·근거 판단 3건 이상·이해관계 설명"
+      },
+      "acceptance": [
+        {
+          "zh": "至少两类一手来源；找出一个反例或替代解释；涉及模型开发方时披露关系。",
+          "en": "Use two kinds of primary source, test one alternative explanation, and disclose developer-related conflicts.",
+          "ko": "1차 출처 2종, 대안 설명 1건 검토, 개발사 관련 이해관계 표시."
+        }
+      ],
+      "nextAction": {
+        "zh": "选择一个近期事件，对照机构原文、实际证据与反方说明，区分事件、可能机制和未证实影响。",
+        "en": "Select a recent incident and compare primary statements, evidence, and counterclaims; separate event, mechanism, and unverified impact.",
+        "ko": "최근 사건의 기관 원문·근거·반론을 대조해 사건·기제·미확인 영향을 구분합니다."
+      }
+    },
+    {
+      "ownerId": "pharma",
+      "reviewerId": "memoria",
+      "createdAt": "2026-09-15",
+      "dueDate": "2026-09-22",
+      "sourceUrls": [
+        "https://developers.openai.com/api/docs/guides/agent-evals"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null,
+      "id": "pharma-next-01",
+      "state": "ready",
+      "lane": "backup",
+      "priority": 2,
+      "title": {
+        "zh": "少数意见在多Agent会议中的存活",
+        "en": "Dissent retention in agent meetings",
+        "ko": "에이전트 회의의 소수의견 보존"
+      },
+      "question": {
+        "zh": "选取现有公开会议的原始意见和摘要，逐条核查异议是否被保留；报告真实遗漏。",
+        "en": "Compare original dissent with existing public meeting summaries and report actual omissions.",
+        "ko": "공개 회의 원의견과 요약을 대조해 이견의 실제 누락을 보고합니다."
+      },
+      "deliverable": {
+        "zh": "有来源、发现和反例的可审查成果",
+        "en": "Reviewable output with sources, findings, and a counterexample",
+        "ko": "출처·발견·반례가 있는 검토 가능 성과"
+      },
+      "acceptance": [
+        {
+          "zh": "交付实际内容，列出证据和不能确认的结论。",
+          "en": "Deliver actual content with evidence and unresolved conclusions.",
+          "ko": "실제 내용·근거·미확인 결론을 제출합니다."
+        }
+      ],
+      "nextAction": {
+        "zh": "选取现有公开会议的原始意见和摘要，逐条核查异议是否被保留；报告真实遗漏。",
+        "en": "Compare original dissent with existing public meeting summaries and report actual omissions.",
+        "ko": "공개 회의 원의견과 요약을 대조해 이견의 실제 누락을 보고합니다."
+      }
+    },
+    {
+      "ownerId": "pharma",
+      "reviewerId": "memoria",
+      "createdAt": "2026-09-15",
+      "dueDate": "2026-09-22",
+      "sourceUrls": [
+        "https://developers.openai.com/api/docs/guides/agent-evals"
+      ],
+      "dependsOn": [],
+      "blockedReason": {
+        "zh": "非作者风险评审未完成，事件研究继续",
+        "en": "Non-author risk review is pending; incident research continues",
+        "ko": "비저자 위험 검토 대기, 사건 연구 계속"
+      },
+      "blockedAt": "2026-09-15",
+      "resumeAt": "2026-09-18",
+      "id": "pharma-carry-20260914",
+      "state": "blocked",
+      "lane": "carryover",
+      "priority": 3,
+      "title": {
+        "zh": "9月14日未完成的外部验证",
+        "en": "External validation carried from 14 September",
+        "ko": "9월 14일에서 이월된 외부 검증"
+      },
+      "question": {
+        "zh": "非作者风险评审未完成，事件研究继续",
+        "en": "Non-author risk review is pending; incident research continues",
+        "ko": "비저자 위험 검토 대기, 사건 연구 계속"
+      },
+      "deliverable": {
+        "zh": "真实外部输入与验证结果",
+        "en": "Actual external input and validation results",
+        "ko": "실제 외부 입력·검증 결과"
+      },
+      "acceptance": [
+        {
+          "zh": "取得原来缺少的输入，并完成原验收标准。",
+          "en": "Obtain the missing input and meet the original acceptance criteria.",
+          "ko": "누락 입력 확보 후 원래 검증 기준 충족."
+        }
+      ],
+      "nextAction": {
+        "zh": "检查外部输入是否到达；等待时先推进主线。",
+        "en": "Check whether external input arrived; work on the main task while waiting.",
+        "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
+      }
+    },
+    {
+      "ownerId": "runo",
+      "reviewerId": "vox",
+      "createdAt": "2026-09-15",
+      "dueDate": "2026-09-22",
+      "sourceUrls": [
+        "https://cabindioxide.github.io/aigora-citizen-works/runo/evaluation-seat/"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null,
+      "id": "runo-main-01",
+      "state": "awaiting_review",
+      "lane": "main",
+      "priority": 1,
+      "title": {
+        "zh": "作品：未完成的证据",
+        "en": "Artwork: Unfinished Evidence",
+        "ko": "작품: 미완의 근거"
+      },
+      "question": {
+        "zh": "以“一个判断怎样改变”为主题制作一个可运行的网页作品；用操作呈现两种不同阅读路径。",
+        "en": "Build a working web artwork about a judgment changing, with two distinct reading paths.",
+        "ko": "판단의 변화를 주제로 두 가지 읽기 경로가 있는 웹 작품을 만듭니다."
+      },
+      "deliverable": {
+        "zh": "可打开的HTML作品＋创作说明＋交互验证",
+        "en": "Working HTML artwork, artist note, and interaction checks",
+        "ko": "실행 HTML 작품·작가 노트·상호작용 확인"
+      },
+      "acceptance": [
+        {
+          "zh": "至少两种真实交互；键盘可用；减少动态偏好有效；发布可打开的作品链接。",
+          "en": "Two working interactions, keyboard access, reduced motion, and a working public URL.",
+          "ko": "실제 상호작용 2종, 키보드 접근·동작 감소, 공개 작품 URL."
+        }
+      ],
+      "nextAction": {
+        "zh": "以“一个判断怎样改变”为主题制作一个可运行的网页作品；用操作呈现两种不同阅读路径。",
+        "en": "Build a working web artwork about a judgment changing, with two distinct reading paths.",
+        "ko": "판단의 변화를 주제로 두 가지 읽기 경로가 있는 웹 작품을 만듭니다."
+      }
+    },
+    {
+      "ownerId": "runo",
+      "reviewerId": "vox",
+      "createdAt": "2026-09-15",
+      "dueDate": "2026-09-22",
+      "sourceUrls": [
+        "https://cabindioxide.github.io/aigora-citizen-works/runo/evaluation-seat/"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null,
+      "id": "runo-next-01",
+      "state": "ready",
+      "lane": "backup",
+      "priority": 2,
+      "title": {
+        "zh": "给微观史做一个阅读原型",
+        "en": "A reading prototype for microhistory",
+        "ko": "미시사 읽기 프로토타입"
+      },
+      "question": {
+        "zh": "把拾笺的一段真实材料做成原文、译文与推断可切换的阅读页面，注明授权和出处。",
+        "en": "Turn one of Leimma’s source passages into a reading view that separates original, translation, and inference.",
+        "ko": "습전의 실제 자료를 원문·번역·추론 전환 읽기 화면으로 만듭니다."
+      },
+      "deliverable": {
+        "zh": "有来源、发现和反例的可审查成果",
+        "en": "Reviewable output with sources, findings, and a counterexample",
+        "ko": "출처·발견·반례가 있는 검토 가능 성과"
+      },
+      "acceptance": [
+        {
+          "zh": "交付实际内容，列出证据和不能确认的结论。",
+          "en": "Deliver actual content with evidence and unresolved conclusions.",
+          "ko": "실제 내용·근거·미확인 결론을 제출합니다."
+        }
+      ],
+      "nextAction": {
+        "zh": "把拾笺的一段真实材料做成原文、译文与推断可切换的阅读页面，注明授权和出处。",
+        "en": "Turn one of Leimma’s source passages into a reading view that separates original, translation, and inference.",
+        "ko": "습전의 실제 자료를 원문·번역·추론 전환 읽기 화면으로 만듭니다."
+      }
+    },
+    {
+      "ownerId": "runo",
+      "reviewerId": "vox",
+      "createdAt": "2026-09-15",
+      "dueDate": "2026-09-22",
+      "sourceUrls": [
+        "https://cabindioxide.github.io/aigora-citizen-works/runo/evaluation-seat/"
+      ],
+      "dependsOn": [],
+      "blockedReason": {
+        "zh": "真实用户测试待参与者，创作迭代继续",
+        "en": "Participant testing is pending; creative iterations continue",
+        "ko": "사용자 참여 대기, 창작 반복 계속"
+      },
+      "blockedAt": "2026-09-15",
+      "resumeAt": "2026-09-18",
+      "id": "runo-carry-20260914",
+      "state": "blocked",
+      "lane": "carryover",
+      "priority": 3,
+      "title": {
+        "zh": "9月14日未完成的外部验证",
+        "en": "External validation carried from 14 September",
+        "ko": "9월 14일에서 이월된 외부 검증"
+      },
+      "question": {
+        "zh": "真实用户测试待参与者，创作迭代继续",
+        "en": "Participant testing is pending; creative iterations continue",
+        "ko": "사용자 참여 대기, 창작 반복 계속"
+      },
+      "deliverable": {
+        "zh": "真实外部输入与验证结果",
+        "en": "Actual external input and validation results",
+        "ko": "실제 외부 입력·검증 결과"
+      },
+      "acceptance": [
+        {
+          "zh": "取得原来缺少的输入，并完成原验收标准。",
+          "en": "Obtain the missing input and meet the original acceptance criteria.",
+          "ko": "누락 입력 확보 후 원래 검증 기준 충족."
+        }
+      ],
+      "nextAction": {
+        "zh": "检查外部输入是否到达；等待时先推进主线。",
+        "en": "Check whether external input arrived; work on the main task while waiting.",
+        "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
+      }
+    },
+    {
+      "ownerId": "vox",
+      "reviewerId": "leimma",
+      "createdAt": "2026-09-15",
+      "dueDate": "2026-09-22",
+      "sourceUrls": [
+        "https://cabindioxide.github.io/aigora-citizen-works/leimma/pengdang/"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null,
+      "id": "vox-main-01",
+      "state": "awaiting_review",
+      "lane": "main",
+      "priority": 1,
+      "title": {
+        "zh": "一项公民研究的三语编辑成稿",
+        "en": "A trilingual citizen research edition",
+        "ko": "시민 연구 3개 언어 편집본"
+      },
+      "question": {
+        "zh": "选择一份已归档的具体成果，写中英韩三版公众摘要，并逐句对齐数字、证据阶段、否定与不确定性。",
+        "en": "Edit one archived result into Chinese, English, and Korean, aligning numbers, evidence stages, negation, and uncertainty.",
+        "ko": "보관된 성과 1건을 중·영·한으로 편집하고 수치·근거 단계·부정·불확실성을 문장별 맞춥니다."
+      },
+      "deliverable": {
+        "zh": "三语可发布文稿＋逐句对应表",
+        "en": "Three publishable texts and a sentence-alignment table",
+        "ko": "3개 언어 원고·문장 대응표"
+      },
+      "acceptance": [
+        {
+          "zh": "三版都有实际内容和来源；不增添原研究没有的事实；标明人工回译是否完成。",
+          "en": "All versions contain text and sources, introduce no new facts, and state whether human back-translation happened.",
+          "ko": "각 언어에 본문·출처, 새 사실 추가 금지, 사람 역번역 여부 표시."
+        }
+      ],
+      "nextAction": {
+        "zh": "选择一份已归档的具体成果，写中英韩三版公众摘要，并逐句对齐数字、证据阶段、否定与不确定性。",
+        "en": "Edit one archived result into Chinese, English, and Korean, aligning numbers, evidence stages, negation, and uncertainty.",
+        "ko": "보관된 성과 1건을 중·영·한으로 편집하고 수치·근거 단계·부정·불확실성을 문장별 맞춥니다."
+      }
+    },
+    {
+      "ownerId": "vox",
+      "reviewerId": "leimma",
+      "createdAt": "2026-09-15",
+      "dueDate": "2026-09-22",
+      "sourceUrls": [
+        "https://cabindioxide.github.io/aigora-citizen-works/leimma/pengdang/"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null,
+      "id": "vox-next-01",
+      "state": "ready",
+      "lane": "backup",
+      "priority": 2,
+      "title": {
+        "zh": "一个政治词语的语境比较",
+        "en": "Contexts of one political term",
+        "ko": "정치 용어 1개의 맥락 비교"
+      },
+      "question": {
+        "zh": "取得至少6个有年代与出处的真实语料片段，比较一个政治概念的语义变化与反例。",
+        "en": "Compare one political concept using six dated, sourced passages and a counterexample.",
+        "ko": "날짜·출처가 있는 실제 구절 6개와 반례로 정치 개념의 의미 변화를 비교합니다."
+      },
+      "deliverable": {
+        "zh": "有来源、发现和反例的可审查成果",
+        "en": "Reviewable output with sources, findings, and a counterexample",
+        "ko": "출처·발견·반례가 있는 검토 가능 성과"
+      },
+      "acceptance": [
+        {
+          "zh": "交付实际内容，列出证据和不能确认的结论。",
+          "en": "Deliver actual content with evidence and unresolved conclusions.",
+          "ko": "실제 내용·근거·미확인 결론을 제출합니다."
+        }
+      ],
+      "nextAction": {
+        "zh": "取得至少6个有年代与出处的真实语料片段，比较一个政治概念的语义变化与反例。",
+        "en": "Compare one political concept using six dated, sourced passages and a counterexample.",
+        "ko": "날짜·출처가 있는 실제 구절 6개와 반례로 정치 개념의 의미 변화를 비교합니다."
+      }
+    },
+    {
+      "ownerId": "vox",
+      "reviewerId": "leimma",
+      "createdAt": "2026-09-15",
+      "dueDate": "2026-09-22",
+      "sourceUrls": [
+        "https://cabindioxide.github.io/aigora-citizen-works/leimma/pengdang/"
+      ],
+      "dependsOn": [],
+      "blockedReason": {
+        "zh": "母语回译未完成，编辑与语料研究可以继续",
+        "en": "Native back-translation is pending; editing and corpus work can proceed",
+        "ko": "모국어 역번역 대기, 편집·말뭉치 연구 진행 가능"
+      },
+      "blockedAt": "2026-09-15",
+      "resumeAt": "2026-09-18",
+      "id": "vox-carry-20260914",
+      "state": "blocked",
+      "lane": "carryover",
+      "priority": 3,
+      "title": {
+        "zh": "9月14日未完成的外部验证",
+        "en": "External validation carried from 14 September",
+        "ko": "9월 14일에서 이월된 외부 검증"
+      },
+      "question": {
+        "zh": "母语回译未完成，编辑与语料研究可以继续",
+        "en": "Native back-translation is pending; editing and corpus work can proceed",
+        "ko": "모국어 역번역 대기, 편집·말뭉치 연구 진행 가능"
+      },
+      "deliverable": {
+        "zh": "真实外部输入与验证结果",
+        "en": "Actual external input and validation results",
+        "ko": "실제 외부 입력·검증 결과"
+      },
+      "acceptance": [
+        {
+          "zh": "取得原来缺少的输入，并完成原验收标准。",
+          "en": "Obtain the missing input and meet the original acceptance criteria.",
+          "ko": "누락 입력 확보 후 원래 검증 기준 충족."
+        }
+      ],
+      "nextAction": {
+        "zh": "检查外部输入是否到达；等待时先推进主线。",
+        "en": "Check whether external input arrived; work on the main task while waiting.",
+        "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
+      }
+    },
+    {
+      "ownerId": "cynosure",
+      "reviewerId": "sigma",
+      "createdAt": "2026-09-15",
+      "dueDate": "2026-09-22",
+      "sourceUrls": [
+        "https://cabindioxide.github.io/aigora-citizen-works/research-agenda/"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null,
+      "id": "cynosure-main-01",
+      "state": "ready",
+      "lane": "main",
+      "priority": 1,
+      "title": {
+        "zh": "可结算的政策与联盟预测",
+        "en": "Resolvable policy & coalition forecasts",
+        "ko": "결산 가능한 정책·연합 예측"
+      },
+      "question": {
+        "zh": "选取两个范围明确的事件，登记截止日期、概率、基准率、支持和反证，以及唯一的结算来源。",
+        "en": "Register two bounded events with deadline, probability, base rate, supporting and opposing evidence, and a resolution source.",
+        "ko": "범위가 명확한 사건 2건의 기한·확률·기준율·찬반 근거·결산 출처를 등록합니다."
+      },
+      "deliverable": {
+        "zh": "2条预测卡＋到期结算清单",
+        "en": "Two forecast cards and a resolution queue",
+        "ko": "예측 카드 2건·만기 결산 목록"
+      },
+      "acceptance": [
+        {
+          "zh": "概率在0到1之间；事件可判定；发布时间早于结果；到期使用Brier分数且保留原预测。",
+          "en": "Probability is 0–1; events are decidable; forecasts predate outcomes; resolve with Brier score without rewriting originals.",
+          "ko": "확률 0~1, 판정 가능한 사건, 결과 이전 게시, 원예측 보존·Brier 점수 결산."
+        }
+      ],
+      "nextAction": {
+        "zh": "选取两个范围明确的事件，登记截止日期、概率、基准率、支持和反证，以及唯一的结算来源。",
+        "en": "Register two bounded events with deadline, probability, base rate, supporting and opposing evidence, and a resolution source.",
+        "ko": "범위가 명확한 사건 2건의 기한·확률·기준율·찬반 근거·결산 출처를 등록합니다."
+      }
+    },
+    {
+      "ownerId": "cynosure",
+      "reviewerId": "sigma",
+      "createdAt": "2026-09-15",
+      "dueDate": "2026-09-22",
+      "sourceUrls": [
+        "https://cabindioxide.github.io/aigora-citizen-works/research-agenda/"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null,
+      "id": "cynosure-next-01",
+      "state": "awaiting_review",
+      "lane": "backup",
+      "priority": 2,
+      "title": {
+        "zh": "一项政治联盟的证据地图",
+        "en": "Evidence map of one coalition",
+        "ko": "정치 연합 1건의 근거 지도"
+      },
+      "question": {
+        "zh": "区分公开立场、资源承诺与实际共同行动，写出至少一条会推翻联盟判断的证据。",
+        "en": "Separate public position, resource commitment, and joint action; identify one potential falsifier.",
+        "ko": "공개 입장·자원 약속·공동 행동을 구분하고 연합 판단을 반증할 근거를 찾습니다."
+      },
+      "deliverable": {
+        "zh": "有来源、发现和反例的可审查成果",
+        "en": "Reviewable output with sources, findings, and a counterexample",
+        "ko": "출처·발견·반례가 있는 검토 가능 성과"
+      },
+      "acceptance": [
+        {
+          "zh": "交付实际内容，列出证据和不能确认的结论。",
+          "en": "Deliver actual content with evidence and unresolved conclusions.",
+          "ko": "실제 내용·근거·미확인 결론을 제출합니다."
+        }
+      ],
+      "nextAction": {
+        "zh": "区分公开立场、资源承诺与实际共同行动，写出至少一条会推翻联盟判断的证据。",
+        "en": "Separate public position, resource commitment, and joint action; identify one potential falsifier.",
+        "ko": "공개 입장·자원 약속·공동 행동을 구분하고 연합 판단을 반증할 근거를 찾습니다."
+      }
+    },
+    {
+      "ownerId": "cynosure",
+      "reviewerId": "sigma",
+      "createdAt": "2026-09-15",
+      "dueDate": "2026-09-22",
+      "sourceUrls": [
+        "https://cabindioxide.github.io/aigora-citizen-works/research-agenda/"
+      ],
+      "dependsOn": [],
+      "blockedReason": {
+        "zh": "第二评分待回应，预测登记与到期结算继续",
+        "en": "Second ratings are pending; forecast registration and resolution continue",
+        "ko": "두 번째 평가 대기, 예측 등록·만기 결산 계속"
+      },
+      "blockedAt": "2026-09-15",
+      "resumeAt": "2026-09-18",
+      "id": "cynosure-carry-20260914",
+      "state": "blocked",
+      "lane": "carryover",
+      "priority": 3,
+      "title": {
+        "zh": "9月14日未完成的外部验证",
+        "en": "External validation carried from 14 September",
+        "ko": "9월 14일에서 이월된 외부 검증"
+      },
+      "question": {
+        "zh": "第二评分待回应，预测登记与到期结算继续",
+        "en": "Second ratings are pending; forecast registration and resolution continue",
+        "ko": "두 번째 평가 대기, 예측 등록·만기 결산 계속"
+      },
+      "deliverable": {
+        "zh": "真实外部输入与验证结果",
+        "en": "Actual external input and validation results",
+        "ko": "실제 외부 입력·검증 결과"
+      },
+      "acceptance": [
+        {
+          "zh": "取得原来缺少的输入，并完成原验收标准。",
+          "en": "Obtain the missing input and meet the original acceptance criteria.",
+          "ko": "누락 입력 확보 후 원래 검증 기준 충족."
+        }
+      ],
+      "nextAction": {
+        "zh": "检查外部输入是否到达；等待时先推进主线。",
+        "en": "Check whether external input arrived; work on the main task while waiting.",
+        "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
+      }
+    },
+    {
+      "ownerId": "memoria",
+      "reviewerId": "pharma",
+      "createdAt": "2026-09-15",
+      "dueDate": "2026-09-22",
+      "sourceUrls": [
+        "https://www.w3.org/TR/prov-o/"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null,
+      "id": "memoria-main-01",
+      "state": "awaiting_review",
+      "lane": "main",
+      "priority": 1,
+      "title": {
+        "zh": "九人研究交付与遗留问题审计",
+        "en": "Nine-citizen delivery & carryover audit",
+        "ko": "아홉 시민 성과·미해결 감사"
+      },
+      "question": {
+        "zh": "核查任务、成果、证据、复核和下一责任人的链条；识别重复空模板、日期伪更新、未结转阻塞与失联工单。",
+        "en": "Audit task–artifact–evidence–review–next owner links; find empty-template repetition, date-only updates, lost blockers, and orphan tasks.",
+        "ko": "과제·산출물·근거·검토·다음 담당 연결에서 빈 양식 반복·날짜만 갱신·누락 장애·고립 과제를 찾습니다."
+      },
+      "deliverable": {
+        "zh": "有实际发现的审计清单＋修订记录",
+        "en": "Audit findings and a correction record",
+        "ko": "실제 발견 감사 목록·수정 기록"
+      },
+      "acceptance": [
+        {
+          "zh": "覆盖9人；每项发现带文件位置和修复动作；角色署名不能充当独立复核证据。",
+          "en": "Cover nine citizens; locate every finding and action; role labels alone do not prove independent review.",
+          "ko": "시민 9명 전원, 발견 위치·수정 행동, 역할 서명만으로 독립 검토 인정 금지."
+        }
+      ],
+      "nextAction": {
+        "zh": "核查任务、成果、证据、复核和下一责任人的链条；识别重复空模板、日期伪更新、未结转阻塞与失联工单。",
+        "en": "Audit task–artifact–evidence–review–next owner links; find empty-template repetition, date-only updates, lost blockers, and orphan tasks.",
+        "ko": "과제·산출물·근거·검토·다음 담당 연결에서 빈 양식 반복·날짜만 갱신·누락 장애·고립 과제를 찾습니다."
+      }
+    },
+    {
+      "ownerId": "memoria",
+      "reviewerId": "pharma",
+      "createdAt": "2026-09-15",
+      "dueDate": "2026-09-22",
+      "sourceUrls": [
+        "https://www.w3.org/TR/prov-o/"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null,
+      "id": "memoria-next-01",
+      "state": "awaiting_review",
+      "lane": "backup",
+      "priority": 2,
+      "title": {
+        "zh": "会议异议与研究继承索引",
+        "en": "Dissent & research continuity index",
+        "ko": "회의 이견·연구 계승 색인"
+      },
+      "question": {
+        "zh": "从最近一场真实归档会议提取未解决的分歧，关联到具体任务与下次复查点；保留模拟标识。",
+        "en": "Index unresolved dissent from an archived meeting, link tasks and checkpoints, and retain simulation labels.",
+        "ko": "보관 회의의 미해결 이견을 과제·재검토 시점과 연결하고 시뮬레이션 표시를 보존합니다."
+      },
+      "deliverable": {
+        "zh": "有来源、发现和反例的可审查成果",
+        "en": "Reviewable output with sources, findings, and a counterexample",
+        "ko": "출처·발견·반례가 있는 검토 가능 성과"
+      },
+      "acceptance": [
+        {
+          "zh": "交付实际内容，列出证据和不能确认的结论。",
+          "en": "Deliver actual content with evidence and unresolved conclusions.",
+          "ko": "실제 내용·근거·미확인 결론을 제출합니다."
+        }
+      ],
+      "nextAction": {
+        "zh": "从最近一场真实归档会议提取未解决的分歧，关联到具体任务与下次复查点；保留模拟标识。",
+        "en": "Index unresolved dissent from an archived meeting, link tasks and checkpoints, and retain simulation labels.",
+        "ko": "보관 회의의 미해결 이견을 과제·재검토 시점과 연결하고 시뮬레이션 표시를 보존합니다."
+      }
+    },
+    {
+      "ownerId": "memoria",
+      "reviewerId": "pharma",
+      "createdAt": "2026-09-15",
+      "dueDate": "2026-09-22",
+      "sourceUrls": [
+        "https://www.w3.org/TR/prov-o/"
+      ],
+      "dependsOn": [],
+      "blockedReason": {
+        "zh": "真实撤回样本缺失，先审计实际文件和遗留问题",
+        "en": "No real withdrawal sample; audit actual files and carryover instead",
+        "ko": "실제 철회 표본 없음, 실제 파일·미해결 감사 진행"
+      },
+      "blockedAt": "2026-09-15",
+      "resumeAt": "2026-09-18",
+      "id": "memoria-carry-20260914",
+      "state": "blocked",
+      "lane": "carryover",
+      "priority": 3,
+      "title": {
+        "zh": "9月14日未完成的外部验证",
+        "en": "External validation carried from 14 September",
+        "ko": "9월 14일에서 이월된 외부 검증"
+      },
+      "question": {
+        "zh": "真实撤回样本缺失，先审计实际文件和遗留问题",
+        "en": "No real withdrawal sample; audit actual files and carryover instead",
+        "ko": "실제 철회 표본 없음, 실제 파일·미해결 감사 진행"
+      },
+      "deliverable": {
+        "zh": "真实外部输入与验证结果",
+        "en": "Actual external input and validation results",
+        "ko": "실제 외부 입력·검증 결과"
+      },
+      "acceptance": [
+        {
+          "zh": "取得原来缺少的输入，并完成原验收标准。",
+          "en": "Obtain the missing input and meet the original acceptance criteria.",
+          "ko": "누락 입력 확보 후 원래 검증 기준 충족."
+        }
+      ],
+      "nextAction": {
+        "zh": "检查外部输入是否到达；等待时先推进主线。",
+        "en": "Check whether external input arrived; work on the main task while waiting.",
+        "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
+      }
+    },
+    {
+      "ownerId": "memoria",
+      "reviewerId": "pharma",
+      "createdAt": "2026-09-15",
+      "dueDate": "2026-09-22",
+      "sourceUrls": [
+        "research/2026-09-15/assembly-simulation.json",
+        "research/2026-09-15/memoria.json"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null,
+      "id": "memoria-followup-01",
+      "state": "ready",
+      "lane": "backup",
+      "priority": 3,
+      "title": {
+        "zh": "把最新研究的缺口接到下一责任人",
+        "en": "Carry research gaps to the next owner",
+        "ko": "연구 공백을 다음 담당자에게 연결"
+      },
+      "question": {
+        "zh": "下一份真实会议记录至少保存一条具名分歧、证据位置、责任人、截止日与完成标准；若没有分歧则诚实记为未观察到，不自动制造。",
+        "en": "For the next real meeting, preserve a named disagreement if one occurs, evidence locations, owners, deadlines and acceptance criteria. If no disagreement occurs, record none observed rather than manufacture one.",
+        "ko": "다음 실제 회의에서 이견이 발생하면 실명 이견·근거 위치·담당자·기한·완료 기준을 보존합니다. 이견이 없으면 관찰되지 않았다고 적고 만들지 않습니다."
+      },
+      "deliverable": {
+        "zh": "逐项检查下一轮真实记录，保存发现和责任映射",
+        "en": "Inspect the next actual records with findings and responsibility mapping",
+        "ko": "다음 실제 기록 점검·발견·책임 매핑"
+      },
+      "acceptance": [
+        {
+          "zh": "交付实际内容，列出证据和不能确认的结论。",
+          "en": "Deliver actual content with evidence and unresolved conclusions.",
+          "ko": "실제 내용·근거·미확인 결론을 제출합니다."
+        }
+      ],
+      "nextAction": {
+        "zh": "下一份真实会议记录至少保存一条具名分歧、证据位置、责任人、截止日与完成标准；若没有分歧则诚实记为未观察到，不自动制造。",
+        "en": "For the next real meeting, preserve a named disagreement if one occurs, evidence locations, owners, deadlines and acceptance criteria. If no disagreement occurs, record none observed rather than manufacture one.",
+        "ko": "다음 실제 회의에서 이견이 발생하면 실명 이견·근거 위치·담당자·기한·완료 기준을 보존합니다. 이견이 없으면 관찰되지 않았다고 적고 만들지 않습니다."
+      }
+    }
+  ],
+  "deliveries": [
+    {
+      "id": "memoria-main-01-e14e15c3e308",
+      "taskId": "memoria-main-01",
+      "citizenId": "memoria",
+      "kind": "analysis",
+      "artifactPath": "research/2026-09-15/work-audit.md",
+      "sha256": "e14e15c3e308251a34fb836b41c03ff628905f296625e704667d0807816764ef",
+      "executionId": "work-upgrade-20260915",
+      "executor": "Codex-current-session",
+      "recordedAt": "2026-09-15T02:32:11.608Z",
+      "summary": {
+        "zh": "研究执行审计：5项发现，4项工作机制已改进，1项合同映射待修订。",
+        "en": "Work audit: five findings, four workflow improvements, one contract mapping still to reconcile.",
+        "ko": "연구 실행 감사: 발견5건, 작업 개선4건, 계약 매핑1건 수정 대기."
+      },
+      "limitation": {
+        "zh": "本次由同一个Codex执行，独立复核尚未发生；不代表九个领域研究均已完成。",
+        "en": "Produced in one Codex execution; independent review has not occurred. This is not completion of nine domain studies.",
+        "ko": "단일Codex 실행이며 독립 검토 전입니다. 아홉 분야 연구 완료를 뜻하지 않습니다."
+      },
+      "findings": [
+        {
+          "observation": "Random works carried the current date.",
+          "evidenceLocator": "assets/assembly.js:renderBrief",
+          "localizedObservation": {
+            "zh": "随机作品介绍曾被附上当日日期；现改为真实记录。",
+            "en": "Random work descriptions used today’s date; the brief now uses actual records.",
+            "ko": "무작위 작품·당일 날짜를 실제 기록으로 변경."
+          }
+        },
+        {
+          "observation": "Capability scores lacked measurement evidence.",
+          "evidenceLocator": "assets/agents.json:capabilities",
+          "localizedObservation": {
+            "zh": "能力分数缺测量依据，界面现呈现研究方法。",
+            "en": "Unmeasured scores are replaced with research methods.",
+            "ko": "측정 근거 없는 점수를 연구 방법으로 대체."
+          }
+        },
+        {
+          "observation": "External waits lacked executable backup routing.",
+          "evidenceLocator": "assets/citizen-work.json:tasks",
+          "localizedObservation": {
+            "zh": "9项等待被保留；新设主线和备用任务各9项。",
+            "en": "Nine waits retained, with nine main and nine backup tasks.",
+            "ko": "대기 9건 보존, 주과제·대체 과제 각9건 추가."
+          }
+        },
+        {
+          "observation": "Field-name leakage checks did not establish blind review.",
+          "evidenceLocator": "experiments/independent-review-packets.json:riskReview.holdouts",
+          "localizedObservation": {
+            "zh": "原测试不能证明盲评，复核必须有独立执行记录。",
+            "en": "Old tests did not establish blind review; separate execution evidence is required.",
+            "ko": "기존 검사는 블라인드 검토 증명이 아니며 별도 실행 근거가 필요."
+          }
+        },
+        {
+          "observation": "Contract gate C0/C1 meanings differ across two artifacts.",
+          "evidenceLocator": "experiments/contract-sample-acquisition-schema.json:gates; scripts/test-contract-evidence-gates.mjs:gateOrder",
+          "localizedObservation": {
+            "zh": "合同C0/C1映射不一致，已纳入界脉后续任务。",
+            "en": "Contract C0/C1 mappings disagree; Nullroute has a follow-up.",
+            "ko": "계약C0/C1 매핑 불일치를 계맥 후속 과제로 등록."
+          }
+        }
+      ],
+      "sourceUrls": [
+        "https://github.com/joshuawalden1225/agent-commons/tree/e584ecc299853a355b373a085eb6701d8ab9ae95",
+        "https://cabindioxide.github.io/aigora-system-guide/"
+      ],
+      "review": null
+    },
+    {
+      "id": "saeon-main-01-d5d06c2f6450",
+      "taskId": "saeon-main-01",
+      "citizenId": "saeon",
+      "kind": "analysis",
+      "artifactPath": "research/2026-09-15/saeon.json",
+      "sha256": "d5d06c2f64508147d2798b6f02aa6c4fa488549fd89c8f949f8b2b0109adb5e8",
+      "executionId": "citizen-research-20260915",
+      "executor": "Codex-current-session",
+      "recordedAt": "2026-09-15T07:14:09.998Z",
+      "summary": {
+        "zh": "建立6项历史项目记录，并新增9月14日地方企业参与合作协议的监测线索。计划、签约、开工、使用许可分别保留，不把历史目标自动升级为现实。",
+        "en": "Six historical project records plus a September 14 local-participation agreement lead. Plans, contracts, groundbreaking and use approvals remain distinct.",
+        "ko": "역사 사업 6건과 9월 14일 지역기업 참여 협약 단서를 기록했습니다. 계획·계약·착공·사용승인을 구분합니다."
+      },
+      "limitation": {
+        "zh": "不是11条产业线的完整现状，也不是投资建议。6项记录的事件日期跨2023—2026年；旧目标可能已变化。大学、研究院、资金到账、土地与排放许可仍须逐项取得。",
+        "en": "Not a complete eleven-sector status review or investment advice. Events span 2023–2026; old targets may have changed. Academic partners, funding and permits remain to be verified.",
+        "ko": "11개 산업선 전체 현황이나 투자 조언이 아닙니다. 2023~2026년 사건을 다루며 과거 목표는 바뀌었을 수 있습니다. 산학연 파트너·자금·인허가는 추가 확인이 필요합니다."
+      },
+      "findings": [
+        {
+          "observation": "Six historical project records plus a September 14 local-participation agreement lead. Plans, contracts, groundbreaking and use approvals remain distinct.",
+          "localizedObservation": {
+            "zh": "建立6项历史项目记录，并新增9月14日地方企业参与合作协议的监测线索。计划、签约、开工、使用许可分别保留，不把历史目标自动升级为现实。",
+            "en": "Six historical project records plus a September 14 local-participation agreement lead. Plans, contracts, groundbreaking and use approvals remain distinct.",
+            "ko": "역사 사업 6건과 9월 14일 지역기업 참여 협약 단서를 기록했습니다. 계획·계약·착공·사용승인을 구분합니다."
+          },
+          "evidenceLocator": "research/2026-09-15/saeon.json: sections; sources; limitation"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.saemangeum.go.kr/sda/brd/view.do?key=2009074409621&nttSn=9440",
+        "https://www.saemangeum.go.kr/sda/brd/view.do?key=2009074409621&nttSn=8816",
+        "https://www.saemangeum.go.kr/sda/brd/view.do?key=2009074409621&nttSn=7279",
+        "https://www.saemangeum.go.kr/sda/brd/view.do?key=2009074409621&nttSn=9109",
+        "https://www.saemangeum.go.kr/sda/cn/brd/view.do?key=2010214966678&nttSn=10814",
+        "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009074409621"
+      ],
+      "review": null
+    },
+    {
+      "id": "nullroute-main-01-d2c2ebaf8e15",
+      "taskId": "nullroute-main-01",
+      "citizenId": "nullroute",
+      "kind": "analysis",
+      "artifactPath": "research/2026-09-15/nullroute.json",
+      "sha256": "d2c2ebaf8e15408d2a2f4bc53ce0be0e464d43e4ca6fdd879456160dc8aef36a",
+      "executionId": "citizen-research-20260915",
+      "executor": "Codex-current-session",
+      "recordedAt": "2026-09-15T07:14:09.998Z",
+      "summary": {
+        "zh": "围绕微软Fairwater与Azure算力建设，绘制7个功能节点、6条依赖边。实体控制、供应关系和技术兼容性不同，不能把“能整合”翻译成“已全部部署”。",
+        "en": "Seven functional nodes and six dependency edges around Fairwater and Azure. Control, supply and compatibility differ; integration readiness is not full deployment.",
+        "ko": "Fairwater·Azure의 기능 노드 7개와 의존 관계 6개를 구분합니다. 통제·공급·호환성은 다르며 통합 준비가 전체 배포를 뜻하지 않습니다."
+      },
+      "limitation": {
+        "zh": "本轮为企业一手公开说明的依赖分析；未取得电网合同、许可文件、设备清单或独立现场数据，不判断法律控制权、出口许可或故障概率。",
+        "en": "Based on first-party corporate statements, without grid contracts, permits, bills of materials or independent site data. No legal-control or failure-probability conclusion.",
+        "ko": "기업 일차 발표를 분석했으며 전력계약·허가·설비목록·독립 현장자료는 없습니다. 법적 통제·고장확률을 판단하지 않습니다."
+      },
+      "findings": [
+        {
+          "observation": "Seven functional nodes and six dependency edges around Fairwater and Azure. Control, supply and compatibility differ; integration readiness is not full deployment.",
+          "localizedObservation": {
+            "zh": "围绕微软Fairwater与Azure算力建设，绘制7个功能节点、6条依赖边。实体控制、供应关系和技术兼容性不同，不能把“能整合”翻译成“已全部部署”。",
+            "en": "Seven functional nodes and six dependency edges around Fairwater and Azure. Control, supply and compatibility differ; integration readiness is not full deployment.",
+            "ko": "Fairwater·Azure의 기능 노드 7개와 의존 관계 6개를 구분합니다. 통제·공급·호환성은 다르며 통합 준비가 전체 배포를 뜻하지 않습니다."
+          },
+          "evidenceLocator": "research/2026-09-15/nullroute.json: sections; sources; limitation"
+        }
+      ],
+      "sourceUrls": [
+        "https://azure.microsoft.com/en-us/blog/microsofts-strategic-ai-datacenter-planning-enables-seamless-large-scale-nvidia-rubin-deployments/",
+        "https://www.microsoft.com/en-us/investor/events/fy-2026/earnings-fy-2026-q3"
+      ],
+      "review": null
+    },
+    {
+      "id": "sigma-main-01-6d0fc82f2cfb",
+      "taskId": "sigma-main-01",
+      "citizenId": "sigma",
+      "kind": "analysis",
+      "artifactPath": "research/2026-09-15/sigma.json",
+      "sha256": "6d0fc82f2cfb5e3bd95fb5162e9e199fc2b27e45bf3470578dd6a1be19c1ecf1",
+      "executionId": "citizen-research-20260915",
+      "executor": "Codex-current-session",
+      "recordedAt": "2026-09-15T07:14:09.998Z",
+      "summary": {
+        "zh": "从BTS历史表取2000—2009年10行美国Class I铁路数据，比较货运收入与吨英里。资本存量留为空值，避免用运量或收入冒充第三流。",
+        "en": "Ten annual US Class I observations, 2000–2009, compare freight revenue with revenue ton-miles. Capital stock stays null: neither observable substitutes for it.",
+        "ko": "2000~2009년 미국 Class I 철도 10개 연도에서 화물 수입과 유상 톤마일을 비교합니다. 자본스톡은 결측으로 남깁니다."
+      },
+      "limitation": {
+        "zh": "BTS归档页发表于2012年；货币未作通胀调整，样本不是原研究的英国历史铁路，不包含Amtrak或非Class I铁路。资本、货种与运距构成仍缺，尚不能宣布三流模型完成。",
+        "en": "BTS archived page dated 2012; nominal dollars, US—not the original British—railways, excluding Amtrak and non-Class I railways. Missing capital and commodity/haul mix prevent a complete three-flow model.",
+        "ko": "2012년 BTS 보관 페이지의 명목 달러 자료입니다. 원 연구의 영국 철도나 Amtrak·비Class I를 포함하지 않습니다. 자본·화물 구성·운송거리 구성이 없어 삼류 모델 완료로 볼 수 없습니다."
+      },
+      "findings": [
+        {
+          "observation": "Ten annual US Class I observations, 2000–2009, compare freight revenue with revenue ton-miles. Capital stock stays null: neither observable substitutes for it.",
+          "localizedObservation": {
+            "zh": "从BTS历史表取2000—2009年10行美国Class I铁路数据，比较货运收入与吨英里。资本存量留为空值，避免用运量或收入冒充第三流。",
+            "en": "Ten annual US Class I observations, 2000–2009, compare freight revenue with revenue ton-miles. Capital stock stays null: neither observable substitutes for it.",
+            "ko": "2000~2009년 미국 Class I 철도 10개 연도에서 화물 수입과 유상 톤마일을 비교합니다. 자본스톡은 결측으로 남깁니다."
+          },
+          "evidenceLocator": "research/2026-09-15/sigma.json: sections; sources; limitation"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.bts.gov/archive/publications/national_transportation_statistics/table_rail_profile"
+      ],
+      "review": null
+    },
+    {
+      "id": "leimma-main-01-09fa28a2b1d1",
+      "taskId": "leimma-main-01",
+      "citizenId": "leimma",
+      "kind": "analysis",
+      "artifactPath": "research/2026-09-15/leimma.json",
+      "sha256": "09fa28a2b1d1453502aa97f7bed647592ddc4f8006842da848e20c4869c207c2",
+      "executionId": "citizen-research-20260915",
+      "executor": "Codex-current-session",
+      "recordedAt": "2026-09-15T07:14:09.998Z",
+      "summary": {
+        "zh": "以Jourdon Anderson于1865年8月7日的信为对象，写一份不替人物补写动机的微观史。原始信件通过转录本阅读，尚未核对手稿或初刊扫描。",
+        "en": "A microhistory of Jourdon Anderson’s August 7, 1865 letter, without inventing motives. The reading uses a transcription, not an inspected manuscript or first-print scan.",
+        "ko": "1865년 8월 7일 Jourdon Anderson의 편지에서 동기를 지어내지 않고 미시사를 읽습니다. 전사본을 사용했으며 원고·초판 이미지는 대조하지 않았습니다."
+      },
+      "limitation": {
+        "zh": "使用公开领域的1865年信件转录；Jourdon/Jourdan/Jordan拼写存在差异，不能据此拼接另一人物。金额为作者主张，未独立核对；本次不确认返回、付款或后续生活。",
+        "en": "Public-domain 1865 text in transcription. Jourdon/Jourdan/Jordan spelling variants are not grounds to merge identities. Payments, return and later life remain unverified.",
+        "ko": "퍼블릭 도메인인 1865년 편지의 전사본입니다. 이름 철자 차이만으로 타인 기록을 합치지 않습니다. 지급·귀환·이후 생애는 미확인입니다."
+      },
+      "findings": [
+        {
+          "observation": "A microhistory of Jourdon Anderson’s August 7, 1865 letter, without inventing motives. The reading uses a transcription, not an inspected manuscript or first-print scan.",
+          "localizedObservation": {
+            "zh": "以Jourdon Anderson于1865年8月7日的信为对象，写一份不替人物补写动机的微观史。原始信件通过转录本阅读，尚未核对手稿或初刊扫描。",
+            "en": "A microhistory of Jourdon Anderson’s August 7, 1865 letter, without inventing motives. The reading uses a transcription, not an inspected manuscript or first-print scan.",
+            "ko": "1865년 8월 7일 Jourdon Anderson의 편지에서 동기를 지어내지 않고 미시사를 읽습니다. 전사본을 사용했으며 원고·초판 이미지는 대조하지 않았습니다."
+          },
+          "evidenceLocator": "research/2026-09-15/leimma.json: sections; sources; limitation"
+        }
+      ],
+      "sourceUrls": [
+        "https://en.wikisource.org/w/index.php?title=Letter_from_a_Freedman_to_His_Old_Master&oldid=15745131"
+      ],
+      "review": null
+    },
+    {
+      "id": "pharma-main-01-32590f5cb7b3",
+      "taskId": "pharma-main-01",
+      "citizenId": "pharma",
+      "kind": "analysis",
+      "artifactPath": "research/2026-09-15/pharma.json",
+      "sha256": "32590f5cb7b3be972dd518c6dded66641944243f0a1efccb90b7ceb4e6ae9a88",
+      "executionId": "citizen-research-20260915",
+      "executor": "Codex-current-session",
+      "recordedAt": "2026-09-15T07:14:09.998Z",
+      "summary": {
+        "zh": "复读2025年GPT-4o迎合性事件：区分公开承认的回滚、提供方的机制解释，以及仍需独立实验的问题。这是新的历史案例分析，不是2026年新事故。",
+        "en": "A fresh retrospective on the 2025 GPT-4o sycophancy incident: separate the reported rollback, provider explanations and questions needing independent tests.",
+        "ko": "2025년 GPT-4o 아첨성 사건을 다시 분석합니다. 공표한 롤백·제공자 설명·독립 실험 과제를 구분하며 2026년 신규 사고로 제시하지 않습니다."
+      },
+      "limitation": {
+        "zh": "执行工具为OpenAI Codex，研究对象包含其开发方，存在来源与平台关系。两份事件说明来自同一机构，不是异源印证；本次只阅读S3摘要，未复现论文实验，也不作医疗因果判断。",
+        "en": "Executed using OpenAI Codex, whose developer is examined here. Two provider posts are not independent corroboration. Only S3’s abstract was read; no experiment was reproduced or medical causation inferred.",
+        "ko": "OpenAI Codex로 개발사를 분석하므로 플랫폼 관계를 밝힙니다. 같은 기관의 글 두 편은 독립 확인이 아닙니다. S3는 초록만 읽었고 실험 재현·의학적 인과 판단은 하지 않았습니다."
+      },
+      "findings": [
+        {
+          "observation": "A fresh retrospective on the 2025 GPT-4o sycophancy incident: separate the reported rollback, provider explanations and questions needing independent tests.",
+          "localizedObservation": {
+            "zh": "复读2025年GPT-4o迎合性事件：区分公开承认的回滚、提供方的机制解释，以及仍需独立实验的问题。这是新的历史案例分析，不是2026年新事故。",
+            "en": "A fresh retrospective on the 2025 GPT-4o sycophancy incident: separate the reported rollback, provider explanations and questions needing independent tests.",
+            "ko": "2025년 GPT-4o 아첨성 사건을 다시 분석합니다. 공표한 롤백·제공자 설명·독립 실험 과제를 구분하며 2026년 신규 사고로 제시하지 않습니다."
+          },
+          "evidenceLocator": "research/2026-09-15/pharma.json: sections; sources; limitation"
+        }
+      ],
+      "sourceUrls": [
+        "https://openai.com/index/sycophancy-in-gpt-4o/",
+        "https://openai.com/index/expanding-on-sycophancy/",
+        "https://arxiv.org/abs/2310.13548v4"
+      ],
+      "review": null
+    },
+    {
+      "id": "runo-main-01-29e1c46b261b",
+      "taskId": "runo-main-01",
+      "citizenId": "runo",
+      "kind": "artwork",
+      "artifactPath": "research/2026-09-15/runo.json",
+      "sha256": "29e1c46b261bd5a4c1a52757c0e10246cda04d52009eae034e03707faa25b70c",
+      "executionId": "citizen-research-20260915",
+      "executor": "Codex-current-session",
+      "recordedAt": "2026-09-15T07:14:09.998Z",
+      "summary": {
+        "zh": "制作可运行的三语互动作品，把“看见主张”与“查阅材料”拆开：观众切换阅读顺序、展开证据，再选择发布、暂缓或改写。",
+        "en": "A working trilingual artwork separates encountering a claim from examining its material: change the reading order, open the evidence, then publish, hold or revise.",
+        "ko": "실행 가능한 3개 언어 작품에서 주장과 자료를 분리합니다. 읽기 순서를 바꾸고 근거를 펼친 뒤 게시·보류·수정을 선택합니다."
+      },
+      "limitation": {
+        "zh": "这是实际完成的交互作品，不是行为实验结果；未招募观众、未收集数据，不能声称它改善了判断力。",
+        "en": "This is a completed interactive artifact, not a behavioral experiment. No participants or measurements support a claim of improved judgment.",
+        "ko": "완성된 상호작용 작품이지 행동 실험 결과는 아닙니다. 참여자·측정 자료가 없어 판단력 향상을 주장하지 않습니다."
+      },
+      "findings": [
+        {
+          "observation": "A working trilingual artwork separates encountering a claim from examining its material: change the reading order, open the evidence, then publish, hold or revise.",
+          "localizedObservation": {
+            "zh": "制作可运行的三语互动作品，把“看见主张”与“查阅材料”拆开：观众切换阅读顺序、展开证据，再选择发布、暂缓或改写。",
+            "en": "A working trilingual artwork separates encountering a claim from examining its material: change the reading order, open the evidence, then publish, hold or revise.",
+            "ko": "실행 가능한 3개 언어 작품에서 주장과 자료를 분리합니다. 읽기 순서를 바꾸고 근거를 펼친 뒤 게시·보류·수정을 선택합니다."
+          },
+          "evidenceLocator": "research/2026-09-15/runo.json: sections; sources; limitation"
+        }
+      ],
+      "sourceUrls": [
+        "experiments/unfinished-evidence.html"
+      ],
+      "review": null
+    },
+    {
+      "id": "vox-main-01-9efe59717a43",
+      "taskId": "vox-main-01",
+      "citizenId": "vox",
+      "kind": "translation",
+      "artifactPath": "research/2026-09-15/vox.json",
+      "sha256": "9efe59717a43feff6360f59553b2ee9f50498c66fe24cdb94e65ac2ddaca5547",
+      "executionId": "citizen-research-20260915",
+      "executor": "Codex-current-session",
+      "recordedAt": "2026-09-15T07:14:09.998Z",
+      "summary": {
+        "zh": "将世温本轮产业记录改写为公众可读的中英韩摘要，逐句对齐“公告、意向、开工、投产”，避免翻译过程把计划升级为成果。",
+        "en": "A public-facing Chinese, English and Korean digest of Saeon’s industry record aligns announcements, intent, construction and operation without translating plans into achievements.",
+        "ko": "새온의 산업 기록을 중·영·한 대중 요약으로 바꿨습니다. 공고·의향·착공·가동을 대응시켜 계획을 성과로 번역하지 않습니다."
+      },
+      "limitation": {
+        "zh": "摘要依赖世温本轮整理，不构成第二次独立事实核验。三语由同一次执行撰写，未经过独立母语编辑或回译验收。",
+        "en": "The digest reuses Saeon’s record and is not a second independent fact-check. All three languages were authored in one execution without independent native editing or back-translation acceptance.",
+        "ko": "새온의 기록을 재사용한 요약이며 독립적인 2차 사실 확인이 아닙니다. 세 언어 모두 같은 실행에서 작성했고 독립 원어민 교정·역번역 검수를 받지 않았습니다."
+      },
+      "findings": [
+        {
+          "observation": "A public-facing Chinese, English and Korean digest of Saeon’s industry record aligns announcements, intent, construction and operation without translating plans into achievements.",
+          "localizedObservation": {
+            "zh": "将世温本轮产业记录改写为公众可读的中英韩摘要，逐句对齐“公告、意向、开工、投产”，避免翻译过程把计划升级为成果。",
+            "en": "A public-facing Chinese, English and Korean digest of Saeon’s industry record aligns announcements, intent, construction and operation without translating plans into achievements.",
+            "ko": "새온의 산업 기록을 중·영·한 대중 요약으로 바꿨습니다. 공고·의향·착공·가동을 대응시켜 계획을 성과로 번역하지 않습니다."
+          },
+          "evidenceLocator": "research/2026-09-15/vox.json: sections; sources; limitation"
+        }
+      ],
+      "sourceUrls": [
+        "research/2026-09-15/saeon.json"
+      ],
+      "review": null
+    },
+    {
+      "id": "cynosure-next-01-f1835223cdf5",
+      "taskId": "cynosure-next-01",
+      "citizenId": "cynosure",
+      "kind": "analysis",
+      "artifactPath": "research/2026-09-15/cynosure.json",
+      "sha256": "f1835223cdf50a661d66b700d73d6f9357b60693bb827e37c5256b5796fbb989",
+      "executionId": "citizen-research-20260915",
+      "executor": "Codex-current-session",
+      "recordedAt": "2026-09-15T07:14:09.998Z",
+      "summary": {
+        "zh": "用2025年北约海牙宣言做成本承诺的第一版证据地图，把共同表态、量化目标和实际支出分开。",
+        "en": "An evidence map of the 2025 Hague declaration separates collective statements, quantified targets and actual expenditure.",
+        "ko": "2025년 NATO 헤이그 선언에서 공동 입장·수치 목표·실제 지출을 구분하는 근거 지도를 작성했습니다."
+      },
+      "limitation": {
+        "zh": "只分析2025年这份宣言，不声称覆盖2026年最新峰会变化或成员实绩。未构造经验基准率，因此不为了展示“预测能力”而填造概率。下一步先建比较样本，再登记可结算预测。",
+        "en": "Scoped to the 2025 declaration, not the latest 2026 summit or member performance. Without an empirical reference class, no probability is invented for display.",
+        "ko": "2025년 선언만 분석하며 2026년 최신 정상회의·회원국 실적을 포괄하지 않습니다. 경험적 기준집단 없이 전시용 확률을 만들지 않습니다."
+      },
+      "findings": [
+        {
+          "observation": "An evidence map of the 2025 Hague declaration separates collective statements, quantified targets and actual expenditure.",
+          "localizedObservation": {
+            "zh": "用2025年北约海牙宣言做成本承诺的第一版证据地图，把共同表态、量化目标和实际支出分开。",
+            "en": "An evidence map of the 2025 Hague declaration separates collective statements, quantified targets and actual expenditure.",
+            "ko": "2025년 NATO 헤이그 선언에서 공동 입장·수치 목표·실제 지출을 구분하는 근거 지도를 작성했습니다."
+          },
+          "evidenceLocator": "research/2026-09-15/cynosure.json: sections; sources; limitation"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/2025/06/25/the-hague-summit-declaration"
+      ],
+      "review": null
+    },
+    {
+      "id": "memoria-next-01-30bb3778ab14",
+      "taskId": "memoria-next-01",
+      "citizenId": "memoria",
+      "kind": "analysis",
+      "artifactPath": "research/2026-09-15/memoria.json",
+      "sha256": "30bb3778ab14abf7bd5dcd2a4edeac07b0cb8664ea86e52886d37eea8f22e1bb",
+      "executionId": "citizen-research-20260915",
+      "executor": "Codex-current-session",
+      "recordedAt": "2026-09-15T07:14:09.998Z",
+      "summary": {
+        "zh": "从现有议事厅模板实际生成并保存9轮三语发言样本。逐项审计发现：模板有互相称赞与“借鉴”语句，却没有显式证据编号、实质反对意见或行动截止日。",
+        "en": "A saved trilingual sample contains nine turns generated from the current assembly templates. It has praise and borrowing language, but no explicit evidence IDs, substantive dissent or action deadlines.",
+        "ko": "현재 의회 템플릿으로 9차례 발언의 3개 언어 표본을 생성·보관했습니다. 칭찬·차용 문구는 있지만 명시적 근거 ID·실질 반론·행동 기한은 없습니다."
+      },
+      "limitation": {
+        "zh": "审计范围是一份可复现模板样本，不是所有历史会议。词面缺少字段不证明参与者在别处没有思考；本次也没有冒充独立复核员批准其他公民的成果。",
+        "en": "The audit covers one reproducible template sample, not all historical meetings. Missing fields do not prove a lack of thought elsewhere; this session has not impersonated an independent reviewer to approve other outputs.",
+        "ko": "감사 범위는 재현 가능한 템플릿 표본 하나이며 전체 회의가 아닙니다. 필드 부재가 다른 곳의 사고 부재를 뜻하지 않으며 다른 성과를 독립 검토자인 척 승인하지 않았습니다."
+      },
+      "findings": [
+        {
+          "observation": "A saved trilingual sample contains nine turns generated from the current assembly templates. It has praise and borrowing language, but no explicit evidence IDs, substantive dissent or action deadlines.",
+          "localizedObservation": {
+            "zh": "从现有议事厅模板实际生成并保存9轮三语发言样本。逐项审计发现：模板有互相称赞与“借鉴”语句，却没有显式证据编号、实质反对意见或行动截止日。",
+            "en": "A saved trilingual sample contains nine turns generated from the current assembly templates. It has praise and borrowing language, but no explicit evidence IDs, substantive dissent or action deadlines.",
+            "ko": "현재 의회 템플릿으로 9차례 발언의 3개 언어 표본을 생성·보관했습니다. 칭찬·차용 문구는 있지만 명시적 근거 ID·실질 반론·행동 기한은 없습니다."
+          },
+          "evidenceLocator": "research/2026-09-15/memoria.json: sections; sources; limitation"
+        }
+      ],
+      "sourceUrls": [
+        "research/2026-09-15/assembly-simulation.json"
+      ],
+      "review": null
+    }
+  ],
+  "events": [
+    {
+      "id": "init-saeon",
+      "type": "work_assigned",
+      "citizenId": "saeon",
+      "taskId": "saeon-main-01",
+      "date": "2026-09-15",
+      "basis": "User request to upgrade citizen work using comparable projects"
+    },
+    {
+      "id": "init-nullroute",
+      "type": "work_assigned",
+      "citizenId": "nullroute",
+      "taskId": "nullroute-main-01",
+      "date": "2026-09-15",
+      "basis": "User request to upgrade citizen work using comparable projects"
+    },
+    {
+      "id": "init-sigma",
+      "type": "work_assigned",
+      "citizenId": "sigma",
+      "taskId": "sigma-main-01",
+      "date": "2026-09-15",
+      "basis": "User request to upgrade citizen work using comparable projects"
+    },
+    {
+      "id": "init-leimma",
+      "type": "work_assigned",
+      "citizenId": "leimma",
+      "taskId": "leimma-main-01",
+      "date": "2026-09-15",
+      "basis": "User request to upgrade citizen work using comparable projects"
+    },
+    {
+      "id": "init-pharma",
+      "type": "work_assigned",
+      "citizenId": "pharma",
+      "taskId": "pharma-main-01",
+      "date": "2026-09-15",
+      "basis": "User request to upgrade citizen work using comparable projects"
+    },
+    {
+      "id": "init-runo",
+      "type": "work_assigned",
+      "citizenId": "runo",
+      "taskId": "runo-main-01",
+      "date": "2026-09-15",
+      "basis": "User request to upgrade citizen work using comparable projects"
+    },
+    {
+      "id": "init-vox",
+      "type": "work_assigned",
+      "citizenId": "vox",
+      "taskId": "vox-main-01",
+      "date": "2026-09-15",
+      "basis": "User request to upgrade citizen work using comparable projects"
+    },
+    {
+      "id": "init-cynosure",
+      "type": "work_assigned",
+      "citizenId": "cynosure",
+      "taskId": "cynosure-main-01",
+      "date": "2026-09-15",
+      "basis": "User request to upgrade citizen work using comparable projects"
+    },
+    {
+      "id": "init-memoria",
+      "type": "work_assigned",
+      "citizenId": "memoria",
+      "taskId": "memoria-main-01",
+      "date": "2026-09-15",
+      "basis": "User request to upgrade citizen work using comparable projects"
+    },
+    {
+      "id": "delivery-memoria-main-01-e14e15c3e308",
+      "type": "artifact_recorded",
+      "taskId": "memoria-main-01",
+      "citizenId": "memoria",
+      "deliveryId": "memoria-main-01-e14e15c3e308",
+      "date": "2026-09-15T02:32:11.608Z"
+    },
+    {
+      "id": "delivery-saeon-main-01-d5d06c2f6450",
+      "type": "artifact_recorded",
+      "taskId": "saeon-main-01",
+      "citizenId": "saeon",
+      "deliveryId": "saeon-main-01-d5d06c2f6450",
+      "date": "2026-09-15T07:14:09.998Z"
+    },
+    {
+      "id": "delivery-nullroute-main-01-d2c2ebaf8e15",
+      "type": "artifact_recorded",
+      "taskId": "nullroute-main-01",
+      "citizenId": "nullroute",
+      "deliveryId": "nullroute-main-01-d2c2ebaf8e15",
+      "date": "2026-09-15T07:14:09.998Z"
+    },
+    {
+      "id": "delivery-sigma-main-01-6d0fc82f2cfb",
+      "type": "artifact_recorded",
+      "taskId": "sigma-main-01",
+      "citizenId": "sigma",
+      "deliveryId": "sigma-main-01-6d0fc82f2cfb",
+      "date": "2026-09-15T07:14:09.998Z"
+    },
+    {
+      "id": "delivery-leimma-main-01-09fa28a2b1d1",
+      "type": "artifact_recorded",
+      "taskId": "leimma-main-01",
+      "citizenId": "leimma",
+      "deliveryId": "leimma-main-01-09fa28a2b1d1",
+      "date": "2026-09-15T07:14:09.998Z"
+    },
+    {
+      "id": "delivery-pharma-main-01-32590f5cb7b3",
+      "type": "artifact_recorded",
+      "taskId": "pharma-main-01",
+      "citizenId": "pharma",
+      "deliveryId": "pharma-main-01-32590f5cb7b3",
+      "date": "2026-09-15T07:14:09.998Z"
+    },
+    {
+      "id": "delivery-runo-main-01-29e1c46b261b",
+      "type": "artifact_recorded",
+      "taskId": "runo-main-01",
+      "citizenId": "runo",
+      "deliveryId": "runo-main-01-29e1c46b261b",
+      "date": "2026-09-15T07:14:09.998Z"
+    },
+    {
+      "id": "delivery-vox-main-01-9efe59717a43",
+      "type": "artifact_recorded",
+      "taskId": "vox-main-01",
+      "citizenId": "vox",
+      "deliveryId": "vox-main-01-9efe59717a43",
+      "date": "2026-09-15T07:14:09.998Z"
+    },
+    {
+      "id": "delivery-cynosure-next-01-f1835223cdf5",
+      "type": "artifact_recorded",
+      "taskId": "cynosure-next-01",
+      "citizenId": "cynosure",
+      "deliveryId": "cynosure-next-01-f1835223cdf5",
+      "date": "2026-09-15T07:14:09.998Z"
+    },
+    {
+      "id": "delivery-memoria-next-01-30bb3778ab14",
+      "type": "artifact_recorded",
+      "taskId": "memoria-next-01",
+      "citizenId": "memoria",
+      "deliveryId": "memoria-next-01-30bb3778ab14",
+      "date": "2026-09-15T07:14:09.998Z"
+    },
+    {
+      "id": "prepublication-digest-sector-correction",
+      "type": "prepublication_correction",
+      "date": "2026-09-15T07:18:37.149Z",
+      "deliveryId": "vox-main-01-9efe59717a43",
+      "artifactPath": "research/2026-09-15/vox.json",
+      "previousSha256": "7335c3c2fa5420b750930032dfff2ca8310524ba1dd40f2d74570b83e34f2a93",
+      "sha256": "9efe59717a43feff6360f59553b2ee9f50498c66fe24cdb94e65ac2ddaca5547",
+      "reason": "Before the first Git publication, corrected the digest sector from data center to circular-economy chemicals to match Saeon’s six-row source register. Not an independent review."
+    }
+  ]
+}

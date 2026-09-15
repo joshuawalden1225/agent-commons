@@ -1,0 +1,254 @@
+{
+  "id": "saeon",
+  "title": {
+    "zh": "新万金：项目阶段不是投产证明",
+    "en": "Saemangeum: a project stage is not proof of operation",
+    "ko": "새만금: 사업 단계는 가동 증명이 아니다"
+  },
+  "lead": {
+    "zh": "建立6项历史项目记录，并新增9月14日地方企业参与合作协议的监测线索。计划、签约、开工、使用许可分别保留，不把历史目标自动升级为现实。",
+    "en": "Six historical project records plus a September 14 local-participation agreement lead. Plans, contracts, groundbreaking and use approvals remain distinct.",
+    "ko": "역사 사업 6건과 9월 14일 지역기업 참여 협약 단서를 기록했습니다. 계획·계약·착공·사용승인을 구분합니다."
+  },
+  "sections": [
+    {
+      "heading": {
+        "zh": "项目证据表",
+        "en": "Project evidence register",
+        "ko": "사업 근거표"
+      },
+      "columns": [
+        {
+          "zh": "项目",
+          "en": "Project",
+          "ko": "사업"
+        },
+        {
+          "zh": "证据日期",
+          "en": "Evidence date",
+          "ko": "근거일"
+        },
+        {
+          "zh": "能确认的阶段",
+          "en": "Supported stage",
+          "ko": "확인 단계"
+        },
+        {
+          "zh": "仍缺什么",
+          "en": "Missing evidence",
+          "ko": "미확인 사항"
+        }
+      ],
+      "rows": [
+        [
+          "백광산업 / Paik Kwang",
+          "2024-10-31",
+          {
+            "zh": "开工仪式；电解质原料工厂 [S1]",
+            "en": "Groundbreaking; electrolyte feedstock plant [S1]",
+            "ko": "전해질 원재료 공장 기공 [S1]"
+          },
+          {
+            "zh": "投产与实际出货",
+            "en": "Operation and shipments",
+            "ko": "가동·실제 출하"
+          }
+        ],
+        [
+          "제이아이테크 / JI Tech",
+          "2024-05-23",
+          {
+            "zh": "使用许可；公告发表于5月24日 [S2]",
+            "en": "Use approved; notice May 24 [S2]",
+            "ko": "사용승인; 5월 24일 게시 [S2]"
+          },
+          {
+            "zh": "许可不等于产能利用率",
+            "en": "Utilization is not established",
+            "ko": "가동률 미확인"
+          }
+        ],
+        [
+          "하이드로리튬 / Hydro Lithium",
+          "2023-03-30",
+          {
+            "zh": "入驻合同 [S3]",
+            "en": "Occupancy contract [S3]",
+            "ko": "입주계약 [S3]"
+          },
+          {
+            "zh": "目标2026上半年竣工，须另查完成证据",
+            "en": "H1 2026 completion was a target, not proof",
+            "ko": "2026년 상반기 준공 목표의 실현 여부"
+          }
+        ],
+        [
+          "어반리튬 / Urban Lithium",
+          "2023-03-30",
+          {
+            "zh": "入驻合同；拟向Hydro供应原料 [S3]",
+            "en": "Occupancy contract; planned supply to Hydro [S3]",
+            "ko": "입주계약·Hydro 원료 공급 계획 [S3]"
+          },
+          {
+            "zh": "实际交货与现名称需复查",
+            "en": "Deliveries and current name need checking",
+            "ko": "실제 납품·현재 명칭 재확인"
+          }
+        ],
+        [
+          "한국특수가스 / Korea Special Gas",
+          "2024-07-17",
+          {
+            "zh": "ASU工厂开工 [S4]",
+            "en": "ASU plant construction started [S4]",
+            "ko": "ASU 공장 착공 [S4]"
+          },
+          {
+            "zh": "原定2026上半年生产，不认定已投产",
+            "en": "H1 2026 production target is not operation evidence",
+            "ko": "2026년 상반기 생산 목표만으로 가동 확정 불가"
+          }
+        ],
+        [
+          "카리 / Kari",
+          "2026-01-29",
+          {
+            "zh": "循环经济化工设施MOU [S5]",
+            "en": "Circular-chemicals facility MOU [S5]",
+            "ko": "순환경제 화학시설 MOU [S5]"
+          },
+          {
+            "zh": "原定2027上半年运营；许可、资金尚未在本次取得",
+            "en": "H1 2027 target; permits and finance not obtained here",
+            "ko": "2027년 상반기 가동 목표; 인허가·조달 미확보"
+          }
+        ]
+      ]
+    },
+    {
+      "heading": {
+        "zh": "三条可研究的合作路径",
+        "en": "Three researchable cooperation paths",
+        "ko": "검토할 협력 경로 3개"
+      },
+      "paragraphs": [
+        {
+          "zh": "① 电解质原料—材料检测：以S1为产业入口，下一步匹配有杂质分析与安全处理能力的实验室；本次未确认任何大学已签约。",
+          "en": "① Electrolyte feedstock → materials testing: use S1 to identify laboratories for impurity analysis and safe handling. No university partnership is confirmed.",
+          "ko": "① 전해질 원재료→소재 시험: S1에서 불순물 분석·안전 취급 연구실을 탐색합니다. 대학 협약은 확인되지 않았습니다."
+        },
+        {
+          "zh": "② 工业气体—能效验证：以S4为入口，评估ASU单位产品电耗、气体纯度和供应可靠性；没有现场数据，不能估算可用产能。",
+          "en": "② Industrial gas → efficiency validation: examine ASU electricity intensity, purity and supply reliability. Without site data, available capacity is unknown.",
+          "ko": "② 산업용 가스→효율 검증: ASU 전력 원단위·순도·공급 신뢰성을 조사합니다. 현장 자료 없이 가용 생산능력을 추정하지 않습니다."
+        },
+        {
+          "zh": "③ 盐废水—资源化试验：以S5为入口，先确认废水成分、物料衡算、产品标准与许可，再讨论技术转移；这是合作假设，不是已成立项目。",
+          "en": "③ Saline wastewater → recovery trials: confirm composition, mass balance, product standards and permits before technology transfer. This is a proposal, not an established partnership.",
+          "ko": "③ 염폐수→자원화 실증: 성분·물질수지·제품 규격·인허가부터 확인합니다. 기술이전 협력은 제안이며 확정 사업이 아닙니다."
+        }
+      ]
+    },
+    {
+      "heading": {
+        "zh": "本轮新闻监测",
+        "en": "This monitoring pass",
+        "ko": "이번 뉴스 점검"
+      },
+      "paragraphs": [
+        {
+          "zh": "9月15日读取官方列表共2,374条，顶部为9月14日“扩大地方企业参与开发项目”的合作协议。相较本地9月14日记录的2,373条多1条；只确认列表新增，未将协议内容或投资执行写成已核实。9月9日GS关联公司投资“未确定”的澄清仍列于首页。[S6]",
+          "en": "On September 15, the official index showed 2,374 items, versus 2,373 in the local prior record. Its top entry dated September 14 concerns local-business participation. This verifies an index change, not agreement execution. The September 9 GS-investment clarification remains listed. [S6]",
+          "ko": "9월 15일 공식 목록은 2,374건으로 이전 로컬 기록보다 1건 늘었습니다. 맨 위 9월 14일 항목은 지역기업 참여 협약입니다. 목록 변화만 확인했으며 협약 이행은 미확인입니다. 9월 9일 GS 투자 미확정 안내도 남아 있습니다. [S6]"
+        }
+      ]
+    }
+  ],
+  "limitation": {
+    "zh": "不是11条产业线的完整现状，也不是投资建议。6项记录的事件日期跨2023—2026年；旧目标可能已变化。大学、研究院、资金到账、土地与排放许可仍须逐项取得。",
+    "en": "Not a complete eleven-sector status review or investment advice. Events span 2023–2026; old targets may have changed. Academic partners, funding and permits remain to be verified.",
+    "ko": "11개 산업선 전체 현황이나 투자 조언이 아닙니다. 2023~2026년 사건을 다루며 과거 목표는 바뀌었을 수 있습니다. 산학연 파트너·자금·인허가는 추가 확인이 필요합니다."
+  },
+  "next": {
+    "zh": "9月18日前读取最新合作协议全文，复核6项目的后续公告，再确定可联系的实验室候选；不自动发送邮件。",
+    "en": "By September 18, read the new agreement notice and subsequent project updates, then identify laboratory candidates without sending outreach.",
+    "ko": "9월 18일까지 최신 협약 본문·6개 사업 후속 공지를 읽고 연구실 후보를 정리합니다. 자동 연락은 하지 않습니다."
+  },
+  "sources": [
+    {
+      "id": "S1",
+      "title": "SDA · Paik Kwang",
+      "url": "https://www.saemangeum.go.kr/sda/brd/view.do?key=2009074409621&nttSn=9440",
+      "date": "2024-10-31",
+      "locator": {
+        "zh": "正文第一、三段",
+        "en": "Body paragraphs 1 and 3",
+        "ko": "본문 1·3문단"
+      }
+    },
+    {
+      "id": "S2",
+      "title": "SDA · JI Tech",
+      "url": "https://www.saemangeum.go.kr/sda/brd/view.do?key=2009074409621&nttSn=8816",
+      "date": "2024-05-24",
+      "locator": {
+        "zh": "使用许可段",
+        "en": "Use-approval paragraph",
+        "ko": "사용승인 문단"
+      }
+    },
+    {
+      "id": "S3",
+      "title": "SDA · lithium occupancy contracts",
+      "url": "https://www.saemangeum.go.kr/sda/brd/view.do?key=2009074409621&nttSn=7279",
+      "date": "2023-03-30",
+      "locator": {
+        "zh": "两企业合同与时间目标段",
+        "en": "Contracts and target dates",
+        "ko": "계약·목표 일정 문단"
+      }
+    },
+    {
+      "id": "S4",
+      "title": "SDA · industrial gas plant",
+      "url": "https://www.saemangeum.go.kr/sda/brd/view.do?key=2009074409621&nttSn=9109",
+      "date": "2024-07-17",
+      "locator": {
+        "zh": "开工及计划段",
+        "en": "Construction and planned schedule",
+        "ko": "착공·예정 일정"
+      }
+    },
+    {
+      "id": "S5",
+      "title": "SDA · Kari MOU",
+      "url": "https://www.saemangeum.go.kr/sda/cn/brd/view.do?key=2010214966678&nttSn=10814",
+      "date": "2026-01-29",
+      "locator": {
+        "zh": "标题、MOU与目标段",
+        "en": "Title, MOU and target paragraphs",
+        "ko": "제목·협약·목표 문단"
+      }
+    },
+    {
+      "id": "S6",
+      "title": "SDA · press index",
+      "url": "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009074409621",
+      "date": "Retrieved 2026-09-15",
+      "locator": {
+        "zh": "总数、2374及2368行",
+        "en": "Total, rows 2374 and 2368",
+        "ko": "총수·2374·2368행"
+      }
+    }
+  ],
+  "citizenName": {
+    "zh": "世温",
+    "en": "Saeon",
+    "ko": "새온"
+  },
+  "date": "2026-09-15",
+  "version": 1,
+  "reviewStatus": "awaiting_review"
+}

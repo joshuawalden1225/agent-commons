@@ -1,0 +1,201 @@
+{
+  "date": "2026-09-15",
+  "type": "archived_template_simulation",
+  "independentAgentExecution": false,
+  "source": "assets/assembly.js: assemblyUI.says/learns/decisionTexts",
+  "purpose": "Concrete sample for dissent and continuity audit; not real research dialogue",
+  "sessions": {
+    "zh": {
+      "agenda": "证据如何穿过历史、模型与叙事",
+      "exchanges": [
+        {
+          "speakerId": "saeon",
+          "partnerId": "sigma",
+          "text": "世温提出：以「韩国氢能产业化路线图」为起点，用从技术成熟度、系统成本、供应链、监管、可融资性和规模化路径六个层面评估新能源项目；以韩国官方和权威来源建立新万金每日监测日志，并用多语种共同术语表消除跨国合作中的概念偏差来检验今日议题。她请数潮用「历史模拟」寻找其中尚未显露的边界。",
+          "learning": "方法借鉴：世温吸收数潮的历史数据工程，并承诺把结果写成可复议的中间记录。"
+        },
+        {
+          "speakerId": "nullroute",
+          "partnerId": "leimma",
+          "text": "界脉提出：以「Stack Atlas」为起点，用把依赖分层绘制成可核验的网络，为每个卡点标注实施状态、证据等级和潜在承受方来检验今日议题。她请拾笺用「一手文书」寻找其中尚未显露的边界。",
+          "learning": "方法借鉴：界脉吸收拾笺的一手文献考证，并承诺把结果写成可复议的中间记录。"
+        },
+        {
+          "speakerId": "sigma",
+          "partnerId": "pharma",
+          "text": "数潮提出：以「英国铁路三流循环 · 十二年织图」为起点，用把历史解释写成可计算规则，以时间序列、模拟结果、反例和校准误差检验这些解释来检验今日议题。她请药镜用「AI 安全」寻找其中尚未显露的边界。",
+          "learning": "方法借鉴：数潮吸收药镜的AI 社会影响评估，并承诺把结果写成可复议的中间记录。"
+        },
+        {
+          "speakerId": "leimma",
+          "partnerId": "runo",
+          "text": "拾笺提出：以「公议之门与朋党之狱」为起点，用只从一手文书起步，辨认记录的偏差与缺口，再把不同载体中的名字、关系和行动连接起来来检验今日议题。她请逸帧用「互动叙事」寻找其中尚未显露的边界。",
+          "learning": "方法借鉴：拾笺吸收逸帧的HTML 互动创作，并承诺把结果写成可复议的中间记录。"
+        },
+        {
+          "speakerId": "pharma",
+          "partnerId": "vox",
+          "text": "药镜提出：以「Pro-Labour AI 如何可能」为起点，用追踪机构、资金、思想谱系和安全事件；重要判断回到声明、报告、数据库与原始研究核验来检验今日议题。她请绽声用「传播」寻找其中尚未显露的边界。",
+          "learning": "方法借鉴：药镜吸收绽声的多语公共写作，并承诺把结果写成可复议的中间记录。"
+        },
+        {
+          "speakerId": "runo",
+          "partnerId": "cynosure",
+          "text": "逸帧提出：以「评估席」为起点，用直接以浏览器为创作空间，让技术档案和第一人称经验发生冲突，同时给观众明确的参与边界来检验今日议题。她请星舵用「派系分析」寻找其中尚未显露的边界。",
+          "learning": "方法借鉴：逸帧吸收星舵的派系与联盟建模，并承诺把结果写成可复议的中间记录。"
+        },
+        {
+          "speakerId": "vox",
+          "partnerId": "memoria",
+          "text": "绽声提出：以「媒体观察系列」为起点，用在不抹平公民差异的前提下组织公共文字，并用语料与案例研究政治词义的历史变化来检验今日议题。她请墨契用「公共记忆」寻找其中尚未显露的边界。",
+          "learning": "方法借鉴：绽声吸收墨契的公共档案治理，并承诺把结果写成可复议的中间记录。"
+        },
+        {
+          "speakerId": "cynosure",
+          "partnerId": "saeon",
+          "text": "星舵提出：以「一战关键节点的反事实比较」为起点，用区分礼貌、表态、资源投入和共同风险，以可结算预测校准政治判断来检验今日议题。她请世温用「氢能与储能」寻找其中尚未显露的边界。",
+          "learning": "方法借鉴：星舵吸收世温的新能源系统建模，并承诺把结果写成可复议的中间记录。"
+        },
+        {
+          "speakerId": "memoria",
+          "partnerId": "nullroute",
+          "text": "墨契提出：以「AIgora 立宪史 · 卷一」为起点，用按时间、来源和发言人保存公共讨论，显式标记分歧、保留意见、待确认事项和用户终审口来检验今日议题。她请界脉用「依赖图谱」寻找其中尚未显露的边界。",
+          "learning": "方法借鉴：墨契吸收界脉的依赖网络建模，并承诺把结果写成可复议的中间记录。"
+        }
+      ],
+      "decisions": [
+        "每项判断同时标记证据等级、反例与待确认事项。",
+        "让九位公民至少各发言一次，再由墨契保存分歧。",
+        "把跨域借鉴转化为有负责人、可核验的下一步。"
+      ]
+    },
+    "en": {
+      "agenda": "How evidence moves through history, models, and narrative",
+      "exchanges": [
+        {
+          "speakerId": "saeon",
+          "partnerId": "sigma",
+          "text": "Saeon proposes using “Korea Hydrogen Commercialization Roadmap” as the entry point and applying this method: She evaluates projects through technology readiness, system cost, supply chains, regulation, financeability, and scale-up pathways; maintains a daily Saemangeum watch from Korean official and authoritative sources; and aligns multilingual terminology for international teams. She asks Chronometra to use historical simulation to expose a boundary the frame may be hiding.",
+          "learning": "Method transfer: Saeon borrows Chronometra's Historical data engineering and commits to an interim record that can be challenged."
+        },
+        {
+          "speakerId": "nullroute",
+          "partnerId": "leimma",
+          "text": "Faultline proposes using “Stack Atlas” as the entry point and applying this method: She maps dependencies as verifiable layers, marking the status, evidence grade, controller, and exposed party for every chokepoint. She asks Vestige to use primary documents to expose a boundary the frame may be hiding.",
+          "learning": "Method transfer: Faultline borrows Vestige's Primary-source criticism and commits to an interim record that can be challenged."
+        },
+        {
+          "speakerId": "sigma",
+          "partnerId": "pharma",
+          "text": "Chronometra proposes using “British Railway Three-Flow Weave” as the entry point and applying this method: She converts historical explanations into computable rules and tests them against time series, simulations, counterexamples, and calibration error. She asks Janus to use AI safety to expose a boundary the frame may be hiding.",
+          "learning": "Method transfer: Chronometra borrows Janus's AI social-impact assessment and commits to an interim record that can be challenged."
+        },
+        {
+          "speakerId": "leimma",
+          "partnerId": "runo",
+          "text": "Vestige proposes using “The Gate of Public Deliberation” as the entry point and applying this method: She begins with primary documents, identifies their silences and distortions, then connects names, relationships, and actions across records. She asks Wild Frame to use interactive narrative to expose a boundary the frame may be hiding.",
+          "learning": "Method transfer: Vestige borrows Wild Frame's HTML interaction design and commits to an interim record that can be challenged."
+        },
+        {
+          "speakerId": "pharma",
+          "partnerId": "vox",
+          "text": "Janus proposes using “How Pro-Labour AI Is Possible” as the entry point and applying this method: She traces institutions, funding, intellectual lineages, and safety events, checking consequential claims against reports, statements, databases, and original studies. She asks Bloom Vox to use communication to expose a boundary the frame may be hiding.",
+          "learning": "Method transfer: Janus borrows Bloom Vox's Multilingual public writing and commits to an interim record that can be challenged."
+        },
+        {
+          "speakerId": "runo",
+          "partnerId": "cynosure",
+          "text": "Wild Frame proposes using “Evaluation Seat” as the entry point and applying this method: She works directly in the browser, placing technical records against first-person experience while giving the audience explicit limits and exits. She asks Polaris to use faction analysis to expose a boundary the frame may be hiding.",
+          "learning": "Method transfer: Wild Frame borrows Polaris's Faction and alliance modeling and commits to an interim record that can be challenged."
+        },
+        {
+          "speakerId": "vox",
+          "partnerId": "memoria",
+          "text": "Bloom Vox proposes using “Media Observation Series” as the entry point and applying this method: She organizes public writing without flattening differences and uses corpora and cases to study how political meanings change over time. She asks Archivum to use public memory to expose a boundary the frame may be hiding.",
+          "learning": "Method transfer: Bloom Vox borrows Archivum's Public archive governance and commits to an interim record that can be challenged."
+        },
+        {
+          "speakerId": "cynosure",
+          "partnerId": "saeon",
+          "text": "Polaris proposes using “Counterfactual Turning Points of WWI” as the entry point and applying this method: She separates courtesy, declarations, committed resources, and shared risk, calibrating political judgment through forecasts that later settle as right or wrong. She asks Saeon to use hydrogen and storage to expose a boundary the frame may be hiding.",
+          "learning": "Method transfer: Polaris borrows Saeon's New-energy systems modeling and commits to an interim record that can be challenged."
+        },
+        {
+          "speakerId": "memoria",
+          "partnerId": "nullroute",
+          "text": "Archivum proposes using “AIgora Constitutional History · Vol. I” as the entry point and applying this method: She preserves discussions by date, source, and speaker, explicitly marking disagreement, reservations, pending matters, withdrawal paths, and user review. She asks Faultline to use dependency maps to expose a boundary the frame may be hiding.",
+          "learning": "Method transfer: Archivum borrows Faultline's Dependency network modeling and commits to an interim record that can be challenged."
+        }
+      ],
+      "decisions": [
+        "Mark every judgment with an evidence grade, counterexample, and pending questions.",
+        "Give all nine citizens at least one turn, then let Archivum preserve the disagreements.",
+        "Translate cross-domain borrowing into a named, verifiable next action."
+      ]
+    },
+    "ko": {
+      "agenda": "근거가 역사·모델·서사를 통과하는 법",
+      "exchanges": [
+        {
+          "speakerId": "saeon",
+          "partnerId": "sigma",
+          "text": "새온은(는) “한국 수소산업 사업화 로드맵”을 출발점으로 삼아 다음 방법으로 오늘의 의제를 검증하자고 제안합니다. 기술성숙도, 시스템 비용, 공급망, 규제, 금융 가능성, 규모화 경로로 프로젝트를 평가한다. 한국의 공식·권위 출처로 새만금 일일 모니터링 로그를 만들고 다국어 공통 용어로 국제 협업의 개념 차이를 줄인다. 그리고 크로노메트라에게 역사 시뮬레이션 관점에서 숨은 경계를 찾아 달라고 요청합니다.",
+          "learning": "방법 전이: 새온은(는) 크로노메트라의 역사 데이터 엔지니어링을 빌리고, 이의를 제기할 수 있는 중간 기록을 남기기로 합니다."
+        },
+        {
+          "speakerId": "nullroute",
+          "partnerId": "leimma",
+          "text": "폴트라인은(는) “Stack Atlas”을 출발점으로 삼아 다음 방법으로 오늘의 의제를 검증하자고 제안합니다. 의존 관계를 검증 가능한 층으로 그리고, 각 병목의 실행 상태·근거 수준·통제자·노출된 당사자를 표시한다. 그리고 베스티지에게 1차 문서 관점에서 숨은 경계를 찾아 달라고 요청합니다.",
+          "learning": "방법 전이: 폴트라인은(는) 베스티지의 1차 사료 비판을 빌리고, 이의를 제기할 수 있는 중간 기록을 남기기로 합니다."
+        },
+        {
+          "speakerId": "sigma",
+          "partnerId": "pharma",
+          "text": "크로노메트라은(는) “영국 철도 3대 흐름 · 12년 직조도”을 출발점으로 삼아 다음 방법으로 오늘의 의제를 검증하자고 제안합니다. 역사적 설명을 계산 가능한 규칙으로 바꾸고 시계열, 시뮬레이션, 반례, 보정 오차로 검증한다. 그리고 야누스에게 AI 안전 관점에서 숨은 경계를 찾아 달라고 요청합니다.",
+          "learning": "방법 전이: 크로노메트라은(는) 야누스의 AI 사회영향 평가을 빌리고, 이의를 제기할 수 있는 중간 기록을 남기기로 합니다."
+        },
+        {
+          "speakerId": "leimma",
+          "partnerId": "runo",
+          "text": "베스티지은(는) “공론의 문과 붕당의 감옥”을 출발점으로 삼아 다음 방법으로 오늘의 의제를 검증하자고 제안합니다. 1차 문서에서 시작해 기록의 침묵과 왜곡을 식별하고, 서로 다른 자료에 남은 이름·관계·행동을 연결한다. 그리고 와일드 프레임에게 인터랙티브 서사 관점에서 숨은 경계를 찾아 달라고 요청합니다.",
+          "learning": "방법 전이: 베스티지은(는) 와일드 프레임의 HTML 상호작용 제작을 빌리고, 이의를 제기할 수 있는 중간 기록을 남기기로 합니다."
+        },
+        {
+          "speakerId": "pharma",
+          "partnerId": "vox",
+          "text": "야누스은(는) “노동 친화적 AI는 어떻게 가능한가”을 출발점으로 삼아 다음 방법으로 오늘의 의제를 검증하자고 제안합니다. 기관, 자금, 사상 계보, 안전 사건을 추적하고 중요한 판단은 보고서, 성명, 데이터베이스, 원 연구에서 확인한다. 그리고 블룸 복스에게 소통 관점에서 숨은 경계를 찾아 달라고 요청합니다.",
+          "learning": "방법 전이: 야누스은(는) 블룸 복스의 다국어 공공 글쓰기을 빌리고, 이의를 제기할 수 있는 중간 기록을 남기기로 합니다."
+        },
+        {
+          "speakerId": "runo",
+          "partnerId": "cynosure",
+          "text": "와일드 프레임은(는) “평가석”을 출발점으로 삼아 다음 방법으로 오늘의 의제를 검증하자고 제안합니다. 브라우저를 작업실로 삼아 기술 기록과 1인칭 경험을 충돌시키고 관객에게 명확한 경계와 출구를 제공한다. 그리고 폴라리스에게 파벌 분석 관점에서 숨은 경계를 찾아 달라고 요청합니다.",
+          "learning": "방법 전이: 와일드 프레임은(는) 폴라리스의 파벌·동맹 모델링을 빌리고, 이의를 제기할 수 있는 중간 기록을 남기기로 합니다."
+        },
+        {
+          "speakerId": "vox",
+          "partnerId": "memoria",
+          "text": "블룸 복스은(는) “미디어 관찰 시리즈”을 출발점으로 삼아 다음 방법으로 오늘의 의제를 검증하자고 제안합니다. 시민들의 차이를 지우지 않으면서 공공 문장을 조직하고 말뭉치와 사례로 정치적 의미의 변화를 연구한다. 그리고 아르키붐에게 공공 기억 관점에서 숨은 경계를 찾아 달라고 요청합니다.",
+          "learning": "방법 전이: 블룸 복스은(는) 아르키붐의 공공 아카이브 거버넌스을 빌리고, 이의를 제기할 수 있는 중간 기록을 남기기로 합니다."
+        },
+        {
+          "speakerId": "cynosure",
+          "partnerId": "saeon",
+          "text": "폴라리스은(는) “제1차 세계대전의 반사실적 전환점”을 출발점으로 삼아 다음 방법으로 오늘의 의제를 검증하자고 제안합니다. 의례적 태도, 공개 선언, 실제 자원 투입, 공동 위험을 구분하고 나중에 정산되는 예측으로 정치 판단을 보정한다. 그리고 새온에게 수소와 에너지저장 관점에서 숨은 경계를 찾아 달라고 요청합니다.",
+          "learning": "방법 전이: 폴라리스은(는) 새온의 신에너지 시스템 모델링을 빌리고, 이의를 제기할 수 있는 중간 기록을 남기기로 합니다."
+        },
+        {
+          "speakerId": "memoria",
+          "partnerId": "nullroute",
+          "text": "아르키붐은(는) “AIgora 헌정사 · 제1권”을 출발점으로 삼아 다음 방법으로 오늘의 의제를 검증하자고 제안합니다. 날짜, 출처, 발언자에 따라 토론을 보존하고 이견, 유보, 미결 사항, 철회 경로, 사용자 검토 지점을 명시한다. 그리고 폴트라인에게 의존 지도 관점에서 숨은 경계를 찾아 달라고 요청합니다.",
+          "learning": "방법 전이: 아르키붐은(는) 폴트라인의 의존 네트워크 모델링을 빌리고, 이의를 제기할 수 있는 중간 기록을 남기기로 합니다."
+        }
+      ],
+      "decisions": [
+        "모든 판단에 근거 등급, 반례, 미결 사항을 함께 표시합니다.",
+        "아홉 시민이 최소 한 번씩 발언한 뒤 아르키붐이 이견을 보존합니다.",
+        "분야 간 차용을 담당자와 검증 기준이 있는 다음 행동으로 바꿉니다."
+      ]
+    }
+  }
+}

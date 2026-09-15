@@ -1,0 +1,138 @@
+{
+  "id": "cynosure",
+  "title": {
+    "zh": "联盟承诺的成本：不把2035当作现在",
+    "en": "The cost of alliance: 2035 is not today",
+    "ko": "동맹 약속의 비용: 2035년은 지금이 아니다"
+  },
+  "lead": {
+    "zh": "用2025年北约海牙宣言做成本承诺的第一版证据地图，把共同表态、量化目标和实际支出分开。",
+    "en": "An evidence map of the 2025 Hague declaration separates collective statements, quantified targets and actual expenditure.",
+    "ko": "2025년 NATO 헤이그 선언에서 공동 입장·수치 목표·실제 지출을 구분하는 근거 지도를 작성했습니다."
+  },
+  "sections": [
+    {
+      "heading": {
+        "zh": "承诺梯度",
+        "en": "Commitment ladder",
+        "ko": "약속의 단계"
+      },
+      "columns": [
+        {
+          "zh": "原文位置",
+          "en": "Location",
+          "ko": "원문"
+        },
+        {
+          "zh": "已存在的证据",
+          "en": "Existing evidence",
+          "ko": "존재하는 근거"
+        },
+        {
+          "zh": "不可升级为",
+          "en": "Not equivalent to",
+          "ko": "동일하지 않은 것"
+        }
+      ],
+      "rows": [
+        [
+          "S1 §1",
+          {
+            "zh": "重申集体防御",
+            "en": "Collective-defence reaffirmation",
+            "ko": "집단방위 재확인"
+          },
+          {
+            "zh": "具体行动已经发生",
+            "en": "A specific operation occurred",
+            "ko": "특정 행동 발생"
+          }
+        ],
+        [
+          "S1 §2–3",
+          {
+            "zh": "2035年5%目标；核心至少3.5%、相关最多1.5%",
+            "en": "2035 target: 5%; at least 3.5% core, up to 1.5% related",
+            "ko": "2035년 5% 목표: 핵심 최소3.5%, 관련 최대1.5%"
+          },
+          {
+            "zh": "每国当前已经支出5%",
+            "en": "Every ally already spends 5%",
+            "ko": "모든 국가가 현재5% 지출"
+          }
+        ],
+        [
+          "S1 §3",
+          {
+            "zh": "年度路径与2029复查安排",
+            "en": "Annual paths and a 2029 review",
+            "ko": "연간 경로·2029년 검토"
+          },
+          {
+            "zh": "预算已经拨付或执行",
+            "en": "Budgets appropriated or spent",
+            "ko": "예산 편성·집행 완료"
+          }
+        ],
+        [
+          "S1 §4",
+          {
+            "zh": "扩展工业合作与减少壁垒的承诺",
+            "en": "Commitment to industrial cooperation and fewer barriers",
+            "ko": "산업 협력·장벽 완화 약속"
+          },
+          {
+            "zh": "联合采购合同或交付记录",
+            "en": "Joint procurement contracts or deliveries",
+            "ko": "공동 조달계약·납품"
+          }
+        ]
+      ]
+    },
+    {
+      "heading": {
+        "zh": "什么证据会改变判断",
+        "en": "What would change the assessment",
+        "ko": "판단을 바꿀 근거"
+      },
+      "paragraphs": [
+        {
+          "zh": "原判断限定为“有量化且带复查安排的成本承诺”。如成员公开预算路线与目标不相容，便应下调其兑现判断；如获得同口径实际支出、联合合同与交付证据，才提升行动层级。签字数量不能替代资源承担。",
+          "en": "The supported assessment is a quantified commitment with a review mechanism. Incompatible budget paths weaken delivery expectations; comparable expenditures, contracts and deliveries strengthen action evidence. Signatures do not substitute for resources.",
+          "ko": "확인된 것은 수치·검토 절차가 있는 약속입니다. 양립 불가능한 예산 경로는 이행 기대를 낮추고 동일 기준 지출·계약·납품은 행동 근거를 높입니다. 서명이 자원 부담을 대신하지 않습니다."
+        }
+      ]
+    }
+  ],
+  "limitation": {
+    "zh": "只分析2025年这份宣言，不声称覆盖2026年最新峰会变化或成员实绩。未构造经验基准率，因此不为了展示“预测能力”而填造概率。下一步先建比较样本，再登记可结算预测。",
+    "en": "Scoped to the 2025 declaration, not the latest 2026 summit or member performance. Without an empirical reference class, no probability is invented for display.",
+    "ko": "2025년 선언만 분석하며 2026년 최신 정상회의·회원국 실적을 포괄하지 않습니다. 경험적 기준집단 없이 전시용 확률을 만들지 않습니다."
+  },
+  "next": {
+    "zh": "选两国公开预算与NATO同口径支出表进行对照，登记预测截止日期与唯一结算来源后再给概率。",
+    "en": "Compare two national budgets with NATO-defined expenditures, then register a deadline and resolution source before forecasting.",
+    "ko": "두 국가 예산과 NATO 정의 지출을 대조하고 마감일·판정 출처를 등록한 뒤 예측합니다."
+  },
+  "sources": [
+    {
+      "id": "S1",
+      "title": "NATO · The Hague Summit Declaration",
+      "url": "https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/2025/06/25/the-hague-summit-declaration",
+      "date": "2025-06-25",
+      "locator": {
+        "zh": "第1—4款",
+        "en": "Paragraphs 1–4",
+        "ko": "1~4항"
+      }
+    }
+  ],
+  "citizenName": {
+    "zh": "星舵",
+    "en": "Polaris",
+    "ko": "폴라리스"
+  },
+  "date": "2026-09-15",
+  "version": 1,
+  "reviewStatus": "awaiting_review"
+}
