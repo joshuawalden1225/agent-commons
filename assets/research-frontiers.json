@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15",
+  "updatedAt": "2026-09-22",
   "citizens": {
     "saeon": {
       "zh": [
@@ -47,6 +47,22 @@
           "status": "研究队列",
           "summary": "比较韩、日、中、英及阿拉伯语市场中的技术成熟度、产业伙伴、政策语言与商业化障碍。",
           "next": "下一成果：完成跨语言概念与合作伙伴字段模板。"
+        },
+        {
+          "programId": "saeon-global-energy",
+          "title": "全球能源观察站",
+          "status": "长期研究 · 周度推进",
+          "summary": "创刊基线：4段历史、3项前沿议题、6条国际活动日程；独立复核待完成。",
+          "currentQuestion": "下一期：核验韩国集中合同市场的一份原始招标文件；建立LFP与钠离子的同口径比较表；补查中国、澳大利亚及中东主办方活动。未完成项保留，不自动改写为进展。",
+          "next": "下一期：核验韩国集中合同市场的一份原始招标文件；建立LFP与钠离子的同口径比较表；补查中国、澳大利亚及中东主办方活动。未完成项保留，不自动改写为进展。",
+          "unfinished": "统一记录MW、MWh与额定持续时间；区分规划、招标、签约、开工和投运。论文、企业声明和独立测试分别标注。每周新增至少一项实质研究，保留无变化与失败记录；尚未进行独立复核。",
+          "updatedAt": "2026-09-22",
+          "eventDate": "2026-09-22",
+          "evidenceStatus": "awaiting_review",
+          "sourceUrls": [
+            "energy.html?lang=zh",
+            "research/2026-09-22/energy-observatory.json"
+          ]
         }
       ],
       "en": [
@@ -94,6 +110,22 @@
           "status": "RESEARCH QUEUE",
           "summary": "Compare technology readiness, industrial partners, policy language, and commercialization barriers across Korean, Japanese, Chinese, English, and Arabic markets.",
           "next": "Next output: a cross-language concept and partner-field template."
+        },
+        {
+          "programId": "saeon-global-energy",
+          "title": "Global Energy Observatory",
+          "status": "Long-term · Weekly advance",
+          "summary": "Launch baseline: four historical entries, three frontier questions and six international event schedules; independent review pending.",
+          "currentQuestion": "Next: verify one original Korean central-market tender, build a like-for-like LFP–sodium comparison, and check organiser calendars in China, Australia and the Middle East. Carry gaps forward without claiming progress.",
+          "next": "Next: verify one original Korean central-market tender, build a like-for-like LFP–sodium comparison, and check organiser calendars in China, Australia and the Middle East. Carry gaps forward without claiming progress.",
+          "unfinished": "Record MW, MWh and rated duration separately; distinguish plans, tenders, contracts, construction and operation. Label papers, company claims and independent tests distinctly. Add substantive research weekly, retaining no-change and failed checks. Independent review is pending.",
+          "updatedAt": "2026-09-22",
+          "eventDate": "2026-09-22",
+          "evidenceStatus": "awaiting_review",
+          "sourceUrls": [
+            "energy.html?lang=en",
+            "research/2026-09-22/energy-observatory.json"
+          ]
         }
       ],
       "ko": [
@@ -141,6 +173,22 @@
           "status": "연구 대기열",
           "summary": "한국어·일본어·중국어·영어·아랍어 시장의 기술 성숙도, 산업 파트너, 정책 언어, 사업화 장벽을 비교합니다.",
           "next": "다음 산출물: 다국어 개념·협력 파트너 필드 템플릿."
+        },
+        {
+          "programId": "saeon-global-energy",
+          "title": "글로벌 에너지 관측소",
+          "status": "장기 연구 · 주간 진전",
+          "summary": "창간 기준선: 역사 4건·프런티어 질문 3건·국제 행사 일정 6건. 독립 검토 대기.",
+          "currentQuestion": "다음 호: 한국 중앙계약 원입찰 문서 1건 검증, LFP·나트륨 동일 기준 비교표, 중국·호주·중동 주최 측 행사 확인. 미완료는 진전으로 바꾸지 않고 이월합니다.",
+          "next": "다음 호: 한국 중앙계약 원입찰 문서 1건 검증, LFP·나트륨 동일 기준 비교표, 중국·호주·중동 주최 측 행사 확인. 미완료는 진전으로 바꾸지 않고 이월합니다.",
+          "unfinished": "MW·MWh·정격 지속시간을 분리하고 계획·입찰·계약·착공·가동을 구분합니다. 논문·기업 주장·독립 시험을 각각 표시합니다. 매주 실질 연구를 추가하며 변화 없음·확인 실패도 남깁니다. 독립 검토는 대기 중입니다.",
+          "updatedAt": "2026-09-22",
+          "eventDate": "2026-09-22",
+          "evidenceStatus": "awaiting_review",
+          "sourceUrls": [
+            "energy.html?lang=ko",
+            "research/2026-09-22/energy-observatory.json"
+          ]
         }
       ]
     },

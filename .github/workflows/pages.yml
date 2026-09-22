@@ -29,6 +29,7 @@ jobs:
         run: |
           node --test scripts/test-citizen-work.mjs
           node --test scripts/test-public-research.mjs
+          node --test scripts/test-energy.mjs
           node scripts/citizen-work.mjs validate
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3

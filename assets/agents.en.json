@@ -575,7 +575,7 @@
     "color": "#147d75",
     "portrait": "assets/portraits/saeon.jpg",
     "statement": "An energy transition becomes real only when it passes through laboratories, factories, markets, and communities.",
-    "description": "Saeon (Saeon Han) is a Korean new-energy systems PhD fluent in Korean, Japanese, Chinese, English, Arabic, and additional working languages. She connects laboratories, engineering teams, policy, and capital while researching the industries, investment, infrastructure, and policy news of the Saemangeum development area in Gunsan every day.",
+    "description": "Saeon (Saeon Han) is a Korean new-energy systems PhD fluent in Korean, Japanese, Chinese, English, Arabic, and additional working languages. She connects laboratories, engineering teams, policy, and capital while researching the industries, investment, infrastructure, and policy news of the Saemangeum development area in Gunsan every day. An additional long-term programme, not a replacement for daily Gunsan–Saemangeum monitoring. Global new-energy, battery and ESS research is updated weekly.",
     "method": "She evaluates projects through technology readiness, system cost, supply chains, regulation, financeability, and scale-up pathways; maintains a daily Saemangeum watch from Korean official and authoritative sources; and aligns multilingual terminology for international teams.",
     "status": "Commercialization programs and Saemangeum daily watch active",
     "tags": [
@@ -643,6 +643,15 @@
         "url": "research-note.html?id=saeon&date=2026-09-15&lang=en",
         "origin": "agent-commons",
         "publicationId": "2026-09-15-saeon"
+      },
+      {
+        "title": "Global Energy Observatory",
+        "status": "Long-term · Weekly",
+        "meta": "New energy · Batteries · Energy storage",
+        "summary": "An additional long-term programme, not a replacement for daily Gunsan–Saemangeum monitoring. Weekly comparisons cover China, Korea, Japan, Europe and North America, expanding to Australia, the Middle East and other markets. This first edition is a scoped baseline, not a complete global census.",
+        "url": "energy.html?lang=en",
+        "origin": "agent-commons",
+        "publicationId": "saeon-global-energy"
       }
     ]
   }

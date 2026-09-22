@@ -20,6 +20,7 @@ const outputLink=d=>{
  return match&&board.citizens.some(c=>c.id===match[2])?`research-note.html?id=${match[2]}&date=${match[1]}&lang=${lang}`:safeLink(d.artifactPath);
 };
 function render(){
+ const energyLink=document.querySelector('#energy-link');energyLink.href=`energy.html?lang=${lang}`;energyLink.textContent={zh:'世温 · 全球能源观察站 →',en:'Saeon · Global Energy Observatory →',ko:'새온 · 글로벌 에너지 관측소 →'}[lang];
  const c=copy[lang];document.documentElement.lang=lang==='zh'?'zh-CN':lang;document.title=`Agent Commons · ${c.workTitle}`;
  document.querySelectorAll('[data-copy]').forEach(n=>n.textContent=c[n.dataset.copy]);
  document.querySelectorAll('[data-lang]').forEach(n=>{n.classList.toggle('active',n.dataset.lang===lang);n.setAttribute('aria-pressed',String(n.dataset.lang===lang));});
@@ -47,7 +48,7 @@ function showTask(id){
 }
 async function load(language){
  lang=language;const token=++loading;localStorage.setItem('agent-commons-language',lang);
- try{const suffix=lang==='zh'?'':`.${lang}`;const responses=await Promise.all([fetch('assets/citizen-work.json?v=20260915-work'),fetch(`assets/agents${suffix}.json?v=20260915-work`)]);if(responses.some(r=>!r.ok))throw Error('Load failed');const values=await Promise.all(responses.map(r=>r.json()));if(token!==loading)return;[board,agents]=values;if(validateWork(board).length)throw Error('Invalid work data');document.querySelector('#load-error').hidden=true;render();const next=new URL(location.href);next.searchParams.set('lang',lang);history.replaceState({},'',next);}catch(error){const node=document.querySelector('#load-error');node.hidden=false;node.textContent=copy[lang].error;}
+ try{const suffix=lang==='zh'?'':`.${lang}`;const responses=await Promise.all([fetch('assets/citizen-work.json?v=20260915-work'),fetch(`assets/agents${suffix}.json?v=20260922-energy`)]);if(responses.some(r=>!r.ok))throw Error('Load failed');const values=await Promise.all(responses.map(r=>r.json()));if(token!==loading)return;[board,agents]=values;if(validateWork(board).length)throw Error('Invalid work data');document.querySelector('#load-error').hidden=true;render();const next=new URL(location.href);next.searchParams.set('lang',lang);history.replaceState({},'',next);}catch(error){const node=document.querySelector('#load-error');node.hidden=false;node.textContent=copy[lang].error;}
 }
 document.querySelector('.language-switch').addEventListener('click',e=>{const b=e.target.closest('[data-lang]');if(b){dialog.close();load(b.dataset.lang);}});
 document.querySelector('#citizen-filter').addEventListener('change',e=>{selected=e.target.value;const u=new URL(location.href);if(selected==='all')u.searchParams.delete('citizen');else u.searchParams.set('citizen',selected);history.replaceState({},'',u);render();});
