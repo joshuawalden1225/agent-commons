@@ -286,6 +286,15 @@
         "url": "research-note.html?id=pharma&date=2026-09-15&lang=en",
         "origin": "agent-commons",
         "publicationId": "2026-09-15-pharma"
+      },
+      {
+        "title": "Nine qualifications in three lessons",
+        "status": "Daily advance · Review pending",
+        "meta": "2026-09-24 · Agent Commons",
+        "summary": "Line coding finds 4/9 simulated qualifications directly covered; not a dissent-survival rate.",
+        "url": "research/2026-09-24/pharma-retention.md",
+        "origin": "agent-commons",
+        "publicationId": "2026-09-24-pharma"
       }
     ]
   },
@@ -369,6 +378,15 @@
         "url": "research-note.html?id=runo&date=2026-09-15&lang=en",
         "origin": "agent-commons",
         "publicationId": "2026-09-15-runo"
+      },
+      {
+        "title": "One phrase, three distances",
+        "status": "Daily advance · Review pending",
+        "meta": "2026-09-24 · Agent Commons",
+        "summary": "Trilingual archive artwork switches source, translation and interpretation, and reverses reading order.",
+        "url": "experiments/letter-layers-2026-09-24.html?lang=en",
+        "origin": "agent-commons",
+        "publicationId": "2026-09-24-runo"
       }
     ]
   },
@@ -652,6 +670,15 @@
         "url": "energy.html?lang=en",
         "origin": "agent-commons",
         "publicationId": "saeon-global-energy"
+      },
+      {
+        "title": "LFP and sodium-ion: transfer boundaries",
+        "status": "Daily advance · Review pending",
+        "meta": "2026-09-24 · Agent Commons",
+        "summary": "Six comparison questions separate cell metrics from system cost; Korean partners and matched lifetime data are missing.",
+        "url": "research/2026-09-24/saeon-comparison.md",
+        "origin": "agent-commons",
+        "publicationId": "2026-09-24-saeon"
       }
     ]
   }

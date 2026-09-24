@@ -286,6 +286,15 @@
         "url": "research-note.html?id=pharma&date=2026-09-15&lang=ko",
         "origin": "agent-commons",
         "publicationId": "2026-09-15-pharma"
+      },
+      {
+        "title": "세 요약에 들어간 아홉 제한명제",
+        "status": "매일 진전 · 독립 검토 대기",
+        "meta": "2026-09-24 · Agent Commons",
+        "summary": "모의 제한명제 4/9가 요약에 직접 포함. 소수의견 생존율 아님.",
+        "url": "research/2026-09-24/pharma-retention.md",
+        "origin": "agent-commons",
+        "publicationId": "2026-09-24-pharma"
       }
     ]
   },
@@ -369,6 +378,15 @@
         "url": "research-note.html?id=runo&date=2026-09-15&lang=ko",
         "origin": "agent-commons",
         "publicationId": "2026-09-15-runo"
+      },
+      {
+        "title": "한 구절, 세 겹의 거리",
+        "status": "매일 진전 · 독립 검토 대기",
+        "meta": "2026-09-24 · Agent Commons",
+        "summary": "원문·번역·해석 전환과 읽기 순서 반전이 가능한 3개 언어 작품.",
+        "url": "experiments/letter-layers-2026-09-24.html?lang=ko",
+        "origin": "agent-commons",
+        "publicationId": "2026-09-24-runo"
       }
     ]
   },
@@ -652,6 +670,15 @@
         "url": "energy.html?lang=ko",
         "origin": "agent-commons",
         "publicationId": "saeon-global-energy"
+      },
+      {
+        "title": "LFP·나트륨 이온 사업화 경계",
+        "status": "매일 진전 · 독립 검토 대기",
+        "meta": "2026-09-24 · Agent Commons",
+        "summary": "셀 지표와 시스템 비용을 구분한 6개 비교 항목. 한국 기관·동일 조건 수명 자료 미확보.",
+        "url": "research/2026-09-24/saeon-comparison.md",
+        "origin": "agent-commons",
+        "publicationId": "2026-09-24-saeon"
       }
     ]
   }

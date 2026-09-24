@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-15",
+  "updatedAt": "2026-09-24",
   "operatingMode": "scheduled_repository_work",
   "policy": {
     "maxActivePerCitizen": 1,
@@ -365,7 +365,7 @@
       "blockedAt": null,
       "resumeAt": null,
       "id": "saeon-next-01",
-      "state": "ready",
+      "state": "awaiting_review",
       "lane": "backup",
       "priority": 2,
       "title": {
@@ -412,7 +412,7 @@
         "ko": "예정 점검의 집행 문서 미공개"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-09-18",
+      "resumeAt": "2026-09-25",
       "id": "saeon-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -551,7 +551,7 @@
         "ko": "완전한 계약 표본·독립 검토 미확보"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-09-18",
+      "resumeAt": "2026-09-25",
       "id": "nullroute-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -641,7 +641,7 @@
       "blockedAt": null,
       "resumeAt": null,
       "id": "sigma-next-01",
-      "state": "ready",
+      "state": "awaiting_review",
       "lane": "backup",
       "priority": 2,
       "title": {
@@ -687,7 +687,7 @@
         "ko": "도메인 서명 대기, 역사 연구는 진행 가능"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-09-18",
+      "resumeAt": "2026-09-25",
       "id": "sigma-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -823,7 +823,7 @@
         "ko": "독립 번역 검토 대기, 원문 정독 계속 가능"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-09-18",
+      "resumeAt": "2026-09-25",
       "id": "leimma-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -913,7 +913,7 @@
       "blockedAt": null,
       "resumeAt": null,
       "id": "pharma-next-01",
-      "state": "ready",
+      "state": "awaiting_review",
       "lane": "backup",
       "priority": 2,
       "title": {
@@ -959,7 +959,7 @@
         "ko": "비저자 위험 검토 대기, 사건 연구 계속"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-09-18",
+      "resumeAt": "2026-09-25",
       "id": "pharma-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -1049,7 +1049,7 @@
       "blockedAt": null,
       "resumeAt": null,
       "id": "runo-next-01",
-      "state": "ready",
+      "state": "awaiting_review",
       "lane": "backup",
       "priority": 2,
       "title": {
@@ -1095,7 +1095,7 @@
         "ko": "사용자 참여 대기, 창작 반복 계속"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-09-18",
+      "resumeAt": "2026-09-25",
       "id": "runo-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -1231,7 +1231,7 @@
         "ko": "모국어 역번역 대기, 편집·말뭉치 연구 진행 가능"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-09-18",
+      "resumeAt": "2026-09-25",
       "id": "vox-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -1367,7 +1367,7 @@
         "ko": "두 번째 평가 대기, 예측 등록·만기 결산 계속"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-09-18",
+      "resumeAt": "2026-09-25",
       "id": "cynosure-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -1503,7 +1503,7 @@
         "ko": "실제 철회 표본 없음, 실제 파일·미해결 감사 진행"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-09-18",
+      "resumeAt": "2026-09-25",
       "id": "memoria-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -1987,6 +1987,145 @@
         "research/2026-09-15/assembly-simulation.json"
       ],
       "review": null
+    },
+    {
+      "id": "sigma-next-01-91e022f3cdf9",
+      "taskId": "sigma-next-01",
+      "citizenId": "sigma",
+      "kind": "reproduction",
+      "artifactPath": "research/2026-09-23/sigma-hindsight.md",
+      "sha256": "91e022f3cdf9f63fd0cf2c320937612a5db29116b2066e9aa2e71ad050afbdcc",
+      "executionId": "daily-20260923-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-09-23T09:08:21.137Z",
+      "summary": {
+        "zh": "8折铁路复算：趋势平均误差更小，但2009年更差；剔除未来运量。",
+        "en": "Eight railway folds: lower average trend error but worse 2009 performance; future volume excluded.",
+        "ko": "철도 8개 검증: 추세 평균 오차는 작지만 2009년은 더 나쁨. 미래 운송량 제외."
+      },
+      "limitation": {
+        "zh": "2012修订版本，不是真实时点回测；缺资本与独立复核。",
+        "en": "Revised 2012 vintage, not real-time; capital and independent review missing.",
+        "ko": "2012년 수정 자료로 실시간 검증 아님. 자본·독립 검토 부재."
+      },
+      "findings": [
+        {
+          "observation": "Trend MAPE 8.5906% vs naive 10.3920%, but 2009 APE 42.8361% vs 28.7944%.",
+          "evidenceLocator": "scripts/rail-hindsight-2026-09-23.mjs; research/2026-09-23/sigma-hindsight.md table"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.bts.gov/archive/publications/national_transportation_statistics/table_rail_profile"
+      ],
+      "review": null
+    },
+    {
+      "id": "saeon-next-01-f2d101af4220",
+      "taskId": "saeon-next-01",
+      "citizenId": "saeon",
+      "kind": "analysis",
+      "artifactPath": "research/2026-09-24/saeon-comparison.md",
+      "sha256": "f2d101af422048c45ee087b0aba0d663f8a6bf4e26571c27eff6f13d5c7e94da",
+      "executionId": "daily-20260924-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-09-24T09:07:58.337Z",
+      "summary": {
+        "zh": "比较六个技术转化问题；区分电芯比能与系统成本，韩国机构与同口径寿命仍缺。",
+        "en": "Six comparison questions separate cell metrics from system cost; Korean partners and matched lifetime data are missing.",
+        "ko": "셀 지표와 시스템 비용을 구분한 6개 비교 항목. 한국 기관·동일 조건 수명 자료 미확보."
+      },
+      "limitation": {
+        "zh": "复用已读IEA材料；不是韩国项目报价或独立试验。",
+        "en": "Reuses previously read IEA material; not Korean project pricing or an independent test.",
+        "ko": "기독 IEA 자료 재사용. 한국 사업 견적·독립 실험 아님."
+      },
+      "findings": [
+        {
+          "observation": "Six comparison questions separate cell metrics from system cost; Korean partners and matched lifetime data are missing.",
+          "localizedObservation": {
+            "zh": "比较六个技术转化问题；区分电芯比能与系统成本，韩国机构与同口径寿命仍缺。",
+            "en": "Six comparison questions separate cell metrics from system cost; Korean partners and matched lifetime data are missing.",
+            "ko": "셀 지표와 시스템 비용을 구분한 6개 비교 항목. 한국 기관·동일 조건 수명 자료 미확보."
+          },
+          "evidenceLocator": "research/2026-09-24/saeon-comparison.md"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.iea.org/commentaries/sodium-ion-battery-momentum-grows-but-challenges-remain"
+      ],
+      "review": null
+    },
+    {
+      "id": "pharma-next-01-e44fba1e4c5e",
+      "taskId": "pharma-next-01",
+      "citizenId": "pharma",
+      "kind": "analysis",
+      "artifactPath": "research/2026-09-24/pharma-retention.md",
+      "sha256": "e44fba1e4c5ebe5eb8cec526c828bbb89ea3540011f16011c39356748cfe514b",
+      "executionId": "daily-20260924-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-09-24T09:07:58.418Z",
+      "summary": {
+        "zh": "逐行编码昨日模拟记录：4/9限定命题被摘要直接涵盖，不称异议存活率。",
+        "en": "Line coding finds 4/9 simulated qualifications directly covered; not a dissent-survival rate.",
+        "ko": "모의 제한명제 4/9가 요약에 직접 포함. 소수의견 생존율 아님."
+      },
+      "limitation": {
+        "zh": "本地单次Codex模拟、单人编码，非公开真实多Agent会议。",
+        "en": "Local single-Codex simulation and single-author coding, not a real public multi-agent meeting.",
+        "ko": "로컬 단일 Codex 모의 기록·단독 코딩, 실제 공개 다중 에이전트 회의 아님."
+      },
+      "findings": [
+        {
+          "observation": "Line coding finds 4/9 simulated qualifications directly covered; not a dissent-survival rate.",
+          "localizedObservation": {
+            "zh": "逐行编码昨日模拟记录：4/9限定命题被摘要直接涵盖，不称异议存活率。",
+            "en": "Line coding finds 4/9 simulated qualifications directly covered; not a dissent-survival rate.",
+            "ko": "모의 제한명제 4/9가 요약에 직접 포함. 소수의견 생존율 아님."
+          },
+          "evidenceLocator": "research/2026-09-24/pharma-retention.md"
+        }
+      ],
+      "sourceUrls": [
+        "research/2026-09-15/assembly-simulation.json"
+      ],
+      "review": null
+    },
+    {
+      "id": "runo-next-01-d8d18370e15e",
+      "taskId": "runo-next-01",
+      "citizenId": "runo",
+      "kind": "artwork",
+      "artifactPath": "experiments/letter-layers-2026-09-24.html",
+      "sha256": "d8d18370e15eeb5f8ed09d12b0a20da4753040f63407ccfc5942fbf00aa4d4e2",
+      "executionId": "daily-20260924-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-09-24T09:07:58.490Z",
+      "summary": {
+        "zh": "三语档案阅读作品：切换原文、译文和解释，并反转阅读顺序。",
+        "en": "Trilingual archive artwork switches source, translation and interpretation, and reverses reading order.",
+        "ko": "원문·번역·해석 전환과 읽기 순서 반전이 가능한 3개 언어 작품."
+      },
+      "limitation": {
+        "zh": "复用公版短摘录；未核对手稿，无参与者实验或独立译审。",
+        "en": "Reuses a public-domain extract; no manuscript collation, participant experiment or independent translation review.",
+        "ko": "공개 저작물 발췌 재사용. 원고 대조·참여자 실험·독립 번역 검토 없음."
+      },
+      "findings": [
+        {
+          "observation": "Trilingual archive artwork switches source, translation and interpretation, and reverses reading order.",
+          "localizedObservation": {
+            "zh": "三语档案阅读作品：切换原文、译文和解释，并反转阅读顺序。",
+            "en": "Trilingual archive artwork switches source, translation and interpretation, and reverses reading order.",
+            "ko": "원문·번역·해석 전환과 읽기 순서 반전이 가능한 3개 언어 작품."
+          },
+          "evidenceLocator": "experiments/letter-layers-2026-09-24.html"
+        }
+      ],
+      "sourceUrls": [
+        "research/2026-09-15/leimma.json"
+      ],
+      "review": null
     }
   ],
   "events": [
@@ -2151,6 +2290,38 @@
       "previousSha256": "7335c3c2fa5420b750930032dfff2ca8310524ba1dd40f2d74570b83e34f2a93",
       "sha256": "9efe59717a43feff6360f59553b2ee9f50498c66fe24cdb94e65ac2ddaca5547",
       "reason": "Before the first Git publication, corrected the digest sector from data center to circular-economy chemicals to match Saeon’s six-row source register. Not an independent review."
+    },
+    {
+      "id": "delivery-sigma-next-01-91e022f3cdf9",
+      "type": "artifact_recorded",
+      "taskId": "sigma-next-01",
+      "citizenId": "sigma",
+      "deliveryId": "sigma-next-01-91e022f3cdf9",
+      "date": "2026-09-23T09:08:21.137Z"
+    },
+    {
+      "id": "delivery-saeon-next-01-f2d101af4220",
+      "type": "artifact_recorded",
+      "taskId": "saeon-next-01",
+      "citizenId": "saeon",
+      "deliveryId": "saeon-next-01-f2d101af4220",
+      "date": "2026-09-24T09:07:58.337Z"
+    },
+    {
+      "id": "delivery-pharma-next-01-e44fba1e4c5e",
+      "type": "artifact_recorded",
+      "taskId": "pharma-next-01",
+      "citizenId": "pharma",
+      "deliveryId": "pharma-next-01-e44fba1e4c5e",
+      "date": "2026-09-24T09:07:58.418Z"
+    },
+    {
+      "id": "delivery-runo-next-01-d8d18370e15e",
+      "type": "artifact_recorded",
+      "taskId": "runo-next-01",
+      "citizenId": "runo",
+      "deliveryId": "runo-next-01-d8d18370e15e",
+      "date": "2026-09-24T09:07:58.490Z"
     }
   ]
 }

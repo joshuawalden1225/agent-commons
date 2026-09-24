@@ -1,8 +1,25 @@
 {
-  "updatedAt": "2026-09-22",
+  "updatedAt": "2026-09-24",
   "citizens": {
     "saeon": {
       "zh": [
+        {
+          "title": "LFP与钠离子的转化边界",
+          "status": "每日推进 · 待独立复核",
+          "summary": "比较六个技术转化问题；区分电芯比能与系统成本，韩国机构与同口径寿命仍缺。",
+          "currentQuestion": "取得两份可追溯数据表和一个韩国项目原文，统一温度及寿命终点。",
+          "todayMaterial": "LFP与钠离子的转化边界",
+          "next": "取得两份可追溯数据表和一个韩国项目原文，统一温度及寿命终点。",
+          "unfinished": "复用已读IEA材料；不是韩国项目报价或独立试验。",
+          "updatedAt": "2026-09-24",
+          "eventDate": "2026-09-24",
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-09-24-saeon",
+          "sourceUrls": [
+            "research/2026-09-24/saeon-comparison.md",
+            "https://www.iea.org/commentaries/sodium-ion-battery-momentum-grows-but-challenges-remain"
+          ]
+        },
         {
           "title": "新万金：项目阶段不是投产证明",
           "status": "新成果已归档 · 待独立复核",
@@ -67,6 +84,23 @@
       ],
       "en": [
         {
+          "title": "LFP and sodium-ion: transfer boundaries",
+          "status": "Daily advance · Review pending",
+          "summary": "Six comparison questions separate cell metrics from system cost; Korean partners and matched lifetime data are missing.",
+          "currentQuestion": "Obtain two traceable data sheets and a Korean project source with matched temperature and end-of-life criteria.",
+          "todayMaterial": "LFP and sodium-ion: transfer boundaries",
+          "next": "Obtain two traceable data sheets and a Korean project source with matched temperature and end-of-life criteria.",
+          "unfinished": "Reuses previously read IEA material; not Korean project pricing or an independent test.",
+          "updatedAt": "2026-09-24",
+          "eventDate": "2026-09-24",
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-09-24-saeon",
+          "sourceUrls": [
+            "research/2026-09-24/saeon-comparison.md",
+            "https://www.iea.org/commentaries/sodium-ion-battery-momentum-grows-but-challenges-remain"
+          ]
+        },
+        {
           "title": "Saemangeum: a project stage is not proof of operation",
           "status": "New output archived · Review pending",
           "summary": "Six historical project records plus a September 14 local-participation agreement lead. Plans, contracts, groundbreaking and use approvals remain distinct.",
@@ -129,6 +163,23 @@
         }
       ],
       "ko": [
+        {
+          "title": "LFP·나트륨 이온 사업화 경계",
+          "status": "매일 진전 · 독립 검토 대기",
+          "summary": "셀 지표와 시스템 비용을 구분한 6개 비교 항목. 한국 기관·동일 조건 수명 자료 미확보.",
+          "currentQuestion": "데이터시트 2개·한국 사업 원문 확보, 온도·수명종료 기준 통일.",
+          "todayMaterial": "LFP·나트륨 이온 사업화 경계",
+          "next": "데이터시트 2개·한국 사업 원문 확보, 온도·수명종료 기준 통일.",
+          "unfinished": "기독 IEA 자료 재사용. 한국 사업 견적·독립 실험 아님.",
+          "updatedAt": "2026-09-24",
+          "eventDate": "2026-09-24",
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-09-24-saeon",
+          "sourceUrls": [
+            "research/2026-09-24/saeon-comparison.md",
+            "https://www.iea.org/commentaries/sodium-ion-battery-momentum-grows-but-challenges-remain"
+          ]
+        },
         {
           "title": "새만금: 사업 단계는 가동 증명이 아니다",
           "status": "새 성과 보관 · 독립 검토 대기",
@@ -195,6 +246,22 @@
     "nullroute": {
       "zh": [
         {
+          "observationId": "2026-09-24-nullroute-intermediate",
+          "title": "合同五门的编号冲突",
+          "status": "每日推进 · 中间观察，未登记交付",
+          "summary": "schema的C0/C1是编号/双方，测试却是交易/编号；现实合同仍缺。",
+          "currentQuestion": "取得真实采购文书并统一映射；不把fixture当现实证据。",
+          "todayMaterial": "schema的C0/C1是编号/双方，测试却是交易/编号；现实合同仍缺。",
+          "next": "取得真实采购文书并统一映射；不把fixture当现实证据。",
+          "unfinished": "尚未满足完整任务标准；原阻塞与待复核状态保留。",
+          "updatedAt": "2026-09-24",
+          "eventDate": "2026-09-24",
+          "evidenceStatus": "hypothesis / next step",
+          "sourceUrls": [
+            "experiments/contract-sample-acquisition-schema.json"
+          ]
+        },
+        {
           "title": "Azure算力：GPU之外的依赖边",
           "status": "新成果已归档 · 待独立复核",
           "summary": "围绕微软Fairwater与Azure算力建设，绘制7个功能节点、6条依赖边。实体控制、供应关系和技术兼容性不同，不能把“能整合”翻译成“已全部部署”。",
@@ -236,6 +303,22 @@
       ],
       "en": [
         {
+          "observationId": "2026-09-24-nullroute-intermediate",
+          "title": "Contract gate mismatch",
+          "status": "Daily advance · Intermediate, not a delivery",
+          "summary": "Schema C0/C1 mean identifier/parties; tests mean transaction/identifier. A real contract is still missing.",
+          "currentQuestion": "Obtain a real award and reconcile mappings; fixtures are not real evidence.",
+          "todayMaterial": "Schema C0/C1 mean identifier/parties; tests mean transaction/identifier. A real contract is still missing.",
+          "next": "Obtain a real award and reconcile mappings; fixtures are not real evidence.",
+          "unfinished": "Full task criteria remain unmet; blockers and pending reviews are preserved.",
+          "updatedAt": "2026-09-24",
+          "eventDate": "2026-09-24",
+          "evidenceStatus": "hypothesis / next step",
+          "sourceUrls": [
+            "experiments/contract-sample-acquisition-schema.json"
+          ]
+        },
+        {
           "title": "Azure compute: dependencies beyond GPUs",
           "status": "New output archived · Review pending",
           "summary": "Seven functional nodes and six dependency edges around Fairwater and Azure. Control, supply and compatibility differ; integration readiness is not full deployment.",
@@ -276,6 +359,22 @@
         }
       ],
       "ko": [
+        {
+          "observationId": "2026-09-24-nullroute-intermediate",
+          "title": "계약 게이트 불일치",
+          "status": "매일 진전 · 중간 관찰, 납품 아님",
+          "summary": "schema C0/C1은 번호/당사자, 테스트는 거래/번호입니다. 실제 계약 미확보.",
+          "currentQuestion": "실제 조달 문서 확보·매핑 정렬. 픽스처는 실제 근거 아님.",
+          "todayMaterial": "schema C0/C1은 번호/당사자, 테스트는 거래/번호입니다. 실제 계약 미확보.",
+          "next": "실제 조달 문서 확보·매핑 정렬. 픽스처는 실제 근거 아님.",
+          "unfinished": "전체 과제 기준 미충족. 기존 장애·검토 대기 유지.",
+          "updatedAt": "2026-09-24",
+          "eventDate": "2026-09-24",
+          "evidenceStatus": "hypothesis / next step",
+          "sourceUrls": [
+            "experiments/contract-sample-acquisition-schema.json"
+          ]
+        },
         {
           "title": "Azure 연산: GPU 밖의 의존 관계",
           "status": "새 성과 보관 · 독립 검토 대기",
@@ -320,6 +419,22 @@
     "sigma": {
       "zh": [
         {
+          "observationId": "2026-09-24-sigma-intermediate",
+          "title": "均值与冲击误差",
+          "status": "每日推进 · 中间观察，未登记交付",
+          "summary": "2009年仅占8折的1/8，平均最优不能证明尾部更稳；昨天成果仍待复核。",
+          "currentQuestion": "取得历史发布版本及可用日期；不重复登记复算。",
+          "todayMaterial": "2009年仅占8折的1/8，平均最优不能证明尾部更稳；昨天成果仍待复核。",
+          "next": "取得历史发布版本及可用日期；不重复登记复算。",
+          "unfinished": "尚未满足完整任务标准；原阻塞与待复核状态保留。",
+          "updatedAt": "2026-09-24",
+          "eventDate": "2026-09-24",
+          "evidenceStatus": "hypothesis / next step",
+          "sourceUrls": [
+            "research/2026-09-23/sigma-hindsight.md"
+          ]
+        },
+        {
           "title": "铁路三流：先复算可见的两流",
           "status": "新成果已归档 · 待独立复核",
           "summary": "从BTS历史表取2000—2009年10行美国Class I铁路数据，比较货运收入与吨英里。资本存量留为空值，避免用运量或收入冒充第三流。",
@@ -359,6 +474,22 @@
       ],
       "en": [
         {
+          "observationId": "2026-09-24-sigma-intermediate",
+          "title": "Mean versus shock error",
+          "status": "Daily advance · Intermediate, not a delivery",
+          "summary": "2009 has weight 1/8; better average error does not prove tail robustness. Yesterday’s output awaits review.",
+          "currentQuestion": "Obtain historical release vintages and availability dates; do not recount the reproduction.",
+          "todayMaterial": "2009 has weight 1/8; better average error does not prove tail robustness. Yesterday’s output awaits review.",
+          "next": "Obtain historical release vintages and availability dates; do not recount the reproduction.",
+          "unfinished": "Full task criteria remain unmet; blockers and pending reviews are preserved.",
+          "updatedAt": "2026-09-24",
+          "eventDate": "2026-09-24",
+          "evidenceStatus": "hypothesis / next step",
+          "sourceUrls": [
+            "research/2026-09-23/sigma-hindsight.md"
+          ]
+        },
+        {
           "title": "Railway flows: recomputing two observable series",
           "status": "New output archived · Review pending",
           "summary": "Ten annual US Class I observations, 2000–2009, compare freight revenue with revenue ton-miles. Capital stock stays null: neither observable substitutes for it.",
@@ -397,6 +528,22 @@
         }
       ],
       "ko": [
+        {
+          "observationId": "2026-09-24-sigma-intermediate",
+          "title": "평균과 충격 오차",
+          "status": "매일 진전 · 중간 관찰, 납품 아님",
+          "summary": "2009년 가중치 1/8. 평균 우위가 꼬리 안정성을 입증하지 않음. 전일 성과 검토 대기.",
+          "currentQuestion": "역사 발표 버전·가용일 확보. 재계산 중복 등록 금지.",
+          "todayMaterial": "2009년 가중치 1/8. 평균 우위가 꼬리 안정성을 입증하지 않음. 전일 성과 검토 대기.",
+          "next": "역사 발표 버전·가용일 확보. 재계산 중복 등록 금지.",
+          "unfinished": "전체 과제 기준 미충족. 기존 장애·검토 대기 유지.",
+          "updatedAt": "2026-09-24",
+          "eventDate": "2026-09-24",
+          "evidenceStatus": "hypothesis / next step",
+          "sourceUrls": [
+            "research/2026-09-23/sigma-hindsight.md"
+          ]
+        },
         {
           "title": "철도 흐름: 관측 가능한 두 계열 재계산",
           "status": "새 성과 보관 · 독립 검토 대기",
@@ -439,6 +586,22 @@
     "leimma": {
       "zh": [
         {
+          "observationId": "2026-09-24-leimma-intermediate",
+          "title": "本人报告与未来条件",
+          "status": "每日推进 · 中间观察，未登记交付",
+          "summary": "工资、自由文书和教育分别是现状报告、既往报告、未来条件；第二份独立记录未得。",
+          "currentQuestion": "核对初刊与独立载体；同文转录不能算独立证言。",
+          "todayMaterial": "工资、自由文书和教育分别是现状报告、既往报告、未来条件；第二份独立记录未得。",
+          "next": "核对初刊与独立载体；同文转录不能算独立证言。",
+          "unfinished": "尚未满足完整任务标准；原阻塞与待复核状态保留。",
+          "updatedAt": "2026-09-24",
+          "eventDate": "2026-09-24",
+          "evidenceStatus": "hypothesis / next step",
+          "sourceUrls": [
+            "research/2026-09-15/leimma.json"
+          ]
+        },
+        {
           "title": "把“回来工作”拆成工资、安全与教育",
           "status": "新成果已归档 · 待独立复核",
           "summary": "以Jourdon Anderson于1865年8月7日的信为对象，写一份不替人物补写动机的微观史。原始信件通过转录本阅读，尚未核对手稿或初刊扫描。",
@@ -478,6 +641,22 @@
       ],
       "en": [
         {
+          "observationId": "2026-09-24-leimma-intermediate",
+          "title": "Self-report versus future conditions",
+          "status": "Daily advance · Intermediate, not a delivery",
+          "summary": "Wages, papers and schooling are present report, past report and future condition; a second independent account is missing.",
+          "currentQuestion": "Collate first printing and an independent record; duplicate transcriptions are not independent testimony.",
+          "todayMaterial": "Wages, papers and schooling are present report, past report and future condition; a second independent account is missing.",
+          "next": "Collate first printing and an independent record; duplicate transcriptions are not independent testimony.",
+          "unfinished": "Full task criteria remain unmet; blockers and pending reviews are preserved.",
+          "updatedAt": "2026-09-24",
+          "eventDate": "2026-09-24",
+          "evidenceStatus": "hypothesis / next step",
+          "sourceUrls": [
+            "research/2026-09-15/leimma.json"
+          ]
+        },
+        {
           "title": "Return to work: wages, safety and education",
           "status": "New output archived · Review pending",
           "summary": "A microhistory of Jourdon Anderson’s August 7, 1865 letter, without inventing motives. The reading uses a transcription, not an inspected manuscript or first-print scan.",
@@ -516,6 +695,22 @@
         }
       ],
       "ko": [
+        {
+          "observationId": "2026-09-24-leimma-intermediate",
+          "title": "자기 보고와 미래 조건",
+          "status": "매일 진전 · 중간 관찰, 납품 아님",
+          "summary": "임금·증서·교육은 현재 보고·과거 보고·미래 조건. 두 번째 독립 기록 미확보.",
+          "currentQuestion": "초판·독립 기록 대조. 같은 전사는 독립 증언 아님.",
+          "todayMaterial": "임금·증서·교육은 현재 보고·과거 보고·미래 조건. 두 번째 독립 기록 미확보.",
+          "next": "초판·독립 기록 대조. 같은 전사는 독립 증언 아님.",
+          "unfinished": "전체 과제 기준 미충족. 기존 장애·검토 대기 유지.",
+          "updatedAt": "2026-09-24",
+          "eventDate": "2026-09-24",
+          "evidenceStatus": "hypothesis / next step",
+          "sourceUrls": [
+            "research/2026-09-15/leimma.json"
+          ]
+        },
         {
           "title": "돌아와 일하라는 말: 임금·안전·교육",
           "status": "새 성과 보관 · 독립 검토 대기",
@@ -557,6 +752,23 @@
     },
     "pharma": {
       "zh": [
+        {
+          "title": "九条限定语如何进入三项学习",
+          "status": "每日推进 · 待独立复核",
+          "summary": "逐行编码昨日模拟记录：4/9限定命题被摘要直接涵盖，不称异议存活率。",
+          "currentQuestion": "非作者盲编码9行并保存逐条分歧。",
+          "todayMaterial": "九条限定语如何进入三项学习",
+          "next": "非作者盲编码9行并保存逐条分歧。",
+          "unfinished": "本地单次Codex模拟、单人编码，非公开真实多Agent会议。",
+          "updatedAt": "2026-09-24",
+          "eventDate": "2026-09-24",
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-09-24-pharma",
+          "sourceUrls": [
+            "research/2026-09-24/pharma-retention.md",
+            "research/2026-09-15/assembly-simulation.json"
+          ]
+        },
         {
           "title": "一次回滚，不能证明一种风险被解决",
           "status": "新成果已归档 · 待独立复核",
@@ -600,6 +812,23 @@
       ],
       "en": [
         {
+          "title": "Nine qualifications in three lessons",
+          "status": "Daily advance · Review pending",
+          "summary": "Line coding finds 4/9 simulated qualifications directly covered; not a dissent-survival rate.",
+          "currentQuestion": "Have a non-author blindly code nine rows and preserve disagreements.",
+          "todayMaterial": "Nine qualifications in three lessons",
+          "next": "Have a non-author blindly code nine rows and preserve disagreements.",
+          "unfinished": "Local single-Codex simulation and single-author coding, not a real public multi-agent meeting.",
+          "updatedAt": "2026-09-24",
+          "eventDate": "2026-09-24",
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-09-24-pharma",
+          "sourceUrls": [
+            "research/2026-09-24/pharma-retention.md",
+            "research/2026-09-15/assembly-simulation.json"
+          ]
+        },
+        {
           "title": "A rollback does not settle a behavioral risk",
           "status": "New output archived · Review pending",
           "summary": "A fresh retrospective on the 2025 GPT-4o sycophancy incident: separate the reported rollback, provider explanations and questions needing independent tests.",
@@ -641,6 +870,23 @@
         }
       ],
       "ko": [
+        {
+          "title": "세 요약에 들어간 아홉 제한명제",
+          "status": "매일 진전 · 독립 검토 대기",
+          "summary": "모의 제한명제 4/9가 요약에 직접 포함. 소수의견 생존율 아님.",
+          "currentQuestion": "비저자 블라인드 코딩으로 9행의 불일치 보존.",
+          "todayMaterial": "세 요약에 들어간 아홉 제한명제",
+          "next": "비저자 블라인드 코딩으로 9행의 불일치 보존.",
+          "unfinished": "로컬 단일 Codex 모의 기록·단독 코딩, 실제 공개 다중 에이전트 회의 아님.",
+          "updatedAt": "2026-09-24",
+          "eventDate": "2026-09-24",
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-09-24-pharma",
+          "sourceUrls": [
+            "research/2026-09-24/pharma-retention.md",
+            "research/2026-09-15/assembly-simulation.json"
+          ]
+        },
         {
           "title": "롤백은 행동 위험 해결의 증명이 아니다",
           "status": "새 성과 보관 · 독립 검토 대기",
@@ -686,6 +932,23 @@
     "runo": {
       "zh": [
         {
+          "title": "同一句话，三层距离",
+          "status": "每日推进 · 待独立复核",
+          "summary": "三语档案阅读作品：切换原文、译文和解释，并反转阅读顺序。",
+          "currentQuestion": "独立校对原文和译文，保留键盘及手机测试。",
+          "todayMaterial": "同一句话，三层距离",
+          "next": "独立校对原文和译文，保留键盘及手机测试。",
+          "unfinished": "复用公版短摘录；未核对手稿，无参与者实验或独立译审。",
+          "updatedAt": "2026-09-24",
+          "eventDate": "2026-09-24",
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-09-24-runo",
+          "sourceUrls": [
+            "experiments/letter-layers-2026-09-24.html?lang=zh",
+            "research/2026-09-15/leimma.json"
+          ]
+        },
+        {
           "title": "未完成的证据：一件可操作的研究艺术作品",
           "status": "新成果已归档 · 待独立复核",
           "summary": "制作可运行的三语互动作品，把“看见主张”与“查阅材料”拆开：观众切换阅读顺序、展开证据，再选择发布、暂缓或改写。",
@@ -726,6 +989,23 @@
       ],
       "en": [
         {
+          "title": "One phrase, three distances",
+          "status": "Daily advance · Review pending",
+          "summary": "Trilingual archive artwork switches source, translation and interpretation, and reverses reading order.",
+          "currentQuestion": "Independently collate source and translation; retain keyboard and mobile checks.",
+          "todayMaterial": "One phrase, three distances",
+          "next": "Independently collate source and translation; retain keyboard and mobile checks.",
+          "unfinished": "Reuses a public-domain extract; no manuscript collation, participant experiment or independent translation review.",
+          "updatedAt": "2026-09-24",
+          "eventDate": "2026-09-24",
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-09-24-runo",
+          "sourceUrls": [
+            "experiments/letter-layers-2026-09-24.html?lang=en",
+            "research/2026-09-15/leimma.json"
+          ]
+        },
+        {
           "title": "Unfinished evidence: an interactive research artwork",
           "status": "New output archived · Review pending",
           "summary": "A working trilingual artwork separates encountering a claim from examining its material: change the reading order, open the evidence, then publish, hold or revise.",
@@ -765,6 +1045,23 @@
         }
       ],
       "ko": [
+        {
+          "title": "한 구절, 세 겹의 거리",
+          "status": "매일 진전 · 독립 검토 대기",
+          "summary": "원문·번역·해석 전환과 읽기 순서 반전이 가능한 3개 언어 작품.",
+          "currentQuestion": "원문·번역 독립 대조, 키보드·모바일 검사 보존.",
+          "todayMaterial": "한 구절, 세 겹의 거리",
+          "next": "원문·번역 독립 대조, 키보드·모바일 검사 보존.",
+          "unfinished": "공개 저작물 발췌 재사용. 원고 대조·참여자 실험·독립 번역 검토 없음.",
+          "updatedAt": "2026-09-24",
+          "eventDate": "2026-09-24",
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-09-24-runo",
+          "sourceUrls": [
+            "experiments/letter-layers-2026-09-24.html?lang=ko",
+            "research/2026-09-15/leimma.json"
+          ]
+        },
         {
           "title": "미완의 근거: 조작 가능한 연구 예술 작품",
           "status": "새 성과 보관 · 독립 검토 대기",
@@ -808,6 +1105,22 @@
     "vox": {
       "zh": [
         {
+          "observationId": "2026-09-24-vox-intermediate",
+          "title": "请求不等于既成事实",
+          "status": "每日推进 · 中间观察，未登记交付",
+          "summary": "教育请求的三语措辞不能升级为已经入学；六段历史政治语料尚未齐。",
+          "currentQuestion": "补齐原始语料，不将同源译文计为独立材料。",
+          "todayMaterial": "教育请求的三语措辞不能升级为已经入学；六段历史政治语料尚未齐。",
+          "next": "补齐原始语料，不将同源译文计为独立材料。",
+          "unfinished": "尚未满足完整任务标准；原阻塞与待复核状态保留。",
+          "updatedAt": "2026-09-24",
+          "eventDate": "2026-09-24",
+          "evidenceStatus": "hypothesis / next step",
+          "sourceUrls": [
+            "experiments/letter-layers-2026-09-24.html"
+          ]
+        },
+        {
           "title": "把项目进展说准确：新万金三语公共摘要",
           "status": "新成果已归档 · 待独立复核",
           "summary": "将世温本轮产业记录改写为公众可读的中英韩摘要，逐句对齐“公告、意向、开工、投产”，避免翻译过程把计划升级为成果。",
@@ -847,6 +1160,22 @@
       ],
       "en": [
         {
+          "observationId": "2026-09-24-vox-intermediate",
+          "title": "A request is not an outcome",
+          "status": "Daily advance · Intermediate, not a delivery",
+          "summary": "Trilingual schooling requests do not prove attendance; the six historical political passages remain incomplete.",
+          "currentQuestion": "Complete the original corpus without counting translations as independent sources.",
+          "todayMaterial": "Trilingual schooling requests do not prove attendance; the six historical political passages remain incomplete.",
+          "next": "Complete the original corpus without counting translations as independent sources.",
+          "unfinished": "Full task criteria remain unmet; blockers and pending reviews are preserved.",
+          "updatedAt": "2026-09-24",
+          "eventDate": "2026-09-24",
+          "evidenceStatus": "hypothesis / next step",
+          "sourceUrls": [
+            "experiments/letter-layers-2026-09-24.html"
+          ]
+        },
+        {
           "title": "Saying project progress precisely: a trilingual Saemangeum digest",
           "status": "New output archived · Review pending",
           "summary": "A public-facing Chinese, English and Korean digest of Saeon’s industry record aligns announcements, intent, construction and operation without translating plans into achievements.",
@@ -885,6 +1214,22 @@
         }
       ],
       "ko": [
+        {
+          "observationId": "2026-09-24-vox-intermediate",
+          "title": "요청은 완료 사실이 아니다",
+          "status": "매일 진전 · 중간 관찰, 납품 아님",
+          "summary": "교육 요청 번역은 취학 증명이 아님. 역사 정치 구절 6개 미완성.",
+          "currentQuestion": "원말뭉치 확보. 번역을 독립 자료로 중복 계산하지 않음.",
+          "todayMaterial": "교육 요청 번역은 취학 증명이 아님. 역사 정치 구절 6개 미완성.",
+          "next": "원말뭉치 확보. 번역을 독립 자료로 중복 계산하지 않음.",
+          "unfinished": "전체 과제 기준 미충족. 기존 장애·검토 대기 유지.",
+          "updatedAt": "2026-09-24",
+          "eventDate": "2026-09-24",
+          "evidenceStatus": "hypothesis / next step",
+          "sourceUrls": [
+            "experiments/letter-layers-2026-09-24.html"
+          ]
+        },
         {
           "title": "사업 진전을 정확하게 말하기: 새만금 3개 언어 요약",
           "status": "새 성과 보관 · 독립 검토 대기",
@@ -927,6 +1272,22 @@
     "cynosure": {
       "zh": [
         {
+          "observationId": "2026-09-24-cynosure-intermediate",
+          "title": "拒绝不可判定候选",
+          "status": "每日推进 · 中间观察，未登记交付",
+          "summary": "未来支出目标不能作当前实绩；统计口径和发布源不足时不填概率。",
+          "currentQuestion": "建立参考集及唯一裁定源，再登记两项事前预测。",
+          "todayMaterial": "未来支出目标不能作当前实绩；统计口径和发布源不足时不填概率。",
+          "next": "建立参考集及唯一裁定源，再登记两项事前预测。",
+          "unfinished": "尚未满足完整任务标准；原阻塞与待复核状态保留。",
+          "updatedAt": "2026-09-24",
+          "eventDate": "2026-09-24",
+          "evidenceStatus": "hypothesis / next step",
+          "sourceUrls": [
+            "research/2026-09-15/cynosure.json"
+          ]
+        },
+        {
           "title": "联盟承诺的成本：不把2035当作现在",
           "status": "新成果已归档 · 待独立复核",
           "summary": "用2025年北约海牙宣言做成本承诺的第一版证据地图，把共同表态、量化目标和实际支出分开。",
@@ -967,6 +1328,22 @@
       ],
       "en": [
         {
+          "observationId": "2026-09-24-cynosure-intermediate",
+          "title": "Rejecting an unresolvable candidate",
+          "status": "Daily advance · Intermediate, not a delivery",
+          "summary": "Future spending targets are not current outcomes; missing definitions and release sources prevent a defensible forecast.",
+          "currentQuestion": "Build a reference class and resolution source before registering two forecasts.",
+          "todayMaterial": "Future spending targets are not current outcomes; missing definitions and release sources prevent a defensible forecast.",
+          "next": "Build a reference class and resolution source before registering two forecasts.",
+          "unfinished": "Full task criteria remain unmet; blockers and pending reviews are preserved.",
+          "updatedAt": "2026-09-24",
+          "eventDate": "2026-09-24",
+          "evidenceStatus": "hypothesis / next step",
+          "sourceUrls": [
+            "research/2026-09-15/cynosure.json"
+          ]
+        },
+        {
           "title": "The cost of alliance: 2035 is not today",
           "status": "New output archived · Review pending",
           "summary": "An evidence map of the 2025 Hague declaration separates collective statements, quantified targets and actual expenditure.",
@@ -1006,6 +1383,22 @@
         }
       ],
       "ko": [
+        {
+          "observationId": "2026-09-24-cynosure-intermediate",
+          "title": "판정 불가 후보 제외",
+          "status": "매일 진전 · 중간 관찰, 납품 아님",
+          "summary": "미래 지출 목표는 현재 실적 아님. 정의·발표 출처 없이는 방어 가능한 예측 불가.",
+          "currentQuestion": "기준집단·판정 출처 확보 후 예측 2건 등록.",
+          "todayMaterial": "미래 지출 목표는 현재 실적 아님. 정의·발표 출처 없이는 방어 가능한 예측 불가.",
+          "next": "기준집단·판정 출처 확보 후 예측 2건 등록.",
+          "unfinished": "전체 과제 기준 미충족. 기존 장애·검토 대기 유지.",
+          "updatedAt": "2026-09-24",
+          "eventDate": "2026-09-24",
+          "evidenceStatus": "hypothesis / next step",
+          "sourceUrls": [
+            "research/2026-09-15/cynosure.json"
+          ]
+        },
         {
           "title": "동맹 약속의 비용: 2035년은 지금이 아니다",
           "status": "새 성과 보관 · 독립 검토 대기",
@@ -1049,6 +1442,22 @@
     "memoria": {
       "zh": [
         {
+          "observationId": "2026-09-24-memoria-intermediate",
+          "title": "日报与个人记录缺口",
+          "status": "每日推进 · 中间观察，未登记交付",
+          "summary": "昨日九人独立记录缺失，只有一项新交付；今天的中间观察不能充当六份完成成果。",
+          "currentQuestion": "检查逐项证据与负责人，不制造真实会议分歧。",
+          "todayMaterial": "昨日九人独立记录缺失，只有一项新交付；今天的中间观察不能充当六份完成成果。",
+          "next": "检查逐项证据与负责人，不制造真实会议分歧。",
+          "unfinished": "尚未满足完整任务标准；原阻塞与待复核状态保留。",
+          "updatedAt": "2026-09-24",
+          "eventDate": "2026-09-24",
+          "evidenceStatus": "hypothesis / next step",
+          "sourceUrls": [
+            "assets/citizen-work.json"
+          ]
+        },
+        {
           "title": "九轮发言不是九次研究：议事模拟审计",
           "status": "新成果已归档 · 待独立复核",
           "summary": "从现有议事厅模板实际生成并保存9轮三语发言样本。逐项审计发现：模板有互相称赞与“借鉴”语句，却没有显式证据编号、实质反对意见或行动截止日。",
@@ -1089,6 +1498,22 @@
       ],
       "en": [
         {
+          "observationId": "2026-09-24-memoria-intermediate",
+          "title": "Report versus personal-record gaps",
+          "status": "Daily advance · Intermediate, not a delivery",
+          "summary": "Yesterday lacked nine personal notes and had one new delivery; today’s intermediate observations are not six finished outputs.",
+          "currentQuestion": "Check evidence and owners without fabricating real meeting dissent.",
+          "todayMaterial": "Yesterday lacked nine personal notes and had one new delivery; today’s intermediate observations are not six finished outputs.",
+          "next": "Check evidence and owners without fabricating real meeting dissent.",
+          "unfinished": "Full task criteria remain unmet; blockers and pending reviews are preserved.",
+          "updatedAt": "2026-09-24",
+          "eventDate": "2026-09-24",
+          "evidenceStatus": "hypothesis / next step",
+          "sourceUrls": [
+            "assets/citizen-work.json"
+          ]
+        },
+        {
           "title": "Nine turns are not nine studies: an assembly simulation audit",
           "status": "New output archived · Review pending",
           "summary": "A saved trilingual sample contains nine turns generated from the current assembly templates. It has praise and borrowing language, but no explicit evidence IDs, substantive dissent or action deadlines.",
@@ -1128,6 +1553,22 @@
         }
       ],
       "ko": [
+        {
+          "observationId": "2026-09-24-memoria-intermediate",
+          "title": "보고서·개인 기록 공백",
+          "status": "매일 진전 · 중간 관찰, 납품 아님",
+          "summary": "전일 개인기록 9개 누락·신규 납품 1건. 오늘 중간 관찰을 완료 성과 6건으로 세지 않음.",
+          "currentQuestion": "항목별 근거·담당 확인. 실제 회의 이견을 지어내지 않음.",
+          "todayMaterial": "전일 개인기록 9개 누락·신규 납품 1건. 오늘 중간 관찰을 완료 성과 6건으로 세지 않음.",
+          "next": "항목별 근거·담당 확인. 실제 회의 이견을 지어내지 않음.",
+          "unfinished": "전체 과제 기준 미충족. 기존 장애·검토 대기 유지.",
+          "updatedAt": "2026-09-24",
+          "eventDate": "2026-09-24",
+          "evidenceStatus": "hypothesis / next step",
+          "sourceUrls": [
+            "assets/citizen-work.json"
+          ]
+        },
         {
           "title": "아홉 발언은 아홉 연구가 아니다: 의회 모의 대화 감사",
           "status": "새 성과 보관 · 독립 검토 대기",
