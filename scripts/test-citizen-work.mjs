@@ -17,7 +17,17 @@ const text={zh:'结果',en:'Result',ko:'결과'};
 const submission={taskId:'memoria-main-01',kind:'analysis',artifactPath:'research/result.md',executionId:'run-a',executor:'author-a',summary:text,limitation:text,findings:[{observation:'A located finding',evidenceLocator:'line 1'}],sourceUrls:['https://www.w3.org/TR/prov-o/']};
 test('nine distinct main tasks are selected',()=>{const b=fresh(); assert.deepEqual(validateWork(b),[]);assert.equal(new Set(planWork(b,'2026-09-15').map(x=>x.taskId)).size,9);});
 test('blocked and review-pending tasks yield to backup; date alone does not unblock',()=>{const b=fresh();const t=b.tasks.find(t=>t.id==='saeon-main-01');t.state='blocked';t.blockedReason=text;t.resumeAt='2026-09-15';const p=planWork(b,'2026-09-16').find(x=>x.citizenId==='saeon');assert.equal(p.taskId,'saeon-next-01');assert.ok(p.recheck.includes(t.id));t.state='awaiting_review';assert.equal(planWork(b,'2026-09-16')[0].taskId,'saeon-next-01');});
-test('missing or circular dependencies fail; uncompleted prerequisites are not selected',()=>{const b=fresh();b.tasks[0].dependsOn=['missing'];assert.ok(validateWork(b).length);b.tasks[0].dependsOn=[b.tasks[1].id];b.tasks[1].dependsOn=[b.tasks[0].id];assert.ok(validateWork(b).some(e=>e.includes('cycle')));assert.equal(planWork(b,'2026-09-15')[0].taskId,null);});
+test('missing or circular dependencies fail; uncompleted prerequisites are not selected',()=>{
+  const b=fresh();
+  const main=b.tasks.find(t=>t.id==='saeon-main-01');
+  const backup=b.tasks.find(t=>t.id==='saeon-next-01');
+  // Isolate the two-node dependency fixture from newly added production follow-ups.
+  for(const t of b.tasks) if(t.ownerId==='saeon' && t!==main && t!==backup && t.state!=='blocked') t.state='awaiting_review';
+  main.dependsOn=['missing'];assert.ok(validateWork(b).length);
+  main.dependsOn=[backup.id];backup.dependsOn=[main.id];
+  assert.ok(validateWork(b).some(e=>e.includes('cycle')));
+  assert.equal(planWork(b,'2026-09-15').find(x=>x.citizenId==='saeon').taskId,null);
+});
 test('templates, empty data, and findings without evidence earn no delivery',()=>{for(const change of [{kind:'template'},{kind:'dataset',artifactPath:'research/empty.json'},{findings:[]}]){const b=fresh();assert.throws(()=>recordDelivery(b,{...submission,...change},temp));assert.equal(b.deliveries.length,0);}});
 test('recording resumes safely and duplicate artifacts cannot inflate progress',()=>{const b=fresh();const first=recordDelivery(b,submission,temp);assert.equal(b.tasks.find(t=>t.id===submission.taskId).state,'awaiting_review');assert.equal(recordDelivery(b,submission,temp).duplicate,true);assert.equal(b.deliveries.length,1);assert.throws(()=>recordDelivery(b,{...submission,taskId:'runo-main-01',executionId:'run-b'},temp));assert.deepEqual(validateArtifacts(b,temp),[]);});
 test('role renaming, omitted criteria and failed checks cannot certify a result',()=>{

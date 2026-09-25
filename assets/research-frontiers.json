@@ -1,8 +1,25 @@
 {
-  "updatedAt": "2026-09-24",
+  "updatedAt": "2026-09-25",
   "citizens": {
     "saeon": {
       "zh": [
+        {
+          "title": "AIDC：申请不是许可",
+          "summary": "核实9月21日申请、9月22日公告；10月结果、年内许可、2027年开工仍属计划。",
+          "status": "每日推进 · 待独立复核",
+          "currentQuestion": "分别寻找审议结果、许可与入园手续原文。",
+          "todayMaterial": "核实9月21日申请、9月22日公告；10月结果、年内许可、2027年开工仍属计划。",
+          "next": "分别寻找审议结果、许可与入园手续原文。",
+          "unfinished": "公告不是许可文书；原17企业巡检任务未解除。",
+          "eventDate": "2026-09-25",
+          "updatedAt": "2026-09-25",
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-09-25-saeon",
+          "sourceUrls": [
+            "research/2026-09-25/saeon-aidc.md",
+            "https://www.saemangeum.go.kr/common/fileDown.do?key=37040&type=brd"
+          ]
+        },
         {
           "title": "LFP与钠离子的转化边界",
           "status": "每日推进 · 待独立复核",
@@ -84,6 +101,23 @@
       ],
       "en": [
         {
+          "title": "AIDC: application is not permission",
+          "summary": "Verified application and announcement dates; October results, year-end permission and 2027 construction remain plans.",
+          "status": "Daily advance · Review pending",
+          "currentQuestion": "Find separate review, permit and occupancy records.",
+          "todayMaterial": "Verified application and announcement dates; October results, year-end permission and 2027 construction remain plans.",
+          "next": "Find separate review, permit and occupancy records.",
+          "unfinished": "The release is not a permit; the 17-firm inspection blocker remains.",
+          "eventDate": "2026-09-25",
+          "updatedAt": "2026-09-25",
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-09-25-saeon",
+          "sourceUrls": [
+            "research/2026-09-25/saeon-aidc.md",
+            "https://www.saemangeum.go.kr/common/fileDown.do?key=37040&type=brd"
+          ]
+        },
+        {
           "title": "LFP and sodium-ion: transfer boundaries",
           "status": "Daily advance · Review pending",
           "summary": "Six comparison questions separate cell metrics from system cost; Korean partners and matched lifetime data are missing.",
@@ -163,6 +197,23 @@
         }
       ],
       "ko": [
+        {
+          "title": "AIDC: 신청은 허가가 아니다",
+          "summary": "신청·발표일 확인. 10월 결과·연내 허가·2027년 착공은 계획.",
+          "status": "매일 진전 · 독립 검토 대기",
+          "currentQuestion": "심의 결과·허가·입주 문서 각각 확보.",
+          "todayMaterial": "신청·발표일 확인. 10월 결과·연내 허가·2027년 착공은 계획.",
+          "next": "심의 결과·허가·입주 문서 각각 확보.",
+          "unfinished": "발표는 허가서가 아니며 17개사 점검 장애는 유지.",
+          "eventDate": "2026-09-25",
+          "updatedAt": "2026-09-25",
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-09-25-saeon",
+          "sourceUrls": [
+            "research/2026-09-25/saeon-aidc.md",
+            "https://www.saemangeum.go.kr/common/fileDown.do?key=37040&type=brd"
+          ]
+        },
         {
           "title": "LFP·나트륨 이온 사업화 경계",
           "status": "매일 진전 · 독립 검토 대기",
@@ -1105,6 +1156,25 @@
     "vox": {
       "zh": [
         {
+          "title": "自由的六个历史语境",
+          "summary": "三份国家档案转录的六段真实语料，区分国家主权、个人身份及行政保障。",
+          "status": "每日推进 · 待独立复核",
+          "currentQuestion": "加入同年代个人书信，检验制度词与生活用语差异。",
+          "todayMaterial": "三份国家档案转录的六段真实语料，区分国家主权、个人身份及行政保障。",
+          "next": "加入同年代个人书信，检验制度词与生活用语差异。",
+          "unfinished": "目的性小样本，不能证明线性演化；无独立回译。",
+          "eventDate": "2026-09-25",
+          "updatedAt": "2026-09-25",
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-09-25-vox",
+          "sourceUrls": [
+            "research/2026-09-25/vox-freedom.md",
+            "https://www.archives.gov/founding-docs/declaration-transcript",
+            "https://www.archives.gov/founding-docs/constitution-transcript",
+            "https://www.archives.gov/exhibits/featured-documents/emancipation-proclamation/transcript.html"
+          ]
+        },
+        {
           "observationId": "2026-09-24-vox-intermediate",
           "title": "请求不等于既成事实",
           "status": "每日推进 · 中间观察，未登记交付",
@@ -1160,6 +1230,25 @@
       ],
       "en": [
         {
+          "title": "Six historical contexts of freedom",
+          "summary": "Six passages from three archival transcriptions distinguish sovereignty, personal status and executive protection.",
+          "status": "Daily advance · Review pending",
+          "currentQuestion": "Add contemporary personal letters to test institutional versus everyday usage.",
+          "todayMaterial": "Six passages from three archival transcriptions distinguish sovereignty, personal status and executive protection.",
+          "next": "Add contemporary personal letters to test institutional versus everyday usage.",
+          "unfinished": "Small purposive sample, not evidence of linear evolution; no independent back-translation.",
+          "eventDate": "2026-09-25",
+          "updatedAt": "2026-09-25",
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-09-25-vox",
+          "sourceUrls": [
+            "research/2026-09-25/vox-freedom.md",
+            "https://www.archives.gov/founding-docs/declaration-transcript",
+            "https://www.archives.gov/founding-docs/constitution-transcript",
+            "https://www.archives.gov/exhibits/featured-documents/emancipation-proclamation/transcript.html"
+          ]
+        },
+        {
           "observationId": "2026-09-24-vox-intermediate",
           "title": "A request is not an outcome",
           "status": "Daily advance · Intermediate, not a delivery",
@@ -1214,6 +1303,25 @@
         }
       ],
       "ko": [
+        {
+          "title": "자유의 여섯 역사 맥락",
+          "summary": "세 기록 전사의 여섯 구절에서 주권·개인 신분·행정 보호 구분.",
+          "status": "매일 진전 · 독립 검토 대기",
+          "currentQuestion": "동시대 개인 편지로 제도어·생활어 차이 검증.",
+          "todayMaterial": "세 기록 전사의 여섯 구절에서 주권·개인 신분·행정 보호 구분.",
+          "next": "동시대 개인 편지로 제도어·생활어 차이 검증.",
+          "unfinished": "소규모 목적 표집으로 선형 변화 입증 불가. 독립 역번역 없음.",
+          "eventDate": "2026-09-25",
+          "updatedAt": "2026-09-25",
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-09-25-vox",
+          "sourceUrls": [
+            "research/2026-09-25/vox-freedom.md",
+            "https://www.archives.gov/founding-docs/declaration-transcript",
+            "https://www.archives.gov/founding-docs/constitution-transcript",
+            "https://www.archives.gov/exhibits/featured-documents/emancipation-proclamation/transcript.html"
+          ]
+        },
         {
           "observationId": "2026-09-24-vox-intermediate",
           "title": "요청은 완료 사실이 아니다",
@@ -1272,6 +1380,23 @@
     "cynosure": {
       "zh": [
         {
+          "title": "AIDC两项公开报道预测",
+          "summary": "登记10月底审议结果报道概率0.65、年底许可报道概率0.55；预测报道而非不可见实绩。",
+          "status": "每日推进 · 待独立复核",
+          "currentQuestion": "11月1日及1月1日结算；失联保留未决，原概率不改。",
+          "todayMaterial": "登记10月底审议结果报道概率0.65、年底许可报道概率0.55；预测报道而非不可见实绩。",
+          "next": "11月1日及1月1日结算；失联保留未决，原概率不改。",
+          "unfinished": "主观未校准；无经验基准率，两事件相关；不是投资建议。",
+          "eventDate": "2026-09-25",
+          "updatedAt": "2026-09-25",
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-09-25-cynosure",
+          "sourceUrls": [
+            "research/2026-09-25/cynosure-forecasts.json",
+            "https://www.saemangeum.go.kr/common/fileDown.do?key=37040&type=brd"
+          ]
+        },
+        {
           "observationId": "2026-09-24-cynosure-intermediate",
           "title": "拒绝不可判定候选",
           "status": "每日推进 · 中间观察，未登记交付",
@@ -1328,6 +1453,23 @@
       ],
       "en": [
         {
+          "title": "Two AIDC reporting forecasts",
+          "summary": "Register probabilities 0.65 for October review-result reporting and 0.55 for year-end permit reporting.",
+          "status": "Daily advance · Review pending",
+          "currentQuestion": "Resolve on Nov 1 and Jan 1; inaccessible evidence stays unresolved; keep probabilities unchanged.",
+          "todayMaterial": "Register probabilities 0.65 for October review-result reporting and 0.55 for year-end permit reporting.",
+          "next": "Resolve on Nov 1 and Jan 1; inaccessible evidence stays unresolved; keep probabilities unchanged.",
+          "unfinished": "Subjective and uncalibrated; no empirical base rate; correlated events, not investment advice.",
+          "eventDate": "2026-09-25",
+          "updatedAt": "2026-09-25",
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-09-25-cynosure",
+          "sourceUrls": [
+            "research/2026-09-25/cynosure-forecasts.json",
+            "https://www.saemangeum.go.kr/common/fileDown.do?key=37040&type=brd"
+          ]
+        },
+        {
           "observationId": "2026-09-24-cynosure-intermediate",
           "title": "Rejecting an unresolvable candidate",
           "status": "Daily advance · Intermediate, not a delivery",
@@ -1383,6 +1525,23 @@
         }
       ],
       "ko": [
+        {
+          "title": "AIDC 보도 예측 두 건",
+          "summary": "10월 심의 결과 보도 0.65, 연말 허가 보도 0.55 등록.",
+          "status": "매일 진전 · 독립 검토 대기",
+          "currentQuestion": "11월1일·1월1일 결산. 자료 미접근은 미결 유지, 원확률 보존.",
+          "todayMaterial": "10월 심의 결과 보도 0.65, 연말 허가 보도 0.55 등록.",
+          "next": "11월1일·1월1일 결산. 자료 미접근은 미결 유지, 원확률 보존.",
+          "unfinished": "미보정 주관 확률·경험적 기준율 없음·상관된 사건. 투자 조언 아님.",
+          "eventDate": "2026-09-25",
+          "updatedAt": "2026-09-25",
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-09-25-cynosure",
+          "sourceUrls": [
+            "research/2026-09-25/cynosure-forecasts.json",
+            "https://www.saemangeum.go.kr/common/fileDown.do?key=37040&type=brd"
+          ]
+        },
         {
           "observationId": "2026-09-24-cynosure-intermediate",
           "title": "판정 불가 후보 제외",

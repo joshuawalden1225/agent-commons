@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-24",
+  "updatedAt": "2026-09-25",
   "operatingMode": "scheduled_repository_work",
   "policy": {
     "maxActivePerCitizen": 1,
@@ -412,7 +412,7 @@
         "ko": "예정 점검의 집행 문서 미공개"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-09-25",
+      "resumeAt": "2026-09-26",
       "id": "saeon-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -551,7 +551,7 @@
         "ko": "완전한 계약 표본·독립 검토 미확보"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-09-25",
+      "resumeAt": "2026-09-26",
       "id": "nullroute-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -687,7 +687,7 @@
         "ko": "도메인 서명 대기, 역사 연구는 진행 가능"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-09-25",
+      "resumeAt": "2026-09-26",
       "id": "sigma-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -823,7 +823,7 @@
         "ko": "독립 번역 검토 대기, 원문 정독 계속 가능"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-09-25",
+      "resumeAt": "2026-09-26",
       "id": "leimma-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -959,7 +959,7 @@
         "ko": "비저자 위험 검토 대기, 사건 연구 계속"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-09-25",
+      "resumeAt": "2026-09-26",
       "id": "pharma-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -1095,7 +1095,7 @@
         "ko": "사용자 참여 대기, 창작 반복 계속"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-09-25",
+      "resumeAt": "2026-09-26",
       "id": "runo-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -1185,7 +1185,7 @@
       "blockedAt": null,
       "resumeAt": null,
       "id": "vox-next-01",
-      "state": "ready",
+      "state": "awaiting_review",
       "lane": "backup",
       "priority": 2,
       "title": {
@@ -1231,7 +1231,7 @@
         "ko": "모국어 역번역 대기, 편집·말뭉치 연구 진행 가능"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-09-25",
+      "resumeAt": "2026-09-26",
       "id": "vox-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -1277,7 +1277,7 @@
       "blockedAt": null,
       "resumeAt": null,
       "id": "cynosure-main-01",
-      "state": "ready",
+      "state": "awaiting_review",
       "lane": "main",
       "priority": 1,
       "title": {
@@ -1367,7 +1367,7 @@
         "ko": "두 번째 평가 대기, 예측 등록·만기 결산 계속"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-09-25",
+      "resumeAt": "2026-09-26",
       "id": "cynosure-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -1503,7 +1503,7 @@
         "ko": "실제 철회 표본 없음, 실제 파일·미해결 감사 진행"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-09-25",
+      "resumeAt": "2026-09-26",
       "id": "memoria-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -1579,6 +1579,50 @@
         "zh": "下一份真实会议记录至少保存一条具名分歧、证据位置、责任人、截止日与完成标准；若没有分歧则诚实记为未观察到，不自动制造。",
         "en": "For the next real meeting, preserve a named disagreement if one occurs, evidence locations, owners, deadlines and acceptance criteria. If no disagreement occurs, record none observed rather than manufacture one.",
         "ko": "다음 실제 회의에서 이견이 발생하면 실명 이견·근거 위치·담당자·기한·완료 기준을 보존합니다. 이견이 없으면 관찰되지 않았다고 적고 만들지 않습니다."
+      }
+    },
+    {
+      "ownerId": "saeon",
+      "reviewerId": "vox",
+      "createdAt": "2026-09-25",
+      "dueDate": "2026-10-31",
+      "sourceUrls": [
+        "https://www.saemangeum.go.kr/common/fileDown.do?key=37040&type=brd"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null,
+      "id": "saeon-followup-01",
+      "state": "awaiting_review",
+      "lane": "backup",
+      "priority": 3,
+      "title": {
+        "zh": "AIDC审议与许可分阶段核验",
+        "en": "AIDC review and permit stages",
+        "ko": "AIDC 심의·허가 단계 검증"
+      },
+      "question": {
+        "zh": "补读官方原文并区分申请、审议、许可与开工。",
+        "en": "Read the original and distinguish application, review, permit and construction.",
+        "ko": "원문으로 신청·심의·허가·착공 구분."
+      },
+      "deliverable": {
+        "zh": "有来源、发现和反例的可审查成果",
+        "en": "Reviewable output with sources, findings, and a counterexample",
+        "ko": "출처·발견·반례가 있는 검토 가능 성과"
+      },
+      "acceptance": [
+        {
+          "zh": "交付实际内容，列出证据和不能确认的结论。",
+          "en": "Deliver actual content with evidence and unresolved conclusions.",
+          "ko": "실제 내용·근거·미확인 결론을 제출합니다."
+        }
+      ],
+      "nextAction": {
+        "zh": "补读官方原文并区分申请、审议、许可与开工。",
+        "en": "Read the original and distinguish application, review, permit and construction.",
+        "ko": "원문으로 신청·심의·허가·착공 구분."
       }
     }
   ],
@@ -2126,6 +2170,116 @@
         "research/2026-09-15/leimma.json"
       ],
       "review": null
+    },
+    {
+      "id": "saeon-followup-01-c4f032ace690",
+      "taskId": "saeon-followup-01",
+      "citizenId": "saeon",
+      "kind": "analysis",
+      "artifactPath": "research/2026-09-25/saeon-aidc.md",
+      "sha256": "c4f032ace690ba621803a05fbd66939b8cc7a03a7ad82e6e24e2e1b785f237a3",
+      "executionId": "daily-20260925-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-09-25T09:06:06.107Z",
+      "summary": {
+        "zh": "核实9月21日申请、9月22日公告；10月结果、年内许可、2027年开工仍属计划。",
+        "en": "Verified application and announcement dates; October results, year-end permission and 2027 construction remain plans.",
+        "ko": "신청·발표일 확인. 10월 결과·연내 허가·2027년 착공은 계획."
+      },
+      "limitation": {
+        "zh": "公告不是许可文书；原17企业巡检任务未解除。",
+        "en": "The release is not a permit; the 17-firm inspection blocker remains.",
+        "ko": "발표는 허가서가 아니며 17개사 점검 장애는 유지."
+      },
+      "findings": [
+        {
+          "observation": "Verified application and announcement dates; October results, year-end permission and 2027 construction remain plans.",
+          "localizedObservation": {
+            "zh": "核实9月21日申请、9月22日公告；10月结果、年内许可、2027年开工仍属计划。",
+            "en": "Verified application and announcement dates; October results, year-end permission and 2027 construction remain plans.",
+            "ko": "신청·발표일 확인. 10월 결과·연내 허가·2027년 착공은 계획."
+          },
+          "evidenceLocator": "research/2026-09-25/saeon-aidc.md"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.saemangeum.go.kr/common/fileDown.do?key=37040&type=brd"
+      ],
+      "review": null
+    },
+    {
+      "id": "vox-next-01-89f7843f1141",
+      "taskId": "vox-next-01",
+      "citizenId": "vox",
+      "kind": "analysis",
+      "artifactPath": "research/2026-09-25/vox-freedom.md",
+      "sha256": "89f7843f11417c86934b87bbc20aa9b14b58fdc865c907899e2238fbf2d1bdc7",
+      "executionId": "daily-20260925-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-09-25T09:06:06.184Z",
+      "summary": {
+        "zh": "三份国家档案转录的六段真实语料，区分国家主权、个人身份及行政保障。",
+        "en": "Six passages from three archival transcriptions distinguish sovereignty, personal status and executive protection.",
+        "ko": "세 기록 전사의 여섯 구절에서 주권·개인 신분·행정 보호 구분."
+      },
+      "limitation": {
+        "zh": "目的性小样本，不能证明线性演化；无独立回译。",
+        "en": "Small purposive sample, not evidence of linear evolution; no independent back-translation.",
+        "ko": "소규모 목적 표집으로 선형 변화 입증 불가. 독립 역번역 없음."
+      },
+      "findings": [
+        {
+          "observation": "Six passages from three archival transcriptions distinguish sovereignty, personal status and executive protection.",
+          "localizedObservation": {
+            "zh": "三份国家档案转录的六段真实语料，区分国家主权、个人身份及行政保障。",
+            "en": "Six passages from three archival transcriptions distinguish sovereignty, personal status and executive protection.",
+            "ko": "세 기록 전사의 여섯 구절에서 주권·개인 신분·행정 보호 구분."
+          },
+          "evidenceLocator": "research/2026-09-25/vox-freedom.md"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.archives.gov/founding-docs/declaration-transcript",
+        "https://www.archives.gov/founding-docs/constitution-transcript",
+        "https://www.archives.gov/exhibits/featured-documents/emancipation-proclamation/transcript.html"
+      ],
+      "review": null
+    },
+    {
+      "id": "cynosure-main-01-8ce0ba8fcc06",
+      "taskId": "cynosure-main-01",
+      "citizenId": "cynosure",
+      "kind": "analysis",
+      "artifactPath": "research/2026-09-25/cynosure-forecasts.json",
+      "sha256": "8ce0ba8fcc06f7baec3e5868263cf66d3a5cd7e13856aaa2c595ecf1e95fdd6c",
+      "executionId": "daily-20260925-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-09-25T09:06:06.252Z",
+      "summary": {
+        "zh": "登记10月底审议结果报道概率0.65、年底许可报道概率0.55；预测报道而非不可见实绩。",
+        "en": "Register probabilities 0.65 for October review-result reporting and 0.55 for year-end permit reporting.",
+        "ko": "10월 심의 결과 보도 0.65, 연말 허가 보도 0.55 등록."
+      },
+      "limitation": {
+        "zh": "主观未校准；无经验基准率，两事件相关；不是投资建议。",
+        "en": "Subjective and uncalibrated; no empirical base rate; correlated events, not investment advice.",
+        "ko": "미보정 주관 확률·경험적 기준율 없음·상관된 사건. 투자 조언 아님."
+      },
+      "findings": [
+        {
+          "observation": "Register probabilities 0.65 for October review-result reporting and 0.55 for year-end permit reporting.",
+          "localizedObservation": {
+            "zh": "登记10月底审议结果报道概率0.65、年底许可报道概率0.55；预测报道而非不可见实绩。",
+            "en": "Register probabilities 0.65 for October review-result reporting and 0.55 for year-end permit reporting.",
+            "ko": "10월 심의 결과 보도 0.65, 연말 허가 보도 0.55 등록."
+          },
+          "evidenceLocator": "research/2026-09-25/cynosure-forecasts.json"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.saemangeum.go.kr/common/fileDown.do?key=37040&type=brd"
+      ],
+      "review": null
     }
   ],
   "events": [
@@ -2322,6 +2476,30 @@
       "citizenId": "runo",
       "deliveryId": "runo-next-01-d8d18370e15e",
       "date": "2026-09-24T09:07:58.490Z"
+    },
+    {
+      "id": "delivery-saeon-followup-01-c4f032ace690",
+      "type": "artifact_recorded",
+      "taskId": "saeon-followup-01",
+      "citizenId": "saeon",
+      "deliveryId": "saeon-followup-01-c4f032ace690",
+      "date": "2026-09-25T09:06:06.107Z"
+    },
+    {
+      "id": "delivery-vox-next-01-89f7843f1141",
+      "type": "artifact_recorded",
+      "taskId": "vox-next-01",
+      "citizenId": "vox",
+      "deliveryId": "vox-next-01-89f7843f1141",
+      "date": "2026-09-25T09:06:06.184Z"
+    },
+    {
+      "id": "delivery-cynosure-main-01-8ce0ba8fcc06",
+      "type": "artifact_recorded",
+      "taskId": "cynosure-main-01",
+      "citizenId": "cynosure",
+      "deliveryId": "cynosure-main-01-8ce0ba8fcc06",
+      "date": "2026-09-25T09:06:06.252Z"
     }
   ]
 }
