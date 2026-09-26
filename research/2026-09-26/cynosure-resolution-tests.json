@@ -1,0 +1,100 @@
+{
+  "date": "2026-09-26",
+  "executor": "Codex / root",
+  "executionId": "daily-20260926-root",
+  "reviewStatus": "awaiting_review",
+  "kind": "synthetic resolution rehearsal, NOT actual settlement",
+  "source": "research/2026-09-25/cynosure-forecasts.json",
+  "rows": [
+    {
+      "id": "future-plan",
+      "explicitMilestone": false,
+      "official": true,
+      "onTime": true,
+      "afterDeadline": false,
+      "completeCoverage": true,
+      "expected": "unresolved",
+      "actual": "unresolved"
+    },
+    {
+      "id": "official-issued-on-time",
+      "explicitMilestone": true,
+      "official": true,
+      "onTime": true,
+      "afterDeadline": true,
+      "completeCoverage": true,
+      "expected": "yes",
+      "actual": "yes"
+    },
+    {
+      "id": "archive-outage",
+      "explicitMilestone": false,
+      "official": true,
+      "onTime": false,
+      "afterDeadline": true,
+      "completeCoverage": false,
+      "expected": "unresolved",
+      "actual": "unresolved"
+    },
+    {
+      "id": "complete-no-milestone",
+      "explicitMilestone": false,
+      "official": true,
+      "onTime": false,
+      "afterDeadline": true,
+      "completeCoverage": true,
+      "expected": "no",
+      "actual": "no"
+    },
+    {
+      "id": "late-report-only",
+      "explicitMilestone": true,
+      "official": true,
+      "onTime": false,
+      "afterDeadline": true,
+      "completeCoverage": true,
+      "expected": "no",
+      "actual": "no"
+    },
+    {
+      "id": "unofficial-claim-incomplete-search",
+      "explicitMilestone": true,
+      "official": false,
+      "onTime": true,
+      "afterDeadline": true,
+      "completeCoverage": false,
+      "expected": "unresolved",
+      "actual": "unresolved"
+    }
+  ],
+  "conditionalBrierScores": [
+    {
+      "id": "AIDC-PUBLIC-REVIEW-20261031",
+      "probability": 0.65,
+      "ifYes": 0.12249999999999998,
+      "ifNo": 0.42250000000000004,
+      "ifUnresolved": null
+    },
+    {
+      "id": "AIDC-PUBLIC-PERMIT-20261231",
+      "probability": 0.55,
+      "ifYes": 0.20249999999999996,
+      "ifNo": 0.30250000000000005,
+      "ifUnresolved": null
+    }
+  ],
+  "actualOutcomes": [
+    {
+      "id": "AIDC-PUBLIC-REVIEW-20261031",
+      "outcome": null,
+      "brier": null
+    },
+    {
+      "id": "AIDC-PUBLIC-PERMIT-20261231",
+      "outcome": null,
+      "brier": null
+    }
+  ],
+  "limitation": "Six hand-constructed scenarios verify explicit boolean rules only. Automatic language recognition and archive completeness are not implemented or validated. Original probabilities remain immutable.",
+  "next": "Inspect actual dated official evidence on 2026-11-01 and 2027-01-01; preserve unresolved when evidence is incomplete."
+}

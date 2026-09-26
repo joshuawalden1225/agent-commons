@@ -1,0 +1,148 @@
+{
+  "date": "2026-09-26",
+  "executor": "Codex / root",
+  "executionId": "daily-20260926-root",
+  "reviewStatus": "awaiting_review",
+  "source": "https://www.bts.gov/archive/publications/national_transportation_statistics/table_rail_profile",
+  "sourcePublicationDate": null,
+  "sourceVintage": "2012 archived vintage, reused from 2026-09-15 transcription; not a fresh source retrieval",
+  "eventRange": "2000-2009",
+  "units": "nominal million USD; percentage errors",
+  "rows": [
+    {
+      "year": 2002,
+      "inputThrough": 2001,
+      "actual": 34110,
+      "naive": 33533,
+      "trend": 33983,
+      "naiveAPE": 1.6915860451480504,
+      "trendAPE": 0.3723248314277338
+    },
+    {
+      "year": 2003,
+      "inputThrough": 2002,
+      "actual": 35413,
+      "naive": 34110,
+      "trend": 34687,
+      "naiveAPE": 3.6794397537627423,
+      "trendAPE": 2.050094598028972
+    },
+    {
+      "year": 2004,
+      "inputThrough": 2003,
+      "actual": 39131,
+      "naive": 35413,
+      "trend": 36716,
+      "naiveAPE": 9.501418312846592,
+      "trendAPE": 6.171577521658021
+    },
+    {
+      "year": 2005,
+      "inputThrough": 2004,
+      "actual": 44457,
+      "naive": 39131,
+      "trend": 42849,
+      "naiveAPE": 11.980115617338102,
+      "trendAPE": 3.616978203657467
+    },
+    {
+      "year": 2006,
+      "inputThrough": 2005,
+      "actual": 50315,
+      "naive": 44457,
+      "trend": 49783,
+      "naiveAPE": 11.642651296829971,
+      "trendAPE": 1.0573387657756137
+    },
+    {
+      "year": 2007,
+      "inputThrough": 2006,
+      "actual": 52932,
+      "naive": 50315,
+      "trend": 56173,
+      "naiveAPE": 4.94407919594952,
+      "trendAPE": 6.122950200256933
+    },
+    {
+      "year": 2008,
+      "inputThrough": 2007,
+      "actual": 59409,
+      "naive": 52932,
+      "trend": 55549,
+      "naiveAPE": 10.90238852699086,
+      "trendAPE": 6.4973320540658825
+    },
+    {
+      "year": 2009,
+      "inputThrough": 2008,
+      "actual": 46127,
+      "naive": 59409,
+      "trend": 65886,
+      "naiveAPE": 28.794415418301647,
+      "trendAPE": 42.836082988271514
+    }
+  ],
+  "all": {
+    "n": 8,
+    "naiveMAPE": 10.392011770895936,
+    "trendMAPE": 8.590584895392768
+  },
+  "without2009": {
+    "n": 7,
+    "naiveMAPE": 7.763096964123691,
+    "trendMAPE": 3.698370882124375
+  },
+  "leaveOneYearOut": [
+    {
+      "omittedYear": 2002,
+      "n": 7,
+      "naiveMAPE": 11.634929731717063,
+      "trendMAPE": 9.764622047387771
+    },
+    {
+      "omittedYear": 2003,
+      "n": 7,
+      "naiveMAPE": 11.350950630486393,
+      "trendMAPE": 9.524940652159023
+    },
+    {
+      "omittedYear": 2004,
+      "n": 7,
+      "naiveMAPE": 10.519239407760129,
+      "trendMAPE": 8.936157377354874
+    },
+    {
+      "omittedYear": 2005,
+      "n": 7,
+      "naiveMAPE": 10.16513979283277,
+      "trendMAPE": 9.30110013706924
+    },
+    {
+      "omittedYear": 2006,
+      "n": 7,
+      "naiveMAPE": 10.213348981476788,
+      "trendMAPE": 9.666762913909505
+    },
+    {
+      "omittedYear": 2007,
+      "n": 7,
+      "naiveMAPE": 11.170287853031137,
+      "trendMAPE": 8.943104137555029
+    },
+    {
+      "omittedYear": 2008,
+      "n": 7,
+      "naiveMAPE": 10.319100805739518,
+      "trendMAPE": 8.889621015582323
+    },
+    {
+      "omittedYear": 2009,
+      "n": 7,
+      "naiveMAPE": 7.763096964123691,
+      "trendMAPE": 3.698370882124375
+    }
+  ],
+  "conclusion": "Trend has lower mean APE in 8/8 leave-one-out summaries; 2009 is a counterexample with worse trend APE.",
+  "limitation": "Leave-one-year-out here changes the evaluation set only, not the fitted forecasts. No causal inference, independent validation, real-time vintage, capital stock or inflation correction. Small dependent annual sample.",
+  "next": "Acquire unrevised contemporaneous series before claiming real-time forecasting performance."
+}

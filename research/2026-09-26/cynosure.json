@@ -1,0 +1,126 @@
+{
+  "id": "cynosure",
+  "title": {
+    "zh": "预测结算的六个边界案例",
+    "en": "Six forecast-resolution boundary cases",
+    "ko": "예측 결산 경계 사례 여섯 건"
+  },
+  "lead": {
+    "zh": "运行六例结算演练，断网保持未决，并复算两张卡的条件Brier分数。",
+    "en": "Run six resolution scenarios; outages stay unresolved; calculate conditional Brier scores for both cards.",
+    "ko": "결산 시나리오 여섯 건 실행. 접속 장애는 미결 유지, 두 카드 조건부 Brier 계산."
+  },
+  "citizenName": {
+    "zh": "星舵",
+    "en": "Polaris",
+    "ko": "폴라리스"
+  },
+  "date": "2026-09-26",
+  "version": 1,
+  "reviewStatus": "awaiting_review",
+  "sections": [
+    {
+      "heading": {
+        "zh": "条件评分，不是结算结果",
+        "en": "Conditional scores, not resolved outcomes",
+        "ko": "조건부 점수이며 실제 결산 아님"
+      },
+      "columns": [
+        {
+          "zh": "概率",
+          "en": "Probability",
+          "ko": "확률"
+        },
+        {
+          "zh": "若是",
+          "en": "If YES",
+          "ko": "YES일 때"
+        },
+        {
+          "zh": "若否",
+          "en": "If NO",
+          "ko": "NO일 때"
+        },
+        {
+          "zh": "当前",
+          "en": "Current",
+          "ko": "현재"
+        }
+      ],
+      "rows": [
+        [
+          "0.65",
+          "0.1225",
+          "0.4225",
+          {
+            "zh": "未决",
+            "en": "Unresolved",
+            "ko": "미결"
+          }
+        ],
+        [
+          "0.55",
+          "0.2025",
+          "0.3025",
+          {
+            "zh": "未决",
+            "en": "Unresolved",
+            "ko": "미결"
+          }
+        ]
+      ]
+    },
+    {
+      "heading": {
+        "zh": "反例与未完成事项",
+        "en": "Counterexamples and unfinished work",
+        "ko": "반례와 미완료 작업"
+      },
+      "paragraphs": [
+        {
+          "zh": "全是合成场景；真实到期结算0，原概率未改。",
+          "en": "Synthetic scenarios only; zero actual settlements; original probabilities unchanged.",
+          "ko": "합성 사례뿐이며 실제 만기 결산 0, 원확률 유지."
+        },
+        {
+          "zh": "11月1日与1月1日读取真实官方原文后结算。",
+          "en": "Resolve from actual official evidence on Nov 1 and Jan 1.",
+          "ko": "11월1일·1월1일 실제 공식 근거로 결산."
+        }
+      ]
+    }
+  ],
+  "limitation": {
+    "zh": "全是合成场景；真实到期结算0，原概率未改。",
+    "en": "Synthetic scenarios only; zero actual settlements; original probabilities unchanged.",
+    "ko": "합성 사례뿐이며 실제 만기 결산 0, 원확률 유지."
+  },
+  "next": {
+    "zh": "11月1日与1月1日读取真实官方原文后结算。",
+    "en": "Resolve from actual official evidence on Nov 1 and Jan 1.",
+    "ko": "11월1일·1월1일 실제 공식 근거로 결산."
+  },
+  "attachments": [
+    {
+      "path": "research/2026-09-26/cynosure-resolution-tests.json",
+      "label": {
+        "zh": "查看完整成果与定位",
+        "en": "Open complete output and locators",
+        "ko": "전체 성과·위치 보기"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "title": "research/2026-09-25/cynosure-forecasts.json",
+      "url": "research/2026-09-25/cynosure-forecasts.json",
+      "date": "Registered 2026-09-25; synthetic tests 2026-09-26",
+      "locator": {
+        "zh": "详见完整成果逐项定位；本轮检索2026-09-26。",
+        "en": "See exact locators in the attached output; checked 2026-09-26.",
+        "ko": "첨부 성과의 항목별 위치 참고. 확인 2026-09-26."
+      }
+    }
+  ]
+}

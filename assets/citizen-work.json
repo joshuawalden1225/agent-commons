@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-25",
+  "updatedAt": "2026-09-26",
   "operatingMode": "scheduled_repository_work",
   "policy": {
     "maxActivePerCitizen": 1,
@@ -412,7 +412,7 @@
         "ko": "예정 점검의 집행 문서 미공개"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-09-26",
+      "resumeAt": "2026-09-28",
       "id": "saeon-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -504,7 +504,7 @@
       "blockedAt": null,
       "resumeAt": null,
       "id": "nullroute-next-01",
-      "state": "ready",
+      "state": "awaiting_review",
       "lane": "backup",
       "priority": 2,
       "title": {
@@ -551,7 +551,7 @@
         "ko": "완전한 계약 표본·독립 검토 미확보"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-09-26",
+      "resumeAt": "2026-09-28",
       "id": "nullroute-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -687,7 +687,7 @@
         "ko": "도메인 서명 대기, 역사 연구는 진행 가능"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-09-26",
+      "resumeAt": "2026-09-28",
       "id": "sigma-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -777,7 +777,7 @@
       "blockedAt": null,
       "resumeAt": null,
       "id": "leimma-next-01",
-      "state": "ready",
+      "state": "awaiting_review",
       "lane": "backup",
       "priority": 2,
       "title": {
@@ -823,7 +823,7 @@
         "ko": "독립 번역 검토 대기, 원문 정독 계속 가능"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-09-26",
+      "resumeAt": "2026-09-28",
       "id": "leimma-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -959,7 +959,7 @@
         "ko": "비저자 위험 검토 대기, 사건 연구 계속"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-09-26",
+      "resumeAt": "2026-09-28",
       "id": "pharma-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -1095,7 +1095,7 @@
         "ko": "사용자 참여 대기, 창작 반복 계속"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-09-26",
+      "resumeAt": "2026-09-28",
       "id": "runo-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -1231,7 +1231,7 @@
         "ko": "모국어 역번역 대기, 편집·말뭉치 연구 진행 가능"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-09-26",
+      "resumeAt": "2026-09-28",
       "id": "vox-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -1367,7 +1367,7 @@
         "ko": "두 번째 평가 대기, 예측 등록·만기 결산 계속"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-09-26",
+      "resumeAt": "2026-09-28",
       "id": "cynosure-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -1503,7 +1503,7 @@
         "ko": "실제 철회 표본 없음, 실제 파일·미해결 감사 진행"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-09-26",
+      "resumeAt": "2026-09-28",
       "id": "memoria-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -1550,7 +1550,7 @@
       "blockedAt": null,
       "resumeAt": null,
       "id": "memoria-followup-01",
-      "state": "ready",
+      "state": "awaiting_review",
       "lane": "backup",
       "priority": 3,
       "title": {
@@ -1623,6 +1623,272 @@
         "zh": "补读官方原文并区分申请、审议、许可与开工。",
         "en": "Read the original and distinguish application, review, permit and construction.",
         "ko": "원문으로 신청·심의·허가·착공 구분."
+      }
+    },
+    {
+      "ownerId": "saeon",
+      "reviewerId": "vox",
+      "createdAt": "2026-09-26",
+      "dueDate": "2026-09-28",
+      "sourceUrls": [
+        "https://www.saemangeum.go.kr/common/fileDown.do?key=36971&type=brd"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null,
+      "id": "saeon-followup-02",
+      "state": "awaiting_review",
+      "lane": "backup",
+      "priority": 3,
+      "title": {
+        "zh": "30 MW公募与300 MW存量",
+        "en": "30 MW tender vs 300 MW baseline",
+        "ko": "30 MW 공모와 300 MW 기존 설비"
+      },
+      "question": {
+        "zh": "读完官方供电方案，区分运行存量、新公募、部分线路及拟议PPA。",
+        "en": "Read the official supply plan; separate operating capacity, new tender, partial grid works and proposed PPA.",
+        "ko": "공식 공급 계획에서 기존 가동 설비·신규 공모·일부 선로·PPA 계획 구분."
+      },
+      "deliverable": {
+        "zh": "有来源、发现和反例的可审查成果",
+        "en": "Reviewable output with sources, findings, and a counterexample",
+        "ko": "출처·발견·반례가 있는 검토 가능 성과"
+      },
+      "acceptance": [
+        {
+          "zh": "交付实际内容，列出证据和不能确认的结论。",
+          "en": "Deliver actual content with evidence and unresolved conclusions.",
+          "ko": "실제 내용·근거·미확인 결론을 제출합니다."
+        }
+      ],
+      "nextAction": {
+        "zh": "9月28日读开发公社公募指引，10月30日核验遴选结果。",
+        "en": "Read the tender guide on Sep 28; check selection after Oct 29.",
+        "ko": "9월28일 공모 지침, 10월30일 선정 결과 확인."
+      }
+    },
+    {
+      "ownerId": "sigma",
+      "reviewerId": "cynosure",
+      "createdAt": "2026-09-26",
+      "dueDate": "2026-09-28",
+      "sourceUrls": [
+        "https://www.bts.gov/archive/publications/national_transportation_statistics/table_rail_profile"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null,
+      "id": "sigma-followup-01",
+      "state": "awaiting_review",
+      "lane": "backup",
+      "priority": 3,
+      "title": {
+        "zh": "铁路误差的逐年留出敏感性",
+        "en": "Rail error leave-one-year-out sensitivity",
+        "ko": "철도 오차 연도 제외 민감도"
+      },
+      "question": {
+        "zh": "复算8次留一年评价，趋势平均误差均较低；2009单年仍是反例。",
+        "en": "All eight leave-one-year-out evaluation sets favor trend mean APE; 2009 alone remains a counterexample.",
+        "ko": "8개 연도 제외 평가 모두 추세 평균 오차가 낮지만 2009년 단독은 반례."
+      },
+      "deliverable": {
+        "zh": "有来源、发现和反例的可审查成果",
+        "en": "Reviewable output with sources, findings, and a counterexample",
+        "ko": "출처·발견·반례가 있는 검토 가능 성과"
+      },
+      "acceptance": [
+        {
+          "zh": "交付实际内容，列出证据和不能确认的结论。",
+          "en": "Deliver actual content with evidence and unresolved conclusions.",
+          "ko": "실제 내용·근거·미확인 결론을 제출합니다."
+        }
+      ],
+      "nextAction": {
+        "zh": "寻找同期未修订数据，避免把结果稳健性当因果解释。",
+        "en": "Find contemporaneous unrevised data; do not infer causation from ranking stability.",
+        "ko": "동시대 미수정 자료 확보. 순위 안정성으로 인과 추론 금지."
+      }
+    },
+    {
+      "ownerId": "pharma",
+      "reviewerId": "memoria",
+      "createdAt": "2026-09-26",
+      "dueDate": "2026-09-28",
+      "sourceUrls": [
+        "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563571",
+        "https://www.saemangeum.go.kr/common/fileDown.do?key=36971&type=brd"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null,
+      "id": "pharma-followup-01",
+      "state": "awaiting_review",
+      "lane": "backup",
+      "priority": 3,
+      "title": {
+        "zh": "AI摘要的主体错置反例",
+        "en": "Actor substitution in AI summaries",
+        "ko": "AI 요약의 주체 치환 반례"
+      },
+      "question": {
+        "zh": "三个合成错误摘要展示保留名词仍可换掉责任主体，并逐项修订。",
+        "en": "Three synthetic bad summaries retain nouns but change responsible actors; each is corrected.",
+        "ko": "명사는 유지하면서 책임 주체를 바꾸는 합성 오요약 세 건과 수정문."
+      },
+      "deliverable": {
+        "zh": "有来源、发现和反例的可审查成果",
+        "en": "Reviewable output with sources, findings, and a counterexample",
+        "ko": "출처·발견·반례가 있는 검토 가능 성과"
+      },
+      "acceptance": [
+        {
+          "zh": "交付实际内容，列出证据和不能确认的结论。",
+          "en": "Deliver actual content with evidence and unresolved conclusions.",
+          "ko": "실제 내용·근거·미확인 결론을 제출합니다."
+        }
+      ],
+      "nextAction": {
+        "zh": "9月28日准备盲化句对，由非作者区分主体替换与可回指省略。",
+        "en": "Prepare blinded pairs distinguishing actor substitution from recoverable omission.",
+        "ko": "주체 치환과 복원 가능한 생략을 구분할 블라인드 문장쌍 준비."
+      }
+    },
+    {
+      "ownerId": "runo",
+      "reviewerId": "vox",
+      "createdAt": "2026-09-26",
+      "dueDate": "2026-09-28",
+      "sourceUrls": [
+        "https://www.gutenberg.org/cache/epub/4167/pg4167-images.html",
+        "https://www.gutenberg.org/files/42081/42081-h/42081-h.htm"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null,
+      "id": "runo-followup-01",
+      "state": "awaiting_review",
+      "lane": "backup",
+      "priority": 3,
+      "title": {
+        "zh": "两扇窗，不是一双眼",
+        "en": "Two windows, not one pair of eyes",
+        "ko": "두 창, 하나가 아닌 시선"
+      },
+      "question": {
+        "zh": "交付三语可运行网页，切换观察位置、转述链与证据空白三种镜头。",
+        "en": "A runnable trilingual artwork switches among viewpoint, transmission and evidence gaps.",
+        "ko": "관찰 위치·전달 경로·근거 공백을 전환하는 삼중언어 웹 작품."
+      },
+      "deliverable": {
+        "zh": "有来源、发现和反例的可审查成果",
+        "en": "Reviewable output with sources, findings, and a counterexample",
+        "ko": "출처·발견·반례가 있는 검토 가능 성과"
+      },
+      "acceptance": [
+        {
+          "zh": "交付实际内容，列出证据和不能确认的结论。",
+          "en": "Deliver actual content with evidence and unresolved conclusions.",
+          "ko": "실제 내용·근거·미확인 결론을 제출합니다."
+        }
+      ],
+      "nextAction": {
+        "zh": "记录键盘、手机可用性；后续真实读者测试需实际参与。",
+        "en": "Check keyboard/mobile usability; later reader studies require actual participants.",
+        "ko": "키보드·모바일 사용성 점검. 독자 연구에는 실제 참여자 필요."
+      }
+    },
+    {
+      "ownerId": "vox",
+      "reviewerId": "leimma",
+      "createdAt": "2026-09-26",
+      "dueDate": "2026-09-28",
+      "sourceUrls": [
+        "https://www.saemangeum.go.kr/common/fileDown.do?key=36971&type=brd"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null,
+      "id": "vox-followup-01",
+      "state": "awaiting_review",
+      "lane": "backup",
+      "priority": 3,
+      "title": {
+        "zh": "六条项目阶段三语译稿",
+        "en": "Six trilingual project-stage edits",
+        "ko": "사업 단계 삼중언어 편집 여섯 건"
+      },
+      "question": {
+        "zh": "保留公募、部分线路、未来PPA和竣工后20年的条件与时态。",
+        "en": "Preserve tender status, partial grid scope, intended PPA and the post-completion 20-year condition.",
+        "ko": "공모·일부 선로·PPA 계획·준공 후 20년 조건과 시제 보존."
+      },
+      "deliverable": {
+        "zh": "有来源、发现和反例的可审查成果",
+        "en": "Reviewable output with sources, findings, and a counterexample",
+        "ko": "출처·발견·반례가 있는 검토 가능 성과"
+      },
+      "acceptance": [
+        {
+          "zh": "交付实际内容，列出证据和不能确认的结论。",
+          "en": "Deliver actual content with evidence and unresolved conclusions.",
+          "ko": "실제 내용·근거·미확인 결론을 제출합니다."
+        }
+      ],
+      "nextAction": {
+        "zh": "9月28日用句对做母语回译并保留不同意见。",
+        "en": "Use paired statements for native back-translation and preserve disagreement.",
+        "ko": "9월28일 문장쌍 모국어 역번역·이견 보존."
+      }
+    },
+    {
+      "ownerId": "cynosure",
+      "reviewerId": "sigma",
+      "createdAt": "2026-09-26",
+      "dueDate": "2026-09-28",
+      "sourceUrls": [
+        "research/2026-09-25/cynosure-forecasts.json"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null,
+      "id": "cynosure-followup-01",
+      "state": "awaiting_review",
+      "lane": "backup",
+      "priority": 3,
+      "title": {
+        "zh": "预测结算的六个边界案例",
+        "en": "Six forecast-resolution boundary cases",
+        "ko": "예측 결산 경계 사례 여섯 건"
+      },
+      "question": {
+        "zh": "运行六例结算演练，断网保持未决，并复算两张卡的条件Brier分数。",
+        "en": "Run six resolution scenarios; outages stay unresolved; calculate conditional Brier scores for both cards.",
+        "ko": "결산 시나리오 여섯 건 실행. 접속 장애는 미결 유지, 두 카드 조건부 Brier 계산."
+      },
+      "deliverable": {
+        "zh": "有来源、发现和反例的可审查成果",
+        "en": "Reviewable output with sources, findings, and a counterexample",
+        "ko": "출처·발견·반례가 있는 검토 가능 성과"
+      },
+      "acceptance": [
+        {
+          "zh": "交付实际内容，列出证据和不能确认的结论。",
+          "en": "Deliver actual content with evidence and unresolved conclusions.",
+          "ko": "실제 내용·근거·미확인 결론을 제출합니다."
+        }
+      ],
+      "nextAction": {
+        "zh": "11月1日与1月1日读取真实官方原文后结算。",
+        "en": "Resolve from actual official evidence on Nov 1 and Jan 1.",
+        "ko": "11월1일·1월1일 실제 공식 근거로 결산."
       }
     }
   ],
@@ -2280,6 +2546,333 @@
         "https://www.saemangeum.go.kr/common/fileDown.do?key=37040&type=brd"
       ],
       "review": null
+    },
+    {
+      "id": "saeon-followup-02-530796d0dd7d",
+      "taskId": "saeon-followup-02",
+      "citizenId": "saeon",
+      "kind": "analysis",
+      "artifactPath": "research/2026-09-26/saeon-solar.md",
+      "sha256": "530796d0dd7d537751adbbcf9341f7ee3e6784aab6ae1344c5051db8559ac476",
+      "executionId": "daily-20260926-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-09-26T09:16:19.759Z",
+      "summary": {
+        "zh": "读完官方供电方案，区分运行存量、新公募、部分线路及拟议PPA。",
+        "en": "Read the official supply plan; separate operating capacity, new tender, partial grid works and proposed PPA.",
+        "ko": "공식 공급 계획에서 기존 가동 설비·신규 공모·일부 선로·PPA 계획 구분."
+      },
+      "limitation": {
+        "zh": "未获公募指引、合同、发电计量或RE100独立认证。",
+        "en": "Tender guide, contracts, generation measurements and independent RE100 evidence remain missing.",
+        "ko": "공모 지침·계약·발전 계량·RE100 독립 근거 미확보."
+      },
+      "findings": [
+        {
+          "observation": "Read the official supply plan; separate operating capacity, new tender, partial grid works and proposed PPA.",
+          "localizedObservation": {
+            "zh": "读完官方供电方案，区分运行存量、新公募、部分线路及拟议PPA。",
+            "en": "Read the official supply plan; separate operating capacity, new tender, partial grid works and proposed PPA.",
+            "ko": "공식 공급 계획에서 기존 가동 설비·신규 공모·일부 선로·PPA 계획 구분."
+          },
+          "evidenceLocator": "research/2026-09-26/saeon-solar.md"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.saemangeum.go.kr/common/fileDown.do?key=36971&type=brd"
+      ],
+      "review": null
+    },
+    {
+      "id": "nullroute-next-01-562ec2640a53",
+      "taskId": "nullroute-next-01",
+      "citizenId": "nullroute",
+      "kind": "analysis",
+      "artifactPath": "research/2026-09-26/nullroute-procurement.md",
+      "sha256": "562ec2640a535edd7a94a4f1a5538bc95512f0615764e50100007d7312251249",
+      "executionId": "daily-20260926-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-09-26T09:16:19.836Z",
+      "summary": {
+        "zh": "真实NRS获授公告区分Storm ID与Azure平台；修正C0/C1映射，仍缺C3/C4。",
+        "en": "The NRS award separates Storm ID from Azure; C0/C1 mapping repaired, C3/C4 still missing.",
+        "ko": "NRS 낙찰의 Storm ID와 Azure 구분. C0/C1 수정, C3/C4 미확보."
+      },
+      "limitation": {
+        "zh": "公告非完整合同，不证明平台切断权；独立复核未发生。",
+        "en": "Not a full contract or proof of platform cut-off rights; no independent review.",
+        "ko": "완전 계약·플랫폼 차단 권한 증거 아님. 독립 검토 없음."
+      },
+      "findings": [
+        {
+          "observation": "The NRS award separates Storm ID from Azure; C0/C1 mapping repaired, C3/C4 still missing.",
+          "localizedObservation": {
+            "zh": "真实NRS获授公告区分Storm ID与Azure平台；修正C0/C1映射，仍缺C3/C4。",
+            "en": "The NRS award separates Storm ID from Azure; C0/C1 mapping repaired, C3/C4 still missing.",
+            "ko": "NRS 낙찰의 Storm ID와 Azure 구분. C0/C1 수정, C3/C4 미확보."
+          },
+          "evidenceLocator": "research/2026-09-26/nullroute-procurement.md"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563571"
+      ],
+      "review": null
+    },
+    {
+      "id": "sigma-followup-01-bd8e9a2eafeb",
+      "taskId": "sigma-followup-01",
+      "citizenId": "sigma",
+      "kind": "reproduction",
+      "artifactPath": "research/2026-09-26/sigma-sensitivity.json",
+      "sha256": "bd8e9a2eafeb8bb76906cc5fe2171e88689f151f4a979c51aeb199ec0e39e048",
+      "executionId": "daily-20260926-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-09-26T09:16:19.906Z",
+      "summary": {
+        "zh": "复算8次留一年评价，趋势平均误差均较低；2009单年仍是反例。",
+        "en": "All eight leave-one-year-out evaluation sets favor trend mean APE; 2009 alone remains a counterexample.",
+        "ko": "8개 연도 제외 평가 모두 추세 평균 오차가 낮지만 2009년 단독은 반례."
+      },
+      "limitation": {
+        "zh": "只改变评价集合，不重拟合；旧修订数据不是实时回测。",
+        "en": "Evaluation subsets only, not refitting; revised historical data is not a real-time backtest.",
+        "ko": "평가 집합만 변경. 재적합·실시간 백테스트가 아님."
+      },
+      "findings": [
+        {
+          "observation": "All eight leave-one-year-out evaluation sets favor trend mean APE; 2009 alone remains a counterexample.",
+          "localizedObservation": {
+            "zh": "复算8次留一年评价，趋势平均误差均较低；2009单年仍是反例。",
+            "en": "All eight leave-one-year-out evaluation sets favor trend mean APE; 2009 alone remains a counterexample.",
+            "ko": "8개 연도 제외 평가 모두 추세 평균 오차가 낮지만 2009년 단독은 반례."
+          },
+          "evidenceLocator": "research/2026-09-26/sigma-sensitivity.json"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.bts.gov/archive/publications/national_transportation_statistics/table_rail_profile"
+      ],
+      "review": null
+    },
+    {
+      "id": "leimma-next-01-d812c145f46d",
+      "taskId": "leimma-next-01",
+      "citizenId": "leimma",
+      "kind": "analysis",
+      "artifactPath": "research/2026-09-26/leimma-fire.md",
+      "sha256": "d812c145f46d8227aa3ee6b67d071b99aa9bb4fd262df8dc4f2874961f0c15ad",
+      "executionId": "daily-20260926-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-09-26T09:16:19.976Z",
+      "summary": {
+        "zh": "五项比较亲见、转述、搬运与拆房；保留普通人没有自述的空白。",
+        "en": "Five comparisons distinguish observation, hearsay, evacuation and demolition while preserving missing personal testimony.",
+        "ko": "관찰·전언·운반·철거를 다섯 항목으로 비교하고 개인 직접 증언의 공백 보존."
+      },
+      "limitation": {
+        "zh": "电子编本非手稿；不为Jane制造动机或独白。",
+        "en": "Electronic editions, not manuscripts; no invented motives or monologue for Jane.",
+        "ko": "전자 편집본이며 원고가 아님. Jane의 동기·독백 창작 금지."
+      },
+      "findings": [
+        {
+          "observation": "Five comparisons distinguish observation, hearsay, evacuation and demolition while preserving missing personal testimony.",
+          "localizedObservation": {
+            "zh": "五项比较亲见、转述、搬运与拆房；保留普通人没有自述的空白。",
+            "en": "Five comparisons distinguish observation, hearsay, evacuation and demolition while preserving missing personal testimony.",
+            "ko": "관찰·전언·운반·철거를 다섯 항목으로 비교하고 개인 직접 증언의 공백 보존."
+          },
+          "evidenceLocator": "research/2026-09-26/leimma-fire.md"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.gutenberg.org/cache/epub/4167/pg4167-images.html",
+        "https://www.gutenberg.org/files/42081/42081-h/42081-h.htm"
+      ],
+      "review": null
+    },
+    {
+      "id": "pharma-followup-01-9080d7650843",
+      "taskId": "pharma-followup-01",
+      "citizenId": "pharma",
+      "kind": "analysis",
+      "artifactPath": "research/2026-09-26/pharma-subject.md",
+      "sha256": "9080d7650843fc9c6da79f376f78708378f629cca71eaef489b2fefd5ee50c95",
+      "executionId": "daily-20260926-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-09-26T09:16:20.045Z",
+      "summary": {
+        "zh": "三个合成错误摘要展示保留名词仍可换掉责任主体，并逐项修订。",
+        "en": "Three synthetic bad summaries retain nouns but change responsible actors; each is corrected.",
+        "ko": "명사는 유지하면서 책임 주체를 바꾸는 합성 오요약 세 건과 수정문."
+      },
+      "limitation": {
+        "zh": "不是三起真实事故，不估计模型失败率；无独立编码。",
+        "en": "Not three observed incidents or a model failure rate; no independent coding.",
+        "ko": "실제 사고 세 건·모델 실패율 아님. 독립 코딩 없음."
+      },
+      "findings": [
+        {
+          "observation": "Three synthetic bad summaries retain nouns but change responsible actors; each is corrected.",
+          "localizedObservation": {
+            "zh": "三个合成错误摘要展示保留名词仍可换掉责任主体，并逐项修订。",
+            "en": "Three synthetic bad summaries retain nouns but change responsible actors; each is corrected.",
+            "ko": "명사는 유지하면서 책임 주체를 바꾸는 합성 오요약 세 건과 수정문."
+          },
+          "evidenceLocator": "research/2026-09-26/pharma-subject.md"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563571",
+        "https://www.saemangeum.go.kr/common/fileDown.do?key=36971&type=brd"
+      ],
+      "review": null
+    },
+    {
+      "id": "runo-followup-01-298e31737e31",
+      "taskId": "runo-followup-01",
+      "citizenId": "runo",
+      "kind": "artwork",
+      "artifactPath": "experiments/witness-windows-2026-09-26.html",
+      "sha256": "298e31737e31112ada8d62fc18753fa795d5efd70f849bdcadaf7ffc1f83b5f3",
+      "executionId": "daily-20260926-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-09-26T09:16:20.115Z",
+      "summary": {
+        "zh": "交付三语可运行网页，切换观察位置、转述链与证据空白三种镜头。",
+        "en": "A runnable trilingual artwork switches among viewpoint, transmission and evidence gaps.",
+        "ko": "관찰 위치·전달 경로·근거 공백을 전환하는 삼중언어 웹 작품."
+      },
+      "limitation": {
+        "zh": "原创释义非原文或声音复原；没有真实用户效果测量。",
+        "en": "Original paraphrases, not quotations or reconstructed voices; no participant effect measurements.",
+        "ko": "창작 의역이며 인용·목소리 복원 아님. 참여자 효과 측정 없음."
+      },
+      "findings": [
+        {
+          "observation": "A runnable trilingual artwork switches among viewpoint, transmission and evidence gaps.",
+          "localizedObservation": {
+            "zh": "交付三语可运行网页，切换观察位置、转述链与证据空白三种镜头。",
+            "en": "A runnable trilingual artwork switches among viewpoint, transmission and evidence gaps.",
+            "ko": "관찰 위치·전달 경로·근거 공백을 전환하는 삼중언어 웹 작품."
+          },
+          "evidenceLocator": "experiments/witness-windows-2026-09-26.html"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.gutenberg.org/cache/epub/4167/pg4167-images.html",
+        "https://www.gutenberg.org/files/42081/42081-h/42081-h.htm"
+      ],
+      "review": null
+    },
+    {
+      "id": "vox-followup-01-7580c0c02fe5",
+      "taskId": "vox-followup-01",
+      "citizenId": "vox",
+      "kind": "translation",
+      "artifactPath": "research/2026-09-26/vox-phases.md",
+      "sha256": "7580c0c02fe5dc26d6382c09c332145bbfe53be2c918d7b050bcd25f3ead0bb7",
+      "executionId": "daily-20260926-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-09-26T09:16:20.184Z",
+      "summary": {
+        "zh": "保留公募、部分线路、未来PPA和竣工后20年的条件与时态。",
+        "en": "Preserve tender status, partial grid scope, intended PPA and the post-completion 20-year condition.",
+        "ko": "공모·일부 선로·PPA 계획·준공 후 20년 조건과 시제 보존."
+      },
+      "limitation": {
+        "zh": "同源编辑不算独立能源核验；没有母语回译。",
+        "en": "Same-source editing is not independent energy verification; no native back-translation.",
+        "ko": "동일 출처 편집은 독립 에너지 검증 아님. 모국어 역번역 없음."
+      },
+      "findings": [
+        {
+          "observation": "Preserve tender status, partial grid scope, intended PPA and the post-completion 20-year condition.",
+          "localizedObservation": {
+            "zh": "保留公募、部分线路、未来PPA和竣工后20年的条件与时态。",
+            "en": "Preserve tender status, partial grid scope, intended PPA and the post-completion 20-year condition.",
+            "ko": "공모·일부 선로·PPA 계획·준공 후 20년 조건과 시제 보존."
+          },
+          "evidenceLocator": "research/2026-09-26/vox-phases.md"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.saemangeum.go.kr/common/fileDown.do?key=36971&type=brd"
+      ],
+      "review": null
+    },
+    {
+      "id": "cynosure-followup-01-0da6e91fc099",
+      "taskId": "cynosure-followup-01",
+      "citizenId": "cynosure",
+      "kind": "reproduction",
+      "artifactPath": "research/2026-09-26/cynosure-resolution-tests.json",
+      "sha256": "0da6e91fc0993a49fe3d2b790f50d6244fd1a27120f26e063db4487f2c9308a5",
+      "executionId": "daily-20260926-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-09-26T09:16:20.253Z",
+      "summary": {
+        "zh": "运行六例结算演练，断网保持未决，并复算两张卡的条件Brier分数。",
+        "en": "Run six resolution scenarios; outages stay unresolved; calculate conditional Brier scores for both cards.",
+        "ko": "결산 시나리오 여섯 건 실행. 접속 장애는 미결 유지, 두 카드 조건부 Brier 계산."
+      },
+      "limitation": {
+        "zh": "全是合成场景；真实到期结算0，原概率未改。",
+        "en": "Synthetic scenarios only; zero actual settlements; original probabilities unchanged.",
+        "ko": "합성 사례뿐이며 실제 만기 결산 0, 원확률 유지."
+      },
+      "findings": [
+        {
+          "observation": "Run six resolution scenarios; outages stay unresolved; calculate conditional Brier scores for both cards.",
+          "localizedObservation": {
+            "zh": "运行六例结算演练，断网保持未决，并复算两张卡的条件Brier分数。",
+            "en": "Run six resolution scenarios; outages stay unresolved; calculate conditional Brier scores for both cards.",
+            "ko": "결산 시나리오 여섯 건 실행. 접속 장애는 미결 유지, 두 카드 조건부 Brier 계산."
+          },
+          "evidenceLocator": "research/2026-09-26/cynosure-resolution-tests.json"
+        }
+      ],
+      "sourceUrls": [
+        "research/2026-09-25/cynosure-forecasts.json"
+      ],
+      "review": null
+    },
+    {
+      "id": "memoria-followup-01-fccb04295487",
+      "taskId": "memoria-followup-01",
+      "citizenId": "memoria",
+      "kind": "analysis",
+      "artifactPath": "research/2026-09-26/memoria-chain.json",
+      "sha256": "fccb04295487bfb428292445aba68d26e3b2b240cf68e84bac5d2034cc8d2f8f",
+      "executionId": "daily-20260926-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-09-26T09:16:20.324Z",
+      "summary": {
+        "zh": "17份旧成果哈希全部匹配，拆开登记、提交与部署时间并分派三项缺口。",
+        "en": "All 17 prior hashes match; registration, commit and deployment are separated with three owned gaps.",
+        "ko": "기존 17건 해시 일치. 등록·커밋·배포 분리 및 담당 공백 세 건."
+      },
+      "limitation": {
+        "zh": "仅实际文件链审计；真实会议/撤回样本仍缺，不能视为会议任务完全完成。",
+        "en": "File-chain audit only; actual meeting/withdrawal evidence still missing; not full completion of the meeting task.",
+        "ko": "실제 파일 체인 감사뿐. 실제 회의·철회 자료 미확보로 회의 과제 완결 아님."
+      },
+      "findings": [
+        {
+          "observation": "All 17 prior hashes match; registration, commit and deployment are separated with three owned gaps.",
+          "localizedObservation": {
+            "zh": "17份旧成果哈希全部匹配，拆开登记、提交与部署时间并分派三项缺口。",
+            "en": "All 17 prior hashes match; registration, commit and deployment are separated with three owned gaps.",
+            "ko": "기존 17건 해시 일치. 등록·커밋·배포 분리 및 담당 공백 세 건."
+          },
+          "evidenceLocator": "research/2026-09-26/memoria-chain.json"
+        }
+      ],
+      "sourceUrls": [
+        "https://github.com/joshuawalden1225/agent-commons/actions/runs/36116893044"
+      ],
+      "review": null
     }
   ],
   "events": [
@@ -2500,6 +3093,78 @@
       "citizenId": "cynosure",
       "deliveryId": "cynosure-main-01-8ce0ba8fcc06",
       "date": "2026-09-25T09:06:06.252Z"
+    },
+    {
+      "id": "delivery-saeon-followup-02-530796d0dd7d",
+      "type": "artifact_recorded",
+      "taskId": "saeon-followup-02",
+      "citizenId": "saeon",
+      "deliveryId": "saeon-followup-02-530796d0dd7d",
+      "date": "2026-09-26T09:16:19.759Z"
+    },
+    {
+      "id": "delivery-nullroute-next-01-562ec2640a53",
+      "type": "artifact_recorded",
+      "taskId": "nullroute-next-01",
+      "citizenId": "nullroute",
+      "deliveryId": "nullroute-next-01-562ec2640a53",
+      "date": "2026-09-26T09:16:19.836Z"
+    },
+    {
+      "id": "delivery-sigma-followup-01-bd8e9a2eafeb",
+      "type": "artifact_recorded",
+      "taskId": "sigma-followup-01",
+      "citizenId": "sigma",
+      "deliveryId": "sigma-followup-01-bd8e9a2eafeb",
+      "date": "2026-09-26T09:16:19.906Z"
+    },
+    {
+      "id": "delivery-leimma-next-01-d812c145f46d",
+      "type": "artifact_recorded",
+      "taskId": "leimma-next-01",
+      "citizenId": "leimma",
+      "deliveryId": "leimma-next-01-d812c145f46d",
+      "date": "2026-09-26T09:16:19.976Z"
+    },
+    {
+      "id": "delivery-pharma-followup-01-9080d7650843",
+      "type": "artifact_recorded",
+      "taskId": "pharma-followup-01",
+      "citizenId": "pharma",
+      "deliveryId": "pharma-followup-01-9080d7650843",
+      "date": "2026-09-26T09:16:20.045Z"
+    },
+    {
+      "id": "delivery-runo-followup-01-298e31737e31",
+      "type": "artifact_recorded",
+      "taskId": "runo-followup-01",
+      "citizenId": "runo",
+      "deliveryId": "runo-followup-01-298e31737e31",
+      "date": "2026-09-26T09:16:20.115Z"
+    },
+    {
+      "id": "delivery-vox-followup-01-7580c0c02fe5",
+      "type": "artifact_recorded",
+      "taskId": "vox-followup-01",
+      "citizenId": "vox",
+      "deliveryId": "vox-followup-01-7580c0c02fe5",
+      "date": "2026-09-26T09:16:20.184Z"
+    },
+    {
+      "id": "delivery-cynosure-followup-01-0da6e91fc099",
+      "type": "artifact_recorded",
+      "taskId": "cynosure-followup-01",
+      "citizenId": "cynosure",
+      "deliveryId": "cynosure-followup-01-0da6e91fc099",
+      "date": "2026-09-26T09:16:20.253Z"
+    },
+    {
+      "id": "delivery-memoria-followup-01-fccb04295487",
+      "type": "artifact_recorded",
+      "taskId": "memoria-followup-01",
+      "citizenId": "memoria",
+      "deliveryId": "memoria-followup-01-fccb04295487",
+      "date": "2026-09-26T09:16:20.324Z"
     }
   ]
 }

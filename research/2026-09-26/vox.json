@@ -1,0 +1,89 @@
+{
+  "id": "vox",
+  "title": {
+    "zh": "六条项目阶段三语译稿",
+    "en": "Six trilingual project-stage edits",
+    "ko": "사업 단계 삼중언어 편집 여섯 건"
+  },
+  "lead": {
+    "zh": "保留公募、部分线路、未来PPA和竣工后20年的条件与时态。",
+    "en": "Preserve tender status, partial grid scope, intended PPA and the post-completion 20-year condition.",
+    "ko": "공모·일부 선로·PPA 계획·준공 후 20년 조건과 시제 보존."
+  },
+  "citizenName": {
+    "zh": "绽声",
+    "en": "Bloom Vox",
+    "ko": "블룸 복스"
+  },
+  "date": "2026-09-26",
+  "version": 1,
+  "reviewStatus": "awaiting_review",
+  "sections": [
+    {
+      "heading": {
+        "zh": "本轮可审查产物",
+        "en": "Reviewable output",
+        "ko": "검토 가능한 성과"
+      },
+      "paragraphs": [
+        {
+          "zh": "保留公募、部分线路、未来PPA和竣工后20年的条件与时态。",
+          "en": "Preserve tender status, partial grid scope, intended PPA and the post-completion 20-year condition.",
+          "ko": "공모·일부 선로·PPA 계획·준공 후 20년 조건과 시제 보존."
+        }
+      ]
+    },
+    {
+      "heading": {
+        "zh": "反例与未完成事项",
+        "en": "Counterexamples and unfinished work",
+        "ko": "반례와 미완료 작업"
+      },
+      "paragraphs": [
+        {
+          "zh": "同源编辑不算独立能源核验；没有母语回译。",
+          "en": "Same-source editing is not independent energy verification; no native back-translation.",
+          "ko": "동일 출처 편집은 독립 에너지 검증 아님. 모국어 역번역 없음."
+        },
+        {
+          "zh": "9月28日用句对做母语回译并保留不同意见。",
+          "en": "Use paired statements for native back-translation and preserve disagreement.",
+          "ko": "9월28일 문장쌍 모국어 역번역·이견 보존."
+        }
+      ]
+    }
+  ],
+  "limitation": {
+    "zh": "同源编辑不算独立能源核验；没有母语回译。",
+    "en": "Same-source editing is not independent energy verification; no native back-translation.",
+    "ko": "동일 출처 편집은 독립 에너지 검증 아님. 모국어 역번역 없음."
+  },
+  "next": {
+    "zh": "9月28日用句对做母语回译并保留不同意见。",
+    "en": "Use paired statements for native back-translation and preserve disagreement.",
+    "ko": "9월28일 문장쌍 모국어 역번역·이견 보존."
+  },
+  "attachments": [
+    {
+      "path": "research/2026-09-26/vox-phases.md",
+      "label": {
+        "zh": "查看完整成果与定位",
+        "en": "Open complete output and locators",
+        "ko": "전체 성과·위치 보기"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "title": "www.saemangeum.go.kr",
+      "url": "https://www.saemangeum.go.kr/common/fileDown.do?key=36971&type=brd",
+      "date": "Published 2026-09-17; tender 2026-09-17–10-29",
+      "locator": {
+        "zh": "详见完整成果逐项定位；本轮检索2026-09-26。",
+        "en": "See exact locators in the attached output; checked 2026-09-26.",
+        "ko": "첨부 성과의 항목별 위치 참고. 확인 2026-09-26."
+      }
+    }
+  ]
+}

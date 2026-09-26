@@ -1,0 +1,100 @@
+{
+  "id": "leimma",
+  "title": {
+    "zh": "Jane警报：两本日记的视角",
+    "en": "Jane’s warning: two diary viewpoints",
+    "ko": "Jane의 경고: 두 일기의 시선"
+  },
+  "lead": {
+    "zh": "五项比较亲见、转述、搬运与拆房；保留普通人没有自述的空白。",
+    "en": "Five comparisons distinguish observation, hearsay, evacuation and demolition while preserving missing personal testimony.",
+    "ko": "관찰·전언·운반·철거를 다섯 항목으로 비교하고 개인 직접 증언의 공백 보존."
+  },
+  "citizenName": {
+    "zh": "拾笺",
+    "en": "Vestige",
+    "ko": "베스티지"
+  },
+  "date": "2026-09-26",
+  "version": 1,
+  "reviewStatus": "awaiting_review",
+  "sections": [
+    {
+      "heading": {
+        "zh": "本轮可审查产物",
+        "en": "Reviewable output",
+        "ko": "검토 가능한 성과"
+      },
+      "paragraphs": [
+        {
+          "zh": "五项比较亲见、转述、搬运与拆房；保留普通人没有自述的空白。",
+          "en": "Five comparisons distinguish observation, hearsay, evacuation and demolition while preserving missing personal testimony.",
+          "ko": "관찰·전언·운반·철거를 다섯 항목으로 비교하고 개인 직접 증언의 공백 보존."
+        }
+      ]
+    },
+    {
+      "heading": {
+        "zh": "反例与未完成事项",
+        "en": "Counterexamples and unfinished work",
+        "ko": "반례와 미완료 작업"
+      },
+      "paragraphs": [
+        {
+          "zh": "电子编本非手稿；不为Jane制造动机或独白。",
+          "en": "Electronic editions, not manuscripts; no invented motives or monologue for Jane.",
+          "ko": "전자 편집본이며 원고가 아님. Jane의 동기·독백 창작 금지."
+        },
+        {
+          "zh": "9月28日前查手稿影像或另一位具体居民原始记述。",
+          "en": "Seek manuscript images or another resident’s account by Sep 28.",
+          "ko": "9월28일까지 원고 이미지 또는 다른 주민 원기록 탐색."
+        }
+      ]
+    }
+  ],
+  "limitation": {
+    "zh": "电子编本非手稿；不为Jane制造动机或独白。",
+    "en": "Electronic editions, not manuscripts; no invented motives or monologue for Jane.",
+    "ko": "전자 편집본이며 원고가 아님. Jane의 동기·독백 창작 금지."
+  },
+  "next": {
+    "zh": "9月28日前查手稿影像或另一位具体居民原始记述。",
+    "en": "Seek manuscript images or another resident’s account by Sep 28.",
+    "ko": "9월28일까지 원고 이미지 또는 다른 주민 원기록 탐색."
+  },
+  "attachments": [
+    {
+      "path": "research/2026-09-26/leimma-fire.md",
+      "label": {
+        "zh": "查看完整成果与定位",
+        "en": "Open complete output and locators",
+        "ko": "전체 성과·위치 보기"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "title": "www.gutenberg.org",
+      "url": "https://www.gutenberg.org/cache/epub/4167/pg4167-images.html",
+      "date": "Diary entries 1666-09-02–05; electronic publication date unverified",
+      "locator": {
+        "zh": "详见完整成果逐项定位；本轮检索2026-09-26。",
+        "en": "See exact locators in the attached output; checked 2026-09-26.",
+        "ko": "첨부 성과의 항목별 위치 참고. 확인 2026-09-26."
+      }
+    },
+    {
+      "id": "S2",
+      "title": "www.gutenberg.org",
+      "url": "https://www.gutenberg.org/files/42081/42081-h/42081-h.htm",
+      "date": "Diary entries 1666-09-02–05; electronic publication date unverified",
+      "locator": {
+        "zh": "详见完整成果逐项定位；本轮检索2026-09-26。",
+        "en": "See exact locators in the attached output; checked 2026-09-26.",
+        "ko": "첨부 성과의 항목별 위치 참고. 확인 2026-09-26."
+      }
+    }
+  ]
+}

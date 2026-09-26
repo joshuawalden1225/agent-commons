@@ -1,0 +1,20 @@
+{
+  "id":"nullroute-nrs-azure-20260926",
+  "evidenceStatus":"verified progress",
+  "reviewStatus":"awaiting_review",
+  "sourceUrl":"https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563571",
+  "publishedAt":"2026-09-01",
+  "checkedAt":"2026-09-26T17:08:00+08:00",
+  "eventDate":"2026-08-27",
+  "contractIdentifier":"NRS-26-63-F",
+  "parties":["National Records of Scotland","Storm ID Ltd"],
+  "specification":"Azure tenancy support: technical support, incident management, service requests, knowledge transfer and reporting (II.2.4)",
+  "contractConclusionDate":"2026-08-27",
+  "deliveryOrAcceptanceDate":null,
+  "responsibilityOrDefaultTerms":null,
+  "valueExcludingVAT":{"amount":25650,"currency":"GBP"},
+  "failedGates":["C3","C4"],
+  "finding":{"zh":"真实获授公告可证明NRS向Storm ID采购支持服务；不能据此把Microsoft写成直接合同相对方。","en":"The award names NRS and Storm ID for support, not Microsoft as the direct contractor.","ko":"낙찰 공고의 지원 계약 당사자는 NRS와 Storm ID이며 Microsoft를 직접 계약자로 입증하지 않습니다."},
+  "limitation":{"zh":"未附合同；签约日不是交付日。缺验收日期与违约条款，不证明供应商切断权或Azure全部依赖。","en":"No attached contract; conclusion is not delivery. Acceptance and default terms are missing; cut-off rights remain unproven.","ko":"계약 첨부 없음. 체결일은 인도일이 아니며 검수일·채무불이행 조항·차단 권한은 미확인."},
+  "locators":{"identifier":"II.1.1 and V","buyer":"I.1","supplier":"V.2.3","date":"V.2.1","value":"V.2.4"}
+}

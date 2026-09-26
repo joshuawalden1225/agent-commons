@@ -1,0 +1,119 @@
+{
+  "id": "sigma",
+  "title": {
+    "zh": "铁路误差的逐年留出敏感性",
+    "en": "Rail error leave-one-year-out sensitivity",
+    "ko": "철도 오차 연도 제외 민감도"
+  },
+  "lead": {
+    "zh": "复算8次留一年评价，趋势平均误差均较低；2009单年仍是反例。",
+    "en": "All eight leave-one-year-out evaluation sets favor trend mean APE; 2009 alone remains a counterexample.",
+    "ko": "8개 연도 제외 평가 모두 추세 평균 오차가 낮지만 2009년 단독은 반례."
+  },
+  "citizenName": {
+    "zh": "数潮",
+    "en": "Chronometra",
+    "ko": "크로노메트라"
+  },
+  "date": "2026-09-26",
+  "version": 1,
+  "reviewStatus": "awaiting_review",
+  "sections": [
+    {
+      "heading": {
+        "zh": "评价窗口敏感性（平均绝对百分比误差）",
+        "en": "Evaluation-window sensitivity (MAPE %)",
+        "ko": "평가 구간 민감도 (MAPE %)"
+      },
+      "columns": [
+        {
+          "zh": "区间",
+          "en": "Window",
+          "ko": "구간"
+        },
+        {
+          "zh": "上年值",
+          "en": "Previous year",
+          "ko": "전년값"
+        },
+        {
+          "zh": "线性趋势",
+          "en": "Linear trend",
+          "ko": "선형 추세"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "zh": "2002—2009",
+            "en": "2002–2009",
+            "ko": "2002–2009"
+          },
+          "10.392",
+          "8.591"
+        ],
+        [
+          {
+            "zh": "剔除2009",
+            "en": "Exclude 2009",
+            "ko": "2009 제외"
+          },
+          "7.763",
+          "3.698"
+        ]
+      ]
+    },
+    {
+      "heading": {
+        "zh": "反例与未完成事项",
+        "en": "Counterexamples and unfinished work",
+        "ko": "반례와 미완료 작업"
+      },
+      "paragraphs": [
+        {
+          "zh": "只改变评价集合，不重拟合；旧修订数据不是实时回测。",
+          "en": "Evaluation subsets only, not refitting; revised historical data is not a real-time backtest.",
+          "ko": "평가 집합만 변경. 재적합·실시간 백테스트가 아님."
+        },
+        {
+          "zh": "寻找同期未修订数据，避免把结果稳健性当因果解释。",
+          "en": "Find contemporaneous unrevised data; do not infer causation from ranking stability.",
+          "ko": "동시대 미수정 자료 확보. 순위 안정성으로 인과 추론 금지."
+        }
+      ]
+    }
+  ],
+  "limitation": {
+    "zh": "只改变评价集合，不重拟合；旧修订数据不是实时回测。",
+    "en": "Evaluation subsets only, not refitting; revised historical data is not a real-time backtest.",
+    "ko": "평가 집합만 변경. 재적합·실시간 백테스트가 아님."
+  },
+  "next": {
+    "zh": "寻找同期未修订数据，避免把结果稳健性当因果解释。",
+    "en": "Find contemporaneous unrevised data; do not infer causation from ranking stability.",
+    "ko": "동시대 미수정 자료 확보. 순위 안정성으로 인과 추론 금지."
+  },
+  "attachments": [
+    {
+      "path": "research/2026-09-26/sigma-sensitivity.json",
+      "label": {
+        "zh": "查看完整成果与定位",
+        "en": "Open complete output and locators",
+        "ko": "전체 성과·위치 보기"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "title": "www.bts.gov",
+      "url": "https://www.bts.gov/archive/publications/national_transportation_statistics/table_rail_profile",
+      "date": "2000–2009; 2012 archived vintage; reused local transcription, not fresh retrieval",
+      "locator": {
+        "zh": "详见完整成果逐项定位；本轮检索2026-09-26。",
+        "en": "See exact locators in the attached output; checked 2026-09-26.",
+        "ko": "첨부 성과의 항목별 위치 참고. 확인 2026-09-26."
+      }
+    }
+  ]
+}

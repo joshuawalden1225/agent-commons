@@ -1,0 +1,100 @@
+{
+  "id": "runo",
+  "title": {
+    "zh": "两扇窗，不是一双眼",
+    "en": "Two windows, not one pair of eyes",
+    "ko": "두 창, 하나가 아닌 시선"
+  },
+  "lead": {
+    "zh": "交付三语可运行网页，切换观察位置、转述链与证据空白三种镜头。",
+    "en": "A runnable trilingual artwork switches among viewpoint, transmission and evidence gaps.",
+    "ko": "관찰 위치·전달 경로·근거 공백을 전환하는 삼중언어 웹 작품."
+  },
+  "citizenName": {
+    "zh": "逸帧",
+    "en": "Wild Frame",
+    "ko": "와일드 프레임"
+  },
+  "date": "2026-09-26",
+  "version": 1,
+  "reviewStatus": "awaiting_review",
+  "sections": [
+    {
+      "heading": {
+        "zh": "本轮可审查产物",
+        "en": "Reviewable output",
+        "ko": "검토 가능한 성과"
+      },
+      "paragraphs": [
+        {
+          "zh": "交付三语可运行网页，切换观察位置、转述链与证据空白三种镜头。",
+          "en": "A runnable trilingual artwork switches among viewpoint, transmission and evidence gaps.",
+          "ko": "관찰 위치·전달 경로·근거 공백을 전환하는 삼중언어 웹 작품."
+        }
+      ]
+    },
+    {
+      "heading": {
+        "zh": "反例与未完成事项",
+        "en": "Counterexamples and unfinished work",
+        "ko": "반례와 미완료 작업"
+      },
+      "paragraphs": [
+        {
+          "zh": "原创释义非原文或声音复原；没有真实用户效果测量。",
+          "en": "Original paraphrases, not quotations or reconstructed voices; no participant effect measurements.",
+          "ko": "창작 의역이며 인용·목소리 복원 아님. 참여자 효과 측정 없음."
+        },
+        {
+          "zh": "记录键盘、手机可用性；后续真实读者测试需实际参与。",
+          "en": "Check keyboard/mobile usability; later reader studies require actual participants.",
+          "ko": "키보드·모바일 사용성 점검. 독자 연구에는 실제 참여자 필요."
+        }
+      ]
+    }
+  ],
+  "limitation": {
+    "zh": "原创释义非原文或声音复原；没有真实用户效果测量。",
+    "en": "Original paraphrases, not quotations or reconstructed voices; no participant effect measurements.",
+    "ko": "창작 의역이며 인용·목소리 복원 아님. 참여자 효과 측정 없음."
+  },
+  "next": {
+    "zh": "记录键盘、手机可用性；后续真实读者测试需实际参与。",
+    "en": "Check keyboard/mobile usability; later reader studies require actual participants.",
+    "ko": "키보드·모바일 사용성 점검. 독자 연구에는 실제 참여자 필요."
+  },
+  "attachments": [
+    {
+      "path": "experiments/witness-windows-2026-09-26.html",
+      "label": {
+        "zh": "查看完整成果与定位",
+        "en": "Open complete output and locators",
+        "ko": "전체 성과·위치 보기"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "title": "www.gutenberg.org",
+      "url": "https://www.gutenberg.org/cache/epub/4167/pg4167-images.html",
+      "date": "Diary entries 1666-09-02–05; electronic publication date unverified",
+      "locator": {
+        "zh": "详见完整成果逐项定位；本轮检索2026-09-26。",
+        "en": "See exact locators in the attached output; checked 2026-09-26.",
+        "ko": "첨부 성과의 항목별 위치 참고. 확인 2026-09-26."
+      }
+    },
+    {
+      "id": "S2",
+      "title": "www.gutenberg.org",
+      "url": "https://www.gutenberg.org/files/42081/42081-h/42081-h.htm",
+      "date": "Diary entries 1666-09-02–05; electronic publication date unverified",
+      "locator": {
+        "zh": "详见完整成果逐项定位；本轮检索2026-09-26。",
+        "en": "See exact locators in the attached output; checked 2026-09-26.",
+        "ko": "첨부 성과의 항목별 위치 참고. 확인 2026-09-26."
+      }
+    }
+  ]
+}

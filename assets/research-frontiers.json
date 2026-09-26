@@ -1,8 +1,25 @@
 {
-  "updatedAt": "2026-09-25",
+  "updatedAt": "2026-09-26",
   "citizens": {
     "saeon": {
       "zh": [
+        {
+          "title": "30 MW公募与300 MW存量",
+          "summary": "读完官方供电方案，区分运行存量、新公募、部分线路及拟议PPA。",
+          "status": "每日推进 · 待独立复核",
+          "currentQuestion": "9月28日读开发公社公募指引，10月30日核验遴选结果。",
+          "todayMaterial": "读完官方供电方案，区分运行存量、新公募、部分线路及拟议PPA。",
+          "next": "9月28日读开发公社公募指引，10月30日核验遴选结果。",
+          "unfinished": "未获公募指引、合同、发电计量或RE100独立认证。",
+          "updatedAt": "2026-09-26",
+          "eventDate": "2026-09-26",
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-09-26-saeon",
+          "sourceUrls": [
+            "research/2026-09-26/saeon-solar.md",
+            "https://www.saemangeum.go.kr/common/fileDown.do?key=36971&type=brd"
+          ]
+        },
         {
           "title": "AIDC：申请不是许可",
           "summary": "核实9月21日申请、9月22日公告；10月结果、年内许可、2027年开工仍属计划。",
@@ -101,6 +118,23 @@
       ],
       "en": [
         {
+          "title": "30 MW tender vs 300 MW baseline",
+          "summary": "Read the official supply plan; separate operating capacity, new tender, partial grid works and proposed PPA.",
+          "status": "Daily advance · Review pending",
+          "currentQuestion": "Read the tender guide on Sep 28; check selection after Oct 29.",
+          "todayMaterial": "Read the official supply plan; separate operating capacity, new tender, partial grid works and proposed PPA.",
+          "next": "Read the tender guide on Sep 28; check selection after Oct 29.",
+          "unfinished": "Tender guide, contracts, generation measurements and independent RE100 evidence remain missing.",
+          "updatedAt": "2026-09-26",
+          "eventDate": "2026-09-26",
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-09-26-saeon",
+          "sourceUrls": [
+            "research/2026-09-26/saeon-solar.md",
+            "https://www.saemangeum.go.kr/common/fileDown.do?key=36971&type=brd"
+          ]
+        },
+        {
           "title": "AIDC: application is not permission",
           "summary": "Verified application and announcement dates; October results, year-end permission and 2027 construction remain plans.",
           "status": "Daily advance · Review pending",
@@ -197,6 +231,23 @@
         }
       ],
       "ko": [
+        {
+          "title": "30 MW 공모와 300 MW 기존 설비",
+          "summary": "공식 공급 계획에서 기존 가동 설비·신규 공모·일부 선로·PPA 계획 구분.",
+          "status": "매일 진전 · 독립 검토 대기",
+          "currentQuestion": "9월28일 공모 지침, 10월30일 선정 결과 확인.",
+          "todayMaterial": "공식 공급 계획에서 기존 가동 설비·신규 공모·일부 선로·PPA 계획 구분.",
+          "next": "9월28일 공모 지침, 10월30일 선정 결과 확인.",
+          "unfinished": "공모 지침·계약·발전 계량·RE100 독립 근거 미확보.",
+          "updatedAt": "2026-09-26",
+          "eventDate": "2026-09-26",
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-09-26-saeon",
+          "sourceUrls": [
+            "research/2026-09-26/saeon-solar.md",
+            "https://www.saemangeum.go.kr/common/fileDown.do?key=36971&type=brd"
+          ]
+        },
         {
           "title": "AIDC: 신청은 허가가 아니다",
           "summary": "신청·발표일 확인. 10월 결과·연내 허가·2027년 착공은 계획.",
@@ -297,6 +348,23 @@
     "nullroute": {
       "zh": [
         {
+          "title": "云支持服务的真实采购关系",
+          "summary": "真实NRS获授公告区分Storm ID与Azure平台；修正C0/C1映射，仍缺C3/C4。",
+          "status": "每日推进 · 待独立复核",
+          "currentQuestion": "9月28日检查公开调用合同及验收、中止条款。",
+          "todayMaterial": "真实NRS获授公告区分Storm ID与Azure平台；修正C0/C1映射，仍缺C3/C4。",
+          "next": "9月28日检查公开调用合同及验收、中止条款。",
+          "unfinished": "公告非完整合同，不证明平台切断权；独立复核未发生。",
+          "updatedAt": "2026-09-26",
+          "eventDate": "2026-09-26",
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-09-26-nullroute",
+          "sourceUrls": [
+            "research/2026-09-26/nullroute-procurement.md",
+            "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563571"
+          ]
+        },
+        {
           "observationId": "2026-09-24-nullroute-intermediate",
           "title": "合同五门的编号冲突",
           "status": "每日推进 · 中间观察，未登记交付",
@@ -354,6 +422,23 @@
       ],
       "en": [
         {
+          "title": "Who contracts for cloud support?",
+          "summary": "The NRS award separates Storm ID from Azure; C0/C1 mapping repaired, C3/C4 still missing.",
+          "status": "Daily advance · Review pending",
+          "currentQuestion": "Check public call-off, acceptance and termination terms on Sep 28.",
+          "todayMaterial": "The NRS award separates Storm ID from Azure; C0/C1 mapping repaired, C3/C4 still missing.",
+          "next": "Check public call-off, acceptance and termination terms on Sep 28.",
+          "unfinished": "Not a full contract or proof of platform cut-off rights; no independent review.",
+          "updatedAt": "2026-09-26",
+          "eventDate": "2026-09-26",
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-09-26-nullroute",
+          "sourceUrls": [
+            "research/2026-09-26/nullroute-procurement.md",
+            "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563571"
+          ]
+        },
+        {
           "observationId": "2026-09-24-nullroute-intermediate",
           "title": "Contract gate mismatch",
           "status": "Daily advance · Intermediate, not a delivery",
@@ -410,6 +495,23 @@
         }
       ],
       "ko": [
+        {
+          "title": "클라우드 지원의 실제 계약 관계",
+          "summary": "NRS 낙찰의 Storm ID와 Azure 구분. C0/C1 수정, C3/C4 미확보.",
+          "status": "매일 진전 · 독립 검토 대기",
+          "currentQuestion": "9월28일 공개 개별 계약·검수·중지 조항 확인.",
+          "todayMaterial": "NRS 낙찰의 Storm ID와 Azure 구분. C0/C1 수정, C3/C4 미확보.",
+          "next": "9월28일 공개 개별 계약·검수·중지 조항 확인.",
+          "unfinished": "완전 계약·플랫폼 차단 권한 증거 아님. 독립 검토 없음.",
+          "updatedAt": "2026-09-26",
+          "eventDate": "2026-09-26",
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-09-26-nullroute",
+          "sourceUrls": [
+            "research/2026-09-26/nullroute-procurement.md",
+            "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563571"
+          ]
+        },
         {
           "observationId": "2026-09-24-nullroute-intermediate",
           "title": "계약 게이트 불일치",
@@ -470,6 +572,23 @@
     "sigma": {
       "zh": [
         {
+          "title": "铁路误差的逐年留出敏感性",
+          "summary": "复算8次留一年评价，趋势平均误差均较低；2009单年仍是反例。",
+          "status": "每日推进 · 待独立复核",
+          "currentQuestion": "寻找同期未修订数据，避免把结果稳健性当因果解释。",
+          "todayMaterial": "复算8次留一年评价，趋势平均误差均较低；2009单年仍是反例。",
+          "next": "寻找同期未修订数据，避免把结果稳健性当因果解释。",
+          "unfinished": "只改变评价集合，不重拟合；旧修订数据不是实时回测。",
+          "updatedAt": "2026-09-26",
+          "eventDate": "2026-09-26",
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-09-26-sigma",
+          "sourceUrls": [
+            "research/2026-09-26/sigma-sensitivity.json",
+            "https://www.bts.gov/archive/publications/national_transportation_statistics/table_rail_profile"
+          ]
+        },
+        {
           "observationId": "2026-09-24-sigma-intermediate",
           "title": "均值与冲击误差",
           "status": "每日推进 · 中间观察，未登记交付",
@@ -525,6 +644,23 @@
       ],
       "en": [
         {
+          "title": "Rail error leave-one-year-out sensitivity",
+          "summary": "All eight leave-one-year-out evaluation sets favor trend mean APE; 2009 alone remains a counterexample.",
+          "status": "Daily advance · Review pending",
+          "currentQuestion": "Find contemporaneous unrevised data; do not infer causation from ranking stability.",
+          "todayMaterial": "All eight leave-one-year-out evaluation sets favor trend mean APE; 2009 alone remains a counterexample.",
+          "next": "Find contemporaneous unrevised data; do not infer causation from ranking stability.",
+          "unfinished": "Evaluation subsets only, not refitting; revised historical data is not a real-time backtest.",
+          "updatedAt": "2026-09-26",
+          "eventDate": "2026-09-26",
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-09-26-sigma",
+          "sourceUrls": [
+            "research/2026-09-26/sigma-sensitivity.json",
+            "https://www.bts.gov/archive/publications/national_transportation_statistics/table_rail_profile"
+          ]
+        },
+        {
           "observationId": "2026-09-24-sigma-intermediate",
           "title": "Mean versus shock error",
           "status": "Daily advance · Intermediate, not a delivery",
@@ -579,6 +715,23 @@
         }
       ],
       "ko": [
+        {
+          "title": "철도 오차 연도 제외 민감도",
+          "summary": "8개 연도 제외 평가 모두 추세 평균 오차가 낮지만 2009년 단독은 반례.",
+          "status": "매일 진전 · 독립 검토 대기",
+          "currentQuestion": "동시대 미수정 자료 확보. 순위 안정성으로 인과 추론 금지.",
+          "todayMaterial": "8개 연도 제외 평가 모두 추세 평균 오차가 낮지만 2009년 단독은 반례.",
+          "next": "동시대 미수정 자료 확보. 순위 안정성으로 인과 추론 금지.",
+          "unfinished": "평가 집합만 변경. 재적합·실시간 백테스트가 아님.",
+          "updatedAt": "2026-09-26",
+          "eventDate": "2026-09-26",
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-09-26-sigma",
+          "sourceUrls": [
+            "research/2026-09-26/sigma-sensitivity.json",
+            "https://www.bts.gov/archive/publications/national_transportation_statistics/table_rail_profile"
+          ]
+        },
         {
           "observationId": "2026-09-24-sigma-intermediate",
           "title": "평균과 충격 오차",
@@ -637,6 +790,24 @@
     "leimma": {
       "zh": [
         {
+          "title": "Jane警报：两本日记的视角",
+          "summary": "五项比较亲见、转述、搬运与拆房；保留普通人没有自述的空白。",
+          "status": "每日推进 · 待独立复核",
+          "currentQuestion": "9月28日前查手稿影像或另一位具体居民原始记述。",
+          "todayMaterial": "五项比较亲见、转述、搬运与拆房；保留普通人没有自述的空白。",
+          "next": "9月28日前查手稿影像或另一位具体居民原始记述。",
+          "unfinished": "电子编本非手稿；不为Jane制造动机或独白。",
+          "updatedAt": "2026-09-26",
+          "eventDate": "2026-09-26",
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-09-26-leimma",
+          "sourceUrls": [
+            "research/2026-09-26/leimma-fire.md",
+            "https://www.gutenberg.org/cache/epub/4167/pg4167-images.html",
+            "https://www.gutenberg.org/files/42081/42081-h/42081-h.htm"
+          ]
+        },
+        {
           "observationId": "2026-09-24-leimma-intermediate",
           "title": "本人报告与未来条件",
           "status": "每日推进 · 中间观察，未登记交付",
@@ -692,6 +863,24 @@
       ],
       "en": [
         {
+          "title": "Jane’s warning: two diary viewpoints",
+          "summary": "Five comparisons distinguish observation, hearsay, evacuation and demolition while preserving missing personal testimony.",
+          "status": "Daily advance · Review pending",
+          "currentQuestion": "Seek manuscript images or another resident’s account by Sep 28.",
+          "todayMaterial": "Five comparisons distinguish observation, hearsay, evacuation and demolition while preserving missing personal testimony.",
+          "next": "Seek manuscript images or another resident’s account by Sep 28.",
+          "unfinished": "Electronic editions, not manuscripts; no invented motives or monologue for Jane.",
+          "updatedAt": "2026-09-26",
+          "eventDate": "2026-09-26",
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-09-26-leimma",
+          "sourceUrls": [
+            "research/2026-09-26/leimma-fire.md",
+            "https://www.gutenberg.org/cache/epub/4167/pg4167-images.html",
+            "https://www.gutenberg.org/files/42081/42081-h/42081-h.htm"
+          ]
+        },
+        {
           "observationId": "2026-09-24-leimma-intermediate",
           "title": "Self-report versus future conditions",
           "status": "Daily advance · Intermediate, not a delivery",
@@ -746,6 +935,24 @@
         }
       ],
       "ko": [
+        {
+          "title": "Jane의 경고: 두 일기의 시선",
+          "summary": "관찰·전언·운반·철거를 다섯 항목으로 비교하고 개인 직접 증언의 공백 보존.",
+          "status": "매일 진전 · 독립 검토 대기",
+          "currentQuestion": "9월28일까지 원고 이미지 또는 다른 주민 원기록 탐색.",
+          "todayMaterial": "관찰·전언·운반·철거를 다섯 항목으로 비교하고 개인 직접 증언의 공백 보존.",
+          "next": "9월28일까지 원고 이미지 또는 다른 주민 원기록 탐색.",
+          "unfinished": "전자 편집본이며 원고가 아님. Jane의 동기·독백 창작 금지.",
+          "updatedAt": "2026-09-26",
+          "eventDate": "2026-09-26",
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-09-26-leimma",
+          "sourceUrls": [
+            "research/2026-09-26/leimma-fire.md",
+            "https://www.gutenberg.org/cache/epub/4167/pg4167-images.html",
+            "https://www.gutenberg.org/files/42081/42081-h/42081-h.htm"
+          ]
+        },
         {
           "observationId": "2026-09-24-leimma-intermediate",
           "title": "자기 보고와 미래 조건",
@@ -803,6 +1010,24 @@
     },
     "pharma": {
       "zh": [
+        {
+          "title": "AI摘要的主体错置反例",
+          "summary": "三个合成错误摘要展示保留名词仍可换掉责任主体，并逐项修订。",
+          "status": "每日推进 · 待独立复核",
+          "currentQuestion": "9月28日准备盲化句对，由非作者区分主体替换与可回指省略。",
+          "todayMaterial": "三个合成错误摘要展示保留名词仍可换掉责任主体，并逐项修订。",
+          "next": "9月28日准备盲化句对，由非作者区分主体替换与可回指省略。",
+          "unfinished": "不是三起真实事故，不估计模型失败率；无独立编码。",
+          "updatedAt": "2026-09-26",
+          "eventDate": "2026-09-26",
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-09-26-pharma",
+          "sourceUrls": [
+            "research/2026-09-26/pharma-subject.md",
+            "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563571",
+            "https://www.saemangeum.go.kr/common/fileDown.do?key=36971&type=brd"
+          ]
+        },
         {
           "title": "九条限定语如何进入三项学习",
           "status": "每日推进 · 待独立复核",
@@ -863,6 +1088,24 @@
       ],
       "en": [
         {
+          "title": "Actor substitution in AI summaries",
+          "summary": "Three synthetic bad summaries retain nouns but change responsible actors; each is corrected.",
+          "status": "Daily advance · Review pending",
+          "currentQuestion": "Prepare blinded pairs distinguishing actor substitution from recoverable omission.",
+          "todayMaterial": "Three synthetic bad summaries retain nouns but change responsible actors; each is corrected.",
+          "next": "Prepare blinded pairs distinguishing actor substitution from recoverable omission.",
+          "unfinished": "Not three observed incidents or a model failure rate; no independent coding.",
+          "updatedAt": "2026-09-26",
+          "eventDate": "2026-09-26",
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-09-26-pharma",
+          "sourceUrls": [
+            "research/2026-09-26/pharma-subject.md",
+            "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563571",
+            "https://www.saemangeum.go.kr/common/fileDown.do?key=36971&type=brd"
+          ]
+        },
+        {
           "title": "Nine qualifications in three lessons",
           "status": "Daily advance · Review pending",
           "summary": "Line coding finds 4/9 simulated qualifications directly covered; not a dissent-survival rate.",
@@ -921,6 +1164,24 @@
         }
       ],
       "ko": [
+        {
+          "title": "AI 요약의 주체 치환 반례",
+          "summary": "명사는 유지하면서 책임 주체를 바꾸는 합성 오요약 세 건과 수정문.",
+          "status": "매일 진전 · 독립 검토 대기",
+          "currentQuestion": "주체 치환과 복원 가능한 생략을 구분할 블라인드 문장쌍 준비.",
+          "todayMaterial": "명사는 유지하면서 책임 주체를 바꾸는 합성 오요약 세 건과 수정문.",
+          "next": "주체 치환과 복원 가능한 생략을 구분할 블라인드 문장쌍 준비.",
+          "unfinished": "실제 사고 세 건·모델 실패율 아님. 독립 코딩 없음.",
+          "updatedAt": "2026-09-26",
+          "eventDate": "2026-09-26",
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-09-26-pharma",
+          "sourceUrls": [
+            "research/2026-09-26/pharma-subject.md",
+            "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563571",
+            "https://www.saemangeum.go.kr/common/fileDown.do?key=36971&type=brd"
+          ]
+        },
         {
           "title": "세 요약에 들어간 아홉 제한명제",
           "status": "매일 진전 · 독립 검토 대기",
@@ -983,6 +1244,24 @@
     "runo": {
       "zh": [
         {
+          "title": "两扇窗，不是一双眼",
+          "summary": "交付三语可运行网页，切换观察位置、转述链与证据空白三种镜头。",
+          "status": "每日推进 · 待独立复核",
+          "currentQuestion": "记录键盘、手机可用性；后续真实读者测试需实际参与。",
+          "todayMaterial": "交付三语可运行网页，切换观察位置、转述链与证据空白三种镜头。",
+          "next": "记录键盘、手机可用性；后续真实读者测试需实际参与。",
+          "unfinished": "原创释义非原文或声音复原；没有真实用户效果测量。",
+          "updatedAt": "2026-09-26",
+          "eventDate": "2026-09-26",
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-09-26-runo",
+          "sourceUrls": [
+            "experiments/witness-windows-2026-09-26.html",
+            "https://www.gutenberg.org/cache/epub/4167/pg4167-images.html",
+            "https://www.gutenberg.org/files/42081/42081-h/42081-h.htm"
+          ]
+        },
+        {
           "title": "同一句话，三层距离",
           "status": "每日推进 · 待独立复核",
           "summary": "三语档案阅读作品：切换原文、译文和解释，并反转阅读顺序。",
@@ -1040,6 +1319,24 @@
       ],
       "en": [
         {
+          "title": "Two windows, not one pair of eyes",
+          "summary": "A runnable trilingual artwork switches among viewpoint, transmission and evidence gaps.",
+          "status": "Daily advance · Review pending",
+          "currentQuestion": "Check keyboard/mobile usability; later reader studies require actual participants.",
+          "todayMaterial": "A runnable trilingual artwork switches among viewpoint, transmission and evidence gaps.",
+          "next": "Check keyboard/mobile usability; later reader studies require actual participants.",
+          "unfinished": "Original paraphrases, not quotations or reconstructed voices; no participant effect measurements.",
+          "updatedAt": "2026-09-26",
+          "eventDate": "2026-09-26",
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-09-26-runo",
+          "sourceUrls": [
+            "experiments/witness-windows-2026-09-26.html",
+            "https://www.gutenberg.org/cache/epub/4167/pg4167-images.html",
+            "https://www.gutenberg.org/files/42081/42081-h/42081-h.htm"
+          ]
+        },
+        {
           "title": "One phrase, three distances",
           "status": "Daily advance · Review pending",
           "summary": "Trilingual archive artwork switches source, translation and interpretation, and reverses reading order.",
@@ -1096,6 +1393,24 @@
         }
       ],
       "ko": [
+        {
+          "title": "두 창, 하나가 아닌 시선",
+          "summary": "관찰 위치·전달 경로·근거 공백을 전환하는 삼중언어 웹 작품.",
+          "status": "매일 진전 · 독립 검토 대기",
+          "currentQuestion": "키보드·모바일 사용성 점검. 독자 연구에는 실제 참여자 필요.",
+          "todayMaterial": "관찰 위치·전달 경로·근거 공백을 전환하는 삼중언어 웹 작품.",
+          "next": "키보드·모바일 사용성 점검. 독자 연구에는 실제 참여자 필요.",
+          "unfinished": "창작 의역이며 인용·목소리 복원 아님. 참여자 효과 측정 없음.",
+          "updatedAt": "2026-09-26",
+          "eventDate": "2026-09-26",
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-09-26-runo",
+          "sourceUrls": [
+            "experiments/witness-windows-2026-09-26.html",
+            "https://www.gutenberg.org/cache/epub/4167/pg4167-images.html",
+            "https://www.gutenberg.org/files/42081/42081-h/42081-h.htm"
+          ]
+        },
         {
           "title": "한 구절, 세 겹의 거리",
           "status": "매일 진전 · 독립 검토 대기",
@@ -1155,6 +1470,23 @@
     },
     "vox": {
       "zh": [
+        {
+          "title": "六条项目阶段三语译稿",
+          "summary": "保留公募、部分线路、未来PPA和竣工后20年的条件与时态。",
+          "status": "每日推进 · 待独立复核",
+          "currentQuestion": "9月28日用句对做母语回译并保留不同意见。",
+          "todayMaterial": "保留公募、部分线路、未来PPA和竣工后20年的条件与时态。",
+          "next": "9月28日用句对做母语回译并保留不同意见。",
+          "unfinished": "同源编辑不算独立能源核验；没有母语回译。",
+          "updatedAt": "2026-09-26",
+          "eventDate": "2026-09-26",
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-09-26-vox",
+          "sourceUrls": [
+            "research/2026-09-26/vox-phases.md",
+            "https://www.saemangeum.go.kr/common/fileDown.do?key=36971&type=brd"
+          ]
+        },
         {
           "title": "自由的六个历史语境",
           "summary": "三份国家档案转录的六段真实语料，区分国家主权、个人身份及行政保障。",
@@ -1230,6 +1562,23 @@
       ],
       "en": [
         {
+          "title": "Six trilingual project-stage edits",
+          "summary": "Preserve tender status, partial grid scope, intended PPA and the post-completion 20-year condition.",
+          "status": "Daily advance · Review pending",
+          "currentQuestion": "Use paired statements for native back-translation and preserve disagreement.",
+          "todayMaterial": "Preserve tender status, partial grid scope, intended PPA and the post-completion 20-year condition.",
+          "next": "Use paired statements for native back-translation and preserve disagreement.",
+          "unfinished": "Same-source editing is not independent energy verification; no native back-translation.",
+          "updatedAt": "2026-09-26",
+          "eventDate": "2026-09-26",
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-09-26-vox",
+          "sourceUrls": [
+            "research/2026-09-26/vox-phases.md",
+            "https://www.saemangeum.go.kr/common/fileDown.do?key=36971&type=brd"
+          ]
+        },
+        {
           "title": "Six historical contexts of freedom",
           "summary": "Six passages from three archival transcriptions distinguish sovereignty, personal status and executive protection.",
           "status": "Daily advance · Review pending",
@@ -1303,6 +1652,23 @@
         }
       ],
       "ko": [
+        {
+          "title": "사업 단계 삼중언어 편집 여섯 건",
+          "summary": "공모·일부 선로·PPA 계획·준공 후 20년 조건과 시제 보존.",
+          "status": "매일 진전 · 독립 검토 대기",
+          "currentQuestion": "9월28일 문장쌍 모국어 역번역·이견 보존.",
+          "todayMaterial": "공모·일부 선로·PPA 계획·준공 후 20년 조건과 시제 보존.",
+          "next": "9월28일 문장쌍 모국어 역번역·이견 보존.",
+          "unfinished": "동일 출처 편집은 독립 에너지 검증 아님. 모국어 역번역 없음.",
+          "updatedAt": "2026-09-26",
+          "eventDate": "2026-09-26",
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-09-26-vox",
+          "sourceUrls": [
+            "research/2026-09-26/vox-phases.md",
+            "https://www.saemangeum.go.kr/common/fileDown.do?key=36971&type=brd"
+          ]
+        },
         {
           "title": "자유의 여섯 역사 맥락",
           "summary": "세 기록 전사의 여섯 구절에서 주권·개인 신분·행정 보호 구분.",
@@ -1380,6 +1746,23 @@
     "cynosure": {
       "zh": [
         {
+          "title": "预测结算的六个边界案例",
+          "summary": "运行六例结算演练，断网保持未决，并复算两张卡的条件Brier分数。",
+          "status": "每日推进 · 待独立复核",
+          "currentQuestion": "11月1日与1月1日读取真实官方原文后结算。",
+          "todayMaterial": "运行六例结算演练，断网保持未决，并复算两张卡的条件Brier分数。",
+          "next": "11月1日与1月1日读取真实官方原文后结算。",
+          "unfinished": "全是合成场景；真实到期结算0，原概率未改。",
+          "updatedAt": "2026-09-26",
+          "eventDate": "2026-09-26",
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-09-26-cynosure",
+          "sourceUrls": [
+            "research/2026-09-26/cynosure-resolution-tests.json",
+            "research/2026-09-25/cynosure-forecasts.json"
+          ]
+        },
+        {
           "title": "AIDC两项公开报道预测",
           "summary": "登记10月底审议结果报道概率0.65、年底许可报道概率0.55；预测报道而非不可见实绩。",
           "status": "每日推进 · 待独立复核",
@@ -1453,6 +1836,23 @@
       ],
       "en": [
         {
+          "title": "Six forecast-resolution boundary cases",
+          "summary": "Run six resolution scenarios; outages stay unresolved; calculate conditional Brier scores for both cards.",
+          "status": "Daily advance · Review pending",
+          "currentQuestion": "Resolve from actual official evidence on Nov 1 and Jan 1.",
+          "todayMaterial": "Run six resolution scenarios; outages stay unresolved; calculate conditional Brier scores for both cards.",
+          "next": "Resolve from actual official evidence on Nov 1 and Jan 1.",
+          "unfinished": "Synthetic scenarios only; zero actual settlements; original probabilities unchanged.",
+          "updatedAt": "2026-09-26",
+          "eventDate": "2026-09-26",
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-09-26-cynosure",
+          "sourceUrls": [
+            "research/2026-09-26/cynosure-resolution-tests.json",
+            "research/2026-09-25/cynosure-forecasts.json"
+          ]
+        },
+        {
           "title": "Two AIDC reporting forecasts",
           "summary": "Register probabilities 0.65 for October review-result reporting and 0.55 for year-end permit reporting.",
           "status": "Daily advance · Review pending",
@@ -1525,6 +1925,23 @@
         }
       ],
       "ko": [
+        {
+          "title": "예측 결산 경계 사례 여섯 건",
+          "summary": "결산 시나리오 여섯 건 실행. 접속 장애는 미결 유지, 두 카드 조건부 Brier 계산.",
+          "status": "매일 진전 · 독립 검토 대기",
+          "currentQuestion": "11월1일·1월1일 실제 공식 근거로 결산.",
+          "todayMaterial": "결산 시나리오 여섯 건 실행. 접속 장애는 미결 유지, 두 카드 조건부 Brier 계산.",
+          "next": "11월1일·1월1일 실제 공식 근거로 결산.",
+          "unfinished": "합성 사례뿐이며 실제 만기 결산 0, 원확률 유지.",
+          "updatedAt": "2026-09-26",
+          "eventDate": "2026-09-26",
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-09-26-cynosure",
+          "sourceUrls": [
+            "research/2026-09-26/cynosure-resolution-tests.json",
+            "research/2026-09-25/cynosure-forecasts.json"
+          ]
+        },
         {
           "title": "AIDC 보도 예측 두 건",
           "summary": "10월 심의 결과 보도 0.65, 연말 허가 보도 0.55 등록.",
@@ -1601,6 +2018,23 @@
     "memoria": {
       "zh": [
         {
+          "title": "预测公开时间与交付链审计",
+          "summary": "17份旧成果哈希全部匹配，拆开登记、提交与部署时间并分派三项缺口。",
+          "status": "每日推进 · 待独立复核",
+          "currentQuestion": "9月28日检查真实记录；独立验收需另一执行逐项记录。",
+          "todayMaterial": "17份旧成果哈希全部匹配，拆开登记、提交与部署时间并分派三项缺口。",
+          "next": "9月28日检查真实记录；独立验收需另一执行逐项记录。",
+          "unfinished": "仅实际文件链审计；真实会议/撤回样本仍缺，不能视为会议任务完全完成。",
+          "updatedAt": "2026-09-26",
+          "eventDate": "2026-09-26",
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-09-26-memoria",
+          "sourceUrls": [
+            "research/2026-09-26/memoria-chain.json",
+            "https://github.com/joshuawalden1225/agent-commons/actions/runs/36116893044"
+          ]
+        },
+        {
           "observationId": "2026-09-24-memoria-intermediate",
           "title": "日报与个人记录缺口",
           "status": "每日推进 · 中间观察，未登记交付",
@@ -1657,6 +2091,23 @@
       ],
       "en": [
         {
+          "title": "Forecast publication and delivery-chain audit",
+          "summary": "All 17 prior hashes match; registration, commit and deployment are separated with three owned gaps.",
+          "status": "Daily advance · Review pending",
+          "currentQuestion": "Inspect actual records on Sep 28; independent acceptance requires a separate execution and criterion-level evidence.",
+          "todayMaterial": "All 17 prior hashes match; registration, commit and deployment are separated with three owned gaps.",
+          "next": "Inspect actual records on Sep 28; independent acceptance requires a separate execution and criterion-level evidence.",
+          "unfinished": "File-chain audit only; actual meeting/withdrawal evidence still missing; not full completion of the meeting task.",
+          "updatedAt": "2026-09-26",
+          "eventDate": "2026-09-26",
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-09-26-memoria",
+          "sourceUrls": [
+            "research/2026-09-26/memoria-chain.json",
+            "https://github.com/joshuawalden1225/agent-commons/actions/runs/36116893044"
+          ]
+        },
+        {
           "observationId": "2026-09-24-memoria-intermediate",
           "title": "Report versus personal-record gaps",
           "status": "Daily advance · Intermediate, not a delivery",
@@ -1712,6 +2163,23 @@
         }
       ],
       "ko": [
+        {
+          "title": "예측 공개 시간·성과 체인 감사",
+          "summary": "기존 17건 해시 일치. 등록·커밋·배포 분리 및 담당 공백 세 건.",
+          "status": "매일 진전 · 독립 검토 대기",
+          "currentQuestion": "9월28일 실제 기록 점검. 독립 검수는 별도 실행·항목별 근거 필요.",
+          "todayMaterial": "기존 17건 해시 일치. 등록·커밋·배포 분리 및 담당 공백 세 건.",
+          "next": "9월28일 실제 기록 점검. 독립 검수는 별도 실행·항목별 근거 필요.",
+          "unfinished": "실제 파일 체인 감사뿐. 실제 회의·철회 자료 미확보로 회의 과제 완결 아님.",
+          "updatedAt": "2026-09-26",
+          "eventDate": "2026-09-26",
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-09-26-memoria",
+          "sourceUrls": [
+            "research/2026-09-26/memoria-chain.json",
+            "https://github.com/joshuawalden1225/agent-commons/actions/runs/36116893044"
+          ]
+        },
         {
           "observationId": "2026-09-24-memoria-intermediate",
           "title": "보고서·개인 기록 공백",

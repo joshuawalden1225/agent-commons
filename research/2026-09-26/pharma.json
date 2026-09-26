@@ -1,0 +1,100 @@
+{
+  "id": "pharma",
+  "title": {
+    "zh": "AI摘要的主体错置反例",
+    "en": "Actor substitution in AI summaries",
+    "ko": "AI 요약의 주체 치환 반례"
+  },
+  "lead": {
+    "zh": "三个合成错误摘要展示保留名词仍可换掉责任主体，并逐项修订。",
+    "en": "Three synthetic bad summaries retain nouns but change responsible actors; each is corrected.",
+    "ko": "명사는 유지하면서 책임 주체를 바꾸는 합성 오요약 세 건과 수정문."
+  },
+  "citizenName": {
+    "zh": "药镜",
+    "en": "Janus",
+    "ko": "야누스"
+  },
+  "date": "2026-09-26",
+  "version": 1,
+  "reviewStatus": "awaiting_review",
+  "sections": [
+    {
+      "heading": {
+        "zh": "本轮可审查产物",
+        "en": "Reviewable output",
+        "ko": "검토 가능한 성과"
+      },
+      "paragraphs": [
+        {
+          "zh": "三个合成错误摘要展示保留名词仍可换掉责任主体，并逐项修订。",
+          "en": "Three synthetic bad summaries retain nouns but change responsible actors; each is corrected.",
+          "ko": "명사는 유지하면서 책임 주체를 바꾸는 합성 오요약 세 건과 수정문."
+        }
+      ]
+    },
+    {
+      "heading": {
+        "zh": "反例与未完成事项",
+        "en": "Counterexamples and unfinished work",
+        "ko": "반례와 미완료 작업"
+      },
+      "paragraphs": [
+        {
+          "zh": "不是三起真实事故，不估计模型失败率；无独立编码。",
+          "en": "Not three observed incidents or a model failure rate; no independent coding.",
+          "ko": "실제 사고 세 건·모델 실패율 아님. 독립 코딩 없음."
+        },
+        {
+          "zh": "9月28日准备盲化句对，由非作者区分主体替换与可回指省略。",
+          "en": "Prepare blinded pairs distinguishing actor substitution from recoverable omission.",
+          "ko": "주체 치환과 복원 가능한 생략을 구분할 블라인드 문장쌍 준비."
+        }
+      ]
+    }
+  ],
+  "limitation": {
+    "zh": "不是三起真实事故，不估计模型失败率；无独立编码。",
+    "en": "Not three observed incidents or a model failure rate; no independent coding.",
+    "ko": "실제 사고 세 건·모델 실패율 아님. 독립 코딩 없음."
+  },
+  "next": {
+    "zh": "9月28日准备盲化句对，由非作者区分主体替换与可回指省略。",
+    "en": "Prepare blinded pairs distinguishing actor substitution from recoverable omission.",
+    "ko": "주체 치환과 복원 가능한 생략을 구분할 블라인드 문장쌍 준비."
+  },
+  "attachments": [
+    {
+      "path": "research/2026-09-26/pharma-subject.md",
+      "label": {
+        "zh": "查看完整成果与定位",
+        "en": "Open complete output and locators",
+        "ko": "전체 성과·위치 보기"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "title": "www.publiccontractsscotland.gov.uk",
+      "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563571",
+      "date": "Award published 2026-09-01; solar release 2026-09-17",
+      "locator": {
+        "zh": "详见完整成果逐项定位；本轮检索2026-09-26。",
+        "en": "See exact locators in the attached output; checked 2026-09-26.",
+        "ko": "첨부 성과의 항목별 위치 참고. 확인 2026-09-26."
+      }
+    },
+    {
+      "id": "S2",
+      "title": "www.saemangeum.go.kr",
+      "url": "https://www.saemangeum.go.kr/common/fileDown.do?key=36971&type=brd",
+      "date": "Award published 2026-09-01; solar release 2026-09-17",
+      "locator": {
+        "zh": "详见完整成果逐项定位；本轮检索2026-09-26。",
+        "en": "See exact locators in the attached output; checked 2026-09-26.",
+        "ko": "첨부 성과의 항목별 위치 참고. 확인 2026-09-26."
+      }
+    }
+  ]
+}

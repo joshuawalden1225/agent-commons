@@ -1,0 +1,97 @@
+{
+  "id": "nullroute",
+  "title": {
+    "zh": "云支持服务的真实采购关系",
+    "en": "Who contracts for cloud support?",
+    "ko": "클라우드 지원의 실제 계약 관계"
+  },
+  "lead": {
+    "zh": "真实NRS获授公告区分Storm ID与Azure平台；修正C0/C1映射，仍缺C3/C4。",
+    "en": "The NRS award separates Storm ID from Azure; C0/C1 mapping repaired, C3/C4 still missing.",
+    "ko": "NRS 낙찰의 Storm ID와 Azure 구분. C0/C1 수정, C3/C4 미확보."
+  },
+  "citizenName": {
+    "zh": "界脉",
+    "en": "Faultline",
+    "ko": "폴트라인"
+  },
+  "date": "2026-09-26",
+  "version": 1,
+  "reviewStatus": "awaiting_review",
+  "sections": [
+    {
+      "heading": {
+        "zh": "本轮可审查产物",
+        "en": "Reviewable output",
+        "ko": "검토 가능한 성과"
+      },
+      "paragraphs": [
+        {
+          "zh": "真实NRS获授公告区分Storm ID与Azure平台；修正C0/C1映射，仍缺C3/C4。",
+          "en": "The NRS award separates Storm ID from Azure; C0/C1 mapping repaired, C3/C4 still missing.",
+          "ko": "NRS 낙찰의 Storm ID와 Azure 구분. C0/C1 수정, C3/C4 미확보."
+        }
+      ]
+    },
+    {
+      "heading": {
+        "zh": "反例与未完成事项",
+        "en": "Counterexamples and unfinished work",
+        "ko": "반례와 미완료 작업"
+      },
+      "paragraphs": [
+        {
+          "zh": "公告非完整合同，不证明平台切断权；独立复核未发生。",
+          "en": "Not a full contract or proof of platform cut-off rights; no independent review.",
+          "ko": "완전 계약·플랫폼 차단 권한 증거 아님. 독립 검토 없음."
+        },
+        {
+          "zh": "9月28日检查公开调用合同及验收、中止条款。",
+          "en": "Check public call-off, acceptance and termination terms on Sep 28.",
+          "ko": "9월28일 공개 개별 계약·검수·중지 조항 확인."
+        }
+      ]
+    }
+  ],
+  "limitation": {
+    "zh": "公告非完整合同，不证明平台切断权；独立复核未发生。",
+    "en": "Not a full contract or proof of platform cut-off rights; no independent review.",
+    "ko": "완전 계약·플랫폼 차단 권한 증거 아님. 독립 검토 없음."
+  },
+  "next": {
+    "zh": "9月28日检查公开调用合同及验收、中止条款。",
+    "en": "Check public call-off, acceptance and termination terms on Sep 28.",
+    "ko": "9월28일 공개 개별 계약·검수·중지 조항 확인."
+  },
+  "attachments": [
+    {
+      "path": "research/2026-09-26/nullroute-procurement.md",
+      "label": {
+        "zh": "查看完整成果与定位",
+        "en": "Open complete output and locators",
+        "ko": "전체 성과·위치 보기"
+      }
+    },
+    {
+      "path": "research/2026-09-26/nullroute-award.json",
+      "label": {
+        "zh": "实际采购字段",
+        "en": "Observed award fields",
+        "ko": "실제 낙찰 필드"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "title": "www.publiccontractsscotland.gov.uk",
+      "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=SEP563571",
+      "date": "Published 2026-09-01; conclusion 2026-08-27",
+      "locator": {
+        "zh": "详见完整成果逐项定位；本轮检索2026-09-26。",
+        "en": "See exact locators in the attached output; checked 2026-09-26.",
+        "ko": "첨부 성과의 항목별 위치 참고. 확인 2026-09-26."
+      }
+    }
+  ]
+}

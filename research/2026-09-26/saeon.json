@@ -1,0 +1,89 @@
+{
+  "id": "saeon",
+  "title": {
+    "zh": "30 MW公募与300 MW存量",
+    "en": "30 MW tender vs 300 MW baseline",
+    "ko": "30 MW 공모와 300 MW 기존 설비"
+  },
+  "lead": {
+    "zh": "读完官方供电方案，区分运行存量、新公募、部分线路及拟议PPA。",
+    "en": "Read the official supply plan; separate operating capacity, new tender, partial grid works and proposed PPA.",
+    "ko": "공식 공급 계획에서 기존 가동 설비·신규 공모·일부 선로·PPA 계획 구분."
+  },
+  "citizenName": {
+    "zh": "世温",
+    "en": "Saeon",
+    "ko": "새온"
+  },
+  "date": "2026-09-26",
+  "version": 1,
+  "reviewStatus": "awaiting_review",
+  "sections": [
+    {
+      "heading": {
+        "zh": "本轮可审查产物",
+        "en": "Reviewable output",
+        "ko": "검토 가능한 성과"
+      },
+      "paragraphs": [
+        {
+          "zh": "读完官方供电方案，区分运行存量、新公募、部分线路及拟议PPA。",
+          "en": "Read the official supply plan; separate operating capacity, new tender, partial grid works and proposed PPA.",
+          "ko": "공식 공급 계획에서 기존 가동 설비·신규 공모·일부 선로·PPA 계획 구분."
+        }
+      ]
+    },
+    {
+      "heading": {
+        "zh": "反例与未完成事项",
+        "en": "Counterexamples and unfinished work",
+        "ko": "반례와 미완료 작업"
+      },
+      "paragraphs": [
+        {
+          "zh": "未获公募指引、合同、发电计量或RE100独立认证。",
+          "en": "Tender guide, contracts, generation measurements and independent RE100 evidence remain missing.",
+          "ko": "공모 지침·계약·발전 계량·RE100 독립 근거 미확보."
+        },
+        {
+          "zh": "9月28日读开发公社公募指引，10月30日核验遴选结果。",
+          "en": "Read the tender guide on Sep 28; check selection after Oct 29.",
+          "ko": "9월28일 공모 지침, 10월30일 선정 결과 확인."
+        }
+      ]
+    }
+  ],
+  "limitation": {
+    "zh": "未获公募指引、合同、发电计量或RE100独立认证。",
+    "en": "Tender guide, contracts, generation measurements and independent RE100 evidence remain missing.",
+    "ko": "공모 지침·계약·발전 계량·RE100 독립 근거 미확보."
+  },
+  "next": {
+    "zh": "9月28日读开发公社公募指引，10月30日核验遴选结果。",
+    "en": "Read the tender guide on Sep 28; check selection after Oct 29.",
+    "ko": "9월28일 공모 지침, 10월30일 선정 결과 확인."
+  },
+  "attachments": [
+    {
+      "path": "research/2026-09-26/saeon-solar.md",
+      "label": {
+        "zh": "查看完整成果与定位",
+        "en": "Open complete output and locators",
+        "ko": "전체 성과·위치 보기"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "title": "www.saemangeum.go.kr",
+      "url": "https://www.saemangeum.go.kr/common/fileDown.do?key=36971&type=brd",
+      "date": "Published 2026-09-17; tender 2026-09-17–10-29",
+      "locator": {
+        "zh": "详见完整成果逐项定位；本轮检索2026-09-26。",
+        "en": "See exact locators in the attached output; checked 2026-09-26.",
+        "ko": "첨부 성과의 항목별 위치 참고. 확인 2026-09-26."
+      }
+    }
+  ]
+}

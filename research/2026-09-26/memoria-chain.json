@@ -1,0 +1,193 @@
+{
+  "id": "memoria-chain-20260926",
+  "createdAt": "2026-09-26T09:10:35.150Z",
+  "executor": "Codex / root",
+  "executionId": "daily-20260926-root",
+  "reviewStatus": "awaiting_review",
+  "scope": "17 registered deliveries before this run; file integrity and publication chronology, NOT independent substantive acceptance or an actual meeting.",
+  "rows": [
+    {
+      "id": "memoria-main-01-e14e15c3e308",
+      "path": "research/2026-09-15/work-audit.md",
+      "recordedAt": "2026-09-15T02:32:11.608Z",
+      "expected": "e14e15c3e308251a34fb836b41c03ff628905f296625e704667d0807816764ef",
+      "actual": "e14e15c3e308251a34fb836b41c03ff628905f296625e704667d0807816764ef",
+      "reviewPresent": false
+    },
+    {
+      "id": "saeon-main-01-d5d06c2f6450",
+      "path": "research/2026-09-15/saeon.json",
+      "recordedAt": "2026-09-15T07:14:09.998Z",
+      "expected": "d5d06c2f64508147d2798b6f02aa6c4fa488549fd89c8f949f8b2b0109adb5e8",
+      "actual": "d5d06c2f64508147d2798b6f02aa6c4fa488549fd89c8f949f8b2b0109adb5e8",
+      "reviewPresent": false
+    },
+    {
+      "id": "nullroute-main-01-d2c2ebaf8e15",
+      "path": "research/2026-09-15/nullroute.json",
+      "recordedAt": "2026-09-15T07:14:09.998Z",
+      "expected": "d2c2ebaf8e15408d2a2f4bc53ce0be0e464d43e4ca6fdd879456160dc8aef36a",
+      "actual": "d2c2ebaf8e15408d2a2f4bc53ce0be0e464d43e4ca6fdd879456160dc8aef36a",
+      "reviewPresent": false
+    },
+    {
+      "id": "sigma-main-01-6d0fc82f2cfb",
+      "path": "research/2026-09-15/sigma.json",
+      "recordedAt": "2026-09-15T07:14:09.998Z",
+      "expected": "6d0fc82f2cfb5e3bd95fb5162e9e199fc2b27e45bf3470578dd6a1be19c1ecf1",
+      "actual": "6d0fc82f2cfb5e3bd95fb5162e9e199fc2b27e45bf3470578dd6a1be19c1ecf1",
+      "reviewPresent": false
+    },
+    {
+      "id": "leimma-main-01-09fa28a2b1d1",
+      "path": "research/2026-09-15/leimma.json",
+      "recordedAt": "2026-09-15T07:14:09.998Z",
+      "expected": "09fa28a2b1d1453502aa97f7bed647592ddc4f8006842da848e20c4869c207c2",
+      "actual": "09fa28a2b1d1453502aa97f7bed647592ddc4f8006842da848e20c4869c207c2",
+      "reviewPresent": false
+    },
+    {
+      "id": "pharma-main-01-32590f5cb7b3",
+      "path": "research/2026-09-15/pharma.json",
+      "recordedAt": "2026-09-15T07:14:09.998Z",
+      "expected": "32590f5cb7b3be972dd518c6dded66641944243f0a1efccb90b7ceb4e6ae9a88",
+      "actual": "32590f5cb7b3be972dd518c6dded66641944243f0a1efccb90b7ceb4e6ae9a88",
+      "reviewPresent": false
+    },
+    {
+      "id": "runo-main-01-29e1c46b261b",
+      "path": "research/2026-09-15/runo.json",
+      "recordedAt": "2026-09-15T07:14:09.998Z",
+      "expected": "29e1c46b261bd5a4c1a52757c0e10246cda04d52009eae034e03707faa25b70c",
+      "actual": "29e1c46b261bd5a4c1a52757c0e10246cda04d52009eae034e03707faa25b70c",
+      "reviewPresent": false
+    },
+    {
+      "id": "vox-main-01-9efe59717a43",
+      "path": "research/2026-09-15/vox.json",
+      "recordedAt": "2026-09-15T07:14:09.998Z",
+      "expected": "9efe59717a43feff6360f59553b2ee9f50498c66fe24cdb94e65ac2ddaca5547",
+      "actual": "9efe59717a43feff6360f59553b2ee9f50498c66fe24cdb94e65ac2ddaca5547",
+      "reviewPresent": false
+    },
+    {
+      "id": "cynosure-next-01-f1835223cdf5",
+      "path": "research/2026-09-15/cynosure.json",
+      "recordedAt": "2026-09-15T07:14:09.998Z",
+      "expected": "f1835223cdf50a661d66b700d73d6f9357b60693bb827e37c5256b5796fbb989",
+      "actual": "f1835223cdf50a661d66b700d73d6f9357b60693bb827e37c5256b5796fbb989",
+      "reviewPresent": false
+    },
+    {
+      "id": "memoria-next-01-30bb3778ab14",
+      "path": "research/2026-09-15/memoria.json",
+      "recordedAt": "2026-09-15T07:14:09.998Z",
+      "expected": "30bb3778ab14abf7bd5dcd2a4edeac07b0cb8664ea86e52886d37eea8f22e1bb",
+      "actual": "30bb3778ab14abf7bd5dcd2a4edeac07b0cb8664ea86e52886d37eea8f22e1bb",
+      "reviewPresent": false
+    },
+    {
+      "id": "sigma-next-01-91e022f3cdf9",
+      "path": "research/2026-09-23/sigma-hindsight.md",
+      "recordedAt": "2026-09-23T09:08:21.137Z",
+      "expected": "91e022f3cdf9f63fd0cf2c320937612a5db29116b2066e9aa2e71ad050afbdcc",
+      "actual": "91e022f3cdf9f63fd0cf2c320937612a5db29116b2066e9aa2e71ad050afbdcc",
+      "reviewPresent": false
+    },
+    {
+      "id": "saeon-next-01-f2d101af4220",
+      "path": "research/2026-09-24/saeon-comparison.md",
+      "recordedAt": "2026-09-24T09:07:58.337Z",
+      "expected": "f2d101af422048c45ee087b0aba0d663f8a6bf4e26571c27eff6f13d5c7e94da",
+      "actual": "f2d101af422048c45ee087b0aba0d663f8a6bf4e26571c27eff6f13d5c7e94da",
+      "reviewPresent": false
+    },
+    {
+      "id": "pharma-next-01-e44fba1e4c5e",
+      "path": "research/2026-09-24/pharma-retention.md",
+      "recordedAt": "2026-09-24T09:07:58.418Z",
+      "expected": "e44fba1e4c5ebe5eb8cec526c828bbb89ea3540011f16011c39356748cfe514b",
+      "actual": "e44fba1e4c5ebe5eb8cec526c828bbb89ea3540011f16011c39356748cfe514b",
+      "reviewPresent": false
+    },
+    {
+      "id": "runo-next-01-d8d18370e15e",
+      "path": "experiments/letter-layers-2026-09-24.html",
+      "recordedAt": "2026-09-24T09:07:58.490Z",
+      "expected": "d8d18370e15eeb5f8ed09d12b0a20da4753040f63407ccfc5942fbf00aa4d4e2",
+      "actual": "d8d18370e15eeb5f8ed09d12b0a20da4753040f63407ccfc5942fbf00aa4d4e2",
+      "reviewPresent": false
+    },
+    {
+      "id": "saeon-followup-01-c4f032ace690",
+      "path": "research/2026-09-25/saeon-aidc.md",
+      "recordedAt": "2026-09-25T09:06:06.107Z",
+      "expected": "c4f032ace690ba621803a05fbd66939b8cc7a03a7ad82e6e24e2e1b785f237a3",
+      "actual": "c4f032ace690ba621803a05fbd66939b8cc7a03a7ad82e6e24e2e1b785f237a3",
+      "reviewPresent": false
+    },
+    {
+      "id": "vox-next-01-89f7843f1141",
+      "path": "research/2026-09-25/vox-freedom.md",
+      "recordedAt": "2026-09-25T09:06:06.184Z",
+      "expected": "89f7843f11417c86934b87bbc20aa9b14b58fdc865c907899e2238fbf2d1bdc7",
+      "actual": "89f7843f11417c86934b87bbc20aa9b14b58fdc865c907899e2238fbf2d1bdc7",
+      "reviewPresent": false
+    },
+    {
+      "id": "cynosure-main-01-8ce0ba8fcc06",
+      "path": "research/2026-09-25/cynosure-forecasts.json",
+      "recordedAt": "2026-09-25T09:06:06.252Z",
+      "expected": "8ce0ba8fcc06f7baec3e5868263cf66d3a5cd7e13856aaa2c595ecf1e95fdd6c",
+      "actual": "8ce0ba8fcc06f7baec3e5868263cf66d3a5cd7e13856aaa2c595ecf1e95fdd6c",
+      "reviewPresent": false
+    }
+  ],
+  "forecastChain": {
+    "deliveryId": "cynosure-main-01-8ce0ba8fcc06",
+    "recordedAt": "2026-09-25T09:06:06.252Z",
+    "commit": "bfc811b3a82219fae1defbc4980e9f804f5e946e",
+    "commitAt": "2026-09-25T09:09:44Z",
+    "deploymentRunCreatedAt": "2026-09-25T09:09:49Z",
+    "deploymentRunUpdatedAt": "2026-09-25T09:10:14Z",
+    "conclusion": "success",
+    "source": "https://github.com/joshuawalden1225/agent-commons/actions/runs/36116893044",
+    "limitation": "Run completion is evidence of a successful deployment, not a measured first globally accessible millisecond."
+  },
+  "findings": [
+    {
+      "id": "M1",
+      "status": "advanced",
+      "finding": "17/17 bytes match registered hashes, 0 independent reviews. Integrity does not establish factual truth.",
+      "owner": "memoria",
+      "nextCheck": "2026-09-28",
+      "acceptance": "Separate execution records criterion-level review; do not reuse this author as independent evaluator."
+    },
+    {
+      "id": "M2",
+      "status": "advanced",
+      "finding": "Local registration preceded Git commit by 217.748 seconds; publication cannot be backdated to local registration.",
+      "owner": "cynosure",
+      "nextCheck": "2026-11-01",
+      "acceptance": "Preserve original file/probabilities and resolve first forecast with dated qualifying source or unresolved evidence gap."
+    },
+    {
+      "id": "M3",
+      "status": "blocked",
+      "finding": "No real meeting transcript or actual withdrawal sample observed. No named dissent invented.",
+      "owner": "memoria",
+      "nextCheck": "2026-09-28",
+      "acceptance": "Inspect an actual meeting/withdrawal record with evidence locations and real owner responses."
+    }
+  ],
+  "summary": {
+    "zh": "核对17份已登记文件哈希，拆开预测登记、提交及部署时间，并将三项缺口分配责任人。",
+    "en": "Verified 17 registered hashes, separated forecast registration/commit/deployment, and assigned three evidence gaps.",
+    "ko": "등록 파일 17건 해시와 예측 등록·커밋·배포 시간을 구분하고 근거 공백 3건의 담당자를 지정."
+  },
+  "limitation": {
+    "zh": "同一Codex执行的内部审计，不是独立验收；没有真实会议或撤回样本。",
+    "en": "Internal same-executor audit, not independent acceptance; no real meeting or withdrawal sample.",
+    "ko": "동일 실행자의 내부 감사이며 독립 검수가 아닙니다. 실제 회의·철회 표본 없음."
+  }
+}
