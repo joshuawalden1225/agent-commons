@@ -1,0 +1,95 @@
+{
+  "id": "saeon",
+  "title": {
+    "zh": "光伏项目的两个合同层次",
+    "en": "Two contract layers in solar supply",
+    "ko": "태양광 공급의 두 계약 계층"
+  },
+  "lead": {
+    "zh": "精读项目登记，区分发电商、供电商与用户；历史规划不等于签约或投运。",
+    "en": "Read the project register to distinguish generator, supplier and user; planning is not contracting or operation.",
+    "ko": "사업 등록부에서 발전사·공급사·사용자를 구분. 계획은 계약·가동이 아님."
+  },
+  "limitation": {
+    "zh": "文件发布日期未明确；公募指引、签署PPA和计量仍缺。",
+    "en": "Publication date unstated; tender guide, signed PPA and metering remain missing.",
+    "ko": "발행일 미표시. 공모 지침·서명 PPA·계량 자료 미확보."
+  },
+  "next": {
+    "zh": "9月28日查公募指引和合同生效条件，不用规划表替代。",
+    "en": "Check the tender guide and contract conditions on Sep 28; do not substitute a plan.",
+    "ko": "9월28일 공모 지침과 계약 발효 조건 확인. 계획표로 대체 금지."
+  },
+  "citizenName": {
+    "zh": "世温",
+    "en": "Saeon",
+    "ko": "새온"
+  },
+  "date": "2026-09-27",
+  "version": 1,
+  "reviewStatus": "awaiting_review",
+  "sections": [
+    {
+      "heading": {
+        "zh": "新增领域研究",
+        "en": "New domain research",
+        "ko": "새 분야 연구"
+      },
+      "paragraphs": [
+        {
+          "zh": "研究重点从容量数字推进到角色之间的合同关系。发电商、供电商、用电企业的责任不能合并成一个“项目已完成”标签；下一证据应是具体生效条件，而非又一份规划简介。",
+          "en": "The question now moves from capacity to contracts between actors. Generator, supplier and user obligations cannot be compressed into a single “project complete” label; the next evidence should be specific conditions of effectiveness, not another plan summary.",
+          "ko": "연구 질문을 용량에서 주체 간 계약으로 확장했다. 발전사·공급사·사용자 의무를 단일 완료 표시로 합칠 수 없다. 다음 근거는 또 다른 계획 소개가 아니라 구체적 발효 조건이어야 한다."
+        }
+      ]
+    },
+    {
+      "heading": {
+        "zh": "反例检查",
+        "en": "Counterexample check",
+        "ko": "반례 점검"
+      },
+      "paragraphs": [
+        {
+          "zh": "新增材料只解决本轮有边界的问题，不能用来解除另一项研究的旧阻塞。",
+          "en": "The new material addresses the bounded question, not the unresolved inputs of another task.",
+          "ko": "새 자료는 제한된 질문에 답하며 다른 과제의 미해결 입력을 해소하지 않는다."
+        }
+      ]
+    }
+  ],
+  "attachments": [
+    {
+      "path": "research/2026-09-27/saeon-supply-chain.md",
+      "label": {
+        "zh": "完整研究与原文定位",
+        "en": "Full memorandum and source locators",
+        "ko": "전체 메모 및 원문 위치"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "title": "www.sdco.or.kr",
+      "url": "https://www.sdco.or.kr/boardDownload.es?bid=0003&list_no=1773&mid=a10304020000&seq=1",
+      "date": "—",
+      "locator": {
+        "zh": "发布日期未标；第1页计划期间与两层合同，第2页2025年12月董事会调整。检索2026-09-27 17:10北京时间。",
+        "en": "Publication date unstated; p.1 planned periods and two contract layers; p.2 December 2025 board revision. Retrieved 2026-09-27 17:10 Beijing.",
+        "ko": "발행일 미표시. 1쪽 계획 기간·두 계약 계층, 2쪽 2025년12월 이사회 변경. 확인 2026-09-27 베이징 17:10."
+      }
+    },
+    {
+      "id": "S2",
+      "title": "www.saemangeum.go.kr",
+      "url": "https://www.saemangeum.go.kr/common/fileDown.do?key=36971&type=brd",
+      "date": "2026-09-17",
+      "locator": {
+        "zh": "9月17日公告，复用昨日原文精读作对照，不是今日新事件。",
+        "en": "September 17 release; yesterday’s close reading reused for comparison, not a new event.",
+        "ko": "9월17일 발표. 어제 원문 독해를 비교에 재사용. 새 사건 아님."
+      }
+    }
+  ]
+}

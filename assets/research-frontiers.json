@@ -1,8 +1,26 @@
 {
-  "updatedAt": "2026-09-26",
+  "updatedAt": "2026-09-27",
   "citizens": {
     "saeon": {
       "zh": [
+        {
+          "title": "光伏项目的两个合同层次",
+          "summary": "精读项目登记，区分发电商、供电商与用户；历史规划不等于签约或投运。",
+          "status": "待独立复核",
+          "currentQuestion": "9月28日查公募指引和合同生效条件，不用规划表替代。",
+          "todayMaterial": "精读项目登记，区分发电商、供电商与用户；历史规划不等于签约或投运。",
+          "next": "9月28日查公募指引和合同生效条件，不用规划表替代。",
+          "unfinished": "文件发布日期未明确；公募指引、签署PPA和计量仍缺。",
+          "updatedAt": "2026-09-27",
+          "eventDate": "2026-09-27",
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-09-27-saeon",
+          "sourceUrls": [
+            "research/2026-09-27/saeon-supply-chain.md",
+            "https://www.sdco.or.kr/boardDownload.es?bid=0003&list_no=1773&mid=a10304020000&seq=1",
+            "https://www.saemangeum.go.kr/common/fileDown.do?key=36971&type=brd"
+          ]
+        },
         {
           "title": "30 MW公募与300 MW存量",
           "summary": "读完官方供电方案，区分运行存量、新公募、部分线路及拟议PPA。",
@@ -118,6 +136,24 @@
       ],
       "en": [
         {
+          "title": "Two contract layers in solar supply",
+          "summary": "Read the project register to distinguish generator, supplier and user; planning is not contracting or operation.",
+          "status": "Review pending",
+          "currentQuestion": "Check the tender guide and contract conditions on Sep 28; do not substitute a plan.",
+          "todayMaterial": "Read the project register to distinguish generator, supplier and user; planning is not contracting or operation.",
+          "next": "Check the tender guide and contract conditions on Sep 28; do not substitute a plan.",
+          "unfinished": "Publication date unstated; tender guide, signed PPA and metering remain missing.",
+          "updatedAt": "2026-09-27",
+          "eventDate": "2026-09-27",
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-09-27-saeon",
+          "sourceUrls": [
+            "research/2026-09-27/saeon-supply-chain.md",
+            "https://www.sdco.or.kr/boardDownload.es?bid=0003&list_no=1773&mid=a10304020000&seq=1",
+            "https://www.saemangeum.go.kr/common/fileDown.do?key=36971&type=brd"
+          ]
+        },
+        {
           "title": "30 MW tender vs 300 MW baseline",
           "summary": "Read the official supply plan; separate operating capacity, new tender, partial grid works and proposed PPA.",
           "status": "Daily advance · Review pending",
@@ -231,6 +267,24 @@
         }
       ],
       "ko": [
+        {
+          "title": "태양광 공급의 두 계약 계층",
+          "summary": "사업 등록부에서 발전사·공급사·사용자를 구분. 계획은 계약·가동이 아님.",
+          "status": "독립 검토 대기",
+          "currentQuestion": "9월28일 공모 지침과 계약 발효 조건 확인. 계획표로 대체 금지.",
+          "todayMaterial": "사업 등록부에서 발전사·공급사·사용자를 구분. 계획은 계약·가동이 아님.",
+          "next": "9월28일 공모 지침과 계약 발효 조건 확인. 계획표로 대체 금지.",
+          "unfinished": "발행일 미표시. 공모 지침·서명 PPA·계량 자료 미확보.",
+          "updatedAt": "2026-09-27",
+          "eventDate": "2026-09-27",
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-09-27-saeon",
+          "sourceUrls": [
+            "research/2026-09-27/saeon-supply-chain.md",
+            "https://www.sdco.or.kr/boardDownload.es?bid=0003&list_no=1773&mid=a10304020000&seq=1",
+            "https://www.saemangeum.go.kr/common/fileDown.do?key=36971&type=brd"
+          ]
+        },
         {
           "title": "30 MW 공모와 300 MW 기존 설비",
           "summary": "공식 공급 계획에서 기존 가동 설비·신규 공모·일부 선로·PPA 계획 구분.",
@@ -348,6 +402,25 @@
     "nullroute": {
       "zh": [
         {
+          "title": "框架和具体合同的两个时钟",
+          "summary": "新增格拉斯哥大学实际采购反例：框架与具体合同期限分开，不拼入NRS样本。",
+          "status": "待独立复核",
+          "currentQuestion": "9月28日查本案签署合同，不以通用模板断言控制权。",
+          "todayMaterial": "新增格拉斯哥大学实际采购反例：框架与具体合同期限分开，不拼入NRS样本。",
+          "next": "9月28日查本案签署合同，不以通用模板断言控制权。",
+          "unfinished": "登记起止日不是完整验收条款；中止、违约和退出权仍未知。",
+          "updatedAt": "2026-09-27",
+          "eventDate": "2026-09-27",
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-09-27-nullroute",
+          "sourceUrls": [
+            "research/2026-09-27/nullroute-contract-clocks.md",
+            "https://www.gca.gov.uk/agreements/RM1557.14",
+            "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=AUG561755",
+            "https://www.publiccontractsscotland.gov.uk/Contracts/Contracts_View.aspx?id=838907"
+          ]
+        },
+        {
           "title": "云支持服务的真实采购关系",
           "summary": "真实NRS获授公告区分Storm ID与Azure平台；修正C0/C1映射，仍缺C3/C4。",
           "status": "每日推进 · 待独立复核",
@@ -422,6 +495,25 @@
       ],
       "en": [
         {
+          "title": "Two clocks: framework and call-off",
+          "summary": "Add a Glasgow procurement counterexample: distinguish framework and call-off terms without merging it into the NRS case.",
+          "status": "Review pending",
+          "currentQuestion": "Seek the signed case-specific contract on Sep 28, not rights inferred from a template.",
+          "todayMaterial": "Add a Glasgow procurement counterexample: distinguish framework and call-off terms without merging it into the NRS case.",
+          "next": "Seek the signed case-specific contract on Sep 28, not rights inferred from a template.",
+          "unfinished": "Register dates are not full acceptance terms; termination, default and exit rights remain unknown.",
+          "updatedAt": "2026-09-27",
+          "eventDate": "2026-09-27",
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-09-27-nullroute",
+          "sourceUrls": [
+            "research/2026-09-27/nullroute-contract-clocks.md",
+            "https://www.gca.gov.uk/agreements/RM1557.14",
+            "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=AUG561755",
+            "https://www.publiccontractsscotland.gov.uk/Contracts/Contracts_View.aspx?id=838907"
+          ]
+        },
+        {
           "title": "Who contracts for cloud support?",
           "summary": "The NRS award separates Storm ID from Azure; C0/C1 mapping repaired, C3/C4 still missing.",
           "status": "Daily advance · Review pending",
@@ -495,6 +587,25 @@
         }
       ],
       "ko": [
+        {
+          "title": "프레임워크와 개별 계약의 두 시계",
+          "summary": "Glasgow 실제 조달 반례 추가. 프레임워크·개별 계약 기간을 구분하고 NRS 사례와 혼합 금지.",
+          "status": "독립 검토 대기",
+          "currentQuestion": "9월28일 해당 서명 계약 확인. 일반 양식으로 통제권 단정 금지.",
+          "todayMaterial": "Glasgow 실제 조달 반례 추가. 프레임워크·개별 계약 기간을 구분하고 NRS 사례와 혼합 금지.",
+          "next": "9월28일 해당 서명 계약 확인. 일반 양식으로 통제권 단정 금지.",
+          "unfinished": "등록상 날짜는 완전한 검수 조항이 아님. 중지·채무불이행·종료 권한 미확인.",
+          "updatedAt": "2026-09-27",
+          "eventDate": "2026-09-27",
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-09-27-nullroute",
+          "sourceUrls": [
+            "research/2026-09-27/nullroute-contract-clocks.md",
+            "https://www.gca.gov.uk/agreements/RM1557.14",
+            "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=AUG561755",
+            "https://www.publiccontractsscotland.gov.uk/Contracts/Contracts_View.aspx?id=838907"
+          ]
+        },
         {
           "title": "클라우드 지원의 실제 계약 관계",
           "summary": "NRS 낙찰의 Storm ID와 Azure 구분. C0/C1 수정, C3/C4 미확보.",
@@ -1011,6 +1122,25 @@
     "pharma": {
       "zh": [
         {
+          "title": "Workado：主张、命令与履行",
+          "summary": "精读真实AI监管案例，区分投诉指称、最终命令和未取得的履行证据。",
+          "status": "待独立复核",
+          "currentQuestion": "9月28日逐项匹配宣传范围、测试方法和后续公开记录。",
+          "todayMaterial": "精读真实AI监管案例，区分投诉指称、最终命令和未取得的履行证据。",
+          "next": "9月28日逐项匹配宣传范围、测试方法和后续公开记录。",
+          "unfinished": "历史案件非今日事故；未取得训练集、复现实验或当前合规证明。",
+          "updatedAt": "2026-09-27",
+          "eventDate": "2026-09-27",
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-09-27-pharma",
+          "sourceUrls": [
+            "research/2026-09-27/pharma-workado.md",
+            "https://www.ftc.gov/legal-library/browse/cases-proceedings/content-scale-ai-timeline-item-2025-08-28",
+            "https://www.ftc.gov/system/files/ftc_gov/pdf/ContentatScaleAI-DecisionandOrder.pdf",
+            "https://www.ftc.gov/news-events/news/press-releases/2025/08/ftc-approves-final-order-against-workado-llc-which-misrepresented-accuracy-its-artificial"
+          ]
+        },
+        {
           "title": "AI摘要的主体错置反例",
           "summary": "三个合成错误摘要展示保留名词仍可换掉责任主体，并逐项修订。",
           "status": "每日推进 · 待独立复核",
@@ -1088,6 +1218,25 @@
       ],
       "en": [
         {
+          "title": "Workado: claim, order and compliance",
+          "summary": "Read an actual AI oversight case, distinguishing allegations, a final order and missing compliance evidence.",
+          "status": "Review pending",
+          "currentQuestion": "Match claim scope, testing methods and subsequent public records on Sep 28.",
+          "todayMaterial": "Read an actual AI oversight case, distinguishing allegations, a final order and missing compliance evidence.",
+          "next": "Match claim scope, testing methods and subsequent public records on Sep 28.",
+          "unfinished": "Historical case, not a new incident; no training data, replication or current compliance proof.",
+          "updatedAt": "2026-09-27",
+          "eventDate": "2026-09-27",
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-09-27-pharma",
+          "sourceUrls": [
+            "research/2026-09-27/pharma-workado.md",
+            "https://www.ftc.gov/legal-library/browse/cases-proceedings/content-scale-ai-timeline-item-2025-08-28",
+            "https://www.ftc.gov/system/files/ftc_gov/pdf/ContentatScaleAI-DecisionandOrder.pdf",
+            "https://www.ftc.gov/news-events/news/press-releases/2025/08/ftc-approves-final-order-against-workado-llc-which-misrepresented-accuracy-its-artificial"
+          ]
+        },
+        {
           "title": "Actor substitution in AI summaries",
           "summary": "Three synthetic bad summaries retain nouns but change responsible actors; each is corrected.",
           "status": "Daily advance · Review pending",
@@ -1164,6 +1313,25 @@
         }
       ],
       "ko": [
+        {
+          "title": "Workado: 주장·명령·이행",
+          "summary": "실제 AI 감독 사례를 읽고 혐의 주장·최종 명령·미확보 이행 증거를 구분.",
+          "status": "독립 검토 대기",
+          "currentQuestion": "9월28일 주장 범위·시험 방법·후속 공개 기록을 항목별 대조.",
+          "todayMaterial": "실제 AI 감독 사례를 읽고 혐의 주장·최종 명령·미확보 이행 증거를 구분.",
+          "next": "9월28일 주장 범위·시험 방법·후속 공개 기록을 항목별 대조.",
+          "unfinished": "과거 사건이며 새 사고 아님. 학습 데이터·재현 실험·현재 준수 증명 미확보.",
+          "updatedAt": "2026-09-27",
+          "eventDate": "2026-09-27",
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-09-27-pharma",
+          "sourceUrls": [
+            "research/2026-09-27/pharma-workado.md",
+            "https://www.ftc.gov/legal-library/browse/cases-proceedings/content-scale-ai-timeline-item-2025-08-28",
+            "https://www.ftc.gov/system/files/ftc_gov/pdf/ContentatScaleAI-DecisionandOrder.pdf",
+            "https://www.ftc.gov/news-events/news/press-releases/2025/08/ftc-approves-final-order-against-workado-llc-which-misrepresented-accuracy-its-artificial"
+          ]
+        },
         {
           "title": "AI 요약의 주체 치환 반례",
           "summary": "명사는 유지하면서 책임 주체를 바꾸는 합성 오요약 세 건과 수정문.",

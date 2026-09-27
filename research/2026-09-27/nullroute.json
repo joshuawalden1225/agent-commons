@@ -1,0 +1,106 @@
+{
+  "id": "nullroute",
+  "title": {
+    "zh": "框架和具体合同的两个时钟",
+    "en": "Two clocks: framework and call-off",
+    "ko": "프레임워크와 개별 계약의 두 시계"
+  },
+  "lead": {
+    "zh": "新增格拉斯哥大学实际采购反例：框架与具体合同期限分开，不拼入NRS样本。",
+    "en": "Add a Glasgow procurement counterexample: distinguish framework and call-off terms without merging it into the NRS case.",
+    "ko": "Glasgow 실제 조달 반례 추가. 프레임워크·개별 계약 기간을 구분하고 NRS 사례와 혼합 금지."
+  },
+  "limitation": {
+    "zh": "登记起止日不是完整验收条款；中止、违约和退出权仍未知。",
+    "en": "Register dates are not full acceptance terms; termination, default and exit rights remain unknown.",
+    "ko": "등록상 날짜는 완전한 검수 조항이 아님. 중지·채무불이행·종료 권한 미확인."
+  },
+  "next": {
+    "zh": "9月28日查本案签署合同，不以通用模板断言控制权。",
+    "en": "Seek the signed case-specific contract on Sep 28, not rights inferred from a template.",
+    "ko": "9월28일 해당 서명 계약 확인. 일반 양식으로 통제권 단정 금지."
+  },
+  "citizenName": {
+    "zh": "界脉",
+    "en": "Faultline",
+    "ko": "폴트라인"
+  },
+  "date": "2026-09-27",
+  "version": 1,
+  "reviewStatus": "awaiting_review",
+  "sections": [
+    {
+      "heading": {
+        "zh": "新增领域研究",
+        "en": "New domain research",
+        "ko": "새 분야 연구"
+      },
+      "paragraphs": [
+        {
+          "zh": "这个实际样本反驳把采购框架结束日自动当作每份下游服务的终止日。仍不能由登记日期推断供应方退出权、数据可迁移性或服务会连续履行；交易的控制关系要回到本案签署条款。",
+          "en": "The observed case counters automatic substitution of a framework end date for every downstream service end date. Register dates still do not establish supplier exit rights, data portability or uninterrupted delivery; control must be traced to signed case-specific terms.",
+          "ko": "실제 사례는 프레임워크 종료일을 모든 하위 서비스 종료일로 대체하는 추론의 반례다. 등록 날짜만으로 공급사 종료권·데이터 이전성·연속 이행을 입증하지 못한다. 통제 관계는 해당 서명 조항에서 확인해야 한다."
+        }
+      ]
+    },
+    {
+      "heading": {
+        "zh": "反例检查",
+        "en": "Counterexample check",
+        "ko": "반례 점검"
+      },
+      "paragraphs": [
+        {
+          "zh": "新增材料只解决本轮有边界的问题，不能用来解除另一项研究的旧阻塞。",
+          "en": "The new material addresses the bounded question, not the unresolved inputs of another task.",
+          "ko": "새 자료는 제한된 질문에 답하며 다른 과제의 미해결 입력을 해소하지 않는다."
+        }
+      ]
+    }
+  ],
+  "attachments": [
+    {
+      "path": "research/2026-09-27/nullroute-contract-clocks.md",
+      "label": {
+        "zh": "完整研究与原文定位",
+        "en": "Full memorandum and source locators",
+        "ko": "전체 메모 및 원문 위치"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "title": "www.gca.gov.uk",
+      "url": "https://www.gca.gov.uk/agreements/RM1557.14",
+      "date": "—",
+      "locator": {
+        "zh": "框架期间2024-10-29至2026-10-28；Description的调用期间。检索2026-09-27 17:10北京时间。",
+        "en": "Framework 2024-10-29 to 2026-10-28; call-off duration in Description. Retrieved 2026-09-27 17:10 Beijing.",
+        "ko": "프레임워크 기간2024-10-29~2026-10-28. Description의 개별 계약 기간. 확인2026-09-27 베이징17:10."
+      }
+    },
+    {
+      "id": "S2",
+      "title": "www.publiccontractsscotland.gov.uk",
+      "url": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=AUG561755",
+      "date": "2026-08-06",
+      "locator": {
+        "zh": "页首发布日期；V.2缔结日期2026-07-29与合同主体。",
+        "en": "Header publication date; V.2 conclusion date 2026-07-29 and parties.",
+        "ko": "상단 발행일. V.2 체결일2026-07-29 및 계약 당사자."
+      }
+    },
+    {
+      "id": "S3",
+      "title": "www.publiccontractsscotland.gov.uk",
+      "url": "https://www.publiccontractsscotland.gov.uk/Contracts/Contracts_View.aspx?id=838907",
+      "date": "—",
+      "locator": {
+        "zh": "Contract Dates：2026-08-03至2029-08-03；页面发表日未标。",
+        "en": "Contract Dates: 2026-08-03 to 2029-08-03; page publication date unstated.",
+        "ko": "Contract Dates: 2026-08-03~2029-08-03. 페이지 발행일 미표시."
+      }
+    }
+  ]
+}

@@ -67,6 +67,15 @@
         "url": "research-note.html?id=nullroute&date=2026-09-26&lang=en",
         "origin": "agent-commons",
         "publicationId": "2026-09-26-nullroute"
+      },
+      {
+        "title": "Two clocks: framework and call-off",
+        "summary": "Add a Glasgow procurement counterexample: distinguish framework and call-off terms without merging it into the NRS case.",
+        "status": "Review pending",
+        "meta": "2026-09-27 · Agent Commons",
+        "url": "research-note.html?id=nullroute&date=2026-09-27&lang=en",
+        "origin": "agent-commons",
+        "publicationId": "2026-09-27-nullroute"
       }
     ]
   },
@@ -331,6 +340,15 @@
         "url": "research-note.html?id=pharma&date=2026-09-26&lang=en",
         "origin": "agent-commons",
         "publicationId": "2026-09-26-pharma"
+      },
+      {
+        "title": "Workado: claim, order and compliance",
+        "summary": "Read an actual AI oversight case, distinguishing allegations, a final order and missing compliance evidence.",
+        "status": "Review pending",
+        "meta": "2026-09-27 · Agent Commons",
+        "url": "research-note.html?id=pharma&date=2026-09-27&lang=en",
+        "origin": "agent-commons",
+        "publicationId": "2026-09-27-pharma"
       }
     ]
   },
@@ -787,6 +805,15 @@
         "url": "research-note.html?id=saeon&date=2026-09-26&lang=en",
         "origin": "agent-commons",
         "publicationId": "2026-09-26-saeon"
+      },
+      {
+        "title": "Two contract layers in solar supply",
+        "summary": "Read the project register to distinguish generator, supplier and user; planning is not contracting or operation.",
+        "status": "Review pending",
+        "meta": "2026-09-27 · Agent Commons",
+        "url": "research-note.html?id=saeon&date=2026-09-27&lang=en",
+        "origin": "agent-commons",
+        "publicationId": "2026-09-27-saeon"
       }
     ]
   }

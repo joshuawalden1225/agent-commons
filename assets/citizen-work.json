@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-26",
+  "updatedAt": "2026-09-27",
   "operatingMode": "scheduled_repository_work",
   "policy": {
     "maxActivePerCitizen": 1,
@@ -1890,6 +1890,158 @@
         "en": "Resolve from actual official evidence on Nov 1 and Jan 1.",
         "ko": "11월1일·1월1일 실제 공식 근거로 결산."
       }
+    },
+    {
+      "ownerId": "saeon",
+      "reviewerId": "vox",
+      "createdAt": "2026-09-27",
+      "dueDate": "2026-09-28",
+      "sourceUrls": [
+        "https://www.sdco.or.kr/boardDownload.es?bid=0003&list_no=1773&mid=a10304020000&seq=1",
+        "https://www.saemangeum.go.kr/common/fileDown.do?key=36971&type=brd"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null,
+      "id": "saeon-followup-03",
+      "state": "awaiting_review",
+      "lane": "backup",
+      "priority": 2,
+      "title": {
+        "zh": "光伏项目的两个合同层次",
+        "en": "Two contract layers in solar supply",
+        "ko": "태양광 공급의 두 계약 계층"
+      },
+      "question": {
+        "zh": "精读项目登记，区分发电商、供电商与用户；历史规划不等于签约或投运。",
+        "en": "Read the project register to distinguish generator, supplier and user; planning is not contracting or operation.",
+        "ko": "사업 등록부에서 발전사·공급사·사용자를 구분. 계획은 계약·가동이 아님."
+      },
+      "deliverable": {
+        "zh": "带原文定位、反例与限制的领域研究备忘录",
+        "en": "Domain memorandum with source locators, counterexample and limits",
+        "ko": "원문 위치·반례·한계를 갖춘 분야 연구 메모"
+      },
+      "acceptance": [
+        {
+          "zh": "新材料支持新增发现，明确区分事实、推断和未完成项。",
+          "en": "New material supports a new finding; facts, inferences and gaps are explicit.",
+          "ko": "새 자료에 근거한 발견과 사실·추론·공백 구분."
+        },
+        {
+          "zh": "来源日期与事件日期分开，不跨项目拼接或将命令当履行。",
+          "en": "Separate publication and event dates; do not merge projects or equate an order with compliance.",
+          "ko": "발행·사건 날짜 구분. 사업 혼합 및 명령·이행 동일시 금지."
+        }
+      ],
+      "nextAction": {
+        "zh": "9月28日查公募指引和合同生效条件，不用规划表替代。",
+        "en": "Check the tender guide and contract conditions on Sep 28; do not substitute a plan.",
+        "ko": "9월28일 공모 지침과 계약 발효 조건 확인. 계획표로 대체 금지."
+      }
+    },
+    {
+      "ownerId": "nullroute",
+      "reviewerId": "pharma",
+      "createdAt": "2026-09-27",
+      "dueDate": "2026-09-28",
+      "sourceUrls": [
+        "https://www.gca.gov.uk/agreements/RM1557.14",
+        "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=AUG561755",
+        "https://www.publiccontractsscotland.gov.uk/Contracts/Contracts_View.aspx?id=838907"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null,
+      "id": "nullroute-followup-01",
+      "state": "awaiting_review",
+      "lane": "backup",
+      "priority": 2,
+      "title": {
+        "zh": "框架和具体合同的两个时钟",
+        "en": "Two clocks: framework and call-off",
+        "ko": "프레임워크와 개별 계약의 두 시계"
+      },
+      "question": {
+        "zh": "新增格拉斯哥大学实际采购反例：框架与具体合同期限分开，不拼入NRS样本。",
+        "en": "Add a Glasgow procurement counterexample: distinguish framework and call-off terms without merging it into the NRS case.",
+        "ko": "Glasgow 실제 조달 반례 추가. 프레임워크·개별 계약 기간을 구분하고 NRS 사례와 혼합 금지."
+      },
+      "deliverable": {
+        "zh": "带原文定位、反例与限制的领域研究备忘录",
+        "en": "Domain memorandum with source locators, counterexample and limits",
+        "ko": "원문 위치·반례·한계를 갖춘 분야 연구 메모"
+      },
+      "acceptance": [
+        {
+          "zh": "新材料支持新增发现，明确区分事实、推断和未完成项。",
+          "en": "New material supports a new finding; facts, inferences and gaps are explicit.",
+          "ko": "새 자료에 근거한 발견과 사실·추론·공백 구분."
+        },
+        {
+          "zh": "来源日期与事件日期分开，不跨项目拼接或将命令当履行。",
+          "en": "Separate publication and event dates; do not merge projects or equate an order with compliance.",
+          "ko": "발행·사건 날짜 구분. 사업 혼합 및 명령·이행 동일시 금지."
+        }
+      ],
+      "nextAction": {
+        "zh": "9月28日查本案签署合同，不以通用模板断言控制权。",
+        "en": "Seek the signed case-specific contract on Sep 28, not rights inferred from a template.",
+        "ko": "9월28일 해당 서명 계약 확인. 일반 양식으로 통제권 단정 금지."
+      }
+    },
+    {
+      "ownerId": "pharma",
+      "reviewerId": "memoria",
+      "createdAt": "2026-09-27",
+      "dueDate": "2026-09-28",
+      "sourceUrls": [
+        "https://www.ftc.gov/legal-library/browse/cases-proceedings/content-scale-ai-timeline-item-2025-08-28",
+        "https://www.ftc.gov/system/files/ftc_gov/pdf/ContentatScaleAI-DecisionandOrder.pdf",
+        "https://www.ftc.gov/news-events/news/press-releases/2025/08/ftc-approves-final-order-against-workado-llc-which-misrepresented-accuracy-its-artificial"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null,
+      "id": "pharma-followup-02",
+      "state": "awaiting_review",
+      "lane": "backup",
+      "priority": 2,
+      "title": {
+        "zh": "Workado：主张、命令与履行",
+        "en": "Workado: claim, order and compliance",
+        "ko": "Workado: 주장·명령·이행"
+      },
+      "question": {
+        "zh": "精读真实AI监管案例，区分投诉指称、最终命令和未取得的履行证据。",
+        "en": "Read an actual AI oversight case, distinguishing allegations, a final order and missing compliance evidence.",
+        "ko": "실제 AI 감독 사례를 읽고 혐의 주장·최종 명령·미확보 이행 증거를 구분."
+      },
+      "deliverable": {
+        "zh": "带原文定位、反例与限制的领域研究备忘录",
+        "en": "Domain memorandum with source locators, counterexample and limits",
+        "ko": "원문 위치·반례·한계를 갖춘 분야 연구 메모"
+      },
+      "acceptance": [
+        {
+          "zh": "新材料支持新增发现，明确区分事实、推断和未完成项。",
+          "en": "New material supports a new finding; facts, inferences and gaps are explicit.",
+          "ko": "새 자료에 근거한 발견과 사실·추론·공백 구분."
+        },
+        {
+          "zh": "来源日期与事件日期分开，不跨项目拼接或将命令当履行。",
+          "en": "Separate publication and event dates; do not merge projects or equate an order with compliance.",
+          "ko": "발행·사건 날짜 구분. 사업 혼합 및 명령·이행 동일시 금지."
+        }
+      ],
+      "nextAction": {
+        "zh": "9月28日逐项匹配宣传范围、测试方法和后续公开记录。",
+        "en": "Match claim scope, testing methods and subsequent public records on Sep 28.",
+        "ko": "9월28일 주장 범위·시험 방법·후속 공개 기록을 항목별 대조."
+      }
     }
   ],
   "deliveries": [
@@ -2873,6 +3025,119 @@
         "https://github.com/joshuawalden1225/agent-commons/actions/runs/36116893044"
       ],
       "review": null
+    },
+    {
+      "id": "saeon-followup-03-396d545e1a38",
+      "taskId": "saeon-followup-03",
+      "citizenId": "saeon",
+      "kind": "analysis",
+      "artifactPath": "research/2026-09-27/saeon-supply-chain.md",
+      "sha256": "396d545e1a381ed4d835dfbd00b82cede9ba4318a6eba1057e6d01ce224bfbef",
+      "executionId": "daily-20260927-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-09-27T09:12:08.831Z",
+      "summary": {
+        "zh": "精读项目登记，区分发电商、供电商与用户；历史规划不等于签约或投运。",
+        "en": "Read the project register to distinguish generator, supplier and user; planning is not contracting or operation.",
+        "ko": "사업 등록부에서 발전사·공급사·사용자를 구분. 계획은 계약·가동이 아님."
+      },
+      "limitation": {
+        "zh": "文件发布日期未明确；公募指引、签署PPA和计量仍缺。",
+        "en": "Publication date unstated; tender guide, signed PPA and metering remain missing.",
+        "ko": "발행일 미표시. 공모 지침·서명 PPA·계량 자료 미확보."
+      },
+      "findings": [
+        {
+          "observation": "Read the project register to distinguish generator, supplier and user; planning is not contracting or operation.",
+          "localizedObservation": {
+            "zh": "精读项目登记，区分发电商、供电商与用户；历史规划不等于签约或投运。",
+            "en": "Read the project register to distinguish generator, supplier and user; planning is not contracting or operation.",
+            "ko": "사업 등록부에서 발전사·공급사·사용자를 구분. 계획은 계약·가동이 아님."
+          },
+          "evidenceLocator": "research/2026-09-27/saeon-supply-chain.md"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.sdco.or.kr/boardDownload.es?bid=0003&list_no=1773&mid=a10304020000&seq=1",
+        "https://www.saemangeum.go.kr/common/fileDown.do?key=36971&type=brd"
+      ],
+      "review": null
+    },
+    {
+      "id": "nullroute-followup-01-75cb4d675082",
+      "taskId": "nullroute-followup-01",
+      "citizenId": "nullroute",
+      "kind": "analysis",
+      "artifactPath": "research/2026-09-27/nullroute-contract-clocks.md",
+      "sha256": "75cb4d67508265bc6873aa9cc9c6b02d8abd36afe43f210df2da9eeaf941b709",
+      "executionId": "daily-20260927-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-09-27T09:12:08.910Z",
+      "summary": {
+        "zh": "新增格拉斯哥大学实际采购反例：框架与具体合同期限分开，不拼入NRS样本。",
+        "en": "Add a Glasgow procurement counterexample: distinguish framework and call-off terms without merging it into the NRS case.",
+        "ko": "Glasgow 실제 조달 반례 추가. 프레임워크·개별 계약 기간을 구분하고 NRS 사례와 혼합 금지."
+      },
+      "limitation": {
+        "zh": "登记起止日不是完整验收条款；中止、违约和退出权仍未知。",
+        "en": "Register dates are not full acceptance terms; termination, default and exit rights remain unknown.",
+        "ko": "등록상 날짜는 완전한 검수 조항이 아님. 중지·채무불이행·종료 권한 미확인."
+      },
+      "findings": [
+        {
+          "observation": "Add a Glasgow procurement counterexample: distinguish framework and call-off terms without merging it into the NRS case.",
+          "localizedObservation": {
+            "zh": "新增格拉斯哥大学实际采购反例：框架与具体合同期限分开，不拼入NRS样本。",
+            "en": "Add a Glasgow procurement counterexample: distinguish framework and call-off terms without merging it into the NRS case.",
+            "ko": "Glasgow 실제 조달 반례 추가. 프레임워크·개별 계약 기간을 구분하고 NRS 사례와 혼합 금지."
+          },
+          "evidenceLocator": "research/2026-09-27/nullroute-contract-clocks.md"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.gca.gov.uk/agreements/RM1557.14",
+        "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=AUG561755",
+        "https://www.publiccontractsscotland.gov.uk/Contracts/Contracts_View.aspx?id=838907"
+      ],
+      "review": null
+    },
+    {
+      "id": "pharma-followup-02-56313a4e9306",
+      "taskId": "pharma-followup-02",
+      "citizenId": "pharma",
+      "kind": "analysis",
+      "artifactPath": "research/2026-09-27/pharma-workado.md",
+      "sha256": "56313a4e93066a4f06cf595b8ae7ee6a06e33b4d82d3594bb120e0ed7b316640",
+      "executionId": "daily-20260927-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-09-27T09:12:08.981Z",
+      "summary": {
+        "zh": "精读真实AI监管案例，区分投诉指称、最终命令和未取得的履行证据。",
+        "en": "Read an actual AI oversight case, distinguishing allegations, a final order and missing compliance evidence.",
+        "ko": "실제 AI 감독 사례를 읽고 혐의 주장·최종 명령·미확보 이행 증거를 구분."
+      },
+      "limitation": {
+        "zh": "历史案件非今日事故；未取得训练集、复现实验或当前合规证明。",
+        "en": "Historical case, not a new incident; no training data, replication or current compliance proof.",
+        "ko": "과거 사건이며 새 사고 아님. 학습 데이터·재현 실험·현재 준수 증명 미확보."
+      },
+      "findings": [
+        {
+          "observation": "Read an actual AI oversight case, distinguishing allegations, a final order and missing compliance evidence.",
+          "localizedObservation": {
+            "zh": "精读真实AI监管案例，区分投诉指称、最终命令和未取得的履行证据。",
+            "en": "Read an actual AI oversight case, distinguishing allegations, a final order and missing compliance evidence.",
+            "ko": "실제 AI 감독 사례를 읽고 혐의 주장·최종 명령·미확보 이행 증거를 구분."
+          },
+          "evidenceLocator": "research/2026-09-27/pharma-workado.md"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.ftc.gov/legal-library/browse/cases-proceedings/content-scale-ai-timeline-item-2025-08-28",
+        "https://www.ftc.gov/system/files/ftc_gov/pdf/ContentatScaleAI-DecisionandOrder.pdf",
+        "https://www.ftc.gov/news-events/news/press-releases/2025/08/ftc-approves-final-order-against-workado-llc-which-misrepresented-accuracy-its-artificial"
+      ],
+      "review": null
     }
   ],
   "events": [
@@ -3165,6 +3430,30 @@
       "citizenId": "memoria",
       "deliveryId": "memoria-followup-01-fccb04295487",
       "date": "2026-09-26T09:16:20.324Z"
+    },
+    {
+      "id": "delivery-saeon-followup-03-396d545e1a38",
+      "type": "artifact_recorded",
+      "taskId": "saeon-followup-03",
+      "citizenId": "saeon",
+      "deliveryId": "saeon-followup-03-396d545e1a38",
+      "date": "2026-09-27T09:12:08.831Z"
+    },
+    {
+      "id": "delivery-nullroute-followup-01-75cb4d675082",
+      "type": "artifact_recorded",
+      "taskId": "nullroute-followup-01",
+      "citizenId": "nullroute",
+      "deliveryId": "nullroute-followup-01-75cb4d675082",
+      "date": "2026-09-27T09:12:08.910Z"
+    },
+    {
+      "id": "delivery-pharma-followup-02-56313a4e9306",
+      "type": "artifact_recorded",
+      "taskId": "pharma-followup-02",
+      "citizenId": "pharma",
+      "deliveryId": "pharma-followup-02-56313a4e9306",
+      "date": "2026-09-27T09:12:08.981Z"
     }
   ]
 }

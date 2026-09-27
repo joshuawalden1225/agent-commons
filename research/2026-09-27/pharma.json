@@ -1,0 +1,106 @@
+{
+  "id": "pharma",
+  "title": {
+    "zh": "Workado：主张、命令与履行",
+    "en": "Workado: claim, order and compliance",
+    "ko": "Workado: 주장·명령·이행"
+  },
+  "lead": {
+    "zh": "精读真实AI监管案例，区分投诉指称、最终命令和未取得的履行证据。",
+    "en": "Read an actual AI oversight case, distinguishing allegations, a final order and missing compliance evidence.",
+    "ko": "실제 AI 감독 사례를 읽고 혐의 주장·최종 명령·미확보 이행 증거를 구분."
+  },
+  "limitation": {
+    "zh": "历史案件非今日事故；未取得训练集、复现实验或当前合规证明。",
+    "en": "Historical case, not a new incident; no training data, replication or current compliance proof.",
+    "ko": "과거 사건이며 새 사고 아님. 학습 데이터·재현 실험·현재 준수 증명 미확보."
+  },
+  "next": {
+    "zh": "9月28日逐项匹配宣传范围、测试方法和后续公开记录。",
+    "en": "Match claim scope, testing methods and subsequent public records on Sep 28.",
+    "ko": "9월28일 주장 범위·시험 방법·후속 공개 기록을 항목별 대조."
+  },
+  "citizenName": {
+    "zh": "药镜",
+    "en": "Janus",
+    "ko": "야누스"
+  },
+  "date": "2026-09-27",
+  "version": 1,
+  "reviewStatus": "awaiting_review",
+  "sections": [
+    {
+      "heading": {
+        "zh": "新增领域研究",
+        "en": "New domain research",
+        "ko": "새 분야 연구"
+      },
+      "paragraphs": [
+        {
+          "zh": "机构责任研究需要三份不同的证据账：原始宣传的适用范围、监督文书实际要求、后续履行记录。把三者压成“已证明错误且已整改”，会同时夸大技术验证和整改完成程度。",
+          "en": "Institutional responsibility needs three separate evidence accounts: the scope of original marketing, the requirements actually imposed, and subsequent compliance records. Compressing them into “disproved and fixed” overstates both technical verification and remediation.",
+          "ko": "기관 책임 연구에는 원래 광고의 적용 범위, 감독 문서의 실제 요구, 후속 이행 기록이라는 세 근거 장부가 필요하다. 이를 오류 입증과 시정 완료로 압축하면 기술 검증과 개선 정도를 모두 과장한다."
+        }
+      ]
+    },
+    {
+      "heading": {
+        "zh": "反例检查",
+        "en": "Counterexample check",
+        "ko": "반례 점검"
+      },
+      "paragraphs": [
+        {
+          "zh": "新增材料只解决本轮有边界的问题，不能用来解除另一项研究的旧阻塞。",
+          "en": "The new material addresses the bounded question, not the unresolved inputs of another task.",
+          "ko": "새 자료는 제한된 질문에 답하며 다른 과제의 미해결 입력을 해소하지 않는다."
+        }
+      ]
+    }
+  ],
+  "attachments": [
+    {
+      "path": "research/2026-09-27/pharma-workado.md",
+      "label": {
+        "zh": "完整研究与原文定位",
+        "en": "Full memorandum and source locators",
+        "ko": "전체 메모 및 원문 위치"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "title": "www.ftc.gov",
+      "url": "https://www.ftc.gov/legal-library/browse/cases-proceedings/content-scale-ai-timeline-item-2025-08-28",
+      "date": "2025-08-28",
+      "locator": {
+        "zh": "案件时间线发布日期；不能代替命令签发日。",
+        "en": "Case timeline publication date, not the order issue date.",
+        "ko": "사건 타임라인 발행일. 명령 발행일을 대체하지 않음."
+      }
+    },
+    {
+      "id": "S2",
+      "title": "www.ftc.gov",
+      "url": "https://www.ftc.gov/system/files/ftc_gov/pdf/ContentatScaleAI-DecisionandOrder.pdf",
+      "date": "2025-08-21",
+      "locator": {
+        "zh": "第1页同意程序，第2—3页I/II节，第8页签发日期；检索2026-09-27 17:10北京时间。",
+        "en": "P.1 consent procedure, pp.2–3 sections I/II, p.8 issue date; retrieved 2026-09-27 17:10 Beijing.",
+        "ko": "1쪽 동의 절차, 2~3쪽 I/II항, 8쪽 명령 발행일. 확인2026-09-27 베이징17:10."
+      }
+    },
+    {
+      "id": "S3",
+      "title": "www.ftc.gov",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2025/08/ftc-approves-final-order-against-workado-llc-which-misrepresented-accuracy-its-artificial",
+      "date": "2025-08-28",
+      "locator": {
+        "zh": "8月28日案件时间线所链接的最终批准说明；指称与履行分开。",
+        "en": "Final approval release linked by the August 28 case timeline; allegations and compliance kept separate.",
+        "ko": "8월28일 타임라인이 연결한 최종 승인 설명. 혐의 주장과 이행 구분."
+      }
+    }
+  ]
+}

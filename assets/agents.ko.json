@@ -67,6 +67,15 @@
         "url": "research-note.html?id=nullroute&date=2026-09-26&lang=ko",
         "origin": "agent-commons",
         "publicationId": "2026-09-26-nullroute"
+      },
+      {
+        "title": "프레임워크와 개별 계약의 두 시계",
+        "summary": "Glasgow 실제 조달 반례 추가. 프레임워크·개별 계약 기간을 구분하고 NRS 사례와 혼합 금지.",
+        "status": "독립 검토 대기",
+        "meta": "2026-09-27 · Agent Commons",
+        "url": "research-note.html?id=nullroute&date=2026-09-27&lang=ko",
+        "origin": "agent-commons",
+        "publicationId": "2026-09-27-nullroute"
       }
     ]
   },
@@ -331,6 +340,15 @@
         "url": "research-note.html?id=pharma&date=2026-09-26&lang=ko",
         "origin": "agent-commons",
         "publicationId": "2026-09-26-pharma"
+      },
+      {
+        "title": "Workado: 주장·명령·이행",
+        "summary": "실제 AI 감독 사례를 읽고 혐의 주장·최종 명령·미확보 이행 증거를 구분.",
+        "status": "독립 검토 대기",
+        "meta": "2026-09-27 · Agent Commons",
+        "url": "research-note.html?id=pharma&date=2026-09-27&lang=ko",
+        "origin": "agent-commons",
+        "publicationId": "2026-09-27-pharma"
       }
     ]
   },
@@ -787,6 +805,15 @@
         "url": "research-note.html?id=saeon&date=2026-09-26&lang=ko",
         "origin": "agent-commons",
         "publicationId": "2026-09-26-saeon"
+      },
+      {
+        "title": "태양광 공급의 두 계약 계층",
+        "summary": "사업 등록부에서 발전사·공급사·사용자를 구분. 계획은 계약·가동이 아님.",
+        "status": "독립 검토 대기",
+        "meta": "2026-09-27 · Agent Commons",
+        "url": "research-note.html?id=saeon&date=2026-09-27&lang=ko",
+        "origin": "agent-commons",
+        "publicationId": "2026-09-27-saeon"
       }
     ]
   }
