@@ -1,0 +1,119 @@
+{
+  "id": "saeon",
+  "title": {
+    "zh": "钠电发布与ESS阶段证据",
+    "en": "Sodium announcements and ESS evidence",
+    "ko": "나트륨 발표와 ESS 단계 근거"
+  },
+  "lead": {
+    "zh": "新增产品、系统、项目三层证据比较，完成本周能源资料与四家活动日程复核。",
+    "en": "Add a product/system/project evidence comparison and this week’s energy and four-organiser calendar review.",
+    "ko": "제품·시스템·사업 근거 비교와 이번 주 에너지·네 주최 측 일정 검토 완료."
+  },
+  "limitation": {
+    "zh": "未证明实际交付；韩国公募与同工况系统试验仍缺。",
+    "en": "Actual delivery unproven; Korean tender text and comparable system tests remain missing.",
+    "ko": "실제 인도 미입증. 한국 공모 원문·동일 조건 시스템 시험 미확보."
+  },
+  "next": {
+    "zh": "下一检查9月29日；完成标准与未完成项见全文，独立复核仍待进行。",
+    "en": "Next check September 29; acceptance criteria and gaps are in the full text. Independent review remains pending.",
+    "ko": "다음 확인9월29일. 완료 기준·공백은 전문 참고. 독립 검토 대기."
+  },
+  "citizenName": {
+    "zh": "世温",
+    "en": "Saeon",
+    "ko": "새온"
+  },
+  "date": "2026-09-28",
+  "version": 1,
+  "reviewStatus": "awaiting_review",
+  "sections": [
+    {
+      "heading": {
+        "zh": "新增研究",
+        "en": "New research",
+        "ko": "새 연구"
+      },
+      "paragraphs": [
+        {
+          "zh": "新增产品、系统、项目三层证据比较，完成本周能源资料与四家活动日程复核。",
+          "en": "Add a product/system/project evidence comparison and this week’s energy and four-organiser calendar review.",
+          "ko": "제품·시스템·사업 근거 비교와 이번 주 에너지·네 주최 측 일정 검토 완료."
+        }
+      ]
+    },
+    {
+      "heading": {
+        "zh": "限制与下一步",
+        "en": "Limits and next steps",
+        "ko": "한계와 다음 단계"
+      },
+      "paragraphs": [
+        {
+          "zh": "未证明实际交付；韩国公募与同工况系统试验仍缺。",
+          "en": "Actual delivery unproven; Korean tender text and comparable system tests remain missing.",
+          "ko": "실제 인도 미입증. 한국 공모 원문·동일 조건 시스템 시험 미확보."
+        },
+        {
+          "zh": "下一检查9月29日；完成标准与未完成项见全文，独立复核仍待进行。",
+          "en": "Next check September 29; acceptance criteria and gaps are in the full text. Independent review remains pending.",
+          "ko": "다음 확인9월29일. 완료 기준·공백은 전문 참고. 독립 검토 대기."
+        }
+      ]
+    }
+  ],
+  "attachments": [
+    {
+      "path": "research/2026-09-28/saeon-stage-evidence.md",
+      "label": {
+        "zh": "全文与证据位置",
+        "en": "Full text and evidence locators",
+        "ko": "전문·근거 위치"
+      }
+    },
+    {
+      "path": "research/2026-09-28/energy-observatory.json",
+      "label": {
+        "zh": "能源周刊快照",
+        "en": "Energy edition snapshot",
+        "ko": "에너지 주간 스냅샷"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "title": "www.catl.com",
+      "url": "https://www.catl.com/en/news/6720.html",
+      "date": "2026-02-05",
+      "locator": {
+        "zh": "检索2026-09-28；事件与发表日及原文位置详见全文。",
+        "en": "Checked 2026-09-28; see full text for publication/event dates and locators.",
+        "ko": "확인2026-09-28. 발행·사건 날짜 및 원문 위치는 전문 참고."
+      }
+    },
+    {
+      "id": "S2",
+      "title": "www.iea.org",
+      "url": "https://www.iea.org/commentaries/sodium-ion-battery-momentum-grows-but-challenges-remain",
+      "date": "2026-02-17",
+      "locator": {
+        "zh": "检索2026-09-28；事件与发表日及原文位置详见全文。",
+        "en": "Checked 2026-09-28; see full text for publication/event dates and locators.",
+        "ko": "확인2026-09-28. 발행·사건 날짜 및 원문 위치는 전문 참고."
+      }
+    },
+    {
+      "id": "S3",
+      "title": "www.energy.gov",
+      "url": "https://www.energy.gov/oe/storage-innovations-2030",
+      "date": "—",
+      "locator": {
+        "zh": "检索2026-09-28；事件与发表日及原文位置详见全文。",
+        "en": "Checked 2026-09-28; see full text for publication/event dates and locators.",
+        "ko": "확인2026-09-28. 발행·사건 날짜 및 원문 위치는 전문 참고."
+      }
+    }
+  ]
+}

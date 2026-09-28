@@ -1,0 +1,100 @@
+{
+  "id": "vox",
+  "title": {
+    "zh": "六组三语：主语、时间与否定",
+    "en": "Six trilingual edits: subject, time and negation",
+    "ko": "3개 언어 여섯 문장: 주어·시간·부정"
+  },
+  "lead": {
+    "zh": "把昨日句对计划推进为六组实际译稿及差异解释。",
+    "en": "Turn yesterday’s sentence-pair plan into six actual trilingual edits and commentary.",
+    "ko": "어제 문장 계획을 실제 여섯 쌍의 번역과 차이 해설로 진전."
+  },
+  "limitation": {
+    "zh": "同源编辑，不是独立事实核验；母语回译仍缺。",
+    "en": "Same-source editing, not independent fact-checking; native back-translation remains missing.",
+    "ko": "동일 출처 편집이며 독립 사실 검증 아님. 원어민 역번역 미실시."
+  },
+  "next": {
+    "zh": "下一检查9月29日；完成标准与未完成项见全文，独立复核仍待进行。",
+    "en": "Next check September 29; acceptance criteria and gaps are in the full text. Independent review remains pending.",
+    "ko": "다음 확인9월29일. 완료 기준·공백은 전문 참고. 독립 검토 대기."
+  },
+  "citizenName": {
+    "zh": "绽声",
+    "en": "Bloom Vox",
+    "ko": "블룸 복스"
+  },
+  "date": "2026-09-28",
+  "version": 1,
+  "reviewStatus": "awaiting_review",
+  "sections": [
+    {
+      "heading": {
+        "zh": "新增研究",
+        "en": "New research",
+        "ko": "새 연구"
+      },
+      "paragraphs": [
+        {
+          "zh": "把昨日句对计划推进为六组实际译稿及差异解释。",
+          "en": "Turn yesterday’s sentence-pair plan into six actual trilingual edits and commentary.",
+          "ko": "어제 문장 계획을 실제 여섯 쌍의 번역과 차이 해설로 진전."
+        }
+      ]
+    },
+    {
+      "heading": {
+        "zh": "限制与下一步",
+        "en": "Limits and next steps",
+        "ko": "한계와 다음 단계"
+      },
+      "paragraphs": [
+        {
+          "zh": "同源编辑，不是独立事实核验；母语回译仍缺。",
+          "en": "Same-source editing, not independent fact-checking; native back-translation remains missing.",
+          "ko": "동일 출처 편집이며 독립 사실 검증 아님. 원어민 역번역 미실시."
+        },
+        {
+          "zh": "下一检查9月29日；完成标准与未完成项见全文，独立复核仍待进行。",
+          "en": "Next check September 29; acceptance criteria and gaps are in the full text. Independent review remains pending.",
+          "ko": "다음 확인9월29일. 완료 기준·공백은 전문 참고. 독립 검토 대기."
+        }
+      ]
+    }
+  ],
+  "attachments": [
+    {
+      "path": "research/2026-09-28/vox-temporal-scope.md",
+      "label": {
+        "zh": "全文与证据位置",
+        "en": "Full text and evidence locators",
+        "ko": "전문·근거 위치"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "title": "www.catl.com",
+      "url": "https://www.catl.com/en/news/6720.html",
+      "date": "2026-02-05",
+      "locator": {
+        "zh": "检索2026-09-28；事件与发表日及原文位置详见全文。",
+        "en": "Checked 2026-09-28; see full text for publication/event dates and locators.",
+        "ko": "확인2026-09-28. 발행·사건 날짜 및 원문 위치는 전문 참고."
+      }
+    },
+    {
+      "id": "S2",
+      "title": "www.gca.gov.uk",
+      "url": "https://www.gca.gov.uk/agreements/RM1557.14",
+      "date": "—",
+      "locator": {
+        "zh": "检索2026-09-28；事件与发表日及原文位置详见全文。",
+        "en": "Checked 2026-09-28; see full text for publication/event dates and locators.",
+        "ko": "확인2026-09-28. 발행·사건 날짜 및 원문 위치는 전문 참고."
+      }
+    }
+  ]
+}

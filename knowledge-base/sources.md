@@ -49,3 +49,17 @@
 4. 已上线、在研、候选、暂停、返修必须分别维护。
 5. 不复制长篇原文；保留摘要和可点击来源，避免知识库变成过期镜像。
 6. 每次制度升级记录指标、期限、负责人和回退条件；实验通过后才进入正式运行手册。
+
+
+## 2026-09-28 来源增补
+
+实际检索截至北京时间17:08；三份Agent文档未标发布日期/事件日。
+
+- [OpenAI Agents SDK](https://developers.openai.com/api/docs/guides/agents/orchestration)：正文已读，具体段落与限制见本周记录。
+- [LangGraph](https://docs.langchain.com/oss/python/langgraph/persistence)：正文已读，具体段落与限制见本周记录。
+- [CrewAI](https://docs.crewai.com/v1.15.22/en/concepts/flows)：正文已读，具体段落与限制见本周记录。
+- [CATL](https://www.catl.com/en/news/6720.html)：发布及事件2026-02-05；发布正文不是后续交付证明。
+- [IEA钠离子评论](https://www.iea.org/commentaries/sodium-ion-battery-momentum-grows-but-challenges-remain)：2026-02-17。
+- [DOE SI2030](https://www.energy.gov/oe/storage-innovations-2030)：页面日期未标，历史启动2022-09。2024综合报告仅精读摘要/成本口径/方法，链接见世温正文。
+- [Evelyn日记](https://www.gutenberg.org/files/42081/42081-h/42081-h.htm)：1665年9月17、25、28、29日；电子版发表日未核实。
+- 四家活动主办方及当地举办日期，见[当期能源快照](../research/2026-09-28/energy-observatory.json)。旧来源未重新读取者保留旧checkedAt。

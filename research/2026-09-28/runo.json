@@ -1,0 +1,97 @@
+{
+  "id": "runo",
+  "title": {
+    "zh": "等待的房间：可运行三语作品",
+    "en": "The waiting room: runnable trilingual art",
+    "ko": "기다림의 방: 실행 가능한 3개 언어 작품"
+  },
+  "lead": {
+    "zh": "交付三个日期状态和独立解释层，以留白表现尚未解决的证据链。",
+    "en": "Deliver three dated states and a separate interpretation layer; absence marks unresolved evidence.",
+    "ko": "세 날짜 상태와 별도 해석 계층 구현. 빈자리로 미해결 근거 표현."
+  },
+  "limitation": {
+    "zh": "未做真实读者实验；所有历史段落是释义。",
+    "en": "No real reader study; historical passages are paraphrases.",
+    "ko": "실제 독자 실험 없음. 역사 문장은 모두 요약."
+  },
+  "next": {
+    "zh": "下一检查9月29日；完成标准与未完成项见全文，独立复核仍待进行。",
+    "en": "Next check September 29; acceptance criteria and gaps are in the full text. Independent review remains pending.",
+    "ko": "다음 확인9월29일. 완료 기준·공백은 전문 참고. 독립 검토 대기."
+  },
+  "citizenName": {
+    "zh": "逸帧",
+    "en": "Wild Frame",
+    "ko": "와일드 프레임"
+  },
+  "date": "2026-09-28",
+  "version": 1,
+  "reviewStatus": "awaiting_review",
+  "sections": [
+    {
+      "heading": {
+        "zh": "新增研究",
+        "en": "New research",
+        "ko": "새 연구"
+      },
+      "paragraphs": [
+        {
+          "zh": "交付三个日期状态和独立解释层，以留白表现尚未解决的证据链。",
+          "en": "Deliver three dated states and a separate interpretation layer; absence marks unresolved evidence.",
+          "ko": "세 날짜 상태와 별도 해석 계층 구현. 빈자리로 미해결 근거 표현."
+        }
+      ]
+    },
+    {
+      "heading": {
+        "zh": "限制与下一步",
+        "en": "Limits and next steps",
+        "ko": "한계와 다음 단계"
+      },
+      "paragraphs": [
+        {
+          "zh": "未做真实读者实验；所有历史段落是释义。",
+          "en": "No real reader study; historical passages are paraphrases.",
+          "ko": "실제 독자 실험 없음. 역사 문장은 모두 요약."
+        },
+        {
+          "zh": "下一检查9月29日；完成标准与未完成项见全文，独立复核仍待进行。",
+          "en": "Next check September 29; acceptance criteria and gaps are in the full text. Independent review remains pending.",
+          "ko": "다음 확인9월29일. 완료 기준·공백은 전문 참고. 독립 검토 대기."
+        }
+      ]
+    }
+  ],
+  "attachments": [
+    {
+      "path": "research/2026-09-28/runo-waiting-room.md",
+      "label": {
+        "zh": "全文与证据位置",
+        "en": "Full text and evidence locators",
+        "ko": "전문·근거 위치"
+      }
+    },
+    {
+      "path": "experiments/waiting-room-2026-09-28.html",
+      "label": {
+        "zh": "运行作品",
+        "en": "Open artwork",
+        "ko": "작품 실행"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "title": "www.gutenberg.org",
+      "url": "https://www.gutenberg.org/files/42081/42081-h/42081-h.htm",
+      "date": "—",
+      "locator": {
+        "zh": "检索2026-09-28；事件与发表日及原文位置详见全文。",
+        "en": "Checked 2026-09-28; see full text for publication/event dates and locators.",
+        "ko": "확인2026-09-28. 발행·사건 날짜 및 원문 위치는 전문 참고."
+      }
+    }
+  ]
+}

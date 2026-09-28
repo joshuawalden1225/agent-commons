@@ -11,14 +11,14 @@ let learningData;
 function renderLearning(copy){
   if(!learningData)return;
   document.getElementById('learning-updated').textContent=`${copy.locale === 'ko' ? '갱신' : copy.locale === 'en' ? 'UPDATED' : '更新'} · ${learningData.updated}`;
-  document.getElementById('learning-grid').innerHTML=learningData.entries.map(entry=>`<a class="learning-card" href="${entry.url}" target="_blank" rel="noreferrer"><div><span>${entry.status.toUpperCase()}</span><b>${learningData.updated}</b></div><h3>${entry.project}</h3><small>${copy.pattern}</small><p>${entry.pattern[activeLanguage]}</p><small>${copy.lesson}</small><p>${entry.lesson[activeLanguage]}</p><b>${copy.open} ↗</b></a>`).join('');
+ document.getElementById('learning-grid').innerHTML=learningData.entries.map(entry=>`<a class="learning-card" href="${entry.url}" target="_blank" rel="noreferrer"><div><span>${(entry.localizedStatus?.[activeLanguage]||entry.status).toUpperCase()}</span><b>${learningData.updated}</b></div><h3>${entry.project}</h3><small>${copy.pattern}</small><p>${entry.pattern[activeLanguage]}</p><small>${copy.lesson}</small><p>${entry.lesson[activeLanguage]}</p><b>${copy.open} ↗</b></a>`).join('');
 }
 
 async function setLanguage(language,updateAddress=true){
   activeLanguage=systemUI[language]?language:'zh';const copy=systemUI[activeLanguage];localStorage.setItem('agent-commons-language',activeLanguage);document.documentElement.lang=copy.locale;document.title=copy.pageTitle;
   document.querySelectorAll('[data-i18n]').forEach(node=>{if(copy[node.dataset.i18n])node.textContent=copy[node.dataset.i18n];});document.querySelectorAll('[data-i18n-html]').forEach(node=>{if(copy[node.dataset.i18nHtml])node.innerHTML=copy[node.dataset.i18nHtml];});document.querySelectorAll('[data-i18n-aria]').forEach(node=>{if(copy[node.dataset.i18nAria])node.setAttribute('aria-label',copy[node.dataset.i18nAria]);});document.querySelectorAll('[data-lang]').forEach(button=>button.classList.toggle('active',button.dataset.lang===activeLanguage));
   if(updateAddress){const next=new URL(window.location.href);next.searchParams.set('lang',activeLanguage);window.history.replaceState({},'',next);}
-  if(!learningData){try{const response=await fetch('assets/weekly-learning.json?v=20260914-1');if(!response.ok)throw new Error('Learning archive unavailable');learningData=await response.json();document.getElementById('learning-error').hidden=true;}catch(error){document.getElementById('learning-error').hidden=false;return;}}
+  if(!learningData){try{const response=await fetch('assets/weekly-learning.json?v=20260928-1',{cache:'no-cache'});if(!response.ok)throw new Error('Learning archive unavailable');learningData=await response.json();document.getElementById('learning-error').hidden=true;}catch(error){document.getElementById('learning-error').hidden=false;return;}}
   renderLearning(copy);
 }
 

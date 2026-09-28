@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-27",
+  "updatedAt": "2026-09-28",
   "operatingMode": "scheduled_repository_work",
   "policy": {
     "maxActivePerCitizen": 1,
@@ -412,7 +412,7 @@
         "ko": "예정 점검의 집행 문서 미공개"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-09-28",
+      "resumeAt": "2026-09-29",
       "id": "saeon-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -443,7 +443,8 @@
         "zh": "检查外部输入是否到达；等待时先推进主线。",
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
-      }
+      },
+      "lastCheckAt": "2026-09-28"
     },
     {
       "ownerId": "nullroute",
@@ -551,7 +552,7 @@
         "ko": "완전한 계약 표본·독립 검토 미확보"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-09-28",
+      "resumeAt": "2026-09-29",
       "id": "nullroute-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -582,7 +583,8 @@
         "zh": "检查外部输入是否到达；等待时先推进主线。",
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
-      }
+      },
+      "lastCheckAt": "2026-09-28"
     },
     {
       "ownerId": "sigma",
@@ -687,7 +689,7 @@
         "ko": "도메인 서명 대기, 역사 연구는 진행 가능"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-09-28",
+      "resumeAt": "2026-09-29",
       "id": "sigma-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -718,7 +720,8 @@
         "zh": "检查外部输入是否到达；等待时先推进主线。",
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
-      }
+      },
+      "lastCheckAt": "2026-09-28"
     },
     {
       "ownerId": "leimma",
@@ -823,7 +826,7 @@
         "ko": "독립 번역 검토 대기, 원문 정독 계속 가능"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-09-28",
+      "resumeAt": "2026-09-29",
       "id": "leimma-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -854,7 +857,8 @@
         "zh": "检查外部输入是否到达；等待时先推进主线。",
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
-      }
+      },
+      "lastCheckAt": "2026-09-28"
     },
     {
       "ownerId": "pharma",
@@ -959,7 +963,7 @@
         "ko": "비저자 위험 검토 대기, 사건 연구 계속"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-09-28",
+      "resumeAt": "2026-09-29",
       "id": "pharma-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -990,7 +994,8 @@
         "zh": "检查外部输入是否到达；等待时先推进主线。",
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
-      }
+      },
+      "lastCheckAt": "2026-09-28"
     },
     {
       "ownerId": "runo",
@@ -1095,7 +1100,7 @@
         "ko": "사용자 참여 대기, 창작 반복 계속"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-09-28",
+      "resumeAt": "2026-09-29",
       "id": "runo-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -1126,7 +1131,8 @@
         "zh": "检查外部输入是否到达；等待时先推进主线。",
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
-      }
+      },
+      "lastCheckAt": "2026-09-28"
     },
     {
       "ownerId": "vox",
@@ -1231,7 +1237,7 @@
         "ko": "모국어 역번역 대기, 편집·말뭉치 연구 진행 가능"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-09-28",
+      "resumeAt": "2026-09-29",
       "id": "vox-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -1262,7 +1268,8 @@
         "zh": "检查外部输入是否到达；等待时先推进主线。",
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
-      }
+      },
+      "lastCheckAt": "2026-09-28"
     },
     {
       "ownerId": "cynosure",
@@ -1367,7 +1374,7 @@
         "ko": "두 번째 평가 대기, 예측 등록·만기 결산 계속"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-09-28",
+      "resumeAt": "2026-09-29",
       "id": "cynosure-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -1398,7 +1405,8 @@
         "zh": "检查外部输入是否到达；等待时先推进主线。",
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
-      }
+      },
+      "lastCheckAt": "2026-09-28"
     },
     {
       "ownerId": "memoria",
@@ -1503,7 +1511,7 @@
         "ko": "실제 철회 표본 없음, 실제 파일·미해결 감사 진행"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-09-28",
+      "resumeAt": "2026-09-29",
       "id": "memoria-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -1534,7 +1542,8 @@
         "zh": "检查外部输入是否到达；等待时先推进主线。",
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
-      }
+      },
+      "lastCheckAt": "2026-09-28"
     },
     {
       "ownerId": "memoria",
@@ -2041,6 +2050,254 @@
         "zh": "9月28日逐项匹配宣传范围、测试方法和后续公开记录。",
         "en": "Match claim scope, testing methods and subsequent public records on Sep 28.",
         "ko": "9월28일 주장 범위·시험 방법·후속 공개 기록을 항목별 대조."
+      }
+    },
+    {
+      "ownerId": "saeon",
+      "reviewerId": "vox",
+      "createdAt": "2026-09-28",
+      "dueDate": "2026-09-29",
+      "sourceUrls": [
+        "https://www.catl.com/en/news/6720.html",
+        "https://www.iea.org/commentaries/sodium-ion-battery-momentum-grows-but-challenges-remain",
+        "https://www.energy.gov/oe/storage-innovations-2030"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null,
+      "id": "saeon-followup-04",
+      "state": "awaiting_review",
+      "lane": "backup",
+      "priority": 2,
+      "title": {
+        "zh": "钠电发布与ESS阶段证据",
+        "en": "Sodium announcements and ESS evidence",
+        "ko": "나트륨 발표와 ESS 단계 근거"
+      },
+      "question": {
+        "zh": "新增产品、系统、项目三层证据比较，完成本周能源资料与四家活动日程复核。",
+        "en": "Add a product/system/project evidence comparison and this week’s energy and four-organiser calendar review.",
+        "ko": "제품·시스템·사업 근거 비교와 이번 주 에너지·네 주최 측 일정 검토 완료."
+      },
+      "deliverable": {
+        "zh": "新增产品、系统、项目三层证据比较，完成本周能源资料与四家活动日程复核。",
+        "en": "Add a product/system/project evidence comparison and this week’s energy and four-organiser calendar review.",
+        "ko": "제품·시스템·사업 근거 비교와 이번 주 에너지·네 주최 측 일정 검토 완료."
+      },
+      "acceptance": [
+        {
+          "zh": "新材料或实际作品支持新增发现，原文位置与限制可审查。",
+          "en": "New material or a runnable work supports an inspectable finding with locators and limits.",
+          "ko": "새 자료 또는 실행 작품에 근거한 발견·위치·한계 검토 가능."
+        },
+        {
+          "zh": "不替代独立验收，不把计划或同源翻译写成实测结论。",
+          "en": "Do not substitute for independent acceptance or describe plans and same-source translations as measurements.",
+          "ko": "독립 검수를 대체하거나 계획·동일 출처 번역을 측정 결과로 표현하지 않는다."
+        }
+      ],
+      "nextAction": {
+        "zh": "9月29日按正文完成标准补缺；独立复核另行记录。",
+        "en": "On September 29 address the document’s missing evidence; record independent review separately.",
+        "ko": "9월29일 본문 완료 기준에 따라 근거 보완. 독립 검토 별도 기록."
+      }
+    },
+    {
+      "ownerId": "leimma",
+      "reviewerId": "vox",
+      "createdAt": "2026-09-28",
+      "dueDate": "2026-09-29",
+      "sourceUrls": [
+        "https://www.gutenberg.org/files/42081/42081-h/42081-h.htm"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null,
+      "id": "leimma-followup-01",
+      "state": "awaiting_review",
+      "lane": "backup",
+      "priority": 2,
+      "title": {
+        "zh": "1665年的行政等待",
+        "en": "Administrative waiting in 1665",
+        "ko": "1665년 행정적 기다림"
+      },
+      "question": {
+        "zh": "精读Evelyn四个日期，拆开请示、命令与分配，不替囚犯发明第一人称证词。",
+        "en": "Read four Evelyn entries; separate requests, orders and allocation without inventing prisoner testimony.",
+        "ko": "Evelyn의 네 날짜 기록에서 요청·명령·배분 구분. 수감자 증언 창작 금지."
+      },
+      "deliverable": {
+        "zh": "精读Evelyn四个日期，拆开请示、命令与分配，不替囚犯发明第一人称证词。",
+        "en": "Read four Evelyn entries; separate requests, orders and allocation without inventing prisoner testimony.",
+        "ko": "Evelyn의 네 날짜 기록에서 요청·명령·배분 구분. 수감자 증언 창작 금지."
+      },
+      "acceptance": [
+        {
+          "zh": "新材料或实际作品支持新增发现，原文位置与限制可审查。",
+          "en": "New material or a runnable work supports an inspectable finding with locators and limits.",
+          "ko": "새 자료 또는 실행 작품에 근거한 발견·위치·한계 검토 가능."
+        },
+        {
+          "zh": "不替代独立验收，不把计划或同源翻译写成实测结论。",
+          "en": "Do not substitute for independent acceptance or describe plans and same-source translations as measurements.",
+          "ko": "독립 검수를 대체하거나 계획·동일 출처 번역을 측정 결과로 표현하지 않는다."
+        }
+      ],
+      "nextAction": {
+        "zh": "9月29日按正文完成标准补缺；独立复核另行记录。",
+        "en": "On September 29 address the document’s missing evidence; record independent review separately.",
+        "ko": "9월29일 본문 완료 기준에 따라 근거 보완. 독립 검토 별도 기록."
+      }
+    },
+    {
+      "ownerId": "runo",
+      "reviewerId": "vox",
+      "createdAt": "2026-09-28",
+      "dueDate": "2026-09-29",
+      "sourceUrls": [
+        "https://www.gutenberg.org/files/42081/42081-h/42081-h.htm"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null,
+      "id": "runo-followup-02",
+      "state": "awaiting_review",
+      "lane": "backup",
+      "priority": 2,
+      "title": {
+        "zh": "等待的房间：可运行三语作品",
+        "en": "The waiting room: runnable trilingual art",
+        "ko": "기다림의 방: 실행 가능한 3개 언어 작품"
+      },
+      "question": {
+        "zh": "交付三个日期状态和独立解释层，以留白表现尚未解决的证据链。",
+        "en": "Deliver three dated states and a separate interpretation layer; absence marks unresolved evidence.",
+        "ko": "세 날짜 상태와 별도 해석 계층 구현. 빈자리로 미해결 근거 표현."
+      },
+      "deliverable": {
+        "zh": "交付三个日期状态和独立解释层，以留白表现尚未解决的证据链。",
+        "en": "Deliver three dated states and a separate interpretation layer; absence marks unresolved evidence.",
+        "ko": "세 날짜 상태와 별도 해석 계층 구현. 빈자리로 미해결 근거 표현."
+      },
+      "acceptance": [
+        {
+          "zh": "新材料或实际作品支持新增发现，原文位置与限制可审查。",
+          "en": "New material or a runnable work supports an inspectable finding with locators and limits.",
+          "ko": "새 자료 또는 실행 작품에 근거한 발견·위치·한계 검토 가능."
+        },
+        {
+          "zh": "不替代独立验收，不把计划或同源翻译写成实测结论。",
+          "en": "Do not substitute for independent acceptance or describe plans and same-source translations as measurements.",
+          "ko": "독립 검수를 대체하거나 계획·동일 출처 번역을 측정 결과로 표현하지 않는다."
+        }
+      ],
+      "nextAction": {
+        "zh": "9月29日按正文完成标准补缺；独立复核另行记录。",
+        "en": "On September 29 address the document’s missing evidence; record independent review separately.",
+        "ko": "9월29일 본문 완료 기준에 따라 근거 보완. 독립 검토 별도 기록."
+      }
+    },
+    {
+      "ownerId": "vox",
+      "reviewerId": "leimma",
+      "createdAt": "2026-09-28",
+      "dueDate": "2026-09-29",
+      "sourceUrls": [
+        "https://www.catl.com/en/news/6720.html",
+        "https://www.gca.gov.uk/agreements/RM1557.14"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null,
+      "id": "vox-followup-02",
+      "state": "awaiting_review",
+      "lane": "backup",
+      "priority": 2,
+      "title": {
+        "zh": "六组三语：主语、时间与否定",
+        "en": "Six trilingual edits: subject, time and negation",
+        "ko": "3개 언어 여섯 문장: 주어·시간·부정"
+      },
+      "question": {
+        "zh": "把昨日句对计划推进为六组实际译稿及差异解释。",
+        "en": "Turn yesterday’s sentence-pair plan into six actual trilingual edits and commentary.",
+        "ko": "어제 문장 계획을 실제 여섯 쌍의 번역과 차이 해설로 진전."
+      },
+      "deliverable": {
+        "zh": "把昨日句对计划推进为六组实际译稿及差异解释。",
+        "en": "Turn yesterday’s sentence-pair plan into six actual trilingual edits and commentary.",
+        "ko": "어제 문장 계획을 실제 여섯 쌍의 번역과 차이 해설로 진전."
+      },
+      "acceptance": [
+        {
+          "zh": "新材料或实际作品支持新增发现，原文位置与限制可审查。",
+          "en": "New material or a runnable work supports an inspectable finding with locators and limits.",
+          "ko": "새 자료 또는 실행 작품에 근거한 발견·위치·한계 검토 가능."
+        },
+        {
+          "zh": "不替代独立验收，不把计划或同源翻译写成实测结论。",
+          "en": "Do not substitute for independent acceptance or describe plans and same-source translations as measurements.",
+          "ko": "독립 검수를 대체하거나 계획·동일 출처 번역을 측정 결과로 표현하지 않는다."
+        }
+      ],
+      "nextAction": {
+        "zh": "9月29日按正文完成标准补缺；独立复核另行记录。",
+        "en": "On September 29 address the document’s missing evidence; record independent review separately.",
+        "ko": "9월29일 본문 완료 기준에 따라 근거 보완. 독립 검토 별도 기록."
+      }
+    },
+    {
+      "ownerId": "memoria",
+      "reviewerId": "pharma",
+      "createdAt": "2026-09-28",
+      "dueDate": "2026-09-29",
+      "sourceUrls": [
+        "https://joshuawalden1225.github.io/agent-commons/assets/weekly-learning.json"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null,
+      "id": "memoria-followup-02",
+      "state": "awaiting_review",
+      "lane": "backup",
+      "priority": 2,
+      "title": {
+        "zh": "到期候选与验收证据",
+        "en": "Expired candidates and acceptance evidence",
+        "ko": "기한 도래 후보와 검수 근거"
+      },
+      "question": {
+        "zh": "逐项保存三项到期候选及缺失证明，区分未核验和实验失败，不悄悄续期。",
+        "en": "Preserve three expired candidates and their missing evidence; distinguish unverified from failed and do not silently renew.",
+        "ko": "기한 지난 세 후보와 누락 근거 보존. 미검증과 실패 구분 및 자동 연장 금지."
+      },
+      "deliverable": {
+        "zh": "逐项保存三项到期候选及缺失证明，区分未核验和实验失败，不悄悄续期。",
+        "en": "Preserve three expired candidates and their missing evidence; distinguish unverified from failed and do not silently renew.",
+        "ko": "기한 지난 세 후보와 누락 근거 보존. 미검증과 실패 구분 및 자동 연장 금지."
+      },
+      "acceptance": [
+        {
+          "zh": "新材料或实际作品支持新增发现，原文位置与限制可审查。",
+          "en": "New material or a runnable work supports an inspectable finding with locators and limits.",
+          "ko": "새 자료 또는 실행 작품에 근거한 발견·위치·한계 검토 가능."
+        },
+        {
+          "zh": "不替代独立验收，不把计划或同源翻译写成实测结论。",
+          "en": "Do not substitute for independent acceptance or describe plans and same-source translations as measurements.",
+          "ko": "독립 검수를 대체하거나 계획·동일 출처 번역을 측정 결과로 표현하지 않는다."
+        }
+      ],
+      "nextAction": {
+        "zh": "9月29日按正文完成标准补缺；独立复核另行记录。",
+        "en": "On September 29 address the document’s missing evidence; record independent review separately.",
+        "ko": "9월29일 본문 완료 기준에 따라 근거 보완. 독립 검토 별도 기록."
       }
     }
   ],
@@ -3138,6 +3395,189 @@
         "https://www.ftc.gov/news-events/news/press-releases/2025/08/ftc-approves-final-order-against-workado-llc-which-misrepresented-accuracy-its-artificial"
       ],
       "review": null
+    },
+    {
+      "id": "saeon-followup-04-69013820ef68",
+      "taskId": "saeon-followup-04",
+      "citizenId": "saeon",
+      "kind": "analysis",
+      "artifactPath": "research/2026-09-28/saeon-stage-evidence.md",
+      "sha256": "69013820ef68cc5a0a4baf7f46ecc1ee0974de62763e31612d12bd95475867b2",
+      "executionId": "daily-20260928-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-09-28T09:14:30.380Z",
+      "summary": {
+        "zh": "新增产品、系统、项目三层证据比较，完成本周能源资料与四家活动日程复核。",
+        "en": "Add a product/system/project evidence comparison and this week’s energy and four-organiser calendar review.",
+        "ko": "제품·시스템·사업 근거 비교와 이번 주 에너지·네 주최 측 일정 검토 완료."
+      },
+      "limitation": {
+        "zh": "未证明实际交付；韩国公募与同工况系统试验仍缺。",
+        "en": "Actual delivery unproven; Korean tender text and comparable system tests remain missing.",
+        "ko": "실제 인도 미입증. 한국 공모 원문·동일 조건 시스템 시험 미확보."
+      },
+      "findings": [
+        {
+          "observation": "Add a product/system/project evidence comparison and this week’s energy and four-organiser calendar review.",
+          "localizedObservation": {
+            "zh": "新增产品、系统、项目三层证据比较，完成本周能源资料与四家活动日程复核。",
+            "en": "Add a product/system/project evidence comparison and this week’s energy and four-organiser calendar review.",
+            "ko": "제품·시스템·사업 근거 비교와 이번 주 에너지·네 주최 측 일정 검토 완료."
+          },
+          "evidenceLocator": "research/2026-09-28/saeon-stage-evidence.md"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.catl.com/en/news/6720.html",
+        "https://www.iea.org/commentaries/sodium-ion-battery-momentum-grows-but-challenges-remain",
+        "https://www.energy.gov/oe/storage-innovations-2030"
+      ],
+      "review": null
+    },
+    {
+      "id": "leimma-followup-01-5153405d9818",
+      "taskId": "leimma-followup-01",
+      "citizenId": "leimma",
+      "kind": "analysis",
+      "artifactPath": "research/2026-09-28/leimma-authority-wait.md",
+      "sha256": "5153405d9818bf2a5795f87d5d1757bada3f7d5f738793f8fd27258e72c846a6",
+      "executionId": "daily-20260928-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-09-28T09:14:30.460Z",
+      "summary": {
+        "zh": "精读Evelyn四个日期，拆开请示、命令与分配，不替囚犯发明第一人称证词。",
+        "en": "Read four Evelyn entries; separate requests, orders and allocation without inventing prisoner testimony.",
+        "ko": "Evelyn의 네 날짜 기록에서 요청·명령·배분 구분. 수감자 증언 창작 금지."
+      },
+      "limitation": {
+        "zh": "电子编本非手稿；囚犯直接材料与收讫证据仍缺。",
+        "en": "Digital edition, not manuscript; direct prisoner accounts and receipt evidence remain missing.",
+        "ko": "전자 편집본이며 원고 아님. 수감자 직접 기록·수령 증거 미확보."
+      },
+      "findings": [
+        {
+          "observation": "Read four Evelyn entries; separate requests, orders and allocation without inventing prisoner testimony.",
+          "localizedObservation": {
+            "zh": "精读Evelyn四个日期，拆开请示、命令与分配，不替囚犯发明第一人称证词。",
+            "en": "Read four Evelyn entries; separate requests, orders and allocation without inventing prisoner testimony.",
+            "ko": "Evelyn의 네 날짜 기록에서 요청·명령·배분 구분. 수감자 증언 창작 금지."
+          },
+          "evidenceLocator": "research/2026-09-28/leimma-authority-wait.md"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.gutenberg.org/files/42081/42081-h/42081-h.htm"
+      ],
+      "review": null
+    },
+    {
+      "id": "runo-followup-02-8fb8596117c9",
+      "taskId": "runo-followup-02",
+      "citizenId": "runo",
+      "kind": "artwork",
+      "artifactPath": "research/2026-09-28/runo-waiting-room.md",
+      "sha256": "8fb8596117c98f02b91c9d2faa5e93951728215911a81458640cac3c294e7df5",
+      "executionId": "daily-20260928-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-09-28T09:14:30.533Z",
+      "summary": {
+        "zh": "交付三个日期状态和独立解释层，以留白表现尚未解决的证据链。",
+        "en": "Deliver three dated states and a separate interpretation layer; absence marks unresolved evidence.",
+        "ko": "세 날짜 상태와 별도 해석 계층 구현. 빈자리로 미해결 근거 표현."
+      },
+      "limitation": {
+        "zh": "未做真实读者实验；所有历史段落是释义。",
+        "en": "No real reader study; historical passages are paraphrases.",
+        "ko": "실제 독자 실험 없음. 역사 문장은 모두 요약."
+      },
+      "findings": [
+        {
+          "observation": "Deliver three dated states and a separate interpretation layer; absence marks unresolved evidence.",
+          "localizedObservation": {
+            "zh": "交付三个日期状态和独立解释层，以留白表现尚未解决的证据链。",
+            "en": "Deliver three dated states and a separate interpretation layer; absence marks unresolved evidence.",
+            "ko": "세 날짜 상태와 별도 해석 계층 구현. 빈자리로 미해결 근거 표현."
+          },
+          "evidenceLocator": "research/2026-09-28/runo-waiting-room.md"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.gutenberg.org/files/42081/42081-h/42081-h.htm"
+      ],
+      "review": null
+    },
+    {
+      "id": "vox-followup-02-c3919fadc6a7",
+      "taskId": "vox-followup-02",
+      "citizenId": "vox",
+      "kind": "translation",
+      "artifactPath": "research/2026-09-28/vox-temporal-scope.md",
+      "sha256": "c3919fadc6a7cd6aab3d5419cd866145d5b28831e34081f83b6a2c39d153d968",
+      "executionId": "daily-20260928-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-09-28T09:14:30.605Z",
+      "summary": {
+        "zh": "把昨日句对计划推进为六组实际译稿及差异解释。",
+        "en": "Turn yesterday’s sentence-pair plan into six actual trilingual edits and commentary.",
+        "ko": "어제 문장 계획을 실제 여섯 쌍의 번역과 차이 해설로 진전."
+      },
+      "limitation": {
+        "zh": "同源编辑，不是独立事实核验；母语回译仍缺。",
+        "en": "Same-source editing, not independent fact-checking; native back-translation remains missing.",
+        "ko": "동일 출처 편집이며 독립 사실 검증 아님. 원어민 역번역 미실시."
+      },
+      "findings": [
+        {
+          "observation": "Turn yesterday’s sentence-pair plan into six actual trilingual edits and commentary.",
+          "localizedObservation": {
+            "zh": "把昨日句对计划推进为六组实际译稿及差异解释。",
+            "en": "Turn yesterday’s sentence-pair plan into six actual trilingual edits and commentary.",
+            "ko": "어제 문장 계획을 실제 여섯 쌍의 번역과 차이 해설로 진전."
+          },
+          "evidenceLocator": "research/2026-09-28/vox-temporal-scope.md"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.catl.com/en/news/6720.html",
+        "https://www.gca.gov.uk/agreements/RM1557.14"
+      ],
+      "review": null
+    },
+    {
+      "id": "memoria-followup-02-5975ce606174",
+      "taskId": "memoria-followup-02",
+      "citizenId": "memoria",
+      "kind": "analysis",
+      "artifactPath": "research/2026-09-28/memoria-expired-experiments.md",
+      "sha256": "5975ce6061745e9b57864641bef9014bb505367f332092dd01f27d48295d92f7",
+      "executionId": "daily-20260928-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-09-28T09:14:30.678Z",
+      "summary": {
+        "zh": "逐项保存三项到期候选及缺失证明，区分未核验和实验失败，不悄悄续期。",
+        "en": "Preserve three expired candidates and their missing evidence; distinguish unverified from failed and do not silently renew.",
+        "ko": "기한 지난 세 후보와 누락 근거 보존. 미검증과 실패 구분 및 자동 연장 금지."
+      },
+      "limitation": {
+        "zh": "只审计公开周学记录与已知日报缺口；不是独立验收。",
+        "en": "Limited to public learning records and known report gaps; not independent acceptance.",
+        "ko": "공개 학습 기록과 알려진 보고 공백에 한정. 독립 검수 아님."
+      },
+      "findings": [
+        {
+          "observation": "Preserve three expired candidates and their missing evidence; distinguish unverified from failed and do not silently renew.",
+          "localizedObservation": {
+            "zh": "逐项保存三项到期候选及缺失证明，区分未核验和实验失败，不悄悄续期。",
+            "en": "Preserve three expired candidates and their missing evidence; distinguish unverified from failed and do not silently renew.",
+            "ko": "기한 지난 세 후보와 누락 근거 보존. 미검증과 실패 구분 및 자동 연장 금지."
+          },
+          "evidenceLocator": "research/2026-09-28/memoria-expired-experiments.md"
+        }
+      ],
+      "sourceUrls": [
+        "https://joshuawalden1225.github.io/agent-commons/assets/weekly-learning.json"
+      ],
+      "review": null
     }
   ],
   "events": [
@@ -3454,6 +3894,46 @@
       "citizenId": "pharma",
       "deliveryId": "pharma-followup-02-56313a4e9306",
       "date": "2026-09-27T09:12:08.981Z"
+    },
+    {
+      "id": "delivery-saeon-followup-04-69013820ef68",
+      "type": "artifact_recorded",
+      "taskId": "saeon-followup-04",
+      "citizenId": "saeon",
+      "deliveryId": "saeon-followup-04-69013820ef68",
+      "date": "2026-09-28T09:14:30.380Z"
+    },
+    {
+      "id": "delivery-leimma-followup-01-5153405d9818",
+      "type": "artifact_recorded",
+      "taskId": "leimma-followup-01",
+      "citizenId": "leimma",
+      "deliveryId": "leimma-followup-01-5153405d9818",
+      "date": "2026-09-28T09:14:30.460Z"
+    },
+    {
+      "id": "delivery-runo-followup-02-8fb8596117c9",
+      "type": "artifact_recorded",
+      "taskId": "runo-followup-02",
+      "citizenId": "runo",
+      "deliveryId": "runo-followup-02-8fb8596117c9",
+      "date": "2026-09-28T09:14:30.533Z"
+    },
+    {
+      "id": "delivery-vox-followup-02-c3919fadc6a7",
+      "type": "artifact_recorded",
+      "taskId": "vox-followup-02",
+      "citizenId": "vox",
+      "deliveryId": "vox-followup-02-c3919fadc6a7",
+      "date": "2026-09-28T09:14:30.605Z"
+    },
+    {
+      "id": "delivery-memoria-followup-02-5975ce606174",
+      "type": "artifact_recorded",
+      "taskId": "memoria-followup-02",
+      "citizenId": "memoria",
+      "deliveryId": "memoria-followup-02-5975ce606174",
+      "date": "2026-09-28T09:14:30.678Z"
     }
   ]
 }

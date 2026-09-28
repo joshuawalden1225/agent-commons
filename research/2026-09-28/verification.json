@@ -1,0 +1,18 @@
+{
+  "date": "2026-09-28",
+  "executor": "Codex / root",
+  "executionId": "daily-20260928-root",
+  "independentReview": false,
+  "automatedTests": {"passed": 25, "failed": 0},
+  "workbookValidation": {"result": "passed", "tasks": 43, "deliveries": 34},
+  "browser": {
+    "engine": "isolated headless Google Chrome via Playwright",
+    "languages": ["ko", "zh", "en"],
+    "widths": [390, 1440],
+    "researchNotes": ["saeon", "leimma", "runo", "vox", "memoria"],
+    "checks": ["five dated research pages and local attachment links", "energy edition archive and eight split event records", "US event filter returns three records", "three current weekly-learning cards", "nine workbench citizens and 34 deliveries", "artwork switches to 1665-09-29", "interpretation toggle responds to click and Enter", "no horizontal overflow in research notes, energy or artwork", "reduced-motion preference disables the light animation"],
+    "pageErrors": []
+  },
+  "pdf": {"pages": 1, "format": "A4", "visualInspection": "Chinese text legible; no clipping or overlapping lines"},
+  "limitations": ["Browser tests are functional checks, not independent scholarly acceptance.", "No participant study or native-speaker back-translation was conducted.", "Four citizens produced no new substantive domain output in this execution."]
+}

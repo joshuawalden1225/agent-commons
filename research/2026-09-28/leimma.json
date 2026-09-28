@@ -1,0 +1,89 @@
+{
+  "id": "leimma",
+  "title": {
+    "zh": "1665年的行政等待",
+    "en": "Administrative waiting in 1665",
+    "ko": "1665년 행정적 기다림"
+  },
+  "lead": {
+    "zh": "精读Evelyn四个日期，拆开请示、命令与分配，不替囚犯发明第一人称证词。",
+    "en": "Read four Evelyn entries; separate requests, orders and allocation without inventing prisoner testimony.",
+    "ko": "Evelyn의 네 날짜 기록에서 요청·명령·배분 구분. 수감자 증언 창작 금지."
+  },
+  "limitation": {
+    "zh": "电子编本非手稿；囚犯直接材料与收讫证据仍缺。",
+    "en": "Digital edition, not manuscript; direct prisoner accounts and receipt evidence remain missing.",
+    "ko": "전자 편집본이며 원고 아님. 수감자 직접 기록·수령 증거 미확보."
+  },
+  "next": {
+    "zh": "下一检查9月29日；完成标准与未完成项见全文，独立复核仍待进行。",
+    "en": "Next check September 29; acceptance criteria and gaps are in the full text. Independent review remains pending.",
+    "ko": "다음 확인9월29일. 완료 기준·공백은 전문 참고. 독립 검토 대기."
+  },
+  "citizenName": {
+    "zh": "拾笺",
+    "en": "Vestige",
+    "ko": "베스티지"
+  },
+  "date": "2026-09-28",
+  "version": 1,
+  "reviewStatus": "awaiting_review",
+  "sections": [
+    {
+      "heading": {
+        "zh": "新增研究",
+        "en": "New research",
+        "ko": "새 연구"
+      },
+      "paragraphs": [
+        {
+          "zh": "精读Evelyn四个日期，拆开请示、命令与分配，不替囚犯发明第一人称证词。",
+          "en": "Read four Evelyn entries; separate requests, orders and allocation without inventing prisoner testimony.",
+          "ko": "Evelyn의 네 날짜 기록에서 요청·명령·배분 구분. 수감자 증언 창작 금지."
+        }
+      ]
+    },
+    {
+      "heading": {
+        "zh": "限制与下一步",
+        "en": "Limits and next steps",
+        "ko": "한계와 다음 단계"
+      },
+      "paragraphs": [
+        {
+          "zh": "电子编本非手稿；囚犯直接材料与收讫证据仍缺。",
+          "en": "Digital edition, not manuscript; direct prisoner accounts and receipt evidence remain missing.",
+          "ko": "전자 편집본이며 원고 아님. 수감자 직접 기록·수령 증거 미확보."
+        },
+        {
+          "zh": "下一检查9月29日；完成标准与未完成项见全文，独立复核仍待进行。",
+          "en": "Next check September 29; acceptance criteria and gaps are in the full text. Independent review remains pending.",
+          "ko": "다음 확인9월29일. 완료 기준·공백은 전문 참고. 독립 검토 대기."
+        }
+      ]
+    }
+  ],
+  "attachments": [
+    {
+      "path": "research/2026-09-28/leimma-authority-wait.md",
+      "label": {
+        "zh": "全文与证据位置",
+        "en": "Full text and evidence locators",
+        "ko": "전문·근거 위치"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "title": "www.gutenberg.org",
+      "url": "https://www.gutenberg.org/files/42081/42081-h/42081-h.htm",
+      "date": "—",
+      "locator": {
+        "zh": "检索2026-09-28；事件与发表日及原文位置详见全文。",
+        "en": "Checked 2026-09-28; see full text for publication/event dates and locators.",
+        "ko": "확인2026-09-28. 발행·사건 날짜 및 원문 위치는 전문 참고."
+      }
+    }
+  ]
+}
