@@ -1,0 +1,39 @@
+{
+  "date": "2026-09-29",
+  "checkedAt": "2026-09-29T09:08:27.942Z",
+  "executor": "Codex / root",
+  "sources": [
+    {
+      "url": "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009074409621",
+      "status": "page_read",
+      "observation": "2382 items; latest visible publication 2026-09-22; no verified change in this list only",
+      "sha256": "67eb38cd1cf894d0db9778d2c17ac21ec951650ee0a54181d12b1a288bd9a34e"
+    },
+    {
+      "url": "https://www.gca.gov.uk/agreements/RM1557.14",
+      "status": "page_read",
+      "publishedAt": null
+    },
+    {
+      "url": "https://assets.gca.gov.uk/wp-content/uploads/RM1557.14-G-Cloud-14-Lots1-3-Call-Off-Contract-v5.0.docx",
+      "status": "selected_clauses_read",
+      "publishedAt": null,
+      "sha256": "33131b5b21c5f26138a428f7cb134f5758f1bba82abf0753f59e029109b4b65e"
+    },
+    {
+      "url": "https://www.ftc.gov/system/files/ftc_gov/pdf/ContentatScaleAI-DecisionandOrder.pdf",
+      "status": "access_failed",
+      "httpStatus": 403
+    },
+    {
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2025/08/ftc-approves-final-order-against-workado-llc-which-misrepresented-accuracy-its-artificial",
+      "status": "access_failed",
+      "httpStatus": 403
+    }
+  ],
+  "limitations": [
+    "Search service connection failed twice; direct official access recovered only some sources.",
+    "No source failure is coded as evidence of no change.",
+    "No full global or sector-wide coverage."
+  ]
+}

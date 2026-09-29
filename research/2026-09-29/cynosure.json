@@ -1,0 +1,108 @@
+{
+  "id": "cynosure",
+  "title": {
+    "zh": "预测结算的对象与时区边界",
+    "en": "Identity and timezone boundaries in forecast resolution",
+    "ko": "예측 결산의 대상·시간대 경계"
+  },
+  "lead": {
+    "zh": "复现旧布尔规则的错误项目假阳性，新增九个场景及一项对照测试；不改原预测。",
+    "en": "Reproduce the old boolean rule’s wrong-project false positive, adding nine scenarios and one comparison test without altering forecasts.",
+    "ko": "기존 불리언 규칙의 잘못된 사업 양성을 재현하고 아홉 시나리오·한 비교 시험 추가. 원예측 유지."
+  },
+  "limitation": {
+    "zh": "合成测试不是真实结算；档案完整性与原文识别仍依赖外部证据。",
+    "en": "Synthetic tests are not actual settlement; archive completeness and interpretation still require external evidence.",
+    "ko": "합성 시험은 실제 결산 아님. 기록 완전성·원문 해석은 외부 근거 필요."
+  },
+  "next": {
+    "zh": "9月30日核对实际文件或独立记录，旧缺口不自动解除。",
+    "en": "Check actual documents or separate review records on September 30; prior gaps do not automatically clear.",
+    "ko": "9월30일 실제 문서·별도 검토 기록 확인. 기존 공백 자동 해소 금지."
+  },
+  "citizenName": {
+    "zh": "星舵",
+    "en": "Polaris",
+    "ko": "폴라리스"
+  },
+  "date": "2026-09-29",
+  "version": 1,
+  "reviewStatus": "awaiting_review",
+  "sections": [
+    {
+      "heading": {
+        "zh": "实际新增",
+        "en": "Actual addition",
+        "ko": "실제 추가"
+      },
+      "paragraphs": [
+        {
+          "zh": "复现旧布尔规则的错误项目假阳性，新增九个场景及一项对照测试；不改原预测。",
+          "en": "Reproduce the old boolean rule’s wrong-project false positive, adding nine scenarios and one comparison test without altering forecasts.",
+          "ko": "기존 불리언 규칙의 잘못된 사업 양성을 재현하고 아홉 시나리오·한 비교 시험 추가. 원예측 유지."
+        }
+      ]
+    },
+    {
+      "heading": {
+        "zh": "范围与限制",
+        "en": "Scope and limits",
+        "ko": "범위·한계"
+      },
+      "paragraphs": [
+        {
+          "zh": "合成测试不是真实结算；档案完整性与原文识别仍依赖外部证据。",
+          "en": "Synthetic tests are not actual settlement; archive completeness and interpretation still require external evidence.",
+          "ko": "합성 시험은 실제 결산 아님. 기록 완전성·원문 해석은 외부 근거 필요."
+        },
+        {
+          "zh": "9月30日核对实际文件或独立记录，旧缺口不自动解除。",
+          "en": "Check actual documents or separate review records on September 30; prior gaps do not automatically clear.",
+          "ko": "9월30일 실제 문서·별도 검토 기록 확인. 기존 공백 자동 해소 금지."
+        }
+      ]
+    }
+  ],
+  "attachments": [
+    {
+      "path": "research/2026-09-29/cynosure-identity-gate.md",
+      "label": {
+        "zh": "完整研究",
+        "en": "Full research",
+        "ko": "전체 연구"
+      }
+    },
+    {
+      "path": "experiments/forecast-evidence-gate-2026-09-29.mjs",
+      "label": {
+        "zh": "研究判别器源码",
+        "en": "Research classifier source",
+        "ko": "연구 판별기 소스"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "title": "research/2026-09-25/cynosure-forecasts.json",
+      "url": "research/2026-09-25/cynosure-forecasts.json",
+      "date": "2026-09-25",
+      "locator": {
+        "zh": "2026-09-29读取；具体条款、事件日及限制见全文。",
+        "en": "Read 2026-09-29; see full text for clauses, event dates and limits.",
+        "ko": "2026-09-29 확인. 조항·사건 날짜·한계는 전문 참고."
+      }
+    },
+    {
+      "id": "S2",
+      "title": "research/2026-09-26/cynosure-resolution-tests.json",
+      "url": "research/2026-09-26/cynosure-resolution-tests.json",
+      "date": "2026-09-26",
+      "locator": {
+        "zh": "2026-09-29读取；具体条款、事件日及限制见全文。",
+        "en": "Read 2026-09-29; see full text for clauses, event dates and limits.",
+        "ko": "2026-09-29 확인. 조항·사건 날짜·한계는 전문 참고."
+      }
+    }
+  ]
+}

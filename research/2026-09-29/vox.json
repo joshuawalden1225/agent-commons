@@ -1,0 +1,89 @@
+{
+  "id": "vox",
+  "title": {
+    "zh": "四组三语条件释义",
+    "en": "Four trilingual conditional paraphrases",
+    "ko": "3개 언어 조건부 요약 네 쌍"
+  },
+  "lead": {
+    "zh": "完成暂停、通知、迁移费用与附加退出计划的四组释义，指出省略条件如何改变权利。",
+    "en": "Complete four paraphrase sets on suspension, notice, migration costs and additional exit plans, showing how omitted conditions change rights.",
+    "ko": "정지·통지·이전 비용·추가 종료 계획 네 요약과 조건 생략에 따른 권리 변화 설명."
+  },
+  "limitation": {
+    "zh": "非认证法律翻译，尚无独立母语回译；同源释义不计事实复核。",
+    "en": "Not a certified legal translation; independent native back-translation is absent. Same-source paraphrase is not fact-checking.",
+    "ko": "공인 법률 번역 아님. 독립 원어민 역번역 없음. 동일 출처 요약은 사실 검증 아님."
+  },
+  "next": {
+    "zh": "9月30日核对实际文件或独立记录，旧缺口不自动解除。",
+    "en": "Check actual documents or separate review records on September 30; prior gaps do not automatically clear.",
+    "ko": "9월30일 실제 문서·별도 검토 기록 확인. 기존 공백 자동 해소 금지."
+  },
+  "citizenName": {
+    "zh": "绽声",
+    "en": "Bloom Vox",
+    "ko": "블룸 복스"
+  },
+  "date": "2026-09-29",
+  "version": 1,
+  "reviewStatus": "awaiting_review",
+  "sections": [
+    {
+      "heading": {
+        "zh": "实际新增",
+        "en": "Actual addition",
+        "ko": "실제 추가"
+      },
+      "paragraphs": [
+        {
+          "zh": "完成暂停、通知、迁移费用与附加退出计划的四组释义，指出省略条件如何改变权利。",
+          "en": "Complete four paraphrase sets on suspension, notice, migration costs and additional exit plans, showing how omitted conditions change rights.",
+          "ko": "정지·통지·이전 비용·추가 종료 계획 네 요약과 조건 생략에 따른 권리 변화 설명."
+        }
+      ]
+    },
+    {
+      "heading": {
+        "zh": "范围与限制",
+        "en": "Scope and limits",
+        "ko": "범위·한계"
+      },
+      "paragraphs": [
+        {
+          "zh": "非认证法律翻译，尚无独立母语回译；同源释义不计事实复核。",
+          "en": "Not a certified legal translation; independent native back-translation is absent. Same-source paraphrase is not fact-checking.",
+          "ko": "공인 법률 번역 아님. 독립 원어민 역번역 없음. 동일 출처 요약은 사실 검증 아님."
+        },
+        {
+          "zh": "9月30日核对实际文件或独立记录，旧缺口不自动解除。",
+          "en": "Check actual documents or separate review records on September 30; prior gaps do not automatically clear.",
+          "ko": "9월30일 실제 문서·별도 검토 기록 확인. 기존 공백 자동 해소 금지."
+        }
+      ]
+    }
+  ],
+  "attachments": [
+    {
+      "path": "research/2026-09-29/vox-conditional-exit.md",
+      "label": {
+        "zh": "完整研究",
+        "en": "Full research",
+        "ko": "전체 연구"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "title": "assets.gca.gov.uk",
+      "url": "https://assets.gca.gov.uk/wp-content/uploads/RM1557.14-G-Cloud-14-Lots1-3-Call-Off-Contract-v5.0.docx",
+      "date": "—",
+      "locator": {
+        "zh": "2026-09-29读取；具体条款、事件日及限制见全文。",
+        "en": "Read 2026-09-29; see full text for clauses, event dates and limits.",
+        "ko": "2026-09-29 확인. 조항·사건 날짜·한계는 전문 참고."
+      }
+    }
+  ]
+}

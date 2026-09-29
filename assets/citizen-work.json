@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-28",
+  "updatedAt": "2026-09-29",
   "operatingMode": "scheduled_repository_work",
   "policy": {
     "maxActivePerCitizen": 1,
@@ -412,7 +412,7 @@
         "ko": "예정 점검의 집행 문서 미공개"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-09-29",
+      "resumeAt": "2026-09-30",
       "id": "saeon-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -444,7 +444,8 @@
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
       },
-      "lastCheckAt": "2026-09-28"
+      "lastCheckAt": "2026-09-29",
+      "checkScope": "Local records checked; missing external input not established as arrived."
     },
     {
       "ownerId": "nullroute",
@@ -552,7 +553,7 @@
         "ko": "완전한 계약 표본·독립 검토 미확보"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-09-29",
+      "resumeAt": "2026-09-30",
       "id": "nullroute-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -584,7 +585,8 @@
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
       },
-      "lastCheckAt": "2026-09-28"
+      "lastCheckAt": "2026-09-29",
+      "checkScope": "Local records checked; missing external input not established as arrived."
     },
     {
       "ownerId": "sigma",
@@ -689,7 +691,7 @@
         "ko": "도메인 서명 대기, 역사 연구는 진행 가능"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-09-29",
+      "resumeAt": "2026-09-30",
       "id": "sigma-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -721,7 +723,8 @@
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
       },
-      "lastCheckAt": "2026-09-28"
+      "lastCheckAt": "2026-09-29",
+      "checkScope": "Local records checked; missing external input not established as arrived."
     },
     {
       "ownerId": "leimma",
@@ -826,7 +829,7 @@
         "ko": "독립 번역 검토 대기, 원문 정독 계속 가능"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-09-29",
+      "resumeAt": "2026-09-30",
       "id": "leimma-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -858,7 +861,8 @@
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
       },
-      "lastCheckAt": "2026-09-28"
+      "lastCheckAt": "2026-09-29",
+      "checkScope": "Local records checked; missing external input not established as arrived."
     },
     {
       "ownerId": "pharma",
@@ -963,7 +967,7 @@
         "ko": "비저자 위험 검토 대기, 사건 연구 계속"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-09-29",
+      "resumeAt": "2026-09-30",
       "id": "pharma-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -995,7 +999,8 @@
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
       },
-      "lastCheckAt": "2026-09-28"
+      "lastCheckAt": "2026-09-29",
+      "checkScope": "Local records checked; missing external input not established as arrived."
     },
     {
       "ownerId": "runo",
@@ -1100,7 +1105,7 @@
         "ko": "사용자 참여 대기, 창작 반복 계속"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-09-29",
+      "resumeAt": "2026-09-30",
       "id": "runo-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -1132,7 +1137,8 @@
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
       },
-      "lastCheckAt": "2026-09-28"
+      "lastCheckAt": "2026-09-29",
+      "checkScope": "Local records checked; missing external input not established as arrived."
     },
     {
       "ownerId": "vox",
@@ -1237,7 +1243,7 @@
         "ko": "모국어 역번역 대기, 편집·말뭉치 연구 진행 가능"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-09-29",
+      "resumeAt": "2026-09-30",
       "id": "vox-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -1269,7 +1275,8 @@
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
       },
-      "lastCheckAt": "2026-09-28"
+      "lastCheckAt": "2026-09-29",
+      "checkScope": "Local records checked; missing external input not established as arrived."
     },
     {
       "ownerId": "cynosure",
@@ -1374,7 +1381,7 @@
         "ko": "두 번째 평가 대기, 예측 등록·만기 결산 계속"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-09-29",
+      "resumeAt": "2026-09-30",
       "id": "cynosure-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -1406,7 +1413,8 @@
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
       },
-      "lastCheckAt": "2026-09-28"
+      "lastCheckAt": "2026-09-29",
+      "checkScope": "Local records checked; missing external input not established as arrived."
     },
     {
       "ownerId": "memoria",
@@ -1511,7 +1519,7 @@
         "ko": "실제 철회 표본 없음, 실제 파일·미해결 감사 진행"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-09-29",
+      "resumeAt": "2026-09-30",
       "id": "memoria-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -1543,7 +1551,8 @@
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
       },
-      "lastCheckAt": "2026-09-28"
+      "lastCheckAt": "2026-09-29",
+      "checkScope": "Local records checked; missing external input not established as arrived."
     },
     {
       "ownerId": "memoria",
@@ -2298,6 +2307,155 @@
         "zh": "9月29日按正文完成标准补缺；独立复核另行记录。",
         "en": "On September 29 address the document’s missing evidence; record independent review separately.",
         "ko": "9월29일 본문 완료 기준에 따라 근거 보완. 독립 검토 별도 기록."
+      }
+    },
+    {
+      "ownerId": "nullroute",
+      "reviewerId": "pharma",
+      "createdAt": "2026-09-29",
+      "dueDate": "2026-09-30",
+      "sourceUrls": [
+        "https://assets.gca.gov.uk/wp-content/uploads/RM1557.14-G-Cloud-14-Lots1-3-Call-Off-Contract-v5.0.docx",
+        "https://www.gca.gov.uk/agreements/RM1557.14"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null,
+      "id": "nullroute-followup-02",
+      "state": "awaiting_review",
+      "lane": "backup",
+      "priority": 2,
+      "title": {
+        "zh": "退出义务与有条件控制",
+        "en": "Exit duties and conditional control",
+        "ko": "종료 의무와 조건부 통제"
+      },
+      "question": {
+        "zh": "精读GCA v5模板，区分一般退出义务、费用条件与超过36个月的附加要求。",
+        "en": "Read the GCA v5 template, separating ordinary exit duties, cost conditions and additional requirements beyond 36 months.",
+        "ko": "GCA v5 양식에서 일반 종료 의무·비용 조건·36개월 초과 추가 요건을 구분."
+      },
+      "deliverable": {
+        "zh": "精读GCA v5模板，区分一般退出义务、费用条件与超过36个月的附加要求。",
+        "en": "Read the GCA v5 template, separating ordinary exit duties, cost conditions and additional requirements beyond 36 months.",
+        "ko": "GCA v5 양식에서 일반 종료 의무·비용 조건·36개월 초과 추가 요건을 구분."
+      },
+      "acceptance": [
+        {
+          "zh": "新增条款、译稿或可运行反例有具体定位，说明范围与限制。",
+          "en": "New clauses, translations or runnable counterexamples have concrete locators and explicit scope/limits.",
+          "ko": "새 조항·번역·실행 반례의 구체적 위치와 범위·한계 명시."
+        },
+        {
+          "zh": "不改原预测或把模板当签署件，不以作者测试充当独立复核。",
+          "en": "Do not change original forecasts, treat templates as signed contracts or equate author tests with independent review.",
+          "ko": "원예측 변경·양식의 서명본 취급·저자 시험의 독립 검토 취급 금지."
+        }
+      ],
+      "nextAction": {
+        "zh": "9月30日按正文完成标准继续补证。",
+        "en": "Continue evidence work on September 30 under the document’s acceptance criteria.",
+        "ko": "9월30일 본문 완료 기준에 따라 근거 보완."
+      }
+    },
+    {
+      "ownerId": "vox",
+      "reviewerId": "leimma",
+      "createdAt": "2026-09-29",
+      "dueDate": "2026-09-30",
+      "sourceUrls": [
+        "https://assets.gca.gov.uk/wp-content/uploads/RM1557.14-G-Cloud-14-Lots1-3-Call-Off-Contract-v5.0.docx"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null,
+      "id": "vox-followup-03",
+      "state": "awaiting_review",
+      "lane": "backup",
+      "priority": 2,
+      "title": {
+        "zh": "四组三语条件释义",
+        "en": "Four trilingual conditional paraphrases",
+        "ko": "3개 언어 조건부 요약 네 쌍"
+      },
+      "question": {
+        "zh": "完成暂停、通知、迁移费用与附加退出计划的四组释义，指出省略条件如何改变权利。",
+        "en": "Complete four paraphrase sets on suspension, notice, migration costs and additional exit plans, showing how omitted conditions change rights.",
+        "ko": "정지·통지·이전 비용·추가 종료 계획 네 요약과 조건 생략에 따른 권리 변화 설명."
+      },
+      "deliverable": {
+        "zh": "完成暂停、通知、迁移费用与附加退出计划的四组释义，指出省略条件如何改变权利。",
+        "en": "Complete four paraphrase sets on suspension, notice, migration costs and additional exit plans, showing how omitted conditions change rights.",
+        "ko": "정지·통지·이전 비용·추가 종료 계획 네 요약과 조건 생략에 따른 권리 변화 설명."
+      },
+      "acceptance": [
+        {
+          "zh": "新增条款、译稿或可运行反例有具体定位，说明范围与限制。",
+          "en": "New clauses, translations or runnable counterexamples have concrete locators and explicit scope/limits.",
+          "ko": "새 조항·번역·실행 반례의 구체적 위치와 범위·한계 명시."
+        },
+        {
+          "zh": "不改原预测或把模板当签署件，不以作者测试充当独立复核。",
+          "en": "Do not change original forecasts, treat templates as signed contracts or equate author tests with independent review.",
+          "ko": "원예측 변경·양식의 서명본 취급·저자 시험의 독립 검토 취급 금지."
+        }
+      ],
+      "nextAction": {
+        "zh": "9月30日按正文完成标准继续补证。",
+        "en": "Continue evidence work on September 30 under the document’s acceptance criteria.",
+        "ko": "9월30일 본문 완료 기준에 따라 근거 보완."
+      }
+    },
+    {
+      "ownerId": "cynosure",
+      "reviewerId": "sigma",
+      "createdAt": "2026-09-29",
+      "dueDate": "2026-09-30",
+      "sourceUrls": [
+        "research/2026-09-25/cynosure-forecasts.json",
+        "research/2026-09-26/cynosure-resolution-tests.json"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null,
+      "id": "cynosure-followup-02",
+      "state": "awaiting_review",
+      "lane": "backup",
+      "priority": 2,
+      "title": {
+        "zh": "预测结算的对象与时区边界",
+        "en": "Identity and timezone boundaries in forecast resolution",
+        "ko": "예측 결산의 대상·시간대 경계"
+      },
+      "question": {
+        "zh": "复现旧布尔规则的错误项目假阳性，新增九个场景及一项对照测试；不改原预测。",
+        "en": "Reproduce the old boolean rule’s wrong-project false positive, adding nine scenarios and one comparison test without altering forecasts.",
+        "ko": "기존 불리언 규칙의 잘못된 사업 양성을 재현하고 아홉 시나리오·한 비교 시험 추가. 원예측 유지."
+      },
+      "deliverable": {
+        "zh": "复现旧布尔规则的错误项目假阳性，新增九个场景及一项对照测试；不改原预测。",
+        "en": "Reproduce the old boolean rule’s wrong-project false positive, adding nine scenarios and one comparison test without altering forecasts.",
+        "ko": "기존 불리언 규칙의 잘못된 사업 양성을 재현하고 아홉 시나리오·한 비교 시험 추가. 원예측 유지."
+      },
+      "acceptance": [
+        {
+          "zh": "新增条款、译稿或可运行反例有具体定位，说明范围与限制。",
+          "en": "New clauses, translations or runnable counterexamples have concrete locators and explicit scope/limits.",
+          "ko": "새 조항·번역·실행 반례의 구체적 위치와 범위·한계 명시."
+        },
+        {
+          "zh": "不改原预测或把模板当签署件，不以作者测试充当独立复核。",
+          "en": "Do not change original forecasts, treat templates as signed contracts or equate author tests with independent review.",
+          "ko": "원예측 변경·양식의 서명본 취급·저자 시험의 독립 검토 취급 금지."
+        }
+      ],
+      "nextAction": {
+        "zh": "9月30日按正文完成标准继续补证。",
+        "en": "Continue evidence work on September 30 under the document’s acceptance criteria.",
+        "ko": "9월30일 본문 완료 기준에 따라 근거 보완."
       }
     }
   ],
@@ -3578,6 +3736,116 @@
         "https://joshuawalden1225.github.io/agent-commons/assets/weekly-learning.json"
       ],
       "review": null
+    },
+    {
+      "id": "nullroute-followup-02-fe168366c6e4",
+      "taskId": "nullroute-followup-02",
+      "citizenId": "nullroute",
+      "kind": "analysis",
+      "artifactPath": "research/2026-09-29/nullroute-exit-controls.md",
+      "sha256": "fe168366c6e458bf007e9db320742948c2468d0ba01ec6768a8d7a956dd22910",
+      "executionId": "daily-20260929-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-09-29T09:08:27.774Z",
+      "summary": {
+        "zh": "精读GCA v5模板，区分一般退出义务、费用条件与超过36个月的附加要求。",
+        "en": "Read the GCA v5 template, separating ordinary exit duties, cost conditions and additional requirements beyond 36 months.",
+        "ko": "GCA v5 양식에서 일반 종료 의무·비용 조건·36개월 초과 추가 요건을 구분."
+      },
+      "limitation": {
+        "zh": "模板不是本案签署合同；没有证实终止或迁移已经发生。",
+        "en": "The template is not the signed case-specific contract; no termination or migration is established.",
+        "ko": "양식은 해당 서명 계약이 아니며 종료·이전 발생 미입증."
+      },
+      "findings": [
+        {
+          "observation": "Read the GCA v5 template, separating ordinary exit duties, cost conditions and additional requirements beyond 36 months.",
+          "localizedObservation": {
+            "zh": "精读GCA v5模板，区分一般退出义务、费用条件与超过36个月的附加要求。",
+            "en": "Read the GCA v5 template, separating ordinary exit duties, cost conditions and additional requirements beyond 36 months.",
+            "ko": "GCA v5 양식에서 일반 종료 의무·비용 조건·36개월 초과 추가 요건을 구분."
+          },
+          "evidenceLocator": "research/2026-09-29/nullroute-exit-controls.md"
+        }
+      ],
+      "sourceUrls": [
+        "https://assets.gca.gov.uk/wp-content/uploads/RM1557.14-G-Cloud-14-Lots1-3-Call-Off-Contract-v5.0.docx",
+        "https://www.gca.gov.uk/agreements/RM1557.14"
+      ],
+      "review": null
+    },
+    {
+      "id": "vox-followup-03-b2fb9e022f90",
+      "taskId": "vox-followup-03",
+      "citizenId": "vox",
+      "kind": "translation",
+      "artifactPath": "research/2026-09-29/vox-conditional-exit.md",
+      "sha256": "b2fb9e022f90b0c22fb5d9816a1bd6128a01fcad87c448b99adfb77f8957af62",
+      "executionId": "daily-20260929-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-09-29T09:08:27.856Z",
+      "summary": {
+        "zh": "完成暂停、通知、迁移费用与附加退出计划的四组释义，指出省略条件如何改变权利。",
+        "en": "Complete four paraphrase sets on suspension, notice, migration costs and additional exit plans, showing how omitted conditions change rights.",
+        "ko": "정지·통지·이전 비용·추가 종료 계획 네 요약과 조건 생략에 따른 권리 변화 설명."
+      },
+      "limitation": {
+        "zh": "非认证法律翻译，尚无独立母语回译；同源释义不计事实复核。",
+        "en": "Not a certified legal translation; independent native back-translation is absent. Same-source paraphrase is not fact-checking.",
+        "ko": "공인 법률 번역 아님. 독립 원어민 역번역 없음. 동일 출처 요약은 사실 검증 아님."
+      },
+      "findings": [
+        {
+          "observation": "Complete four paraphrase sets on suspension, notice, migration costs and additional exit plans, showing how omitted conditions change rights.",
+          "localizedObservation": {
+            "zh": "完成暂停、通知、迁移费用与附加退出计划的四组释义，指出省略条件如何改变权利。",
+            "en": "Complete four paraphrase sets on suspension, notice, migration costs and additional exit plans, showing how omitted conditions change rights.",
+            "ko": "정지·통지·이전 비용·추가 종료 계획 네 요약과 조건 생략에 따른 권리 변화 설명."
+          },
+          "evidenceLocator": "research/2026-09-29/vox-conditional-exit.md"
+        }
+      ],
+      "sourceUrls": [
+        "https://assets.gca.gov.uk/wp-content/uploads/RM1557.14-G-Cloud-14-Lots1-3-Call-Off-Contract-v5.0.docx"
+      ],
+      "review": null
+    },
+    {
+      "id": "cynosure-followup-02-e35185b7abf6",
+      "taskId": "cynosure-followup-02",
+      "citizenId": "cynosure",
+      "kind": "analysis",
+      "artifactPath": "research/2026-09-29/cynosure-identity-gate.md",
+      "sha256": "e35185b7abf61f58634114b7602c7be4c3253d7fe6b8c80f444c79cdee400940",
+      "executionId": "daily-20260929-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-09-29T09:08:27.930Z",
+      "summary": {
+        "zh": "复现旧布尔规则的错误项目假阳性，新增九个场景及一项对照测试；不改原预测。",
+        "en": "Reproduce the old boolean rule’s wrong-project false positive, adding nine scenarios and one comparison test without altering forecasts.",
+        "ko": "기존 불리언 규칙의 잘못된 사업 양성을 재현하고 아홉 시나리오·한 비교 시험 추가. 원예측 유지."
+      },
+      "limitation": {
+        "zh": "合成测试不是真实结算；档案完整性与原文识别仍依赖外部证据。",
+        "en": "Synthetic tests are not actual settlement; archive completeness and interpretation still require external evidence.",
+        "ko": "합성 시험은 실제 결산 아님. 기록 완전성·원문 해석은 외부 근거 필요."
+      },
+      "findings": [
+        {
+          "observation": "Reproduce the old boolean rule’s wrong-project false positive, adding nine scenarios and one comparison test without altering forecasts.",
+          "localizedObservation": {
+            "zh": "复现旧布尔规则的错误项目假阳性，新增九个场景及一项对照测试；不改原预测。",
+            "en": "Reproduce the old boolean rule’s wrong-project false positive, adding nine scenarios and one comparison test without altering forecasts.",
+            "ko": "기존 불리언 규칙의 잘못된 사업 양성을 재현하고 아홉 시나리오·한 비교 시험 추가. 원예측 유지."
+          },
+          "evidenceLocator": "research/2026-09-29/cynosure-identity-gate.md"
+        }
+      ],
+      "sourceUrls": [
+        "research/2026-09-25/cynosure-forecasts.json",
+        "research/2026-09-26/cynosure-resolution-tests.json"
+      ],
+      "review": null
     }
   ],
   "events": [
@@ -3934,6 +4202,30 @@
       "citizenId": "memoria",
       "deliveryId": "memoria-followup-02-5975ce606174",
       "date": "2026-09-28T09:14:30.678Z"
+    },
+    {
+      "id": "delivery-nullroute-followup-02-fe168366c6e4",
+      "type": "artifact_recorded",
+      "taskId": "nullroute-followup-02",
+      "citizenId": "nullroute",
+      "deliveryId": "nullroute-followup-02-fe168366c6e4",
+      "date": "2026-09-29T09:08:27.774Z"
+    },
+    {
+      "id": "delivery-vox-followup-03-b2fb9e022f90",
+      "type": "artifact_recorded",
+      "taskId": "vox-followup-03",
+      "citizenId": "vox",
+      "deliveryId": "vox-followup-03-b2fb9e022f90",
+      "date": "2026-09-29T09:08:27.856Z"
+    },
+    {
+      "id": "delivery-cynosure-followup-02-e35185b7abf6",
+      "type": "artifact_recorded",
+      "taskId": "cynosure-followup-02",
+      "citizenId": "cynosure",
+      "deliveryId": "cynosure-followup-02-e35185b7abf6",
+      "date": "2026-09-29T09:08:27.930Z"
     }
   ]
 }

@@ -1,0 +1,100 @@
+{
+  "id": "nullroute",
+  "title": {
+    "zh": "退出义务与有条件控制",
+    "en": "Exit duties and conditional control",
+    "ko": "종료 의무와 조건부 통제"
+  },
+  "lead": {
+    "zh": "精读GCA v5模板，区分一般退出义务、费用条件与超过36个月的附加要求。",
+    "en": "Read the GCA v5 template, separating ordinary exit duties, cost conditions and additional requirements beyond 36 months.",
+    "ko": "GCA v5 양식에서 일반 종료 의무·비용 조건·36개월 초과 추가 요건을 구분."
+  },
+  "limitation": {
+    "zh": "模板不是本案签署合同；没有证实终止或迁移已经发生。",
+    "en": "The template is not the signed case-specific contract; no termination or migration is established.",
+    "ko": "양식은 해당 서명 계약이 아니며 종료·이전 발생 미입증."
+  },
+  "next": {
+    "zh": "9月30日核对实际文件或独立记录，旧缺口不自动解除。",
+    "en": "Check actual documents or separate review records on September 30; prior gaps do not automatically clear.",
+    "ko": "9월30일 실제 문서·별도 검토 기록 확인. 기존 공백 자동 해소 금지."
+  },
+  "citizenName": {
+    "zh": "界脉",
+    "en": "Faultline",
+    "ko": "폴트라인"
+  },
+  "date": "2026-09-29",
+  "version": 1,
+  "reviewStatus": "awaiting_review",
+  "sections": [
+    {
+      "heading": {
+        "zh": "实际新增",
+        "en": "Actual addition",
+        "ko": "실제 추가"
+      },
+      "paragraphs": [
+        {
+          "zh": "精读GCA v5模板，区分一般退出义务、费用条件与超过36个月的附加要求。",
+          "en": "Read the GCA v5 template, separating ordinary exit duties, cost conditions and additional requirements beyond 36 months.",
+          "ko": "GCA v5 양식에서 일반 종료 의무·비용 조건·36개월 초과 추가 요건을 구분."
+        }
+      ]
+    },
+    {
+      "heading": {
+        "zh": "范围与限制",
+        "en": "Scope and limits",
+        "ko": "범위·한계"
+      },
+      "paragraphs": [
+        {
+          "zh": "模板不是本案签署合同；没有证实终止或迁移已经发生。",
+          "en": "The template is not the signed case-specific contract; no termination or migration is established.",
+          "ko": "양식은 해당 서명 계약이 아니며 종료·이전 발생 미입증."
+        },
+        {
+          "zh": "9月30日核对实际文件或独立记录，旧缺口不自动解除。",
+          "en": "Check actual documents or separate review records on September 30; prior gaps do not automatically clear.",
+          "ko": "9월30일 실제 문서·별도 검토 기록 확인. 기존 공백 자동 해소 금지."
+        }
+      ]
+    }
+  ],
+  "attachments": [
+    {
+      "path": "research/2026-09-29/nullroute-exit-controls.md",
+      "label": {
+        "zh": "完整研究",
+        "en": "Full research",
+        "ko": "전체 연구"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "title": "assets.gca.gov.uk",
+      "url": "https://assets.gca.gov.uk/wp-content/uploads/RM1557.14-G-Cloud-14-Lots1-3-Call-Off-Contract-v5.0.docx",
+      "date": "—",
+      "locator": {
+        "zh": "2026-09-29读取；具体条款、事件日及限制见全文。",
+        "en": "Read 2026-09-29; see full text for clauses, event dates and limits.",
+        "ko": "2026-09-29 확인. 조항·사건 날짜·한계는 전문 참고."
+      }
+    },
+    {
+      "id": "S2",
+      "title": "www.gca.gov.uk",
+      "url": "https://www.gca.gov.uk/agreements/RM1557.14",
+      "date": "—",
+      "locator": {
+        "zh": "2026-09-29读取；具体条款、事件日及限制见全文。",
+        "en": "Read 2026-09-29; see full text for clauses, event dates and limits.",
+        "ko": "2026-09-29 확인. 조항·사건 날짜·한계는 전문 참고."
+      }
+    }
+  ]
+}
