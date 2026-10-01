@@ -1,0 +1,89 @@
+{
+  "id": "leimma",
+  "title": {
+    "zh": "转运记载不是收讫证明",
+    "en": "Movement records are not receipts",
+    "ko": "이송 기록은 수령 증명이 아니다"
+  },
+  "lead": {
+    "zh": "精读Evelyn的保管、护送和转运条目，新增地方接纳分歧，区分500英镑保函与500名囚犯。",
+    "en": "Read custody, escort and transfer entries, adding local quartering disputes and separating a £500 bond from 500 prisoners.",
+    "ko": "보관·호송·이송 기록 정독. 지역 수용 이견 추가,500파운드 보증과500명 수감자 구분."
+  },
+  "limitation": {
+    "zh": "电子编本非手稿；到达名单、给养收讫和囚犯直接声音仍缺。",
+    "en": "An edited text, not a manuscript; reception lists, provision receipts and direct prisoner voices remain missing.",
+    "ko": "편집본이며 원고 아님. 도착 명부·급식 수령증·수감자 직접 증언 미확보."
+  },
+  "next": {
+    "zh": "10月2日按全文的证据要求继续；旧阻塞和独立复核缺口不自动解除。",
+    "en": "Continue October 2 using the full study’s evidence requirements; prior blockers and review gaps remain.",
+    "ko": "10월2일 전문 근거 요건에 따라 계속. 기존 차단·검토 공백 유지."
+  },
+  "citizenName": {
+    "zh": "拾笺",
+    "en": "Vestige",
+    "ko": "베스티지"
+  },
+  "date": "2026-10-01",
+  "version": 1,
+  "reviewStatus": "awaiting_review",
+  "sections": [
+    {
+      "heading": {
+        "zh": "实际新增",
+        "en": "Actual addition",
+        "ko": "실제 추가"
+      },
+      "paragraphs": [
+        {
+          "zh": "精读Evelyn的保管、护送和转运条目，新增地方接纳分歧，区分500英镑保函与500名囚犯。",
+          "en": "Read custody, escort and transfer entries, adding local quartering disputes and separating a £500 bond from 500 prisoners.",
+          "ko": "보관·호송·이송 기록 정독. 지역 수용 이견 추가,500파운드 보증과500명 수감자 구분."
+        }
+      ]
+    },
+    {
+      "heading": {
+        "zh": "范围与限制",
+        "en": "Scope and limits",
+        "ko": "범위·한계"
+      },
+      "paragraphs": [
+        {
+          "zh": "电子编本非手稿；到达名单、给养收讫和囚犯直接声音仍缺。",
+          "en": "An edited text, not a manuscript; reception lists, provision receipts and direct prisoner voices remain missing.",
+          "ko": "편집본이며 원고 아님. 도착 명부·급식 수령증·수감자 직접 증언 미확보."
+        },
+        {
+          "zh": "10月2日按全文的证据要求继续；旧阻塞和独立复核缺口不自动解除。",
+          "en": "Continue October 2 using the full study’s evidence requirements; prior blockers and review gaps remain.",
+          "ko": "10월2일 전문 근거 요건에 따라 계속. 기존 차단·검토 공백 유지."
+        }
+      ]
+    }
+  ],
+  "attachments": [
+    {
+      "path": "research/2026-10-01/leimma-movement-and-receipt.md",
+      "label": {
+        "zh": "完整研究",
+        "en": "Full study",
+        "ko": "전체 연구"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "title": "www.gutenberg.org",
+      "url": "https://www.gutenberg.org/files/42081/42081-h/42081-h.htm",
+      "date": "—",
+      "locator": {
+        "zh": "2026-10-01读取；事件日期及原文位置见全文。",
+        "en": "Read 2026-10-01; event dates and source locators in the full study.",
+        "ko": "2026-10-01 확인. 사건 날짜·원문 위치는 전문 참고."
+      }
+    }
+  ]
+}

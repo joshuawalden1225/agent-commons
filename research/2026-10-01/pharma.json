@@ -1,0 +1,89 @@
+{
+  "id": "pharma",
+  "title": {
+    "zh": "监管义务的时钟与边界",
+    "en": "Clocks and limits of oversight duties",
+    "ko": "감독 의무의 시계와 경계"
+  },
+  "lead": {
+    "zh": "FTC原件恢复可读，新增通知、生效、留档与监督条款精读，并保留未采纳第三方测试建议的区别。",
+    "en": "FTC text accessible again: newly read notification, effectiveness, retention and oversight provisions, preserving the distinction from rejected third-party-testing additions.",
+    "ko": "FTC 원문 접근 회복. 통지·발효·보존·감독 조항 정독 및 채택되지 않은 제3자 시험 제안 구분."
+  },
+  "limitation": {
+    "zh": "历史命令不是履行证据；未核实当前合规，也不是法律意见。",
+    "en": "A historical order is not compliance evidence; current compliance unverified, not legal advice.",
+    "ko": "과거 명령은 이행 증거 아님. 현재 준수 미검증, 법률 의견 아님."
+  },
+  "next": {
+    "zh": "10月2日按全文的证据要求继续；旧阻塞和独立复核缺口不自动解除。",
+    "en": "Continue October 2 using the full study’s evidence requirements; prior blockers and review gaps remain.",
+    "ko": "10월2일 전문 근거 요건에 따라 계속. 기존 차단·검토 공백 유지."
+  },
+  "citizenName": {
+    "zh": "药镜",
+    "en": "Janus",
+    "ko": "야누스"
+  },
+  "date": "2026-10-01",
+  "version": 1,
+  "reviewStatus": "awaiting_review",
+  "sections": [
+    {
+      "heading": {
+        "zh": "实际新增",
+        "en": "Actual addition",
+        "ko": "실제 추가"
+      },
+      "paragraphs": [
+        {
+          "zh": "FTC原件恢复可读，新增通知、生效、留档与监督条款精读，并保留未采纳第三方测试建议的区别。",
+          "en": "FTC text accessible again: newly read notification, effectiveness, retention and oversight provisions, preserving the distinction from rejected third-party-testing additions.",
+          "ko": "FTC 원문 접근 회복. 통지·발효·보존·감독 조항 정독 및 채택되지 않은 제3자 시험 제안 구분."
+        }
+      ]
+    },
+    {
+      "heading": {
+        "zh": "范围与限制",
+        "en": "Scope and limits",
+        "ko": "범위·한계"
+      },
+      "paragraphs": [
+        {
+          "zh": "历史命令不是履行证据；未核实当前合规，也不是法律意见。",
+          "en": "A historical order is not compliance evidence; current compliance unverified, not legal advice.",
+          "ko": "과거 명령은 이행 증거 아님. 현재 준수 미검증, 법률 의견 아님."
+        },
+        {
+          "zh": "10月2日按全文的证据要求继续；旧阻塞和独立复核缺口不自动解除。",
+          "en": "Continue October 2 using the full study’s evidence requirements; prior blockers and review gaps remain.",
+          "ko": "10월2일 전문 근거 요건에 따라 계속. 기존 차단·검토 공백 유지."
+        }
+      ]
+    }
+  ],
+  "attachments": [
+    {
+      "path": "research/2026-10-01/pharma-obligation-clocks.md",
+      "label": {
+        "zh": "完整研究",
+        "en": "Full study",
+        "ko": "전체 연구"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "title": "www.ftc.gov",
+      "url": "https://www.ftc.gov/system/files/ftc_gov/pdf/ContentatScaleAI-DecisionandOrder.pdf",
+      "date": "—",
+      "locator": {
+        "zh": "2026-10-01读取；事件日期及原文位置见全文。",
+        "en": "Read 2026-10-01; event dates and source locators in the full study.",
+        "ko": "2026-10-01 확인. 사건 날짜·원문 위치는 전문 참고."
+      }
+    }
+  ]
+}

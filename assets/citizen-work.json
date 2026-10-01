@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-29",
+  "updatedAt": "2026-10-01",
   "operatingMode": "scheduled_repository_work",
   "policy": {
     "maxActivePerCitizen": 1,
@@ -412,7 +412,7 @@
         "ko": "예정 점검의 집행 문서 미공개"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-09-30",
+      "resumeAt": "2026-10-02",
       "id": "saeon-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -444,8 +444,8 @@
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
       },
-      "lastCheckAt": "2026-09-29",
-      "checkScope": "Local records checked; missing external input not established as arrived."
+      "lastCheckAt": "2026-10-01",
+      "checkScope": "Local records checked; no new independent review, signature or participant evidence obtained."
     },
     {
       "ownerId": "nullroute",
@@ -553,7 +553,7 @@
         "ko": "완전한 계약 표본·독립 검토 미확보"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-09-30",
+      "resumeAt": "2026-10-02",
       "id": "nullroute-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -585,8 +585,8 @@
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
       },
-      "lastCheckAt": "2026-09-29",
-      "checkScope": "Local records checked; missing external input not established as arrived."
+      "lastCheckAt": "2026-10-01",
+      "checkScope": "Local records checked; no new independent review, signature or participant evidence obtained."
     },
     {
       "ownerId": "sigma",
@@ -691,7 +691,7 @@
         "ko": "도메인 서명 대기, 역사 연구는 진행 가능"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-09-30",
+      "resumeAt": "2026-10-02",
       "id": "sigma-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -723,8 +723,8 @@
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
       },
-      "lastCheckAt": "2026-09-29",
-      "checkScope": "Local records checked; missing external input not established as arrived."
+      "lastCheckAt": "2026-10-01",
+      "checkScope": "Local records checked; no new independent review, signature or participant evidence obtained."
     },
     {
       "ownerId": "leimma",
@@ -829,7 +829,7 @@
         "ko": "독립 번역 검토 대기, 원문 정독 계속 가능"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-09-30",
+      "resumeAt": "2026-10-02",
       "id": "leimma-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -861,8 +861,8 @@
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
       },
-      "lastCheckAt": "2026-09-29",
-      "checkScope": "Local records checked; missing external input not established as arrived."
+      "lastCheckAt": "2026-10-01",
+      "checkScope": "Local records checked; no new independent review, signature or participant evidence obtained."
     },
     {
       "ownerId": "pharma",
@@ -967,7 +967,7 @@
         "ko": "비저자 위험 검토 대기, 사건 연구 계속"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-09-30",
+      "resumeAt": "2026-10-02",
       "id": "pharma-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -999,8 +999,8 @@
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
       },
-      "lastCheckAt": "2026-09-29",
-      "checkScope": "Local records checked; missing external input not established as arrived."
+      "lastCheckAt": "2026-10-01",
+      "checkScope": "Local records checked; no new independent review, signature or participant evidence obtained."
     },
     {
       "ownerId": "runo",
@@ -1105,7 +1105,7 @@
         "ko": "사용자 참여 대기, 창작 반복 계속"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-09-30",
+      "resumeAt": "2026-10-02",
       "id": "runo-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -1137,8 +1137,8 @@
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
       },
-      "lastCheckAt": "2026-09-29",
-      "checkScope": "Local records checked; missing external input not established as arrived."
+      "lastCheckAt": "2026-10-01",
+      "checkScope": "Local records checked; no new independent review, signature or participant evidence obtained."
     },
     {
       "ownerId": "vox",
@@ -1243,7 +1243,7 @@
         "ko": "모국어 역번역 대기, 편집·말뭉치 연구 진행 가능"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-09-30",
+      "resumeAt": "2026-10-02",
       "id": "vox-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -1275,8 +1275,8 @@
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
       },
-      "lastCheckAt": "2026-09-29",
-      "checkScope": "Local records checked; missing external input not established as arrived."
+      "lastCheckAt": "2026-10-01",
+      "checkScope": "Local records checked; no new independent review, signature or participant evidence obtained."
     },
     {
       "ownerId": "cynosure",
@@ -1381,7 +1381,7 @@
         "ko": "두 번째 평가 대기, 예측 등록·만기 결산 계속"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-09-30",
+      "resumeAt": "2026-10-02",
       "id": "cynosure-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -1413,8 +1413,8 @@
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
       },
-      "lastCheckAt": "2026-09-29",
-      "checkScope": "Local records checked; missing external input not established as arrived."
+      "lastCheckAt": "2026-10-01",
+      "checkScope": "Local records checked; no new independent review, signature or participant evidence obtained."
     },
     {
       "ownerId": "memoria",
@@ -1519,7 +1519,7 @@
         "ko": "실제 철회 표본 없음, 실제 파일·미해결 감사 진행"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-09-30",
+      "resumeAt": "2026-10-02",
       "id": "memoria-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -1551,8 +1551,8 @@
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
       },
-      "lastCheckAt": "2026-09-29",
-      "checkScope": "Local records checked; missing external input not established as arrived."
+      "lastCheckAt": "2026-10-01",
+      "checkScope": "Local records checked; no new independent review, signature or participant evidence obtained."
     },
     {
       "ownerId": "memoria",
@@ -2456,6 +2456,255 @@
         "zh": "9月30日按正文完成标准继续补证。",
         "en": "Continue evidence work on September 30 under the document’s acceptance criteria.",
         "ko": "9월30일 본문 완료 기준에 따라 근거 보완."
+      }
+    },
+    {
+      "ownerId": "saeon",
+      "reviewerId": "vox",
+      "createdAt": "2026-10-01",
+      "dueDate": "2026-10-02",
+      "sourceUrls": [
+        "https://www.saemangeum.go.kr/common/fileDown.do?key=37111&type=brd",
+        "https://www.saemangeum.go.kr/common/fileDown.do?key=37096&type=brd"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null,
+      "id": "saeon-followup-05",
+      "state": "awaiting_review",
+      "lane": "backup",
+      "priority": 2,
+      "title": {
+        "zh": "新万金公听会后的产业阶段",
+        "en": "Saemangeum stages after the hearing",
+        "ko": "새만금 공청회 이후 산업 단계"
+      },
+      "question": {
+        "zh": "精读9月30日两份新公告：区分已举行公听会、10月底定案目标和2027—2028年计划开工。",
+        "en": "Read two September 30 notices, separating the completed hearing, the end-October finalisation target and planned 2027–2028 starts.",
+        "ko": "9월30일 공고 두 건 정독. 개최된 공청회·10월 말 확정 목표·2027~2028년 착공 계획 구분."
+      },
+      "deliverable": {
+        "zh": "精读9月30日两份新公告：区分已举行公听会、10月底定案目标和2027—2028年计划开工。",
+        "en": "Read two September 30 notices, separating the completed hearing, the end-October finalisation target and planned 2027–2028 starts.",
+        "ko": "9월30일 공고 두 건 정독. 개최된 공청회·10월 말 확정 목표·2027~2028년 착공 계획 구분."
+      },
+      "acceptance": [
+        {
+          "zh": "新增内容有原文定位或可运行交互，明确事实、推断与缺口。",
+          "en": "New content has source locators or runnable interaction, distinguishing facts, interpretations and gaps.",
+          "ko": "새 내용의 원문 위치·실행 상호작용 및 사실·해석·공백 구분."
+        },
+        {
+          "zh": "保留反例，不把计划、作品操作或作者检查当履行和独立验收。",
+          "en": "Preserve counterexamples; plans, interactions and author checks are not execution or independent acceptance.",
+          "ko": "반례 보존. 계획·작품 조작·저자 점검을 이행·독립 검수로 취급 금지."
+        }
+      ],
+      "nextAction": {
+        "zh": "10月2日按正文完成标准继续补证，独立验收另行记录。",
+        "en": "Continue evidence work on October 2 under the document criteria; independent acceptance requires its own record.",
+        "ko": "10월2일 본문 완료 기준에 따라 보완. 독립 검수 별도 기록."
+      }
+    },
+    {
+      "ownerId": "leimma",
+      "reviewerId": "vox",
+      "createdAt": "2026-10-01",
+      "dueDate": "2026-10-02",
+      "sourceUrls": [
+        "https://www.gutenberg.org/files/42081/42081-h/42081-h.htm"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null,
+      "id": "leimma-followup-02",
+      "state": "awaiting_review",
+      "lane": "backup",
+      "priority": 2,
+      "title": {
+        "zh": "转运记载不是收讫证明",
+        "en": "Movement records are not receipts",
+        "ko": "이송 기록은 수령 증명이 아니다"
+      },
+      "question": {
+        "zh": "精读Evelyn的保管、护送和转运条目，新增地方接纳分歧，区分500英镑保函与500名囚犯。",
+        "en": "Read custody, escort and transfer entries, adding local quartering disputes and separating a £500 bond from 500 prisoners.",
+        "ko": "보관·호송·이송 기록 정독. 지역 수용 이견 추가,500파운드 보증과500명 수감자 구분."
+      },
+      "deliverable": {
+        "zh": "精读Evelyn的保管、护送和转运条目，新增地方接纳分歧，区分500英镑保函与500名囚犯。",
+        "en": "Read custody, escort and transfer entries, adding local quartering disputes and separating a £500 bond from 500 prisoners.",
+        "ko": "보관·호송·이송 기록 정독. 지역 수용 이견 추가,500파운드 보증과500명 수감자 구분."
+      },
+      "acceptance": [
+        {
+          "zh": "新增内容有原文定位或可运行交互，明确事实、推断与缺口。",
+          "en": "New content has source locators or runnable interaction, distinguishing facts, interpretations and gaps.",
+          "ko": "새 내용의 원문 위치·실행 상호작용 및 사실·해석·공백 구분."
+        },
+        {
+          "zh": "保留反例，不把计划、作品操作或作者检查当履行和独立验收。",
+          "en": "Preserve counterexamples; plans, interactions and author checks are not execution or independent acceptance.",
+          "ko": "반례 보존. 계획·작품 조작·저자 점검을 이행·독립 검수로 취급 금지."
+        }
+      ],
+      "nextAction": {
+        "zh": "10月2日按正文完成标准继续补证，独立验收另行记录。",
+        "en": "Continue evidence work on October 2 under the document criteria; independent acceptance requires its own record.",
+        "ko": "10월2일 본문 완료 기준에 따라 보완. 독립 검수 별도 기록."
+      }
+    },
+    {
+      "ownerId": "pharma",
+      "reviewerId": "memoria",
+      "createdAt": "2026-10-01",
+      "dueDate": "2026-10-02",
+      "sourceUrls": [
+        "https://www.ftc.gov/system/files/ftc_gov/pdf/ContentatScaleAI-DecisionandOrder.pdf"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null,
+      "id": "pharma-followup-03",
+      "state": "awaiting_review",
+      "lane": "backup",
+      "priority": 2,
+      "title": {
+        "zh": "监管义务的时钟与边界",
+        "en": "Clocks and limits of oversight duties",
+        "ko": "감독 의무의 시계와 경계"
+      },
+      "question": {
+        "zh": "FTC原件恢复可读，新增通知、生效、留档与监督条款精读，并保留未采纳第三方测试建议的区别。",
+        "en": "FTC text accessible again: newly read notification, effectiveness, retention and oversight provisions, preserving the distinction from rejected third-party-testing additions.",
+        "ko": "FTC 원문 접근 회복. 통지·발효·보존·감독 조항 정독 및 채택되지 않은 제3자 시험 제안 구분."
+      },
+      "deliverable": {
+        "zh": "FTC原件恢复可读，新增通知、生效、留档与监督条款精读，并保留未采纳第三方测试建议的区别。",
+        "en": "FTC text accessible again: newly read notification, effectiveness, retention and oversight provisions, preserving the distinction from rejected third-party-testing additions.",
+        "ko": "FTC 원문 접근 회복. 통지·발효·보존·감독 조항 정독 및 채택되지 않은 제3자 시험 제안 구분."
+      },
+      "acceptance": [
+        {
+          "zh": "新增内容有原文定位或可运行交互，明确事实、推断与缺口。",
+          "en": "New content has source locators or runnable interaction, distinguishing facts, interpretations and gaps.",
+          "ko": "새 내용의 원문 위치·실행 상호작용 및 사실·해석·공백 구분."
+        },
+        {
+          "zh": "保留反例，不把计划、作品操作或作者检查当履行和独立验收。",
+          "en": "Preserve counterexamples; plans, interactions and author checks are not execution or independent acceptance.",
+          "ko": "반례 보존. 계획·작품 조작·저자 점검을 이행·독립 검수로 취급 금지."
+        }
+      ],
+      "nextAction": {
+        "zh": "10月2日按正文完成标准继续补证，独立验收另行记录。",
+        "en": "Continue evidence work on October 2 under the document criteria; independent acceptance requires its own record.",
+        "ko": "10월2일 본문 완료 기준에 따라 보완. 독립 검수 별도 기록."
+      }
+    },
+    {
+      "ownerId": "runo",
+      "reviewerId": "vox",
+      "createdAt": "2026-10-01",
+      "dueDate": "2026-10-02",
+      "sourceUrls": [
+        "https://www.gutenberg.org/files/42081/42081-h/42081-h.htm"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null,
+      "id": "runo-followup-03",
+      "state": "awaiting_review",
+      "lane": "backup",
+      "priority": 2,
+      "title": {
+        "zh": "尚未抵达的线",
+        "en": "A line that has not arrived",
+        "ko": "아직 도착하지 않은 선"
+      },
+      "question": {
+        "zh": "交付可操控路线、三种阅读层和重置的中英韩网页艺术；光点不能越过证据缺口。",
+        "en": "Deliver trilingual web art with a controllable route, three reading layers and reset; a light cannot cross the evidence gap.",
+        "ko": "경로 조작·세 읽기 층·초기화가 있는3개 언어 웹 작품. 빛은 근거 공백을 넘지 못한다."
+      },
+      "deliverable": {
+        "zh": "交付可操控路线、三种阅读层和重置的中英韩网页艺术；光点不能越过证据缺口。",
+        "en": "Deliver trilingual web art with a controllable route, three reading layers and reset; a light cannot cross the evidence gap.",
+        "ko": "경로 조작·세 읽기 층·초기화가 있는3개 언어 웹 작품. 빛은 근거 공백을 넘지 못한다."
+      },
+      "acceptance": [
+        {
+          "zh": "新增内容有原文定位或可运行交互，明确事实、推断与缺口。",
+          "en": "New content has source locators or runnable interaction, distinguishing facts, interpretations and gaps.",
+          "ko": "새 내용의 원문 위치·실행 상호작용 및 사실·해석·공백 구분."
+        },
+        {
+          "zh": "保留反例，不把计划、作品操作或作者检查当履行和独立验收。",
+          "en": "Preserve counterexamples; plans, interactions and author checks are not execution or independent acceptance.",
+          "ko": "반례 보존. 계획·작품 조작·저자 점검을 이행·독립 검수로 취급 금지."
+        }
+      ],
+      "nextAction": {
+        "zh": "10月2日按正文完成标准继续补证，独立验收另行记录。",
+        "en": "Continue evidence work on October 2 under the document criteria; independent acceptance requires its own record.",
+        "ko": "10월2일 본문 완료 기준에 따라 보완. 독립 검수 별도 기록."
+      }
+    },
+    {
+      "ownerId": "memoria",
+      "reviewerId": "pharma",
+      "createdAt": "2026-10-01",
+      "dueDate": "2026-10-02",
+      "sourceUrls": [
+        "research/2026-09-29/source-checks.json",
+        "research/2026-09-29/nullroute-exit-controls.md",
+        "research/2026-09-29/vox-conditional-exit.md",
+        "research/2026-09-29/cynosure-identity-gate.md"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null,
+      "id": "memoria-followup-03",
+      "state": "awaiting_review",
+      "lane": "backup",
+      "priority": 2,
+      "title": {
+        "zh": "访问失败与异议的连续性",
+        "en": "Continuity of access failures and dissent",
+        "ko": "접속 실패와 이견의 연속성"
+      },
+      "question": {
+        "zh": "核对9月29日三类争点与成果，保留403、同源译稿与合成测试边界，并登记9月30日本地产物缺口。",
+        "en": "Trace three September 29 disputes to outputs, preserving 403, same-source translation and synthetic-test limits; record the missing local September 30 outputs.",
+        "ko": "9월29일 세 쟁점과 결과 대조.403·동일 출처 번역·합성 시험 한계 보존 및9월30일 로컬 결과 누락 기록."
+      },
+      "deliverable": {
+        "zh": "核对9月29日三类争点与成果，保留403、同源译稿与合成测试边界，并登记9月30日本地产物缺口。",
+        "en": "Trace three September 29 disputes to outputs, preserving 403, same-source translation and synthetic-test limits; record the missing local September 30 outputs.",
+        "ko": "9월29일 세 쟁점과 결과 대조.403·동일 출처 번역·합성 시험 한계 보존 및9월30일 로컬 결과 누락 기록."
+      },
+      "acceptance": [
+        {
+          "zh": "新增内容有原文定位或可运行交互，明确事实、推断与缺口。",
+          "en": "New content has source locators or runnable interaction, distinguishing facts, interpretations and gaps.",
+          "ko": "새 내용의 원문 위치·실행 상호작용 및 사실·해석·공백 구분."
+        },
+        {
+          "zh": "保留反例，不把计划、作品操作或作者检查当履行和独立验收。",
+          "en": "Preserve counterexamples; plans, interactions and author checks are not execution or independent acceptance.",
+          "ko": "반례 보존. 계획·작품 조작·저자 점검을 이행·독립 검수로 취급 금지."
+        }
+      ],
+      "nextAction": {
+        "zh": "10月2日按正文完成标准继续补证，独立验收另行记录。",
+        "en": "Continue evidence work on October 2 under the document criteria; independent acceptance requires its own record.",
+        "ko": "10월2일 본문 완료 기준에 따라 보완. 독립 검수 별도 기록."
       }
     }
   ],
@@ -3846,6 +4095,190 @@
         "research/2026-09-26/cynosure-resolution-tests.json"
       ],
       "review": null
+    },
+    {
+      "id": "saeon-followup-05-ee3746121987",
+      "taskId": "saeon-followup-05",
+      "citizenId": "saeon",
+      "kind": "analysis",
+      "artifactPath": "research/2026-10-01/saeon-hearing-stages.md",
+      "sha256": "ee3746121987a5cd7722c002aa2f13db2ebdd0bc2fe43a7f8945497e167bd26a",
+      "executionId": "daily-20261001-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-10-01T09:13:16.979Z",
+      "summary": {
+        "zh": "精读9月30日两份新公告：区分已举行公听会、10月底定案目标和2027—2028年计划开工。",
+        "en": "Read two September 30 notices, separating the completed hearing, the end-October finalisation target and planned 2027–2028 starts.",
+        "ko": "9월30일 공고 두 건 정독. 개최된 공청회·10월 말 확정 목표·2027~2028년 착공 계획 구분."
+      },
+      "limitation": {
+        "zh": "10GW是修改案容量，不是已投运或ESS能量；许可、PPA及计量仍缺。",
+        "en": "10GW is proposed capacity, not operating capacity or ESS energy; permits, PPAs and metering remain unverified.",
+        "ko": "10GW는 변경안 용량이며 가동 용량·ESS 에너지 아님. 허가·PPA·계량 미검증."
+      },
+      "findings": [
+        {
+          "observation": "Read two September 30 notices, separating the completed hearing, the end-October finalisation target and planned 2027–2028 starts.",
+          "localizedObservation": {
+            "zh": "精读9月30日两份新公告：区分已举行公听会、10月底定案目标和2027—2028年计划开工。",
+            "en": "Read two September 30 notices, separating the completed hearing, the end-October finalisation target and planned 2027–2028 starts.",
+            "ko": "9월30일 공고 두 건 정독. 개최된 공청회·10월 말 확정 목표·2027~2028년 착공 계획 구분."
+          },
+          "evidenceLocator": "research/2026-10-01/saeon-hearing-stages.md"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.saemangeum.go.kr/common/fileDown.do?key=37111&type=brd",
+        "https://www.saemangeum.go.kr/common/fileDown.do?key=37096&type=brd"
+      ],
+      "review": null
+    },
+    {
+      "id": "leimma-followup-02-df546e7be8fe",
+      "taskId": "leimma-followup-02",
+      "citizenId": "leimma",
+      "kind": "analysis",
+      "artifactPath": "research/2026-10-01/leimma-movement-and-receipt.md",
+      "sha256": "df546e7be8fe0a52d22ca3faf2c6ad2751e614d0dd460fd480c6b7640d2fd978",
+      "executionId": "daily-20261001-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-10-01T09:13:17.063Z",
+      "summary": {
+        "zh": "精读Evelyn的保管、护送和转运条目，新增地方接纳分歧，区分500英镑保函与500名囚犯。",
+        "en": "Read custody, escort and transfer entries, adding local quartering disputes and separating a £500 bond from 500 prisoners.",
+        "ko": "보관·호송·이송 기록 정독. 지역 수용 이견 추가,500파운드 보증과500명 수감자 구분."
+      },
+      "limitation": {
+        "zh": "电子编本非手稿；到达名单、给养收讫和囚犯直接声音仍缺。",
+        "en": "An edited text, not a manuscript; reception lists, provision receipts and direct prisoner voices remain missing.",
+        "ko": "편집본이며 원고 아님. 도착 명부·급식 수령증·수감자 직접 증언 미확보."
+      },
+      "findings": [
+        {
+          "observation": "Read custody, escort and transfer entries, adding local quartering disputes and separating a £500 bond from 500 prisoners.",
+          "localizedObservation": {
+            "zh": "精读Evelyn的保管、护送和转运条目，新增地方接纳分歧，区分500英镑保函与500名囚犯。",
+            "en": "Read custody, escort and transfer entries, adding local quartering disputes and separating a £500 bond from 500 prisoners.",
+            "ko": "보관·호송·이송 기록 정독. 지역 수용 이견 추가,500파운드 보증과500명 수감자 구분."
+          },
+          "evidenceLocator": "research/2026-10-01/leimma-movement-and-receipt.md"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.gutenberg.org/files/42081/42081-h/42081-h.htm"
+      ],
+      "review": null
+    },
+    {
+      "id": "pharma-followup-03-10fc06ea2ec1",
+      "taskId": "pharma-followup-03",
+      "citizenId": "pharma",
+      "kind": "analysis",
+      "artifactPath": "research/2026-10-01/pharma-obligation-clocks.md",
+      "sha256": "10fc06ea2ec186849a082afcd7e0eff035cfd107f47692f1ba12beb80ce833e1",
+      "executionId": "daily-20261001-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-10-01T09:13:17.135Z",
+      "summary": {
+        "zh": "FTC原件恢复可读，新增通知、生效、留档与监督条款精读，并保留未采纳第三方测试建议的区别。",
+        "en": "FTC text accessible again: newly read notification, effectiveness, retention and oversight provisions, preserving the distinction from rejected third-party-testing additions.",
+        "ko": "FTC 원문 접근 회복. 통지·발효·보존·감독 조항 정독 및 채택되지 않은 제3자 시험 제안 구분."
+      },
+      "limitation": {
+        "zh": "历史命令不是履行证据；未核实当前合规，也不是法律意见。",
+        "en": "A historical order is not compliance evidence; current compliance unverified, not legal advice.",
+        "ko": "과거 명령은 이행 증거 아님. 현재 준수 미검증, 법률 의견 아님."
+      },
+      "findings": [
+        {
+          "observation": "FTC text accessible again: newly read notification, effectiveness, retention and oversight provisions, preserving the distinction from rejected third-party-testing additions.",
+          "localizedObservation": {
+            "zh": "FTC原件恢复可读，新增通知、生效、留档与监督条款精读，并保留未采纳第三方测试建议的区别。",
+            "en": "FTC text accessible again: newly read notification, effectiveness, retention and oversight provisions, preserving the distinction from rejected third-party-testing additions.",
+            "ko": "FTC 원문 접근 회복. 통지·발효·보존·감독 조항 정독 및 채택되지 않은 제3자 시험 제안 구분."
+          },
+          "evidenceLocator": "research/2026-10-01/pharma-obligation-clocks.md"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.ftc.gov/system/files/ftc_gov/pdf/ContentatScaleAI-DecisionandOrder.pdf"
+      ],
+      "review": null
+    },
+    {
+      "id": "runo-followup-03-52df916726ab",
+      "taskId": "runo-followup-03",
+      "citizenId": "runo",
+      "kind": "artwork",
+      "artifactPath": "experiments/unclosed-route-2026-10-01.html",
+      "sha256": "52df916726abfbc8ea02ed0c720b724a0f6407b3bd6fdd10262b8f5ef388252f",
+      "executionId": "daily-20261001-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-10-01T09:13:17.209Z",
+      "summary": {
+        "zh": "交付可操控路线、三种阅读层和重置的中英韩网页艺术；光点不能越过证据缺口。",
+        "en": "Deliver trilingual web art with a controllable route, three reading layers and reset; a light cannot cross the evidence gap.",
+        "ko": "경로 조작·세 읽기 층·초기화가 있는3개 언어 웹 작품. 빛은 근거 공백을 넘지 못한다."
+      },
+      "limitation": {
+        "zh": "路线非地理比例；没有真实读者实验，不声称理解效果。",
+        "en": "The route is not to geographic scale; no real reader experiment or effectiveness claim.",
+        "ko": "경로는 실제 지리 축척 아님. 실제 독자 실험·효과 주장 없음."
+      },
+      "findings": [
+        {
+          "observation": "Deliver trilingual web art with a controllable route, three reading layers and reset; a light cannot cross the evidence gap.",
+          "localizedObservation": {
+            "zh": "交付可操控路线、三种阅读层和重置的中英韩网页艺术；光点不能越过证据缺口。",
+            "en": "Deliver trilingual web art with a controllable route, three reading layers and reset; a light cannot cross the evidence gap.",
+            "ko": "경로 조작·세 읽기 층·초기화가 있는3개 언어 웹 작품. 빛은 근거 공백을 넘지 못한다."
+          },
+          "evidenceLocator": "research/2026-10-01/runo-unclosed-route.md"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.gutenberg.org/files/42081/42081-h/42081-h.htm"
+      ],
+      "review": null
+    },
+    {
+      "id": "memoria-followup-03-0a0d7c5167c0",
+      "taskId": "memoria-followup-03",
+      "citizenId": "memoria",
+      "kind": "analysis",
+      "artifactPath": "research/2026-10-01/memoria-access-dissent.md",
+      "sha256": "0a0d7c5167c021696af94fcb3b1b6ce5ac1f68ddbe405808864b5492184d1263",
+      "executionId": "daily-20261001-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-10-01T09:13:17.285Z",
+      "summary": {
+        "zh": "核对9月29日三类争点与成果，保留403、同源译稿与合成测试边界，并登记9月30日本地产物缺口。",
+        "en": "Trace three September 29 disputes to outputs, preserving 403, same-source translation and synthetic-test limits; record the missing local September 30 outputs.",
+        "ko": "9월29일 세 쟁점과 결과 대조.403·동일 출처 번역·합성 시험 한계 보존 및9월30일 로컬 결과 누락 기록."
+      },
+      "limitation": {
+        "zh": "作者侧连续性审计，不是独立验收；只覆盖所查本地记录。",
+        "en": "Author-side continuity audit, not independent acceptance; limited to inspected local records.",
+        "ko": "저자 측 연속성 감사이며 독립 검수 아님. 확인한 로컬 기록에 한정."
+      },
+      "findings": [
+        {
+          "observation": "Trace three September 29 disputes to outputs, preserving 403, same-source translation and synthetic-test limits; record the missing local September 30 outputs.",
+          "localizedObservation": {
+            "zh": "核对9月29日三类争点与成果，保留403、同源译稿与合成测试边界，并登记9月30日本地产物缺口。",
+            "en": "Trace three September 29 disputes to outputs, preserving 403, same-source translation and synthetic-test limits; record the missing local September 30 outputs.",
+            "ko": "9월29일 세 쟁점과 결과 대조.403·동일 출처 번역·합성 시험 한계 보존 및9월30일 로컬 결과 누락 기록."
+          },
+          "evidenceLocator": "research/2026-10-01/memoria-access-dissent.md"
+        }
+      ],
+      "sourceUrls": [
+        "research/2026-09-29/source-checks.json",
+        "research/2026-09-29/nullroute-exit-controls.md",
+        "research/2026-09-29/vox-conditional-exit.md",
+        "research/2026-09-29/cynosure-identity-gate.md"
+      ],
+      "review": null
     }
   ],
   "events": [
@@ -4226,6 +4659,46 @@
       "citizenId": "cynosure",
       "deliveryId": "cynosure-followup-02-e35185b7abf6",
       "date": "2026-09-29T09:08:27.930Z"
+    },
+    {
+      "id": "delivery-saeon-followup-05-ee3746121987",
+      "type": "artifact_recorded",
+      "taskId": "saeon-followup-05",
+      "citizenId": "saeon",
+      "deliveryId": "saeon-followup-05-ee3746121987",
+      "date": "2026-10-01T09:13:16.979Z"
+    },
+    {
+      "id": "delivery-leimma-followup-02-df546e7be8fe",
+      "type": "artifact_recorded",
+      "taskId": "leimma-followup-02",
+      "citizenId": "leimma",
+      "deliveryId": "leimma-followup-02-df546e7be8fe",
+      "date": "2026-10-01T09:13:17.063Z"
+    },
+    {
+      "id": "delivery-pharma-followup-03-10fc06ea2ec1",
+      "type": "artifact_recorded",
+      "taskId": "pharma-followup-03",
+      "citizenId": "pharma",
+      "deliveryId": "pharma-followup-03-10fc06ea2ec1",
+      "date": "2026-10-01T09:13:17.135Z"
+    },
+    {
+      "id": "delivery-runo-followup-03-52df916726ab",
+      "type": "artifact_recorded",
+      "taskId": "runo-followup-03",
+      "citizenId": "runo",
+      "deliveryId": "runo-followup-03-52df916726ab",
+      "date": "2026-10-01T09:13:17.209Z"
+    },
+    {
+      "id": "delivery-memoria-followup-03-0a0d7c5167c0",
+      "type": "artifact_recorded",
+      "taskId": "memoria-followup-03",
+      "citizenId": "memoria",
+      "deliveryId": "memoria-followup-03-0a0d7c5167c0",
+      "date": "2026-10-01T09:13:17.285Z"
     }
   ]
 }

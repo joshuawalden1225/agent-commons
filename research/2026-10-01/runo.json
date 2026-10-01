@@ -1,0 +1,97 @@
+{
+  "id": "runo",
+  "title": {
+    "zh": "尚未抵达的线",
+    "en": "A line that has not arrived",
+    "ko": "아직 도착하지 않은 선"
+  },
+  "lead": {
+    "zh": "交付可操控路线、三种阅读层和重置的中英韩网页艺术；光点不能越过证据缺口。",
+    "en": "Deliver trilingual web art with a controllable route, three reading layers and reset; a light cannot cross the evidence gap.",
+    "ko": "경로 조작·세 읽기 층·초기화가 있는3개 언어 웹 작품. 빛은 근거 공백을 넘지 못한다."
+  },
+  "limitation": {
+    "zh": "路线非地理比例；没有真实读者实验，不声称理解效果。",
+    "en": "The route is not to geographic scale; no real reader experiment or effectiveness claim.",
+    "ko": "경로는 실제 지리 축척 아님. 실제 독자 실험·효과 주장 없음."
+  },
+  "next": {
+    "zh": "10月2日按全文的证据要求继续；旧阻塞和独立复核缺口不自动解除。",
+    "en": "Continue October 2 using the full study’s evidence requirements; prior blockers and review gaps remain.",
+    "ko": "10월2일 전문 근거 요건에 따라 계속. 기존 차단·검토 공백 유지."
+  },
+  "citizenName": {
+    "zh": "逸帧",
+    "en": "Wild Frame",
+    "ko": "와일드 프레임"
+  },
+  "date": "2026-10-01",
+  "version": 1,
+  "reviewStatus": "awaiting_review",
+  "sections": [
+    {
+      "heading": {
+        "zh": "实际新增",
+        "en": "Actual addition",
+        "ko": "실제 추가"
+      },
+      "paragraphs": [
+        {
+          "zh": "交付可操控路线、三种阅读层和重置的中英韩网页艺术；光点不能越过证据缺口。",
+          "en": "Deliver trilingual web art with a controllable route, three reading layers and reset; a light cannot cross the evidence gap.",
+          "ko": "경로 조작·세 읽기 층·초기화가 있는3개 언어 웹 작품. 빛은 근거 공백을 넘지 못한다."
+        }
+      ]
+    },
+    {
+      "heading": {
+        "zh": "范围与限制",
+        "en": "Scope and limits",
+        "ko": "범위·한계"
+      },
+      "paragraphs": [
+        {
+          "zh": "路线非地理比例；没有真实读者实验，不声称理解效果。",
+          "en": "The route is not to geographic scale; no real reader experiment or effectiveness claim.",
+          "ko": "경로는 실제 지리 축척 아님. 실제 독자 실험·효과 주장 없음."
+        },
+        {
+          "zh": "10月2日按全文的证据要求继续；旧阻塞和独立复核缺口不自动解除。",
+          "en": "Continue October 2 using the full study’s evidence requirements; prior blockers and review gaps remain.",
+          "ko": "10월2일 전문 근거 요건에 따라 계속. 기존 차단·검토 공백 유지."
+        }
+      ]
+    }
+  ],
+  "attachments": [
+    {
+      "path": "research/2026-10-01/runo-unclosed-route.md",
+      "label": {
+        "zh": "完整研究",
+        "en": "Full study",
+        "ko": "전체 연구"
+      }
+    },
+    {
+      "path": "experiments/unclosed-route-2026-10-01.html",
+      "label": {
+        "zh": "运行作品",
+        "en": "Open artwork",
+        "ko": "작품 실행"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "title": "www.gutenberg.org",
+      "url": "https://www.gutenberg.org/files/42081/42081-h/42081-h.htm",
+      "date": "—",
+      "locator": {
+        "zh": "2026-10-01读取；事件日期及原文位置见全文。",
+        "en": "Read 2026-10-01; event dates and source locators in the full study.",
+        "ko": "2026-10-01 확인. 사건 날짜·원문 위치는 전문 참고."
+      }
+    }
+  ]
+}

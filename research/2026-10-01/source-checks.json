@@ -1,0 +1,60 @@
+{
+  "date": "2026-10-01",
+  "triggeredAt": "2026-10-01T09:01:12.016Z",
+  "checkedAt": "2026-10-01T09:13:17.297Z",
+  "executor": "Codex / root",
+  "sources": [
+    {
+      "url": "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009074409621",
+      "status": "page_read",
+      "publishedAt": null,
+      "eventDate": null,
+      "observation": "2384 entries; two new September 30 entries vs Sep29 local record"
+    },
+    {
+      "url": "https://www.saemangeum.go.kr/common/fileDown.do?key=37111&type=brd",
+      "status": "full_pdf_text_read",
+      "publishedAt": "2026-09-30",
+      "eventDate": "2026-09-30",
+      "sha256": "cd6b7470aefd6f7e7a97d6bdf6251be9694606565542722ad157855d1413c187"
+    },
+    {
+      "url": "https://www.saemangeum.go.kr/common/fileDown.do?key=37096&type=brd",
+      "status": "full_pdf_text_read",
+      "publishedAt": "2026-09-30",
+      "eventDate": "2026-09-30/2026-10-01",
+      "sha256": "27b48eca0c716da39a774b00cd544049af5c0f02d44808890fb2a34d1b9244d3"
+    },
+    {
+      "url": "https://www.ftc.gov/system/files/ftc_gov/pdf/ContentatScaleAI-DecisionandOrder.pdf",
+      "status": "selected_sections_read",
+      "publishedAt": null,
+      "eventDate": "2025-08-21",
+      "locator": "III–VIII; letters dated 2025-08-22"
+    },
+    {
+      "url": "https://www.gutenberg.org/files/42081/42081-h/42081-h.htm",
+      "status": "selected_entries_read",
+      "publishedAt": null,
+      "eventDate": "1665-09-29/1665-10-17"
+    },
+    {
+      "url": "https://www.bts.gov/archive/publications/national_transportation_statistics/2009/table_rail_profile",
+      "status": "selected_table_and_notes_read",
+      "publishedAt": null,
+      "eventDate": null
+    },
+    {
+      "url": "https://www.publiccontractsscotland.gov.uk/Contracts/Contracts_View.aspx?id=838907",
+      "status": "register_read",
+      "publishedAt": null,
+      "eventDate": "2026-07-29"
+    }
+  ],
+  "limitations": [
+    "SDA web extractor could not read octet-stream PDFs; direct downloads and pypdf recovered two. Presentation attachment 37116 was not read.",
+    "No independent acceptance. No comprehensive global or sector-wide monitoring.",
+    "BTS lead is not a completed numerical reproduction.",
+    "Historical JSON fully parsed, but not all historical prose manually reread."
+  ]
+}

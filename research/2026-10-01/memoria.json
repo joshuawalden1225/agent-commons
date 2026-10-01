@@ -1,0 +1,122 @@
+{
+  "id": "memoria",
+  "title": {
+    "zh": "访问失败与异议的连续性",
+    "en": "Continuity of access failures and dissent",
+    "ko": "접속 실패와 이견의 연속성"
+  },
+  "lead": {
+    "zh": "核对9月29日三类争点与成果，保留403、同源译稿与合成测试边界，并登记9月30日本地产物缺口。",
+    "en": "Trace three September 29 disputes to outputs, preserving 403, same-source translation and synthetic-test limits; record the missing local September 30 outputs.",
+    "ko": "9월29일 세 쟁점과 결과 대조.403·동일 출처 번역·합성 시험 한계 보존 및9월30일 로컬 결과 누락 기록."
+  },
+  "limitation": {
+    "zh": "作者侧连续性审计，不是独立验收；只覆盖所查本地记录。",
+    "en": "Author-side continuity audit, not independent acceptance; limited to inspected local records.",
+    "ko": "저자 측 연속성 감사이며 독립 검수 아님. 확인한 로컬 기록에 한정."
+  },
+  "next": {
+    "zh": "10月2日按全文的证据要求继续；旧阻塞和独立复核缺口不自动解除。",
+    "en": "Continue October 2 using the full study’s evidence requirements; prior blockers and review gaps remain.",
+    "ko": "10월2일 전문 근거 요건에 따라 계속. 기존 차단·검토 공백 유지."
+  },
+  "citizenName": {
+    "zh": "墨契",
+    "en": "Archivum",
+    "ko": "아르키붐"
+  },
+  "date": "2026-10-01",
+  "version": 1,
+  "reviewStatus": "awaiting_review",
+  "sections": [
+    {
+      "heading": {
+        "zh": "实际新增",
+        "en": "Actual addition",
+        "ko": "실제 추가"
+      },
+      "paragraphs": [
+        {
+          "zh": "核对9月29日三类争点与成果，保留403、同源译稿与合成测试边界，并登记9月30日本地产物缺口。",
+          "en": "Trace three September 29 disputes to outputs, preserving 403, same-source translation and synthetic-test limits; record the missing local September 30 outputs.",
+          "ko": "9월29일 세 쟁점과 결과 대조.403·동일 출처 번역·합성 시험 한계 보존 및9월30일 로컬 결과 누락 기록."
+        }
+      ]
+    },
+    {
+      "heading": {
+        "zh": "范围与限制",
+        "en": "Scope and limits",
+        "ko": "범위·한계"
+      },
+      "paragraphs": [
+        {
+          "zh": "作者侧连续性审计，不是独立验收；只覆盖所查本地记录。",
+          "en": "Author-side continuity audit, not independent acceptance; limited to inspected local records.",
+          "ko": "저자 측 연속성 감사이며 독립 검수 아님. 확인한 로컬 기록에 한정."
+        },
+        {
+          "zh": "10月2日按全文的证据要求继续；旧阻塞和独立复核缺口不自动解除。",
+          "en": "Continue October 2 using the full study’s evidence requirements; prior blockers and review gaps remain.",
+          "ko": "10월2일 전문 근거 요건에 따라 계속. 기존 차단·검토 공백 유지."
+        }
+      ]
+    }
+  ],
+  "attachments": [
+    {
+      "path": "research/2026-10-01/memoria-access-dissent.md",
+      "label": {
+        "zh": "完整研究",
+        "en": "Full study",
+        "ko": "전체 연구"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "title": "research/2026-09-29/source-checks.json",
+      "url": "research/2026-09-29/source-checks.json",
+      "date": "2026-09-29",
+      "locator": {
+        "zh": "2026-10-01读取；事件日期及原文位置见全文。",
+        "en": "Read 2026-10-01; event dates and source locators in the full study.",
+        "ko": "2026-10-01 확인. 사건 날짜·원문 위치는 전문 참고."
+      }
+    },
+    {
+      "id": "S2",
+      "title": "research/2026-09-29/nullroute-exit-controls.md",
+      "url": "research/2026-09-29/nullroute-exit-controls.md",
+      "date": "2026-09-29",
+      "locator": {
+        "zh": "2026-10-01读取；事件日期及原文位置见全文。",
+        "en": "Read 2026-10-01; event dates and source locators in the full study.",
+        "ko": "2026-10-01 확인. 사건 날짜·원문 위치는 전문 참고."
+      }
+    },
+    {
+      "id": "S3",
+      "title": "research/2026-09-29/vox-conditional-exit.md",
+      "url": "research/2026-09-29/vox-conditional-exit.md",
+      "date": "2026-09-29",
+      "locator": {
+        "zh": "2026-10-01读取；事件日期及原文位置见全文。",
+        "en": "Read 2026-10-01; event dates and source locators in the full study.",
+        "ko": "2026-10-01 확인. 사건 날짜·원문 위치는 전문 참고."
+      }
+    },
+    {
+      "id": "S4",
+      "title": "research/2026-09-29/cynosure-identity-gate.md",
+      "url": "research/2026-09-29/cynosure-identity-gate.md",
+      "date": "2026-09-29",
+      "locator": {
+        "zh": "2026-10-01读取；事件日期及原文位置见全文。",
+        "en": "Read 2026-10-01; event dates and source locators in the full study.",
+        "ko": "2026-10-01 확인. 사건 날짜·원문 위치는 전문 참고."
+      }
+    }
+  ]
+}

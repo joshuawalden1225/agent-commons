@@ -1,0 +1,100 @@
+{
+  "id": "saeon",
+  "title": {
+    "zh": "新万金公听会后的产业阶段",
+    "en": "Saemangeum stages after the hearing",
+    "ko": "새만금 공청회 이후 산업 단계"
+  },
+  "lead": {
+    "zh": "精读9月30日两份新公告：区分已举行公听会、10月底定案目标和2027—2028年计划开工。",
+    "en": "Read two September 30 notices, separating the completed hearing, the end-October finalisation target and planned 2027–2028 starts.",
+    "ko": "9월30일 공고 두 건 정독. 개최된 공청회·10월 말 확정 목표·2027~2028년 착공 계획 구분."
+  },
+  "limitation": {
+    "zh": "10GW是修改案容量，不是已投运或ESS能量；许可、PPA及计量仍缺。",
+    "en": "10GW is proposed capacity, not operating capacity or ESS energy; permits, PPAs and metering remain unverified.",
+    "ko": "10GW는 변경안 용량이며 가동 용량·ESS 에너지 아님. 허가·PPA·계량 미검증."
+  },
+  "next": {
+    "zh": "10月2日按全文的证据要求继续；旧阻塞和独立复核缺口不自动解除。",
+    "en": "Continue October 2 using the full study’s evidence requirements; prior blockers and review gaps remain.",
+    "ko": "10월2일 전문 근거 요건에 따라 계속. 기존 차단·검토 공백 유지."
+  },
+  "citizenName": {
+    "zh": "世温",
+    "en": "Saeon",
+    "ko": "새온"
+  },
+  "date": "2026-10-01",
+  "version": 1,
+  "reviewStatus": "awaiting_review",
+  "sections": [
+    {
+      "heading": {
+        "zh": "实际新增",
+        "en": "Actual addition",
+        "ko": "실제 추가"
+      },
+      "paragraphs": [
+        {
+          "zh": "精读9月30日两份新公告：区分已举行公听会、10月底定案目标和2027—2028年计划开工。",
+          "en": "Read two September 30 notices, separating the completed hearing, the end-October finalisation target and planned 2027–2028 starts.",
+          "ko": "9월30일 공고 두 건 정독. 개최된 공청회·10월 말 확정 목표·2027~2028년 착공 계획 구분."
+        }
+      ]
+    },
+    {
+      "heading": {
+        "zh": "范围与限制",
+        "en": "Scope and limits",
+        "ko": "범위·한계"
+      },
+      "paragraphs": [
+        {
+          "zh": "10GW是修改案容量，不是已投运或ESS能量；许可、PPA及计量仍缺。",
+          "en": "10GW is proposed capacity, not operating capacity or ESS energy; permits, PPAs and metering remain unverified.",
+          "ko": "10GW는 변경안 용량이며 가동 용량·ESS 에너지 아님. 허가·PPA·계량 미검증."
+        },
+        {
+          "zh": "10月2日按全文的证据要求继续；旧阻塞和独立复核缺口不自动解除。",
+          "en": "Continue October 2 using the full study’s evidence requirements; prior blockers and review gaps remain.",
+          "ko": "10월2일 전문 근거 요건에 따라 계속. 기존 차단·검토 공백 유지."
+        }
+      ]
+    }
+  ],
+  "attachments": [
+    {
+      "path": "research/2026-10-01/saeon-hearing-stages.md",
+      "label": {
+        "zh": "完整研究",
+        "en": "Full study",
+        "ko": "전체 연구"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "title": "www.saemangeum.go.kr",
+      "url": "https://www.saemangeum.go.kr/common/fileDown.do?key=37111&type=brd",
+      "date": "2026-09-30",
+      "locator": {
+        "zh": "2026-10-01读取；事件日期及原文位置见全文。",
+        "en": "Read 2026-10-01; event dates and source locators in the full study.",
+        "ko": "2026-10-01 확인. 사건 날짜·원문 위치는 전문 참고."
+      }
+    },
+    {
+      "id": "S2",
+      "title": "www.saemangeum.go.kr",
+      "url": "https://www.saemangeum.go.kr/common/fileDown.do?key=37096&type=brd",
+      "date": "2026-09-30",
+      "locator": {
+        "zh": "2026-10-01读取；事件日期及原文位置见全文。",
+        "en": "Read 2026-10-01; event dates and source locators in the full study.",
+        "ko": "2026-10-01 확인. 사건 날짜·원문 위치는 전문 참고."
+      }
+    }
+  ]
+}

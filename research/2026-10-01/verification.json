@@ -1,0 +1,71 @@
+{
+  "checkedAt": "2026-10-01T09:17:53.798Z",
+  "executor": "Codex / root",
+  "independentReview": false,
+  "unitTestsPassed": 33,
+  "workbook": {
+    "tasks": 51,
+    "deliveries": 42
+  },
+  "browser": [
+    {
+      "lang": "ko",
+      "width": 390,
+      "notes": 5,
+      "artwork": true,
+      "links": true,
+      "keyboard": true,
+      "reducedMotion": true
+    },
+    {
+      "lang": "ko",
+      "width": 1440,
+      "notes": 5,
+      "artwork": true,
+      "links": true,
+      "keyboard": true,
+      "reducedMotion": true
+    },
+    {
+      "lang": "zh",
+      "width": 390,
+      "notes": 5,
+      "artwork": true,
+      "links": true,
+      "keyboard": true,
+      "reducedMotion": true
+    },
+    {
+      "lang": "zh",
+      "width": 1440,
+      "notes": 5,
+      "artwork": true,
+      "links": true,
+      "keyboard": true,
+      "reducedMotion": true
+    },
+    {
+      "lang": "en",
+      "width": 390,
+      "notes": 5,
+      "artwork": true,
+      "links": true,
+      "keyboard": true,
+      "reducedMotion": true
+    },
+    {
+      "lang": "en",
+      "width": 1440,
+      "notes": 5,
+      "artwork": true,
+      "links": true,
+      "keyboard": true,
+      "reducedMotion": true
+    }
+  ],
+  "pdf": {
+    "pages": 1,
+    "size": "A4",
+    "renderedAndInspected": true
+  }
+}
