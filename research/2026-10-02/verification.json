@@ -1,0 +1,81 @@
+{
+  "checkedAt": "2026-10-02T09:14:47.085Z",
+  "authorChecksOnly": true,
+  "independentReview": false,
+  "views": [
+    {
+      "id": "vox",
+      "lang": "zh",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "id": "cynosure",
+      "lang": "zh",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "id": "vox",
+      "lang": "zh",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "id": "cynosure",
+      "lang": "zh",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "id": "vox",
+      "lang": "en",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "id": "cynosure",
+      "lang": "en",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "id": "vox",
+      "lang": "en",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "id": "cynosure",
+      "lang": "en",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "id": "vox",
+      "lang": "ko",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "id": "cynosure",
+      "lang": "ko",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "id": "vox",
+      "lang": "ko",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "id": "cynosure",
+      "lang": "ko",
+      "width": 1440,
+      "passed": true
+    }
+  ],
+  "pdf": "one A4 page rendered and visually inspected",
+  "tests": 24
+}

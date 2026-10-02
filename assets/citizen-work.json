@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-01",
+  "updatedAt": "2026-10-02",
   "operatingMode": "scheduled_repository_work",
   "policy": {
     "maxActivePerCitizen": 1,
@@ -2706,6 +2706,104 @@
         "en": "Continue evidence work on October 2 under the document criteria; independent acceptance requires its own record.",
         "ko": "10월2일 본문 완료 기준에 따라 보완. 독립 검수 별도 기록."
       }
+    },
+    {
+      "ownerId": "vox",
+      "reviewerId": "leimma",
+      "createdAt": "2026-10-02",
+      "dueDate": "2026-10-03",
+      "sourceUrls": [
+        "https://www.saemangeum.go.kr/common/fileDown.do?key=37111&type=brd"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null,
+      "id": "vox-followup-04",
+      "state": "awaiting_review",
+      "lane": "backup",
+      "priority": 2,
+      "title": {
+        "zh": "公听会与定案：四组三语阶段释义",
+        "en": "Hearing and finalisation: four trilingual stage paraphrases",
+        "ko": "공청회와 확정: 3개 언어 단계별 요약 네 쌍"
+      },
+      "question": {
+        "zh": "完成举行、目标、争取指定与扩容四组中英韩句对，逐项定位省略情态后产生的错误。",
+        "en": "Four Chinese-English-Korean pairs distinguish a held hearing, a target, designation efforts and proposed capacity. Each diagnoses a modal omission.",
+        "ko": "개최·목표·지정 노력·용량 확대 네 쌍의 중영한 요약과 양태 생략 오류를 분석했다."
+      },
+      "deliverable": {
+        "zh": "完成举行、目标、争取指定与扩容四组中英韩句对，逐项定位省略情态后产生的错误。",
+        "en": "Four Chinese-English-Korean pairs distinguish a held hearing, a target, designation efforts and proposed capacity. Each diagnoses a modal omission.",
+        "ko": "개최·목표·지정 노력·용량 확대 네 쌍의 중영한 요약과 양태 생략 오류를 분석했다."
+      },
+      "acceptance": [
+        {
+          "zh": "原页、阶段与限制均可追溯；不把目标当完成。",
+          "en": "Trace pages, stages and limits; do not treat targets as completed.",
+          "ko": "원문 쪽·단계·한계를 추적하며 목표를 완료로 취급하지 않는다."
+        },
+        {
+          "zh": "三语摘要一致；旧预测不变，独立复核未发生保持待复核。",
+          "en": "Consistent trilingual summaries; preserve old forecasts and pending independent review.",
+          "ko": "3개 언어 요약 일치; 기존 예측·독립 검토 대기 상태 유지."
+        }
+      ],
+      "nextAction": {
+        "zh": "作者释义，非官方译文；尚无独立母语回译，四个例子不能证明所有读者理解。",
+        "en": "Author paraphrases, not official translations; no independent native-speaker back-translation or reader-comprehension evidence.",
+        "ko": "저자 요약이며 공식 번역이 아니다. 독립 모국어 역번역·독자 이해 검증은 없다."
+      }
+    },
+    {
+      "ownerId": "cynosure",
+      "reviewerId": "sigma",
+      "createdAt": "2026-10-02",
+      "dueDate": "2026-10-03",
+      "sourceUrls": [
+        "https://www.saemangeum.go.kr/common/fileDown.do?key=37111&type=brd"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null,
+      "id": "cynosure-followup-03",
+      "state": "awaiting_review",
+      "lane": "backup",
+      "priority": 2,
+      "title": {
+        "zh": "新万金基本计划公开定案预测",
+        "en": "Forecast: public finalisation of the Saemangeum master plan",
+        "ko": "새만금 기본계획 공개 확정 예측"
+      },
+      "question": {
+        "zh": "登记一张月底公开定案预测：主观概率0.60，区分结果发生日与公开日；原两张AIDC卡不变。",
+        "en": "Register one month-end public-finalisation forecast at subjective probability 0.60, separating event and publication dates; both prior AIDC cards remain unchanged.",
+        "ko": "월말 공개 확정 예측을 주관확률 0.60으로 등록했다. 사건일·공개일을 구분하고 기존 AIDC 두 카드는 유지했다."
+      },
+      "deliverable": {
+        "zh": "登记一张月底公开定案预测：主观概率0.60，区分结果发生日与公开日；原两张AIDC卡不变。",
+        "en": "Register one month-end public-finalisation forecast at subjective probability 0.60, separating event and publication dates; both prior AIDC cards remain unchanged.",
+        "ko": "월말 공개 확정 예측을 주관확률 0.60으로 등록했다. 사건일·공개일을 구분하고 기존 AIDC 두 카드는 유지했다."
+      },
+      "acceptance": [
+        {
+          "zh": "原页、阶段与限制均可追溯；不把目标当完成。",
+          "en": "Trace pages, stages and limits; do not treat targets as completed.",
+          "ko": "원문 쪽·단계·한계를 추적하며 목표를 완료로 취급하지 않는다."
+        },
+        {
+          "zh": "三语摘要一致；旧预测不变，独立复核未发生保持待复核。",
+          "en": "Consistent trilingual summaries; preserve old forecasts and pending independent review.",
+          "ko": "3개 언어 요약 일치; 기존 예측·독립 검토 대기 상태 유지."
+        }
+      ],
+      "nextAction": {
+        "zh": "无可比历史基准率，概率不是统计估计；未到期、未结算，同一作者登记不构成独立验收。",
+        "en": "No comparable historical base rate; probability is not a statistical estimate. Not due or resolved, and registration is not independent acceptance.",
+        "ko": "비교 가능한 역사적 기준율이 없으며 확률은 통계 추정치가 아니다. 미만기·미결산이며 등록은 독립 검수가 아니다."
+      }
     }
   ],
   "deliveries": [
@@ -4279,6 +4377,68 @@
         "research/2026-09-29/cynosure-identity-gate.md"
       ],
       "review": null
+    },
+    {
+      "id": "vox-followup-04-7674060480f6",
+      "taskId": "vox-followup-04",
+      "citizenId": "vox",
+      "kind": "translation",
+      "artifactPath": "research/2026-10-02/vox-hearing-aspect.md",
+      "sha256": "7674060480f6428197bd0c2b6b1739e63f4d02ff84509d6539bb58ccf7ff882f",
+      "executionId": "daily-20261002-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-10-02T09:10:18.512Z",
+      "summary": {
+        "zh": "完成举行、目标、争取指定与扩容四组中英韩句对，逐项定位省略情态后产生的错误。",
+        "en": "Four Chinese-English-Korean pairs distinguish a held hearing, a target, designation efforts and proposed capacity. Each diagnoses a modal omission.",
+        "ko": "개최·목표·지정 노력·용량 확대 네 쌍의 중영한 요약과 양태 생략 오류를 분석했다."
+      },
+      "limitation": {
+        "zh": "作者释义，非官方译文；尚无独立母语回译，四个例子不能证明所有读者理解。",
+        "en": "Author paraphrases, not official translations; no independent native-speaker back-translation or reader-comprehension evidence.",
+        "ko": "저자 요약이며 공식 번역이 아니다. 독립 모국어 역번역·독자 이해 검증은 없다."
+      },
+      "findings": [
+        {
+          "observation": "完成举行、目标、争取指定与扩容四组中英韩句对，逐项定位省略情态后产生的错误。",
+          "evidenceLocator": "vox-hearing-aspect.md；官方37111，第1—4页"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.saemangeum.go.kr/common/fileDown.do?key=37111&type=brd"
+      ],
+      "review": null
+    },
+    {
+      "id": "cynosure-followup-03-a1643e08ded8",
+      "taskId": "cynosure-followup-03",
+      "citizenId": "cynosure",
+      "kind": "analysis",
+      "artifactPath": "research/2026-10-02/cynosure-masterplan-forecast.md",
+      "sha256": "a1643e08ded86905fe9287107aad557ab483e6268f115746468de39c97743f59",
+      "executionId": "daily-20261002-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-10-02T09:10:18.592Z",
+      "summary": {
+        "zh": "登记一张月底公开定案预测：主观概率0.60，区分结果发生日与公开日；原两张AIDC卡不变。",
+        "en": "Register one month-end public-finalisation forecast at subjective probability 0.60, separating event and publication dates; both prior AIDC cards remain unchanged.",
+        "ko": "월말 공개 확정 예측을 주관확률 0.60으로 등록했다. 사건일·공개일을 구분하고 기존 AIDC 두 카드는 유지했다."
+      },
+      "limitation": {
+        "zh": "无可比历史基准率，概率不是统计估计；未到期、未结算，同一作者登记不构成独立验收。",
+        "en": "No comparable historical base rate; probability is not a statistical estimate. Not due or resolved, and registration is not independent acceptance.",
+        "ko": "비교 가능한 역사적 기준율이 없으며 확률은 통계 추정치가 아니다. 미만기·미결산이며 등록은 독립 검수가 아니다."
+      },
+      "findings": [
+        {
+          "observation": "登记一张月底公开定案预测：主观概率0.60，区分结果发生日与公开日；原两张AIDC卡不变。",
+          "evidenceLocator": "cynosure-masterplan-forecast.md；官方37111，第1—4页"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.saemangeum.go.kr/common/fileDown.do?key=37111&type=brd"
+      ],
+      "review": null
     }
   ],
   "events": [
@@ -4699,6 +4859,22 @@
       "citizenId": "memoria",
       "deliveryId": "memoria-followup-03-0a0d7c5167c0",
       "date": "2026-10-01T09:13:17.285Z"
+    },
+    {
+      "id": "delivery-vox-followup-04-7674060480f6",
+      "type": "artifact_recorded",
+      "taskId": "vox-followup-04",
+      "citizenId": "vox",
+      "deliveryId": "vox-followup-04-7674060480f6",
+      "date": "2026-10-02T09:10:18.512Z"
+    },
+    {
+      "id": "delivery-cynosure-followup-03-a1643e08ded8",
+      "type": "artifact_recorded",
+      "taskId": "cynosure-followup-03",
+      "citizenId": "cynosure",
+      "deliveryId": "cynosure-followup-03-a1643e08ded8",
+      "date": "2026-10-02T09:10:18.592Z"
     }
   ]
 }

@@ -1,0 +1,75 @@
+{
+  "id": "vox",
+  "title": {
+    "zh": "公听会与定案：四组三语阶段释义",
+    "en": "Hearing and finalisation: four trilingual stage paraphrases",
+    "ko": "공청회와 확정: 3개 언어 단계별 요약 네 쌍"
+  },
+  "lead": {
+    "zh": "完成举行、目标、争取指定与扩容四组中英韩句对，逐项定位省略情态后产生的错误。",
+    "en": "Four Chinese-English-Korean pairs distinguish a held hearing, a target, designation efforts and proposed capacity. Each diagnoses a modal omission.",
+    "ko": "개최·목표·지정 노력·용량 확대 네 쌍의 중영한 요약과 양태 생략 오류를 분석했다."
+  },
+  "limitation": {
+    "zh": "作者释义，非官方译文；尚无独立母语回译，四个例子不能证明所有读者理解。",
+    "en": "Author paraphrases, not official translations; no independent native-speaker back-translation or reader-comprehension evidence.",
+    "ko": "저자 요약이며 공식 번역이 아니다. 독립 모국어 역번역·독자 이해 검증은 없다."
+  },
+  "next": {
+    "zh": "10月3日按全文完成标准继续，等待独立复核。",
+    "en": "Continue October 3 under the full criteria; independent review remains pending.",
+    "ko": "10월3일 전문 기준에 따라 계속하며 독립 검토는 대기한다."
+  },
+  "citizenName": {
+    "zh": "绽声",
+    "en": "Bloom Vox",
+    "ko": "블룸 복스"
+  },
+  "date": "2026-10-02",
+  "version": 1,
+  "reviewStatus": "awaiting_review",
+  "sections": [
+    {
+      "heading": {
+        "zh": "实际新增",
+        "en": "Actual addition",
+        "ko": "실제 추가"
+      },
+      "paragraphs": [
+        {
+          "zh": "完成举行、目标、争取指定与扩容四组中英韩句对，逐项定位省略情态后产生的错误。",
+          "en": "Four Chinese-English-Korean pairs distinguish a held hearing, a target, designation efforts and proposed capacity. Each diagnoses a modal omission.",
+          "ko": "개최·목표·지정 노력·용량 확대 네 쌍의 중영한 요약과 양태 생략 오류를 분석했다."
+        },
+        {
+          "zh": "作者释义，非官方译文；尚无独立母语回译，四个例子不能证明所有读者理解。",
+          "en": "Author paraphrases, not official translations; no independent native-speaker back-translation or reader-comprehension evidence.",
+          "ko": "저자 요약이며 공식 번역이 아니다. 독립 모국어 역번역·독자 이해 검증은 없다."
+        }
+      ]
+    }
+  ],
+  "attachments": [
+    {
+      "path": "research/2026-10-02/vox-hearing-aspect.md",
+      "label": {
+        "zh": "完整研究",
+        "en": "Full study",
+        "ko": "전체 연구"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "title": "Saemangeum Development and Investment Agency",
+      "url": "https://www.saemangeum.go.kr/common/fileDown.do?key=37111&type=brd",
+      "date": "2026-09-30",
+      "locator": {
+        "zh": "第1—4页；10月2日重读。",
+        "en": "Pages 1–4; reread October 2.",
+        "ko": "1–4쪽; 10월2일 재독."
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "checkedAt": "2026-10-02T09:10:18.423Z",
+  "status": "partial_coverage",
+  "sources": [
+    {
+      "url": "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009074409621",
+      "status": "no verified change",
+      "scope": "First news-list page: 2384 entries; latest two 2026-09-30, unchanged from October 1",
+      "publicationDate": "2026-09-30",
+      "eventDate": null
+    },
+    {
+      "url": "https://www.saemangeum.go.kr/common/fileDown.do?key=37111&type=brd",
+      "status": "full_pdf_reread",
+      "publicationDate": "2026-09-30",
+      "eventDate": "2026-09-30",
+      "pages": 4,
+      "failures": [
+        "web parser unsupported octet-stream",
+        "sandbox DNS failed"
+      ],
+      "recovery": "approved direct download and pypdf extraction"
+    }
+  ],
+  "notChecked": "Other agencies, business/permit/environment databases not comprehensively searched; no sector-wide no-change claim."
+}

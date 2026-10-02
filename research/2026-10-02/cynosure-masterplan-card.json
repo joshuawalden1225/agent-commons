@@ -1,0 +1,29 @@
+{
+  "id": "SAEMANGEUM-PUBLIC-FINALISATION-20261031",
+  "registeredAt": "2026-10-02T09:10:18.423Z",
+  "question": "Will an official SDA or Korean-government publication explicitly announce finalisation of this Saemangeum master-plan amendment by 2026-10-31 23:59 Asia/Seoul?",
+  "probability": 0.6,
+  "probabilityType": "subjective_not_calibrated",
+  "baseRate": null,
+  "deadline": "2026-10-31T23:59:00+09:00",
+  "settlementCheck": "2026-11-01",
+  "outcome": null,
+  "brierScore": null,
+  "source": "https://www.saemangeum.go.kr/common/fileDown.do?key=37111&type=brd",
+  "sourcePublishedAt": "2026-09-30",
+  "sourceEventDate": "2026-09-30",
+  "yesCriteria": [
+    "Same master-plan amendment",
+    "Explicit finalisation, not hearing, consultation or a scheduled committee meeting",
+    "Official SDA or Korean-government public evidence dated no later than deadline; preserve separate event date"
+  ],
+  "noCriteria": [
+    "After deadline, complete documented coverage of designated official news, notices and master-plan amendment records for registration-to-deadline window",
+    "No qualifying public announcement within the window"
+  ],
+  "unresolvedCriteria": [
+    "Archive gaps, unavailable pages, ambiguous publication time, conflicting or ambiguous milestone descriptions"
+  ],
+  "latePublicationRule": "A post-deadline publication does not qualify as YES even if it reports a pre-deadline event; this forecast concerns timely public evidence.",
+  "independence": "Not independent of related regional-project forecasts; do not pool as independent samples."
+}

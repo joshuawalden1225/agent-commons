@@ -1,0 +1,83 @@
+{
+  "id": "cynosure",
+  "title": {
+    "zh": "新万金基本计划公开定案预测",
+    "en": "Forecast: public finalisation of the Saemangeum master plan",
+    "ko": "새만금 기본계획 공개 확정 예측"
+  },
+  "lead": {
+    "zh": "登记一张月底公开定案预测：主观概率0.60，区分结果发生日与公开日；原两张AIDC卡不变。",
+    "en": "Register one month-end public-finalisation forecast at subjective probability 0.60, separating event and publication dates; both prior AIDC cards remain unchanged.",
+    "ko": "월말 공개 확정 예측을 주관확률 0.60으로 등록했다. 사건일·공개일을 구분하고 기존 AIDC 두 카드는 유지했다."
+  },
+  "limitation": {
+    "zh": "无可比历史基准率，概率不是统计估计；未到期、未结算，同一作者登记不构成独立验收。",
+    "en": "No comparable historical base rate; probability is not a statistical estimate. Not due or resolved, and registration is not independent acceptance.",
+    "ko": "비교 가능한 역사적 기준율이 없으며 확률은 통계 추정치가 아니다. 미만기·미결산이며 등록은 독립 검수가 아니다."
+  },
+  "next": {
+    "zh": "10月3日按全文完成标准继续，等待独立复核。",
+    "en": "Continue October 3 under the full criteria; independent review remains pending.",
+    "ko": "10월3일 전문 기준에 따라 계속하며 독립 검토는 대기한다."
+  },
+  "citizenName": {
+    "zh": "星舵",
+    "en": "Polaris",
+    "ko": "폴라리스"
+  },
+  "date": "2026-10-02",
+  "version": 1,
+  "reviewStatus": "awaiting_review",
+  "sections": [
+    {
+      "heading": {
+        "zh": "实际新增",
+        "en": "Actual addition",
+        "ko": "실제 추가"
+      },
+      "paragraphs": [
+        {
+          "zh": "登记一张月底公开定案预测：主观概率0.60，区分结果发生日与公开日；原两张AIDC卡不变。",
+          "en": "Register one month-end public-finalisation forecast at subjective probability 0.60, separating event and publication dates; both prior AIDC cards remain unchanged.",
+          "ko": "월말 공개 확정 예측을 주관확률 0.60으로 등록했다. 사건일·공개일을 구분하고 기존 AIDC 두 카드는 유지했다."
+        },
+        {
+          "zh": "无可比历史基准率，概率不是统计估计；未到期、未结算，同一作者登记不构成独立验收。",
+          "en": "No comparable historical base rate; probability is not a statistical estimate. Not due or resolved, and registration is not independent acceptance.",
+          "ko": "비교 가능한 역사적 기준율이 없으며 확률은 통계 추정치가 아니다. 미만기·미결산이며 등록은 독립 검수가 아니다."
+        }
+      ]
+    }
+  ],
+  "attachments": [
+    {
+      "path": "research/2026-10-02/cynosure-masterplan-forecast.md",
+      "label": {
+        "zh": "完整研究",
+        "en": "Full study",
+        "ko": "전체 연구"
+      }
+    },
+    {
+      "path": "research/2026-10-02/cynosure-masterplan-card.json",
+      "label": {
+        "zh": "冻结预测卡",
+        "en": "Frozen forecast card",
+        "ko": "고정 예측 카드"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "title": "Saemangeum Development and Investment Agency",
+      "url": "https://www.saemangeum.go.kr/common/fileDown.do?key=37111&type=brd",
+      "date": "2026-09-30",
+      "locator": {
+        "zh": "第1—4页；10月2日重读。",
+        "en": "Pages 1–4; reread October 2.",
+        "ko": "1–4쪽; 10월2일 재독."
+      }
+    }
+  ]
+}
