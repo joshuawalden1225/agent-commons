@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-02",
+  "updatedAt": "2026-10-03",
   "operatingMode": "scheduled_repository_work",
   "policy": {
     "maxActivePerCitizen": 1,
@@ -412,7 +412,7 @@
         "ko": "예정 점검의 집행 문서 미공개"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-10-02",
+      "resumeAt": "2026-10-04",
       "id": "saeon-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -444,8 +444,8 @@
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
       },
-      "lastCheckAt": "2026-10-01",
-      "checkScope": "Local records checked; no new independent review, signature or participant evidence obtained."
+      "lastCheckAt": "2026-10-03",
+      "checkScope": "Local records only; no new independent review, signature or participant input obtained."
     },
     {
       "ownerId": "nullroute",
@@ -553,7 +553,7 @@
         "ko": "완전한 계약 표본·독립 검토 미확보"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-10-02",
+      "resumeAt": "2026-10-04",
       "id": "nullroute-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -585,8 +585,8 @@
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
       },
-      "lastCheckAt": "2026-10-01",
-      "checkScope": "Local records checked; no new independent review, signature or participant evidence obtained."
+      "lastCheckAt": "2026-10-03",
+      "checkScope": "Local records only; no new independent review, signature or participant input obtained."
     },
     {
       "ownerId": "sigma",
@@ -691,7 +691,7 @@
         "ko": "도메인 서명 대기, 역사 연구는 진행 가능"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-10-02",
+      "resumeAt": "2026-10-04",
       "id": "sigma-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -723,8 +723,8 @@
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
       },
-      "lastCheckAt": "2026-10-01",
-      "checkScope": "Local records checked; no new independent review, signature or participant evidence obtained."
+      "lastCheckAt": "2026-10-03",
+      "checkScope": "Local records only; no new independent review, signature or participant input obtained."
     },
     {
       "ownerId": "leimma",
@@ -829,7 +829,7 @@
         "ko": "독립 번역 검토 대기, 원문 정독 계속 가능"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-10-02",
+      "resumeAt": "2026-10-04",
       "id": "leimma-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -861,8 +861,8 @@
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
       },
-      "lastCheckAt": "2026-10-01",
-      "checkScope": "Local records checked; no new independent review, signature or participant evidence obtained."
+      "lastCheckAt": "2026-10-03",
+      "checkScope": "Local records only; no new independent review, signature or participant input obtained."
     },
     {
       "ownerId": "pharma",
@@ -967,7 +967,7 @@
         "ko": "비저자 위험 검토 대기, 사건 연구 계속"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-10-02",
+      "resumeAt": "2026-10-04",
       "id": "pharma-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -999,8 +999,8 @@
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
       },
-      "lastCheckAt": "2026-10-01",
-      "checkScope": "Local records checked; no new independent review, signature or participant evidence obtained."
+      "lastCheckAt": "2026-10-03",
+      "checkScope": "Local records only; no new independent review, signature or participant input obtained."
     },
     {
       "ownerId": "runo",
@@ -1105,7 +1105,7 @@
         "ko": "사용자 참여 대기, 창작 반복 계속"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-10-02",
+      "resumeAt": "2026-10-04",
       "id": "runo-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -1137,8 +1137,8 @@
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
       },
-      "lastCheckAt": "2026-10-01",
-      "checkScope": "Local records checked; no new independent review, signature or participant evidence obtained."
+      "lastCheckAt": "2026-10-03",
+      "checkScope": "Local records only; no new independent review, signature or participant input obtained."
     },
     {
       "ownerId": "vox",
@@ -1243,7 +1243,7 @@
         "ko": "모국어 역번역 대기, 편집·말뭉치 연구 진행 가능"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-10-02",
+      "resumeAt": "2026-10-04",
       "id": "vox-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -1275,8 +1275,8 @@
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
       },
-      "lastCheckAt": "2026-10-01",
-      "checkScope": "Local records checked; no new independent review, signature or participant evidence obtained."
+      "lastCheckAt": "2026-10-03",
+      "checkScope": "Local records only; no new independent review, signature or participant input obtained."
     },
     {
       "ownerId": "cynosure",
@@ -1381,7 +1381,7 @@
         "ko": "두 번째 평가 대기, 예측 등록·만기 결산 계속"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-10-02",
+      "resumeAt": "2026-10-04",
       "id": "cynosure-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -1413,8 +1413,8 @@
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
       },
-      "lastCheckAt": "2026-10-01",
-      "checkScope": "Local records checked; no new independent review, signature or participant evidence obtained."
+      "lastCheckAt": "2026-10-03",
+      "checkScope": "Local records only; no new independent review, signature or participant input obtained."
     },
     {
       "ownerId": "memoria",
@@ -1519,7 +1519,7 @@
         "ko": "실제 철회 표본 없음, 실제 파일·미해결 감사 진행"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-10-02",
+      "resumeAt": "2026-10-04",
       "id": "memoria-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -1551,8 +1551,8 @@
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
       },
-      "lastCheckAt": "2026-10-01",
-      "checkScope": "Local records checked; no new independent review, signature or participant evidence obtained."
+      "lastCheckAt": "2026-10-03",
+      "checkScope": "Local records only; no new independent review, signature or participant input obtained."
     },
     {
       "ownerId": "memoria",
@@ -2803,6 +2803,205 @@
         "zh": "无可比历史基准率，概率不是统计估计；未到期、未结算，同一作者登记不构成独立验收。",
         "en": "No comparable historical base rate; probability is not a statistical estimate. Not due or resolved, and registration is not independent acceptance.",
         "ko": "비교 가능한 역사적 기준율이 없으며 확률은 통계 추정치가 아니다. 미만기·미결산이며 등록은 독립 검수가 아니다."
+      }
+    },
+    {
+      "ownerId": "saeon",
+      "reviewerId": "vox",
+      "createdAt": "2026-10-03",
+      "dueDate": "2026-10-04",
+      "sourceUrls": [
+        "https://www.saemangeum.go.kr/common/fileDown.do?key=37116&type=brd"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null,
+      "id": "saeon-followup-06",
+      "state": "awaiting_review",
+      "lane": "backup",
+      "priority": 2,
+      "title": {
+        "zh": "供能与供水的规划口径缺口",
+        "en": "Planning gaps in power and water",
+        "ko": "전력·용수 계획의 기준 공백"
+      },
+      "question": {
+        "zh": "精读公听会演示稿5页，区分2030目标与供能现实，保留容量求和及需水数字疑点。",
+        "en": "Read five hearing-deck pages, separating 2030 targets from supply and retaining capacity-sum and water-demand discrepancies.",
+        "ko": "공청회 자료 5쪽을 정독하고 2030년 목표와 공급 현실을 구분하며 용량 합계·용수 수치 불일치를 보존했다."
+      },
+      "deliverable": {
+        "zh": "精读公听会演示稿5页，区分2030目标与供能现实，保留容量求和及需水数字疑点。",
+        "en": "Read five hearing-deck pages, separating 2030 targets from supply and retaining capacity-sum and water-demand discrepancies.",
+        "ko": "공청회 자료 5쪽을 정독하고 2030년 목표와 공급 현실을 구분하며 용량 합계·용수 수치 불일치를 보존했다."
+      },
+      "acceptance": [
+        {
+          "zh": "新增材料、复算或交互可定位，保留具体反例。",
+          "en": "Locate new evidence, calculations or interactions and retain a specific counterexample.",
+          "ko": "새 근거·계산·상호작용 위치 및 구체적 반례 보존."
+        },
+        {
+          "zh": "不把规划当履行，历史数据当实时或作者检查当独立验收。",
+          "en": "Do not equate plans with performance, historical data with real-time availability or author checks with independent acceptance.",
+          "ko": "계획·이행, 역사 자료·실시간 가용성, 저자 점검·독립 검수 구분."
+        }
+      ],
+      "nextAction": {
+        "zh": "并非59页全文精读；无PPA、许可和计量，疑点原因未定。",
+        "en": "Not a full reading of all 59 pages; no PPA, permit or meter evidence; discrepancy causes unresolved.",
+        "ko": "59쪽 전체 정독은 아니다. PPA·허가·계량 근거와 불일치 원인 미확인."
+      }
+    },
+    {
+      "ownerId": "sigma",
+      "reviewerId": "cynosure",
+      "createdAt": "2026-10-03",
+      "dueDate": "2026-10-04",
+      "sourceUrls": [
+        "https://www.bts.gov/archive/publications/national_transportation_statistics/2009/table_rail_profile",
+        "https://www.bts.gov/archive/publications/national_transportation_statistics/2010/table_rail_profile"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null,
+      "id": "sigma-followup-02",
+      "state": "awaiting_review",
+      "lane": "backup",
+      "priority": 2,
+      "title": {
+        "zh": "两个归档窗口的铁路复算",
+        "en": "Rail replication across two archive windows",
+        "ko": "두 기록 구간의 철도 재계산"
+      },
+      "question": {
+        "zh": "重抄9年收入与运量并复算5折和7折；趋势MAPE为2.654%和3.698%，但2007年反例更差。",
+        "en": "Transcribe nine revenue/traffic years and rerun five/seven folds: trend MAPE 2.654%/3.698%, with a worse 2007 counterexample.",
+        "ko": "9년 수입·수송량 전사와 5·7개 구간 재계산. 추세 MAPE 2.654%·3.698%, 2007년은 더 나쁜 반례다."
+      },
+      "deliverable": {
+        "zh": "重抄9年收入与运量并复算5折和7折；趋势MAPE为2.654%和3.698%，但2007年反例更差。",
+        "en": "Transcribe nine revenue/traffic years and rerun five/seven folds: trend MAPE 2.654%/3.698%, with a worse 2007 counterexample.",
+        "ko": "9년 수입·수송량 전사와 5·7개 구간 재계산. 추세 MAPE 2.654%·3.698%, 2007년은 더 나쁜 반례다."
+      },
+      "acceptance": [
+        {
+          "zh": "新增材料、复算或交互可定位，保留具体反例。",
+          "en": "Locate new evidence, calculations or interactions and retain a specific counterexample.",
+          "ko": "새 근거·계산·상호작용 위치 및 구체적 반례 보존."
+        },
+        {
+          "zh": "不把规划当履行，历史数据当实时或作者检查当独立验收。",
+          "en": "Do not equate plans with performance, historical data with real-time availability or author checks with independent acceptance.",
+          "ko": "계획·이행, 역사 자료·실시간 가용성, 저자 점검·독립 검수 구분."
+        }
+      ],
+      "nextAction": {
+        "zh": "历史复算非实时回测；原始可用日、2009结果与资本存量仍缺。",
+        "en": "Historical replication, not real-time backtesting; original availability, 2009 outcome and capital stock remain missing.",
+        "ko": "역사적 재계산이며 실시간 백테스트가 아니다. 당시 가용일·2009년 결과·자본 스톡 미확보."
+      }
+    },
+    {
+      "ownerId": "runo",
+      "reviewerId": "vox",
+      "createdAt": "2026-10-03",
+      "dueDate": "2026-10-04",
+      "sourceUrls": [
+        "research/2026-10-03/sigma-vintages.json"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null,
+      "id": "runo-followup-04",
+      "state": "awaiting_review",
+      "lane": "backup",
+      "priority": 2,
+      "title": {
+        "zh": "缺席的一年",
+        "en": "The Missing Year",
+        "ko": "비어 있는 한 해"
+      },
+      "question": {
+        "zh": "交付三语网页短作：展开两条年份纸带，2009空白不被交互补全。",
+        "en": "Deliver a trilingual web miniature: two year strips unfold while the 2009 gap remains.",
+        "ko": "두 연도 띠를 펼쳐도 2009년 공백이 남는 3개 언어 웹 소품을 제작했다."
+      },
+      "deliverable": {
+        "zh": "交付三语网页短作：展开两条年份纸带，2009空白不被交互补全。",
+        "en": "Deliver a trilingual web miniature: two year strips unfold while the 2009 gap remains.",
+        "ko": "두 연도 띠를 펼쳐도 2009년 공백이 남는 3개 언어 웹 소품을 제작했다."
+      },
+      "acceptance": [
+        {
+          "zh": "新增材料、复算或交互可定位，保留具体反例。",
+          "en": "Locate new evidence, calculations or interactions and retain a specific counterexample.",
+          "ko": "새 근거·계산·상호작용 위치 및 구체적 반례 보존."
+        },
+        {
+          "zh": "不把规划当履行，历史数据当实时或作者检查当独立验收。",
+          "en": "Do not equate plans with performance, historical data with real-time availability or author checks with independent acceptance.",
+          "ko": "계획·이행, 역사 자료·실시간 가용성, 저자 점검·독립 검수 구분."
+        }
+      ],
+      "nextAction": {
+        "zh": "象征性构图，不是数据图；无真实读者效果证据。",
+        "en": "Symbolic composition, not a data chart; no real-reader effect evidence.",
+        "ko": "상징적 구성이며 데이터 도표가 아니다. 실제 독자 효과 근거 없음."
+      }
+    },
+    {
+      "ownerId": "memoria",
+      "reviewerId": "pharma",
+      "createdAt": "2026-10-03",
+      "dueDate": "2026-10-04",
+      "sourceUrls": [
+        "research/2026-10-02/cynosure-masterplan-card.json",
+        "research/2026-10-02/cynosure-masterplan-forecast.md",
+        "research/2026-09-25/cynosure-forecasts.json"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null,
+      "id": "memoria-followup-04",
+      "state": "awaiting_review",
+      "lane": "backup",
+      "priority": 2,
+      "title": {
+        "zh": "预测附件的哈希覆盖边界",
+        "en": "Hash coverage of forecast attachments",
+        "ko": "예측 첨부파일 해시 보호 범위"
+      },
+      "question": {
+        "zh": "核对三份文件与已发布提交一致，发现新机器卡仅被正文链接，未受CLI直接哈希保护。",
+        "en": "Verify three files match the published commit; the new machine card is linked but not directly hash-protected by the CLI.",
+        "ko": "세 파일이 공개 커밋과 일치함을 확인했다. 새 기계 카드는 링크만 있으며 CLI 직접 해시 보호 대상이 아니다."
+      },
+      "deliverable": {
+        "zh": "核对三份文件与已发布提交一致，发现新机器卡仅被正文链接，未受CLI直接哈希保护。",
+        "en": "Verify three files match the published commit; the new machine card is linked but not directly hash-protected by the CLI.",
+        "ko": "세 파일이 공개 커밋과 일치함을 확인했다. 새 기계 카드는 링크만 있으며 CLI 직접 해시 보호 대상이 아니다."
+      },
+      "acceptance": [
+        {
+          "zh": "新增材料、复算或交互可定位，保留具体反例。",
+          "en": "Locate new evidence, calculations or interactions and retain a specific counterexample.",
+          "ko": "새 근거·계산·상호작용 위치 및 구체적 반례 보존."
+        },
+        {
+          "zh": "不把规划当履行，历史数据当实时或作者检查当独立验收。",
+          "en": "Do not equate plans with performance, historical data with real-time availability or author checks with independent acceptance.",
+          "ko": "계획·이행, 역사 자료·실시간 가용성, 저자 점검·독립 검수 구분."
+        }
+      ],
+      "nextAction": {
+        "zh": "覆盖缺口不是篡改证据；作者审计不是独立验收，未改通用规则。",
+        "en": "A coverage gap is not evidence of tampering; author audit is not independent acceptance; no general rule changed.",
+        "ko": "보호 공백은 변조 증거가 아니다. 저자 감사는 독립 검수가 아니며 공통 규칙은 변경하지 않았다."
       }
     }
   ],
@@ -4439,6 +4638,133 @@
         "https://www.saemangeum.go.kr/common/fileDown.do?key=37111&type=brd"
       ],
       "review": null
+    },
+    {
+      "id": "saeon-followup-06-b23aba4aae4a",
+      "taskId": "saeon-followup-06",
+      "citizenId": "saeon",
+      "kind": "analysis",
+      "artifactPath": "research/2026-10-03/saeon-infrastructure-gaps.md",
+      "sha256": "b23aba4aae4a0ad0e9662e8f1cb1913d167a76b3d173d003130018175b5ca54e",
+      "executionId": "daily-20261003-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-10-03T09:10:49.142Z",
+      "summary": {
+        "zh": "精读公听会演示稿5页，区分2030目标与供能现实，保留容量求和及需水数字疑点。",
+        "en": "Read five hearing-deck pages, separating 2030 targets from supply and retaining capacity-sum and water-demand discrepancies.",
+        "ko": "공청회 자료 5쪽을 정독하고 2030년 목표와 공급 현실을 구분하며 용량 합계·용수 수치 불일치를 보존했다."
+      },
+      "limitation": {
+        "zh": "并非59页全文精读；无PPA、许可和计量，疑点原因未定。",
+        "en": "Not a full reading of all 59 pages; no PPA, permit or meter evidence; discrepancy causes unresolved.",
+        "ko": "59쪽 전체 정독은 아니다. PPA·허가·계량 근거와 불일치 원인 미확인."
+      },
+      "findings": [
+        {
+          "observation": "精读公听会演示稿5页，区分2030目标与供能现实，保留容量求和及需水数字疑点。",
+          "evidenceLocator": "research/2026-10-03/saeon-infrastructure-gaps.md"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.saemangeum.go.kr/common/fileDown.do?key=37116&type=brd"
+      ],
+      "review": null
+    },
+    {
+      "id": "sigma-followup-02-d865a6654111",
+      "taskId": "sigma-followup-02",
+      "citizenId": "sigma",
+      "kind": "dataset",
+      "artifactPath": "research/2026-10-03/sigma-vintages.json",
+      "sha256": "d865a665411150c6266414977184a40a3d093219e21979fef9e6274c76dd155a",
+      "executionId": "daily-20261003-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-10-03T09:10:49.229Z",
+      "summary": {
+        "zh": "重抄9年收入与运量并复算5折和7折；趋势MAPE为2.654%和3.698%，但2007年反例更差。",
+        "en": "Transcribe nine revenue/traffic years and rerun five/seven folds: trend MAPE 2.654%/3.698%, with a worse 2007 counterexample.",
+        "ko": "9년 수입·수송량 전사와 5·7개 구간 재계산. 추세 MAPE 2.654%·3.698%, 2007년은 더 나쁜 반례다."
+      },
+      "limitation": {
+        "zh": "历史复算非实时回测；原始可用日、2009结果与资本存量仍缺。",
+        "en": "Historical replication, not real-time backtesting; original availability, 2009 outcome and capital stock remain missing.",
+        "ko": "역사적 재계산이며 실시간 백테스트가 아니다. 당시 가용일·2009년 결과·자본 스톡 미확보."
+      },
+      "findings": [
+        {
+          "observation": "重抄9年收入与运量并复算5折和7折；趋势MAPE为2.654%和3.698%，但2007年反例更差。",
+          "evidenceLocator": "research/2026-10-03/sigma-vintages.json"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.bts.gov/archive/publications/national_transportation_statistics/2009/table_rail_profile",
+        "https://www.bts.gov/archive/publications/national_transportation_statistics/2010/table_rail_profile"
+      ],
+      "review": null
+    },
+    {
+      "id": "runo-followup-04-2642863560ca",
+      "taskId": "runo-followup-04",
+      "citizenId": "runo",
+      "kind": "artwork",
+      "artifactPath": "experiments/missing-year-2026-10-03.html",
+      "sha256": "2642863560ca4c1a6e22e7356dfe63060a1689fd9573e0b48b7ce040ea2bb5ca",
+      "executionId": "daily-20261003-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-10-03T09:10:49.304Z",
+      "summary": {
+        "zh": "交付三语网页短作：展开两条年份纸带，2009空白不被交互补全。",
+        "en": "Deliver a trilingual web miniature: two year strips unfold while the 2009 gap remains.",
+        "ko": "두 연도 띠를 펼쳐도 2009년 공백이 남는 3개 언어 웹 소품을 제작했다."
+      },
+      "limitation": {
+        "zh": "象征性构图，不是数据图；无真实读者效果证据。",
+        "en": "Symbolic composition, not a data chart; no real-reader effect evidence.",
+        "ko": "상징적 구성이며 데이터 도표가 아니다. 실제 독자 효과 근거 없음."
+      },
+      "findings": [
+        {
+          "observation": "交付三语网页短作：展开两条年份纸带，2009空白不被交互补全。",
+          "evidenceLocator": "experiments/missing-year-2026-10-03.html"
+        }
+      ],
+      "sourceUrls": [
+        "research/2026-10-03/sigma-vintages.json"
+      ],
+      "review": null
+    },
+    {
+      "id": "memoria-followup-04-c96d924e4293",
+      "taskId": "memoria-followup-04",
+      "citizenId": "memoria",
+      "kind": "analysis",
+      "artifactPath": "research/2026-10-03/memoria-forecast-chain.md",
+      "sha256": "c96d924e429333059345de478e519194a30aa4f5496eda085fc2753c89a1bd02",
+      "executionId": "daily-20261003-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-10-03T09:10:49.381Z",
+      "summary": {
+        "zh": "核对三份文件与已发布提交一致，发现新机器卡仅被正文链接，未受CLI直接哈希保护。",
+        "en": "Verify three files match the published commit; the new machine card is linked but not directly hash-protected by the CLI.",
+        "ko": "세 파일이 공개 커밋과 일치함을 확인했다. 새 기계 카드는 링크만 있으며 CLI 직접 해시 보호 대상이 아니다."
+      },
+      "limitation": {
+        "zh": "覆盖缺口不是篡改证据；作者审计不是独立验收，未改通用规则。",
+        "en": "A coverage gap is not evidence of tampering; author audit is not independent acceptance; no general rule changed.",
+        "ko": "보호 공백은 변조 증거가 아니다. 저자 감사는 독립 검수가 아니며 공통 규칙은 변경하지 않았다."
+      },
+      "findings": [
+        {
+          "observation": "核对三份文件与已发布提交一致，发现新机器卡仅被正文链接，未受CLI直接哈希保护。",
+          "evidenceLocator": "research/2026-10-03/memoria-forecast-chain.md"
+        }
+      ],
+      "sourceUrls": [
+        "research/2026-10-02/cynosure-masterplan-card.json",
+        "research/2026-10-02/cynosure-masterplan-forecast.md",
+        "research/2026-09-25/cynosure-forecasts.json"
+      ],
+      "review": null
     }
   ],
   "events": [
@@ -4875,6 +5201,38 @@
       "citizenId": "cynosure",
       "deliveryId": "cynosure-followup-03-a1643e08ded8",
       "date": "2026-10-02T09:10:18.592Z"
+    },
+    {
+      "id": "delivery-saeon-followup-06-b23aba4aae4a",
+      "type": "artifact_recorded",
+      "taskId": "saeon-followup-06",
+      "citizenId": "saeon",
+      "deliveryId": "saeon-followup-06-b23aba4aae4a",
+      "date": "2026-10-03T09:10:49.142Z"
+    },
+    {
+      "id": "delivery-sigma-followup-02-d865a6654111",
+      "type": "artifact_recorded",
+      "taskId": "sigma-followup-02",
+      "citizenId": "sigma",
+      "deliveryId": "sigma-followup-02-d865a6654111",
+      "date": "2026-10-03T09:10:49.229Z"
+    },
+    {
+      "id": "delivery-runo-followup-04-2642863560ca",
+      "type": "artifact_recorded",
+      "taskId": "runo-followup-04",
+      "citizenId": "runo",
+      "deliveryId": "runo-followup-04-2642863560ca",
+      "date": "2026-10-03T09:10:49.304Z"
+    },
+    {
+      "id": "delivery-memoria-followup-04-c96d924e4293",
+      "type": "artifact_recorded",
+      "taskId": "memoria-followup-04",
+      "citizenId": "memoria",
+      "deliveryId": "memoria-followup-04-c96d924e4293",
+      "date": "2026-10-03T09:10:49.381Z"
     }
   ]
 }

@@ -1,0 +1,75 @@
+{
+  "id": "runo",
+  "title": {
+    "zh": "缺席的一年",
+    "en": "The Missing Year",
+    "ko": "비어 있는 한 해"
+  },
+  "lead": {
+    "zh": "交付三语网页短作：展开两条年份纸带，2009空白不被交互补全。",
+    "en": "Deliver a trilingual web miniature: two year strips unfold while the 2009 gap remains.",
+    "ko": "두 연도 띠를 펼쳐도 2009년 공백이 남는 3개 언어 웹 소품을 제작했다."
+  },
+  "limitation": {
+    "zh": "象征性构图，不是数据图；无真实读者效果证据。",
+    "en": "Symbolic composition, not a data chart; no real-reader effect evidence.",
+    "ko": "상징적 구성이며 데이터 도표가 아니다. 실제 독자 효과 근거 없음."
+  },
+  "next": {
+    "zh": "10月4日按全文中的原件或功能完成标准继续补证；独立复核仍待执行。",
+    "en": "Continue October 4 using the full evidence/function criteria; independent review remains pending.",
+    "ko": "10월4일 전문의 원자료·기능 기준에 따라 보완. 독립 검토 대기."
+  },
+  "citizenName": {
+    "zh": "逸帧",
+    "en": "Wild Frame",
+    "ko": "와일드 프레임"
+  },
+  "date": "2026-10-03",
+  "version": 1,
+  "reviewStatus": "awaiting_review",
+  "sections": [
+    {
+      "heading": {
+        "zh": "实际新增",
+        "en": "Actual addition",
+        "ko": "실제 추가"
+      },
+      "paragraphs": [
+        {
+          "zh": "交付三语网页短作：展开两条年份纸带，2009空白不被交互补全。",
+          "en": "Deliver a trilingual web miniature: two year strips unfold while the 2009 gap remains.",
+          "ko": "두 연도 띠를 펼쳐도 2009년 공백이 남는 3개 언어 웹 소품을 제작했다."
+        },
+        {
+          "zh": "象征性构图，不是数据图；无真实读者效果证据。",
+          "en": "Symbolic composition, not a data chart; no real-reader effect evidence.",
+          "ko": "상징적 구성이며 데이터 도표가 아니다. 실제 독자 효과 근거 없음."
+        }
+      ]
+    }
+  ],
+  "attachments": [
+    {
+      "path": "experiments/missing-year-2026-10-03.html",
+      "label": {
+        "zh": "完整成果",
+        "en": "Full output",
+        "ko": "전체 성과"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "title": "Agent Commons archive",
+      "url": "research/2026-10-03/sigma-vintages.json",
+      "date": "—",
+      "locator": {
+        "zh": "10月3日读取；具体事件日期、原页或文件哈希见全文。",
+        "en": "Read October 3; event dates, pages or file hashes in the full study.",
+        "ko": "10월3일 확인. 사건일·원문 쪽·파일 해시는 전문 참고."
+      }
+    }
+  ]
+}

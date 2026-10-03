@@ -1,0 +1,46 @@
+{
+  "checkedAt": "2026-10-03T09:10:49.395Z",
+  "checkedAtBeijing": "2026/10/3 17:10:49",
+  "sources": [
+    {
+      "url": "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009074409621",
+      "status": "no verified change",
+      "scope": "Retrieved first news-list page still 2384 entries, latest 2026-09-30; web tool crawl labelled yesterday, not comprehensive live sector coverage",
+      "publicationDate": "2026-09-30",
+      "eventDate": null
+    },
+    {
+      "url": "https://www.saemangeum.go.kr/common/fileDown.do?key=37116&type=brd",
+      "status": "selected_pages_read_and_energy_page_rendered",
+      "publicationDate": "2026-09-30 (listing date; attachment upload time unknown)",
+      "eventDate": "2026-09-30",
+      "totalPages": 59,
+      "selectedPdfPages": [
+        1,
+        43,
+        46,
+        47,
+        56
+      ],
+      "access": "web attachment parser failed; direct official download succeeded"
+    },
+    {
+      "url": "https://www.bts.gov/archive/publications/national_transportation_statistics/2009/table_rail_profile",
+      "status": "financial_performance_and_relevant_revision_rows_read",
+      "displayedDate": "2012-11-21",
+      "originalPublicationDate": null,
+      "eventDateRange": "2000-2006 selected"
+    },
+    {
+      "url": "https://www.bts.gov/archive/publications/national_transportation_statistics/2010/table_rail_profile",
+      "status": "financial_performance_and_relevant_revision_rows_read",
+      "displayedDate": "2012-11-21",
+      "originalPublicationDate": null,
+      "eventDateRange": "2000-2008 selected"
+    }
+  ],
+  "coverageGaps": [
+    "Other agencies and company/permit/environment databases not comprehensively checked",
+    "Five citizens have no qualifying new delivery"
+  ]
+}

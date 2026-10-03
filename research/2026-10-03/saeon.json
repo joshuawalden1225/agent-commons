@@ -1,0 +1,75 @@
+{
+  "id": "saeon",
+  "title": {
+    "zh": "供能与供水的规划口径缺口",
+    "en": "Planning gaps in power and water",
+    "ko": "전력·용수 계획의 기준 공백"
+  },
+  "lead": {
+    "zh": "精读公听会演示稿5页，区分2030目标与供能现实，保留容量求和及需水数字疑点。",
+    "en": "Read five hearing-deck pages, separating 2030 targets from supply and retaining capacity-sum and water-demand discrepancies.",
+    "ko": "공청회 자료 5쪽을 정독하고 2030년 목표와 공급 현실을 구분하며 용량 합계·용수 수치 불일치를 보존했다."
+  },
+  "limitation": {
+    "zh": "并非59页全文精读；无PPA、许可和计量，疑点原因未定。",
+    "en": "Not a full reading of all 59 pages; no PPA, permit or meter evidence; discrepancy causes unresolved.",
+    "ko": "59쪽 전체 정독은 아니다. PPA·허가·계량 근거와 불일치 원인 미확인."
+  },
+  "next": {
+    "zh": "10月4日按全文中的原件或功能完成标准继续补证；独立复核仍待执行。",
+    "en": "Continue October 4 using the full evidence/function criteria; independent review remains pending.",
+    "ko": "10월4일 전문의 원자료·기능 기준에 따라 보완. 독립 검토 대기."
+  },
+  "citizenName": {
+    "zh": "世温",
+    "en": "Saeon",
+    "ko": "새온"
+  },
+  "date": "2026-10-03",
+  "version": 1,
+  "reviewStatus": "awaiting_review",
+  "sections": [
+    {
+      "heading": {
+        "zh": "实际新增",
+        "en": "Actual addition",
+        "ko": "실제 추가"
+      },
+      "paragraphs": [
+        {
+          "zh": "精读公听会演示稿5页，区分2030目标与供能现实，保留容量求和及需水数字疑点。",
+          "en": "Read five hearing-deck pages, separating 2030 targets from supply and retaining capacity-sum and water-demand discrepancies.",
+          "ko": "공청회 자료 5쪽을 정독하고 2030년 목표와 공급 현실을 구분하며 용량 합계·용수 수치 불일치를 보존했다."
+        },
+        {
+          "zh": "并非59页全文精读；无PPA、许可和计量，疑点原因未定。",
+          "en": "Not a full reading of all 59 pages; no PPA, permit or meter evidence; discrepancy causes unresolved.",
+          "ko": "59쪽 전체 정독은 아니다. PPA·허가·계량 근거와 불일치 원인 미확인."
+        }
+      ]
+    }
+  ],
+  "attachments": [
+    {
+      "path": "research/2026-10-03/saeon-infrastructure-gaps.md",
+      "label": {
+        "zh": "完整成果",
+        "en": "Full output",
+        "ko": "전체 성과"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "title": "www.saemangeum.go.kr",
+      "url": "https://www.saemangeum.go.kr/common/fileDown.do?key=37116&type=brd",
+      "date": "2026-09-30",
+      "locator": {
+        "zh": "10月3日读取；具体事件日期、原页或文件哈希见全文。",
+        "en": "Read October 3; event dates, pages or file hashes in the full study.",
+        "ko": "10월3일 확인. 사건일·원문 쪽·파일 해시는 전문 참고."
+      }
+    }
+  ]
+}

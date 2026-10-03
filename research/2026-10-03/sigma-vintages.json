@@ -1,0 +1,246 @@
+{
+  "date": "2026-10-03",
+  "executor": "Codex / root",
+  "executionId": "daily-20261003-root",
+  "reviewStatus": "awaiting_review",
+  "grain": "US Class I freight rail, calendar-year observations; excludes Amtrak/non-Class I",
+  "units": {
+    "freightRevenueMillionUSD": "nominal million USD",
+    "tonMilesMillion": "million revenue ton-miles",
+    "capitalStock": "not available in selected measures; null"
+  },
+  "sourceUrls": [
+    "https://www.bts.gov/archive/publications/national_transportation_statistics/2009/table_rail_profile",
+    "https://www.bts.gov/archive/publications/national_transportation_statistics/2010/table_rail_profile"
+  ],
+  "sourceDisplayedDate": "2012-11-21",
+  "originalReleaseDate": null,
+  "eventRange": "2000-2008",
+  "rows": [
+    {
+      "year": 2000,
+      "freightRevenueMillionUSD": 33083,
+      "tonMilesMillion": 1465960,
+      "capitalStock": null,
+      "presentIn2009Directory": true,
+      "presentIn2010Directory": true
+    },
+    {
+      "year": 2001,
+      "freightRevenueMillionUSD": 33533,
+      "tonMilesMillion": 1495472,
+      "capitalStock": null,
+      "presentIn2009Directory": true,
+      "presentIn2010Directory": true
+    },
+    {
+      "year": 2002,
+      "freightRevenueMillionUSD": 34110,
+      "tonMilesMillion": 1507011,
+      "capitalStock": null,
+      "presentIn2009Directory": true,
+      "presentIn2010Directory": true
+    },
+    {
+      "year": 2003,
+      "freightRevenueMillionUSD": 35413,
+      "tonMilesMillion": 1551438,
+      "capitalStock": null,
+      "presentIn2009Directory": true,
+      "presentIn2010Directory": true
+    },
+    {
+      "year": 2004,
+      "freightRevenueMillionUSD": 39131,
+      "tonMilesMillion": 1662598,
+      "capitalStock": null,
+      "presentIn2009Directory": true,
+      "presentIn2010Directory": true
+    },
+    {
+      "year": 2005,
+      "freightRevenueMillionUSD": 44457,
+      "tonMilesMillion": 1696425,
+      "capitalStock": null,
+      "presentIn2009Directory": true,
+      "presentIn2010Directory": true
+    },
+    {
+      "year": 2006,
+      "freightRevenueMillionUSD": 50315,
+      "tonMilesMillion": 1771897,
+      "capitalStock": null,
+      "presentIn2009Directory": true,
+      "presentIn2010Directory": true
+    },
+    {
+      "year": 2007,
+      "freightRevenueMillionUSD": 52932,
+      "tonMilesMillion": 1770545,
+      "capitalStock": null,
+      "presentIn2009Directory": false,
+      "presentIn2010Directory": true
+    },
+    {
+      "year": 2008,
+      "freightRevenueMillionUSD": 59409,
+      "tonMilesMillion": 1777236,
+      "capitalStock": null,
+      "presentIn2009Directory": false,
+      "presentIn2010Directory": true
+    }
+  ],
+  "reconciliation": [
+    {
+      "year": 2000,
+      "revenueDifference": 0,
+      "tonMilesDifference": 0
+    },
+    {
+      "year": 2001,
+      "revenueDifference": 0,
+      "tonMilesDifference": 0
+    },
+    {
+      "year": 2002,
+      "revenueDifference": 0,
+      "tonMilesDifference": 0
+    },
+    {
+      "year": 2003,
+      "revenueDifference": 0,
+      "tonMilesDifference": 0
+    },
+    {
+      "year": 2004,
+      "revenueDifference": 0,
+      "tonMilesDifference": 0
+    },
+    {
+      "year": 2005,
+      "revenueDifference": 0,
+      "tonMilesDifference": 0
+    },
+    {
+      "year": 2006,
+      "revenueDifference": 0,
+      "tonMilesDifference": 0
+    },
+    {
+      "year": 2007,
+      "revenueDifference": 0,
+      "tonMilesDifference": 0
+    },
+    {
+      "year": 2008,
+      "revenueDifference": 0,
+      "tonMilesDifference": 0
+    }
+  ],
+  "folds": [
+    {
+      "year": 2002,
+      "inputThrough": 2001,
+      "actual": 34110,
+      "naive": 33533,
+      "trend": 33983,
+      "naiveAPE": 1.6915860451480504,
+      "trendAPE": 0.3723248314277338
+    },
+    {
+      "year": 2003,
+      "inputThrough": 2002,
+      "actual": 35413,
+      "naive": 34110,
+      "trend": 34687,
+      "naiveAPE": 3.6794397537627423,
+      "trendAPE": 2.050094598028972
+    },
+    {
+      "year": 2004,
+      "inputThrough": 2003,
+      "actual": 39131,
+      "naive": 35413,
+      "trend": 36716,
+      "naiveAPE": 9.501418312846592,
+      "trendAPE": 6.171577521658021
+    },
+    {
+      "year": 2005,
+      "inputThrough": 2004,
+      "actual": 44457,
+      "naive": 39131,
+      "trend": 42849,
+      "naiveAPE": 11.980115617338102,
+      "trendAPE": 3.616978203657467
+    },
+    {
+      "year": 2006,
+      "inputThrough": 2005,
+      "actual": 50315,
+      "naive": 44457,
+      "trend": 49783,
+      "naiveAPE": 11.642651296829971,
+      "trendAPE": 1.0573387657756137
+    },
+    {
+      "year": 2007,
+      "inputThrough": 2006,
+      "actual": 52932,
+      "naive": 50315,
+      "trend": 56173,
+      "naiveAPE": 4.94407919594952,
+      "trendAPE": 6.122950200256933
+    },
+    {
+      "year": 2008,
+      "inputThrough": 2007,
+      "actual": 59409,
+      "naive": 52932,
+      "trend": 55549,
+      "naiveAPE": 10.90238852699086,
+      "trendAPE": 6.4973320540658825
+    }
+  ],
+  "summaries": {
+    "directory2009": {
+      "n": 5,
+      "naiveMAPE": 7.6990422051850915,
+      "trendMAPE": 2.6536627841095615
+    },
+    "directory2010": {
+      "n": 7,
+      "naiveMAPE": 7.763096964123691,
+      "trendMAPE": 3.698370882124375
+    }
+  },
+  "missing2009Outcome": true,
+  "quality": {
+    "duplicateYears": 0,
+    "missingSelectedRevenue": 0,
+    "missingSelectedVolume": 0,
+    "capitalMissing": 9,
+    "overlappingRevenueDifferences": 0,
+    "overlappingVolumeDifferences": 0
+  },
+  "revisionCounterexample": {
+    "measure": "Miles of road owned",
+    "unit": "miles",
+    "rows": [
+      {
+        "year": 2005,
+        "directory2009": 95830,
+        "directory2010": 95664,
+        "delta": -166
+      },
+      {
+        "year": 2006,
+        "directory2009": 94614,
+        "directory2010": 94801,
+        "delta": 187
+      }
+    ],
+    "note": "2010 marks both values R. Agreement of freight revenue does not imply absence of revisions elsewhere."
+  },
+  "limitation": "Historical replication, not real-time backtesting: original availability is unknown. Missing 2009 in both selected tables cannot be zero-filled or used to score the crisis year. No causal claim, capital stock or inflation correction."
+}

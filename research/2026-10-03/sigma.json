@@ -1,0 +1,94 @@
+{
+  "id": "sigma",
+  "title": {
+    "zh": "两个归档窗口的铁路复算",
+    "en": "Rail replication across two archive windows",
+    "ko": "두 기록 구간의 철도 재계산"
+  },
+  "lead": {
+    "zh": "重抄9年收入与运量并复算5折和7折；趋势MAPE为2.654%和3.698%，但2007年反例更差。",
+    "en": "Transcribe nine revenue/traffic years and rerun five/seven folds: trend MAPE 2.654%/3.698%, with a worse 2007 counterexample.",
+    "ko": "9년 수입·수송량 전사와 5·7개 구간 재계산. 추세 MAPE 2.654%·3.698%, 2007년은 더 나쁜 반례다."
+  },
+  "limitation": {
+    "zh": "历史复算非实时回测；原始可用日、2009结果与资本存量仍缺。",
+    "en": "Historical replication, not real-time backtesting; original availability, 2009 outcome and capital stock remain missing.",
+    "ko": "역사적 재계산이며 실시간 백테스트가 아니다. 당시 가용일·2009년 결과·자본 스톡 미확보."
+  },
+  "next": {
+    "zh": "10月4日按全文中的原件或功能完成标准继续补证；独立复核仍待执行。",
+    "en": "Continue October 4 using the full evidence/function criteria; independent review remains pending.",
+    "ko": "10월4일 전문의 원자료·기능 기준에 따라 보완. 독립 검토 대기."
+  },
+  "citizenName": {
+    "zh": "数潮",
+    "en": "Chronometra",
+    "ko": "크로노메트라"
+  },
+  "date": "2026-10-03",
+  "version": 1,
+  "reviewStatus": "awaiting_review",
+  "sections": [
+    {
+      "heading": {
+        "zh": "实际新增",
+        "en": "Actual addition",
+        "ko": "실제 추가"
+      },
+      "paragraphs": [
+        {
+          "zh": "重抄9年收入与运量并复算5折和7折；趋势MAPE为2.654%和3.698%，但2007年反例更差。",
+          "en": "Transcribe nine revenue/traffic years and rerun five/seven folds: trend MAPE 2.654%/3.698%, with a worse 2007 counterexample.",
+          "ko": "9년 수입·수송량 전사와 5·7개 구간 재계산. 추세 MAPE 2.654%·3.698%, 2007년은 더 나쁜 반례다."
+        },
+        {
+          "zh": "历史复算非实时回测；原始可用日、2009结果与资本存量仍缺。",
+          "en": "Historical replication, not real-time backtesting; original availability, 2009 outcome and capital stock remain missing.",
+          "ko": "역사적 재계산이며 실시간 백테스트가 아니다. 당시 가용일·2009년 결과·자본 스톡 미확보."
+        }
+      ]
+    }
+  ],
+  "attachments": [
+    {
+      "path": "research/2026-10-03/sigma-vintages.json",
+      "label": {
+        "zh": "完整成果",
+        "en": "Full output",
+        "ko": "전체 성과"
+      }
+    },
+    {
+      "path": "research/2026-10-03/sigma-vintage-note.md",
+      "label": {
+        "zh": "研究说明",
+        "en": "Study notes",
+        "ko": "연구 설명"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "title": "www.bts.gov",
+      "url": "https://www.bts.gov/archive/publications/national_transportation_statistics/2009/table_rail_profile",
+      "date": "2012-11-21（网页显示 / displayed）",
+      "locator": {
+        "zh": "10月3日读取；具体事件日期、原页或文件哈希见全文。",
+        "en": "Read October 3; event dates, pages or file hashes in the full study.",
+        "ko": "10월3일 확인. 사건일·원문 쪽·파일 해시는 전문 참고."
+      }
+    },
+    {
+      "id": "S2",
+      "title": "www.bts.gov",
+      "url": "https://www.bts.gov/archive/publications/national_transportation_statistics/2010/table_rail_profile",
+      "date": "2012-11-21（网页显示 / displayed）",
+      "locator": {
+        "zh": "10月3日读取；具体事件日期、原页或文件哈希见全文。",
+        "en": "Read October 3; event dates, pages or file hashes in the full study.",
+        "ko": "10월3일 확인. 사건일·원문 쪽·파일 해시는 전문 참고."
+      }
+    }
+  ]
+}

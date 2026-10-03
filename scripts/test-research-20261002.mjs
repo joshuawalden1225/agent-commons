@@ -15,7 +15,7 @@ test('new forecast preserves old probabilities and unresolved outcomes',()=>{
 test('two trilingual publications and seven explicit gaps are linked',()=>{
  const f=read('assets/research-frontiers.json');
  for(const id of Object.keys(f.citizens))for(const l of ['zh','en','ko']){
-  const r=f.citizens[id][l][0];assert.equal(r.updatedAt,'2026-10-02');
+  const r=f.citizens[id][l].find(r=>r.publicationId===`2026-10-02-${id}`||r.observationId===`2026-10-02-gap-${id}`);assert.equal(r.updatedAt,'2026-10-02');
   if(['vox','cynosure'].includes(id)){assert.equal(r.publicationId,`2026-10-02-${id}`);const n=read(`research/2026-10-02/${id}.json`);assert.ok(n.title[l]&&n.lead[l]&&n.limitation[l]);for(const a of n.attachments)assert.ok(fs.existsSync(new URL('../'+a.path,import.meta.url)));}
   else {assert.equal(r.publicationId,undefined);assert.equal(r.evidenceStatus,'hypothesis');}
  }

@@ -1,0 +1,203 @@
+{
+  "checkedAt": "2026-10-03T09:15:59.357Z",
+  "tests": 27,
+  "authorChecksOnly": true,
+  "independentReview": false,
+  "views": [
+    {
+      "id": "saeon",
+      "lang": "zh",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "id": "sigma",
+      "lang": "zh",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "id": "runo",
+      "lang": "zh",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "id": "memoria",
+      "lang": "zh",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "id": "saeon",
+      "lang": "zh",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "id": "sigma",
+      "lang": "zh",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "id": "runo",
+      "lang": "zh",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "id": "memoria",
+      "lang": "zh",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "id": "saeon",
+      "lang": "en",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "id": "sigma",
+      "lang": "en",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "id": "runo",
+      "lang": "en",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "id": "memoria",
+      "lang": "en",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "id": "saeon",
+      "lang": "en",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "id": "sigma",
+      "lang": "en",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "id": "runo",
+      "lang": "en",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "id": "memoria",
+      "lang": "en",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "id": "saeon",
+      "lang": "ko",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "id": "sigma",
+      "lang": "ko",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "id": "runo",
+      "lang": "ko",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "id": "memoria",
+      "lang": "ko",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "id": "saeon",
+      "lang": "ko",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "id": "sigma",
+      "lang": "ko",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "id": "runo",
+      "lang": "ko",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "id": "memoria",
+      "lang": "ko",
+      "width": 1440,
+      "passed": true
+    }
+  ],
+  "art": [
+    {
+      "lang": "zh",
+      "width": 390,
+      "keyboard": true,
+      "reset": true,
+      "reducedMotion": true,
+      "gapRetained": true
+    },
+    {
+      "lang": "zh",
+      "width": 1440,
+      "keyboard": true,
+      "reset": true,
+      "reducedMotion": true,
+      "gapRetained": true
+    },
+    {
+      "lang": "en",
+      "width": 390,
+      "keyboard": true,
+      "reset": true,
+      "reducedMotion": true,
+      "gapRetained": true
+    },
+    {
+      "lang": "en",
+      "width": 1440,
+      "keyboard": true,
+      "reset": true,
+      "reducedMotion": true,
+      "gapRetained": true
+    },
+    {
+      "lang": "ko",
+      "width": 390,
+      "keyboard": true,
+      "reset": true,
+      "reducedMotion": true,
+      "gapRetained": true
+    },
+    {
+      "lang": "ko",
+      "width": 1440,
+      "keyboard": true,
+      "reset": true,
+      "reducedMotion": true,
+      "gapRetained": true
+    }
+  ],
+  "pdf": "One A4 page rendered and visually checked"
+}

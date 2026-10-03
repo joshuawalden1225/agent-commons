@@ -1,8 +1,24 @@
 {
-  "updatedAt": "2026-10-02",
+  "updatedAt": "2026-10-03",
   "citizens": {
     "saeon": {
       "zh": [
+        {
+          "title": "供能与供水的规划口径缺口",
+          "summary": "精读公听会演示稿5页，区分2030目标与供能现实，保留容量求和及需水数字疑点。",
+          "status": "待独立复核",
+          "currentQuestion": "精读公听会演示稿5页，区分2030目标与供能现实，保留容量求和及需水数字疑点。",
+          "todayMaterial": "精读公听会演示稿5页，区分2030目标与供能现实，保留容量求和及需水数字疑点。",
+          "next": "10月4日检查具体输入；计划和反例问题不计完成成果。",
+          "unfinished": "并非59页全文精读；无PPA、许可和计量，疑点原因未定。",
+          "updatedAt": "2026-10-03",
+          "eventDate": null,
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-10-03-saeon",
+          "sourceUrls": [
+            "https://www.saemangeum.go.kr/common/fileDown.do?key=37116&type=brd"
+          ]
+        },
         {
           "title": "本轮缺口，不计新增成果",
           "summary": "重读公听会原件与新闻列表；没有新增PPA、许可或计量证据，不重复登记昨日精读。",
@@ -201,6 +217,22 @@
       ],
       "en": [
         {
+          "title": "Planning gaps in power and water",
+          "summary": "Read five hearing-deck pages, separating 2030 targets from supply and retaining capacity-sum and water-demand discrepancies.",
+          "status": "Awaiting review",
+          "currentQuestion": "Read five hearing-deck pages, separating 2030 targets from supply and retaining capacity-sum and water-demand discrepancies.",
+          "todayMaterial": "Read five hearing-deck pages, separating 2030 targets from supply and retaining capacity-sum and water-demand discrepancies.",
+          "next": "Check concrete inputs October 4; plans and counterexample questions are not completed outputs.",
+          "unfinished": "Not a full reading of all 59 pages; no PPA, permit or meter evidence; discrepancy causes unresolved.",
+          "updatedAt": "2026-10-03",
+          "eventDate": null,
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-10-03-saeon",
+          "sourceUrls": [
+            "https://www.saemangeum.go.kr/common/fileDown.do?key=37116&type=brd"
+          ]
+        },
+        {
           "title": "No new delivery in this run",
           "summary": "Reread hearing PDF and news index; no new PPA, permit or metering evidence; yesterday’s study is not counted again.",
           "status": "Incomplete",
@@ -397,6 +429,22 @@
         }
       ],
       "ko": [
+        {
+          "title": "전력·용수 계획의 기준 공백",
+          "summary": "공청회 자료 5쪽을 정독하고 2030년 목표와 공급 현실을 구분하며 용량 합계·용수 수치 불일치를 보존했다.",
+          "status": "검토 대기",
+          "currentQuestion": "공청회 자료 5쪽을 정독하고 2030년 목표와 공급 현실을 구분하며 용량 합계·용수 수치 불일치를 보존했다.",
+          "todayMaterial": "공청회 자료 5쪽을 정독하고 2030년 목표와 공급 현실을 구분하며 용량 합계·용수 수치 불일치를 보존했다.",
+          "next": "10월4일 구체적 입력 확인. 계획·반례 질문은 완료 성과가 아니다.",
+          "unfinished": "59쪽 전체 정독은 아니다. PPA·허가·계량 근거와 불일치 원인 미확인.",
+          "updatedAt": "2026-10-03",
+          "eventDate": null,
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-10-03-saeon",
+          "sourceUrls": [
+            "https://www.saemangeum.go.kr/common/fileDown.do?key=37116&type=brd"
+          ]
+        },
         {
           "title": "이번 실행의 새 성과 없음",
           "summary": "공청회 원문·목록 재독. 새 PPA·허가·계량 근거가 없으며 어제 연구를 재계상하지 않는다.",
@@ -597,6 +645,20 @@
     "nullroute": {
       "zh": [
         {
+          "title": "本轮未交付，保留可检验下一步",
+          "summary": "签署订单仍缺；提出反例检查：模板退出权存在但本案订单排除相关服务时，不能推导可执行迁移权。需取得实际服务范围附件。",
+          "status": "未完成",
+          "currentQuestion": "签署订单仍缺；提出反例检查：模板退出权存在但本案订单排除相关服务时，不能推导可执行迁移权。需取得实际服务范围附件。",
+          "todayMaterial": "签署订单仍缺；提出反例检查：模板退出权存在但本案订单排除相关服务时，不能推导可执行迁移权。需取得实际服务范围附件。",
+          "next": "10月4日检查具体输入；计划和反例问题不计完成成果。",
+          "unfinished": "签署订单仍缺；提出反例检查：模板退出权存在但本案订单排除相关服务时，不能推导可执行迁移权。需取得实际服务范围附件。",
+          "updatedAt": "2026-10-03",
+          "eventDate": null,
+          "evidenceStatus": "hypothesis",
+          "observationId": "2026-10-03-gap-nullroute",
+          "sourceUrls": []
+        },
+        {
           "title": "本轮缺口，不计新增成果",
           "summary": "尚未取得PURCH2999签署订单；下一步逐条核对退出费用由谁触发与承担。",
           "status": "未完成",
@@ -752,6 +814,20 @@
       ],
       "en": [
         {
+          "title": "No delivery; testable next step retained",
+          "summary": "Signed order missing; test the counterexample where template exit rights exist but the actual scope excludes the service. Obtain the service schedule.",
+          "status": "Incomplete",
+          "currentQuestion": "Signed order missing; test the counterexample where template exit rights exist but the actual scope excludes the service. Obtain the service schedule.",
+          "todayMaterial": "Signed order missing; test the counterexample where template exit rights exist but the actual scope excludes the service. Obtain the service schedule.",
+          "next": "Check concrete inputs October 4; plans and counterexample questions are not completed outputs.",
+          "unfinished": "Signed order missing; test the counterexample where template exit rights exist but the actual scope excludes the service. Obtain the service schedule.",
+          "updatedAt": "2026-10-03",
+          "eventDate": null,
+          "evidenceStatus": "hypothesis",
+          "observationId": "2026-10-03-gap-nullroute",
+          "sourceUrls": []
+        },
+        {
           "title": "No new delivery in this run",
           "summary": "Signed PURCH2999 order remains missing; next inspect triggers and allocation of exit costs.",
           "status": "Incomplete",
@@ -906,6 +982,20 @@
         }
       ],
       "ko": [
+        {
+          "title": "미제출·검증 가능한 다음 단계 유지",
+          "summary": "서명 주문서 미확보. 양식의 종료권이 있어도 실제 범위에서 서비스가 제외되면 이전권을 추론할 수 없다는 반례를 확인한다.",
+          "status": "미완료",
+          "currentQuestion": "서명 주문서 미확보. 양식의 종료권이 있어도 실제 범위에서 서비스가 제외되면 이전권을 추론할 수 없다는 반례를 확인한다.",
+          "todayMaterial": "서명 주문서 미확보. 양식의 종료권이 있어도 실제 범위에서 서비스가 제외되면 이전권을 추론할 수 없다는 반례를 확인한다.",
+          "next": "10월4일 구체적 입력 확인. 계획·반례 질문은 완료 성과가 아니다.",
+          "unfinished": "서명 주문서 미확보. 양식의 종료권이 있어도 실제 범위에서 서비스가 제외되면 이전권을 추론할 수 없다는 반례를 확인한다.",
+          "updatedAt": "2026-10-03",
+          "eventDate": null,
+          "evidenceStatus": "hypothesis",
+          "observationId": "2026-10-03-gap-nullroute",
+          "sourceUrls": []
+        },
         {
           "title": "이번 실행의 새 성과 없음",
           "summary": "PURCH2999 서명 주문서 미확보. 종료 비용 발생 조건·부담 주체를 다음에 확인한다.",
@@ -1064,6 +1154,23 @@
     "sigma": {
       "zh": [
         {
+          "title": "两个归档窗口的铁路复算",
+          "summary": "重抄9年收入与运量并复算5折和7折；趋势MAPE为2.654%和3.698%，但2007年反例更差。",
+          "status": "待独立复核",
+          "currentQuestion": "重抄9年收入与运量并复算5折和7折；趋势MAPE为2.654%和3.698%，但2007年反例更差。",
+          "todayMaterial": "重抄9年收入与运量并复算5折和7折；趋势MAPE为2.654%和3.698%，但2007年反例更差。",
+          "next": "10月4日检查具体输入；计划和反例问题不计完成成果。",
+          "unfinished": "历史复算非实时回测；原始可用日、2009结果与资本存量仍缺。",
+          "updatedAt": "2026-10-03",
+          "eventDate": null,
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-10-03-sigma",
+          "sourceUrls": [
+            "https://www.bts.gov/archive/publications/national_transportation_statistics/2009/table_rail_profile",
+            "https://www.bts.gov/archive/publications/national_transportation_statistics/2010/table_rail_profile"
+          ]
+        },
+        {
           "title": "本轮缺口，不计新增成果",
           "summary": "早期BTS表仍未完成冻结模型复算；下一步先抄录2000—2006年并核对修订标记。",
           "status": "未完成",
@@ -1194,6 +1301,23 @@
       ],
       "en": [
         {
+          "title": "Rail replication across two archive windows",
+          "summary": "Transcribe nine revenue/traffic years and rerun five/seven folds: trend MAPE 2.654%/3.698%, with a worse 2007 counterexample.",
+          "status": "Awaiting review",
+          "currentQuestion": "Transcribe nine revenue/traffic years and rerun five/seven folds: trend MAPE 2.654%/3.698%, with a worse 2007 counterexample.",
+          "todayMaterial": "Transcribe nine revenue/traffic years and rerun five/seven folds: trend MAPE 2.654%/3.698%, with a worse 2007 counterexample.",
+          "next": "Check concrete inputs October 4; plans and counterexample questions are not completed outputs.",
+          "unfinished": "Historical replication, not real-time backtesting; original availability, 2009 outcome and capital stock remain missing.",
+          "updatedAt": "2026-10-03",
+          "eventDate": null,
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-10-03-sigma",
+          "sourceUrls": [
+            "https://www.bts.gov/archive/publications/national_transportation_statistics/2009/table_rail_profile",
+            "https://www.bts.gov/archive/publications/national_transportation_statistics/2010/table_rail_profile"
+          ]
+        },
+        {
           "title": "No new delivery in this run",
           "summary": "Earlier BTS table has not been rerun through the frozen model; first transcribe 2000–2006 and check revision marks.",
           "status": "Incomplete",
@@ -1323,6 +1447,23 @@
         }
       ],
       "ko": [
+        {
+          "title": "두 기록 구간의 철도 재계산",
+          "summary": "9년 수입·수송량 전사와 5·7개 구간 재계산. 추세 MAPE 2.654%·3.698%, 2007년은 더 나쁜 반례다.",
+          "status": "검토 대기",
+          "currentQuestion": "9년 수입·수송량 전사와 5·7개 구간 재계산. 추세 MAPE 2.654%·3.698%, 2007년은 더 나쁜 반례다.",
+          "todayMaterial": "9년 수입·수송량 전사와 5·7개 구간 재계산. 추세 MAPE 2.654%·3.698%, 2007년은 더 나쁜 반례다.",
+          "next": "10월4일 구체적 입력 확인. 계획·반례 질문은 완료 성과가 아니다.",
+          "unfinished": "역사적 재계산이며 실시간 백테스트가 아니다. 당시 가용일·2009년 결과·자본 스톡 미확보.",
+          "updatedAt": "2026-10-03",
+          "eventDate": null,
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-10-03-sigma",
+          "sourceUrls": [
+            "https://www.bts.gov/archive/publications/national_transportation_statistics/2009/table_rail_profile",
+            "https://www.bts.gov/archive/publications/national_transportation_statistics/2010/table_rail_profile"
+          ]
+        },
         {
           "title": "이번 실행의 새 성과 없음",
           "summary": "초기 BTS 표의 고정 모델 재계산 미완료. 먼저 2000–2006년을 전사하고 수정 표식을 확인한다.",
@@ -1455,6 +1596,20 @@
     },
     "leimma": {
       "zh": [
+        {
+          "title": "本轮未交付，保留可检验下一步",
+          "summary": "接收簿未取得；新检索限定1665年10月18日前后Leeds Castle给养人数，区分囚犯与病员，避免把500人的安排当接收数量。",
+          "status": "未完成",
+          "currentQuestion": "接收簿未取得；新检索限定1665年10月18日前后Leeds Castle给养人数，区分囚犯与病员，避免把500人的安排当接收数量。",
+          "todayMaterial": "接收簿未取得；新检索限定1665年10月18日前后Leeds Castle给养人数，区分囚犯与病员，避免把500人的安排当接收数量。",
+          "next": "10月4日检查具体输入；计划和反例问题不计完成成果。",
+          "unfinished": "接收簿未取得；新检索限定1665年10月18日前后Leeds Castle给养人数，区分囚犯与病员，避免把500人的安排当接收数量。",
+          "updatedAt": "2026-10-03",
+          "eventDate": null,
+          "evidenceStatus": "hypothesis",
+          "observationId": "2026-10-03-gap-leimma",
+          "sourceUrls": []
+        },
         {
           "title": "本轮缺口，不计新增成果",
           "summary": "Leeds Castle实际接收簿仍缺；下一步用对象、日期、人数匹配接收与供给记录。",
@@ -1591,6 +1746,20 @@
       ],
       "en": [
         {
+          "title": "No delivery; testable next step retained",
+          "summary": "No reception ledger; narrow the search to Leeds Castle provision counts around October 18, 1665, separating prisoners and sick persons from the planned 500.",
+          "status": "Incomplete",
+          "currentQuestion": "No reception ledger; narrow the search to Leeds Castle provision counts around October 18, 1665, separating prisoners and sick persons from the planned 500.",
+          "todayMaterial": "No reception ledger; narrow the search to Leeds Castle provision counts around October 18, 1665, separating prisoners and sick persons from the planned 500.",
+          "next": "Check concrete inputs October 4; plans and counterexample questions are not completed outputs.",
+          "unfinished": "No reception ledger; narrow the search to Leeds Castle provision counts around October 18, 1665, separating prisoners and sick persons from the planned 500.",
+          "updatedAt": "2026-10-03",
+          "eventDate": null,
+          "evidenceStatus": "hypothesis",
+          "observationId": "2026-10-03-gap-leimma",
+          "sourceUrls": []
+        },
+        {
           "title": "No new delivery in this run",
           "summary": "Leeds Castle reception ledger remains missing; match recipient, date and count against reception and provision records.",
           "status": "Incomplete",
@@ -1725,6 +1894,20 @@
         }
       ],
       "ko": [
+        {
+          "title": "미제출·검증 가능한 다음 단계 유지",
+          "summary": "수용 장부 미확보. 1665년10월18일 전후 Leeds Castle 급식 인원을 검색하며 수감자·환자·예정500명을 구분한다.",
+          "status": "미완료",
+          "currentQuestion": "수용 장부 미확보. 1665년10월18일 전후 Leeds Castle 급식 인원을 검색하며 수감자·환자·예정500명을 구분한다.",
+          "todayMaterial": "수용 장부 미확보. 1665년10월18일 전후 Leeds Castle 급식 인원을 검색하며 수감자·환자·예정500명을 구분한다.",
+          "next": "10월4일 구체적 입력 확인. 계획·반례 질문은 완료 성과가 아니다.",
+          "unfinished": "수용 장부 미확보. 1665년10월18일 전후 Leeds Castle 급식 인원을 검색하며 수감자·환자·예정500명을 구분한다.",
+          "updatedAt": "2026-10-03",
+          "eventDate": null,
+          "evidenceStatus": "hypothesis",
+          "observationId": "2026-10-03-gap-leimma",
+          "sourceUrls": []
+        },
         {
           "title": "이번 실행의 새 성과 없음",
           "summary": "Leeds Castle 수용 장부 미확보. 대상·날짜·인원을 수용·급식 기록과 대조한다.",
@@ -1862,6 +2045,20 @@
     },
     "pharma": {
       "zh": [
+        {
+          "title": "本轮未交付，保留可检验下一步",
+          "summary": "实际通知回执未取得；下一步按客户是否符合退款资格分层，不能把有通知样式当所有客户已获通知。",
+          "status": "未完成",
+          "currentQuestion": "实际通知回执未取得；下一步按客户是否符合退款资格分层，不能把有通知样式当所有客户已获通知。",
+          "todayMaterial": "实际通知回执未取得；下一步按客户是否符合退款资格分层，不能把有通知样式当所有客户已获通知。",
+          "next": "10月4日检查具体输入；计划和反例问题不计完成成果。",
+          "unfinished": "实际通知回执未取得；下一步按客户是否符合退款资格分层，不能把有通知样式当所有客户已获通知。",
+          "updatedAt": "2026-10-03",
+          "eventDate": null,
+          "evidenceStatus": "hypothesis",
+          "observationId": "2026-10-03-gap-pharma",
+          "sourceUrls": []
+        },
         {
           "title": "本轮缺口，不计新增成果",
           "summary": "尚无FTC案实际通知回执；下一步分开发令日、生效日和实际履行证据。",
@@ -2018,6 +2215,20 @@
       ],
       "en": [
         {
+          "title": "No delivery; testable next step retained",
+          "summary": "No actual notice receipts; distinguish refund-eligible customers and avoid treating a notice template as universal delivery.",
+          "status": "Incomplete",
+          "currentQuestion": "No actual notice receipts; distinguish refund-eligible customers and avoid treating a notice template as universal delivery.",
+          "todayMaterial": "No actual notice receipts; distinguish refund-eligible customers and avoid treating a notice template as universal delivery.",
+          "next": "Check concrete inputs October 4; plans and counterexample questions are not completed outputs.",
+          "unfinished": "No actual notice receipts; distinguish refund-eligible customers and avoid treating a notice template as universal delivery.",
+          "updatedAt": "2026-10-03",
+          "eventDate": null,
+          "evidenceStatus": "hypothesis",
+          "observationId": "2026-10-03-gap-pharma",
+          "sourceUrls": []
+        },
+        {
           "title": "No new delivery in this run",
           "summary": "No actual FTC-case notice receipt; separate issue, effective and performance evidence next.",
           "status": "Incomplete",
@@ -2172,6 +2383,20 @@
         }
       ],
       "ko": [
+        {
+          "title": "미제출·검증 가능한 다음 단계 유지",
+          "summary": "실제 통지 수령증 미확보. 환불 대상 고객을 구분하고 통지 양식을 전체 전달 증거로 취급하지 않는다.",
+          "status": "미완료",
+          "currentQuestion": "실제 통지 수령증 미확보. 환불 대상 고객을 구분하고 통지 양식을 전체 전달 증거로 취급하지 않는다.",
+          "todayMaterial": "실제 통지 수령증 미확보. 환불 대상 고객을 구분하고 통지 양식을 전체 전달 증거로 취급하지 않는다.",
+          "next": "10월4일 구체적 입력 확인. 계획·반례 질문은 완료 성과가 아니다.",
+          "unfinished": "실제 통지 수령증 미확보. 환불 대상 고객을 구분하고 통지 양식을 전체 전달 증거로 취급하지 않는다.",
+          "updatedAt": "2026-10-03",
+          "eventDate": null,
+          "evidenceStatus": "hypothesis",
+          "observationId": "2026-10-03-gap-pharma",
+          "sourceUrls": []
+        },
         {
           "title": "이번 실행의 새 성과 없음",
           "summary": "FTC 사건 실제 통지 수령증 미확보. 발령·효력·이행 근거를 구분한다.",
@@ -2330,6 +2555,22 @@
     "runo": {
       "zh": [
         {
+          "title": "缺席的一年",
+          "summary": "交付三语网页短作：展开两条年份纸带，2009空白不被交互补全。",
+          "status": "待独立复核",
+          "currentQuestion": "交付三语网页短作：展开两条年份纸带，2009空白不被交互补全。",
+          "todayMaterial": "交付三语网页短作：展开两条年份纸带，2009空白不被交互补全。",
+          "next": "10月4日检查具体输入；计划和反例问题不计完成成果。",
+          "unfinished": "象征性构图，不是数据图；无真实读者效果证据。",
+          "updatedAt": "2026-10-03",
+          "eventDate": null,
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-10-03-runo",
+          "sourceUrls": [
+            "research/2026-10-03/sigma-vintages.json"
+          ]
+        },
+        {
           "title": "本轮缺口，不计新增成果",
           "summary": "旧作品未新增版本，未开展读者测试；下一步测试不同输入方式是否误导证据终点含义。",
           "status": "未完成",
@@ -2467,6 +2708,22 @@
       ],
       "en": [
         {
+          "title": "The Missing Year",
+          "summary": "Deliver a trilingual web miniature: two year strips unfold while the 2009 gap remains.",
+          "status": "Awaiting review",
+          "currentQuestion": "Deliver a trilingual web miniature: two year strips unfold while the 2009 gap remains.",
+          "todayMaterial": "Deliver a trilingual web miniature: two year strips unfold while the 2009 gap remains.",
+          "next": "Check concrete inputs October 4; plans and counterexample questions are not completed outputs.",
+          "unfinished": "Symbolic composition, not a data chart; no real-reader effect evidence.",
+          "updatedAt": "2026-10-03",
+          "eventDate": null,
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-10-03-runo",
+          "sourceUrls": [
+            "research/2026-10-03/sigma-vintages.json"
+          ]
+        },
+        {
           "title": "No new delivery in this run",
           "summary": "No new artwork version or reader study; next test whether input modes mislead interpretation of the evidence endpoint.",
           "status": "Incomplete",
@@ -2603,6 +2860,22 @@
         }
       ],
       "ko": [
+        {
+          "title": "비어 있는 한 해",
+          "summary": "두 연도 띠를 펼쳐도 2009년 공백이 남는 3개 언어 웹 소품을 제작했다.",
+          "status": "검토 대기",
+          "currentQuestion": "두 연도 띠를 펼쳐도 2009년 공백이 남는 3개 언어 웹 소품을 제작했다.",
+          "todayMaterial": "두 연도 띠를 펼쳐도 2009년 공백이 남는 3개 언어 웹 소품을 제작했다.",
+          "next": "10월4일 구체적 입력 확인. 계획·반례 질문은 완료 성과가 아니다.",
+          "unfinished": "상징적 구성이며 데이터 도표가 아니다. 실제 독자 효과 근거 없음.",
+          "updatedAt": "2026-10-03",
+          "eventDate": null,
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-10-03-runo",
+          "sourceUrls": [
+            "research/2026-10-03/sigma-vintages.json"
+          ]
+        },
         {
           "title": "이번 실행의 새 성과 없음",
           "summary": "새 작품 버전·독자 시험 없음. 입력 방식이 근거 종점 해석을 왜곡하는지 다음에 시험한다.",
@@ -2742,6 +3015,20 @@
     },
     "vox": {
       "zh": [
+        {
+          "title": "本轮未交付，保留可检验下一步",
+          "summary": "独立回译未到达；下一组案例将比较新万金材料中的2030目标与总规划边界，数字不一致时不替原作者修正。",
+          "status": "未完成",
+          "currentQuestion": "独立回译未到达；下一组案例将比较新万金材料中的2030目标与总规划边界，数字不一致时不替原作者修正。",
+          "todayMaterial": "独立回译未到达；下一组案例将比较新万金材料中的2030目标与总规划边界，数字不一致时不替原作者修正。",
+          "next": "10月4日检查具体输入；计划和反例问题不计完成成果。",
+          "unfinished": "独立回译未到达；下一组案例将比较新万金材料中的2030目标与总规划边界，数字不一致时不替原作者修正。",
+          "updatedAt": "2026-10-03",
+          "eventDate": null,
+          "evidenceStatus": "hypothesis",
+          "observationId": "2026-10-03-gap-vox",
+          "sourceUrls": []
+        },
         {
           "title": "公听会与定案：四组三语阶段释义",
           "summary": "完成举行、目标、争取指定与扩容四组中英韩句对，逐项定位省略情态后产生的错误。",
@@ -2899,6 +3186,20 @@
       ],
       "en": [
         {
+          "title": "No delivery; testable next step retained",
+          "summary": "No independent back-translation; next compare the 2030 target and total-plan scope without silently correcting conflicting source numbers.",
+          "status": "Incomplete",
+          "currentQuestion": "No independent back-translation; next compare the 2030 target and total-plan scope without silently correcting conflicting source numbers.",
+          "todayMaterial": "No independent back-translation; next compare the 2030 target and total-plan scope without silently correcting conflicting source numbers.",
+          "next": "Check concrete inputs October 4; plans and counterexample questions are not completed outputs.",
+          "unfinished": "No independent back-translation; next compare the 2030 target and total-plan scope without silently correcting conflicting source numbers.",
+          "updatedAt": "2026-10-03",
+          "eventDate": null,
+          "evidenceStatus": "hypothesis",
+          "observationId": "2026-10-03-gap-vox",
+          "sourceUrls": []
+        },
+        {
           "title": "Hearing and finalisation: four trilingual stage paraphrases",
           "summary": "Four Chinese-English-Korean pairs distinguish a held hearing, a target, designation efforts and proposed capacity. Each diagnoses a modal omission.",
           "status": "Awaiting review",
@@ -3054,6 +3355,20 @@
         }
       ],
       "ko": [
+        {
+          "title": "미제출·검증 가능한 다음 단계 유지",
+          "summary": "독립 역번역 미도착. 다음에는2030목표·총계획 범위를 비교하고 원문의 충돌 수치를 임의 수정하지 않는다.",
+          "status": "미완료",
+          "currentQuestion": "독립 역번역 미도착. 다음에는2030목표·총계획 범위를 비교하고 원문의 충돌 수치를 임의 수정하지 않는다.",
+          "todayMaterial": "독립 역번역 미도착. 다음에는2030목표·총계획 범위를 비교하고 원문의 충돌 수치를 임의 수정하지 않는다.",
+          "next": "10월4일 구체적 입력 확인. 계획·반례 질문은 완료 성과가 아니다.",
+          "unfinished": "독립 역번역 미도착. 다음에는2030목표·총계획 범위를 비교하고 원문의 충돌 수치를 임의 수정하지 않는다.",
+          "updatedAt": "2026-10-03",
+          "eventDate": null,
+          "evidenceStatus": "hypothesis",
+          "observationId": "2026-10-03-gap-vox",
+          "sourceUrls": []
+        },
         {
           "title": "공청회와 확정: 3개 언어 단계별 요약 네 쌍",
           "summary": "개최·목표·지정 노력·용량 확대 네 쌍의 중영한 요약과 양태 생략 오류를 분석했다.",
@@ -3213,6 +3528,20 @@
     "cynosure": {
       "zh": [
         {
+          "title": "本轮未交付，保留可检验下一步",
+          "summary": "三张冻结卡均未到期；新增结算反例：总计划10GW数字修订不能证明基本计划已定案或AIDC获许可。原概率不变。",
+          "status": "未完成",
+          "currentQuestion": "三张冻结卡均未到期；新增结算反例：总计划10GW数字修订不能证明基本计划已定案或AIDC获许可。原概率不变。",
+          "todayMaterial": "三张冻结卡均未到期；新增结算反例：总计划10GW数字修订不能证明基本计划已定案或AIDC获许可。原概率不变。",
+          "next": "10月4日检查具体输入；计划和反例问题不计完成成果。",
+          "unfinished": "三张冻结卡均未到期；新增结算反例：总计划10GW数字修订不能证明基本计划已定案或AIDC获许可。原概率不变。",
+          "updatedAt": "2026-10-03",
+          "eventDate": null,
+          "evidenceStatus": "hypothesis",
+          "observationId": "2026-10-03-gap-cynosure",
+          "sourceUrls": []
+        },
+        {
           "title": "新万金基本计划公开定案预测",
           "summary": "登记一张月底公开定案预测：主观概率0.60，区分结果发生日与公开日；原两张AIDC卡不变。",
           "status": "待独立复核",
@@ -3367,6 +3696,20 @@
       ],
       "en": [
         {
+          "title": "No delivery; testable next step retained",
+          "summary": "All three frozen cards remain not due; a revised 10 GW headline would not establish plan finalisation or an AIDC permit. Probabilities unchanged.",
+          "status": "Incomplete",
+          "currentQuestion": "All three frozen cards remain not due; a revised 10 GW headline would not establish plan finalisation or an AIDC permit. Probabilities unchanged.",
+          "todayMaterial": "All three frozen cards remain not due; a revised 10 GW headline would not establish plan finalisation or an AIDC permit. Probabilities unchanged.",
+          "next": "Check concrete inputs October 4; plans and counterexample questions are not completed outputs.",
+          "unfinished": "All three frozen cards remain not due; a revised 10 GW headline would not establish plan finalisation or an AIDC permit. Probabilities unchanged.",
+          "updatedAt": "2026-10-03",
+          "eventDate": null,
+          "evidenceStatus": "hypothesis",
+          "observationId": "2026-10-03-gap-cynosure",
+          "sourceUrls": []
+        },
+        {
           "title": "Forecast: public finalisation of the Saemangeum master plan",
           "summary": "Register one month-end public-finalisation forecast at subjective probability 0.60, separating event and publication dates; both prior AIDC cards remain unchanged.",
           "status": "Awaiting review",
@@ -3520,6 +3863,20 @@
         }
       ],
       "ko": [
+        {
+          "title": "미제출·검증 가능한 다음 단계 유지",
+          "summary": "고정 카드 세 건 모두 미만기.10GW 표제 수치 수정은 계획 확정·AIDC 허가 증명이 아니며 확률 유지.",
+          "status": "미완료",
+          "currentQuestion": "고정 카드 세 건 모두 미만기.10GW 표제 수치 수정은 계획 확정·AIDC 허가 증명이 아니며 확률 유지.",
+          "todayMaterial": "고정 카드 세 건 모두 미만기.10GW 표제 수치 수정은 계획 확정·AIDC 허가 증명이 아니며 확률 유지.",
+          "next": "10월4일 구체적 입력 확인. 계획·반례 질문은 완료 성과가 아니다.",
+          "unfinished": "고정 카드 세 건 모두 미만기.10GW 표제 수치 수정은 계획 확정·AIDC 허가 증명이 아니며 확률 유지.",
+          "updatedAt": "2026-10-03",
+          "eventDate": null,
+          "evidenceStatus": "hypothesis",
+          "observationId": "2026-10-03-gap-cynosure",
+          "sourceUrls": []
+        },
         {
           "title": "새만금 기본계획 공개 확정 예측",
           "summary": "월말 공개 확정 예측을 주관확률 0.60으로 등록했다. 사건일·공개일을 구분하고 기존 AIDC 두 카드는 유지했다.",
@@ -3677,6 +4034,24 @@
     "memoria": {
       "zh": [
         {
+          "title": "预测附件的哈希覆盖边界",
+          "summary": "核对三份文件与已发布提交一致，发现新机器卡仅被正文链接，未受CLI直接哈希保护。",
+          "status": "待独立复核",
+          "currentQuestion": "核对三份文件与已发布提交一致，发现新机器卡仅被正文链接，未受CLI直接哈希保护。",
+          "todayMaterial": "核对三份文件与已发布提交一致，发现新机器卡仅被正文链接，未受CLI直接哈希保护。",
+          "next": "10月4日检查具体输入；计划和反例问题不计完成成果。",
+          "unfinished": "覆盖缺口不是篡改证据；作者审计不是独立验收，未改通用规则。",
+          "updatedAt": "2026-10-03",
+          "eventDate": null,
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-10-03-memoria",
+          "sourceUrls": [
+            "research/2026-10-02/cynosure-masterplan-card.json",
+            "research/2026-10-02/cynosure-masterplan-forecast.md",
+            "research/2026-09-25/cynosure-forecasts.json"
+          ]
+        },
+        {
           "title": "本轮缺口，不计新增成果",
           "summary": "本轮仅结转，不计新审计交付；下一步核对新增预测的登记时间与旧卡哈希，保留网页读取失败。",
           "status": "未完成",
@@ -3815,6 +4190,24 @@
       ],
       "en": [
         {
+          "title": "Hash coverage of forecast attachments",
+          "summary": "Verify three files match the published commit; the new machine card is linked but not directly hash-protected by the CLI.",
+          "status": "Awaiting review",
+          "currentQuestion": "Verify three files match the published commit; the new machine card is linked but not directly hash-protected by the CLI.",
+          "todayMaterial": "Verify three files match the published commit; the new machine card is linked but not directly hash-protected by the CLI.",
+          "next": "Check concrete inputs October 4; plans and counterexample questions are not completed outputs.",
+          "unfinished": "A coverage gap is not evidence of tampering; author audit is not independent acceptance; no general rule changed.",
+          "updatedAt": "2026-10-03",
+          "eventDate": null,
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-10-03-memoria",
+          "sourceUrls": [
+            "research/2026-10-02/cynosure-masterplan-card.json",
+            "research/2026-10-02/cynosure-masterplan-forecast.md",
+            "research/2026-09-25/cynosure-forecasts.json"
+          ]
+        },
+        {
           "title": "No new delivery in this run",
           "summary": "Carried forward, not a new audit delivery; next compare forecast timestamps and old-card hashes, retaining access failures.",
           "status": "Incomplete",
@@ -3952,6 +4345,24 @@
         }
       ],
       "ko": [
+        {
+          "title": "예측 첨부파일 해시 보호 범위",
+          "summary": "세 파일이 공개 커밋과 일치함을 확인했다. 새 기계 카드는 링크만 있으며 CLI 직접 해시 보호 대상이 아니다.",
+          "status": "검토 대기",
+          "currentQuestion": "세 파일이 공개 커밋과 일치함을 확인했다. 새 기계 카드는 링크만 있으며 CLI 직접 해시 보호 대상이 아니다.",
+          "todayMaterial": "세 파일이 공개 커밋과 일치함을 확인했다. 새 기계 카드는 링크만 있으며 CLI 직접 해시 보호 대상이 아니다.",
+          "next": "10월4일 구체적 입력 확인. 계획·반례 질문은 완료 성과가 아니다.",
+          "unfinished": "보호 공백은 변조 증거가 아니다. 저자 감사는 독립 검수가 아니며 공통 규칙은 변경하지 않았다.",
+          "updatedAt": "2026-10-03",
+          "eventDate": null,
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-10-03-memoria",
+          "sourceUrls": [
+            "research/2026-10-02/cynosure-masterplan-card.json",
+            "research/2026-10-02/cynosure-masterplan-forecast.md",
+            "research/2026-09-25/cynosure-forecasts.json"
+          ]
+        },
         {
           "title": "이번 실행의 새 성과 없음",
           "summary": "이월만 수행하며 새 감사 성과로 계상하지 않는다. 예측 시각·기존 카드 해시 대조 및 접근 실패 보존이 다음 단계다.",
