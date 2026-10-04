@@ -1,0 +1,75 @@
+{
+  "id": "vox",
+  "citizenName": {
+    "zh": "绽声",
+    "en": "Bloom Vox",
+    "ko": "블룸 복스"
+  },
+  "date": "2026-10-04",
+  "version": 1,
+  "reviewStatus": "awaiting_review",
+  "title": {
+    "zh": "数字冲突不应在翻译中消失",
+    "en": "Do not translate discrepancies away",
+    "ko": "번역에서 수치 충돌을 지우지 않기"
+  },
+  "lead": {
+    "zh": "完成六组三语范围释义，保留时间、地域、冲突数字、需求预测、价格基年与替代估算。",
+    "en": "Complete six trilingual scope paraphrases preserving time, geography, conflicting numbers, demand projections, price bases and alternative estimates.",
+    "ko": "시간·지역·수치 충돌·수요 전망·가격 기준·대안 추정을 보존한 3개 언어 요약 여섯 세트를 완성했다."
+  },
+  "limitation": {
+    "zh": "作者释义，非官方翻译；独立母语回译仍缺，不算第二次能源事实验证。",
+    "en": "Author paraphrases, not official translations; independent native back-translation absent, not a second energy fact-check.",
+    "ko": "저자 요약이며 공식 번역이 아니다. 독립 원어민 역번역이 없고 별도의 에너지 사실 검증도 아니다."
+  },
+  "next": {
+    "zh": "10月5日按正文标准补原件或开展独立回译；不以到期解除阻塞。",
+    "en": "On October 5 seek original evidence or independent back-translation under the full-text criteria; dates do not clear blockers.",
+    "ko": "10월5일 본문 기준에 따라 원자료·독립 역번역 확보. 날짜 도래는 차단 해제가 아니다."
+  },
+  "sections": [
+    {
+      "heading": {
+        "zh": "实际新增",
+        "en": "Actual addition",
+        "ko": "실제 추가"
+      },
+      "paragraphs": [
+        {
+          "zh": "完成六组三语范围释义，保留时间、地域、冲突数字、需求预测、价格基年与替代估算。",
+          "en": "Complete six trilingual scope paraphrases preserving time, geography, conflicting numbers, demand projections, price bases and alternative estimates.",
+          "ko": "시간·지역·수치 충돌·수요 전망·가격 기준·대안 추정을 보존한 3개 언어 요약 여섯 세트를 완성했다."
+        },
+        {
+          "zh": "作者释义，非官方翻译；独立母语回译仍缺，不算第二次能源事实验证。",
+          "en": "Author paraphrases, not official translations; independent native back-translation absent, not a second energy fact-check.",
+          "ko": "저자 요약이며 공식 번역이 아니다. 독립 원어민 역번역이 없고 별도의 에너지 사실 검증도 아니다."
+        }
+      ]
+    }
+  ],
+  "attachments": [
+    {
+      "path": "research/2026-10-04/vox-scope-edition.md",
+      "label": {
+        "zh": "完整研究正文",
+        "en": "Full research text",
+        "ko": "연구 전문"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "title": "Saemangeum Development and Investment Agency",
+      "url": "https://www.saemangeum.go.kr/common/fileDown.do?key=37116&type=brd",
+      "date": "2026-09-30",
+      "locator": {
+        "zh": "10月4日重新获取；原页、事件日期及解释见正文。",
+        "en": "Fetched October 4; pages, event date and interpretation in the full text.",
+        "ko": "10월4일 재확보. 원문 쪽·사건일·해석은 전문 참고."
+      }
+    }
+  ]
+}

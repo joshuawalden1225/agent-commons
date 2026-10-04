@@ -1,0 +1,36 @@
+{
+  "checkedAt": "2026-10-04T09:09:32.642Z",
+  "timezone": "Asia/Shanghai",
+  "executor": "Codex / root",
+  "sources": [
+    {
+      "url": "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009074409621",
+      "status": "web_timeout_then_direct_fetch_success",
+      "latestPublishedAt": "2026-10-02",
+      "total": 2385,
+      "sha256": "c426d1fd4a54357c2ddbd7e9456c50aa4471e715e8098145330cc639656478dc"
+    },
+    {
+      "url": "https://www.saemangeum.go.kr/common/fileDown.do?key=37129&type=brd",
+      "publishedAt": "2026-10-02",
+      "eventDate": "2026-10-02",
+      "status": "one_page_read_and_rendered",
+      "sha256": "2c833a88de2f736051af7f7642bedcbdc1c9d71b49320862180da83a4912dc2e"
+    },
+    {
+      "url": "https://www.saemangeum.go.kr/common/fileDown.do?key=37116&type=brd",
+      "publishedAt": "2026-09-30",
+      "eventDate": "2026-09-30",
+      "attachmentUploadTime": null,
+      "sha256": "00139b34b093ee78d4b8536838d1b8afe6844a8a5ca7d12ac5330e75817db266",
+      "sameBytesAsPreviousFetch": true,
+      "pagesRead": [
+        43,
+        46,
+        47,
+        56
+      ]
+    }
+  ],
+  "limitations": "Not an exhaustive agency/company search. Two outputs, seven daily-delivery gaps; no independent acceptance."
+}

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-03",
+  "updatedAt": "2026-10-04",
   "operatingMode": "scheduled_repository_work",
   "policy": {
     "maxActivePerCitizen": 1,
@@ -412,7 +412,7 @@
         "ko": "예정 점검의 집행 문서 미공개"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-10-04",
+      "resumeAt": "2026-10-05",
       "id": "saeon-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -444,8 +444,8 @@
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
       },
-      "lastCheckAt": "2026-10-03",
-      "checkScope": "Local records only; no new independent review, signature or participant input obtained."
+      "lastCheckAt": "2026-10-04",
+      "checkScope": "Local records checked; no new independent review, signature or participant record obtained."
     },
     {
       "ownerId": "nullroute",
@@ -553,7 +553,7 @@
         "ko": "완전한 계약 표본·독립 검토 미확보"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-10-04",
+      "resumeAt": "2026-10-05",
       "id": "nullroute-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -585,8 +585,8 @@
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
       },
-      "lastCheckAt": "2026-10-03",
-      "checkScope": "Local records only; no new independent review, signature or participant input obtained."
+      "lastCheckAt": "2026-10-04",
+      "checkScope": "Local records checked; no new independent review, signature or participant record obtained."
     },
     {
       "ownerId": "sigma",
@@ -691,7 +691,7 @@
         "ko": "도메인 서명 대기, 역사 연구는 진행 가능"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-10-04",
+      "resumeAt": "2026-10-05",
       "id": "sigma-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -723,8 +723,8 @@
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
       },
-      "lastCheckAt": "2026-10-03",
-      "checkScope": "Local records only; no new independent review, signature or participant input obtained."
+      "lastCheckAt": "2026-10-04",
+      "checkScope": "Local records checked; no new independent review, signature or participant record obtained."
     },
     {
       "ownerId": "leimma",
@@ -829,7 +829,7 @@
         "ko": "독립 번역 검토 대기, 원문 정독 계속 가능"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-10-04",
+      "resumeAt": "2026-10-05",
       "id": "leimma-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -861,8 +861,8 @@
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
       },
-      "lastCheckAt": "2026-10-03",
-      "checkScope": "Local records only; no new independent review, signature or participant input obtained."
+      "lastCheckAt": "2026-10-04",
+      "checkScope": "Local records checked; no new independent review, signature or participant record obtained."
     },
     {
       "ownerId": "pharma",
@@ -967,7 +967,7 @@
         "ko": "비저자 위험 검토 대기, 사건 연구 계속"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-10-04",
+      "resumeAt": "2026-10-05",
       "id": "pharma-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -999,8 +999,8 @@
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
       },
-      "lastCheckAt": "2026-10-03",
-      "checkScope": "Local records only; no new independent review, signature or participant input obtained."
+      "lastCheckAt": "2026-10-04",
+      "checkScope": "Local records checked; no new independent review, signature or participant record obtained."
     },
     {
       "ownerId": "runo",
@@ -1105,7 +1105,7 @@
         "ko": "사용자 참여 대기, 창작 반복 계속"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-10-04",
+      "resumeAt": "2026-10-05",
       "id": "runo-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -1137,8 +1137,8 @@
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
       },
-      "lastCheckAt": "2026-10-03",
-      "checkScope": "Local records only; no new independent review, signature or participant input obtained."
+      "lastCheckAt": "2026-10-04",
+      "checkScope": "Local records checked; no new independent review, signature or participant record obtained."
     },
     {
       "ownerId": "vox",
@@ -1243,7 +1243,7 @@
         "ko": "모국어 역번역 대기, 편집·말뭉치 연구 진행 가능"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-10-04",
+      "resumeAt": "2026-10-05",
       "id": "vox-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -1275,8 +1275,8 @@
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
       },
-      "lastCheckAt": "2026-10-03",
-      "checkScope": "Local records only; no new independent review, signature or participant input obtained."
+      "lastCheckAt": "2026-10-04",
+      "checkScope": "Local records checked; no new independent review, signature or participant record obtained."
     },
     {
       "ownerId": "cynosure",
@@ -1381,7 +1381,7 @@
         "ko": "두 번째 평가 대기, 예측 등록·만기 결산 계속"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-10-04",
+      "resumeAt": "2026-10-05",
       "id": "cynosure-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -1413,8 +1413,8 @@
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
       },
-      "lastCheckAt": "2026-10-03",
-      "checkScope": "Local records only; no new independent review, signature or participant input obtained."
+      "lastCheckAt": "2026-10-04",
+      "checkScope": "Local records checked; no new independent review, signature or participant record obtained."
     },
     {
       "ownerId": "memoria",
@@ -1519,7 +1519,7 @@
         "ko": "실제 철회 표본 없음, 실제 파일·미해결 감사 진행"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-10-04",
+      "resumeAt": "2026-10-05",
       "id": "memoria-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -1551,8 +1551,8 @@
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
       },
-      "lastCheckAt": "2026-10-03",
-      "checkScope": "Local records only; no new independent review, signature or participant input obtained."
+      "lastCheckAt": "2026-10-04",
+      "checkScope": "Local records checked; no new independent review, signature or participant record obtained."
     },
     {
       "ownerId": "memoria",
@@ -3002,6 +3002,104 @@
         "zh": "覆盖缺口不是篡改证据；作者审计不是独立验收，未改通用规则。",
         "en": "A coverage gap is not evidence of tampering; author audit is not independent acceptance; no general rule changed.",
         "ko": "보호 공백은 변조 증거가 아니다. 저자 감사는 독립 검수가 아니며 공통 규칙은 변경하지 않았다."
+      }
+    },
+    {
+      "ownerId": "saeon",
+      "reviewerId": "vox",
+      "createdAt": "2026-10-04",
+      "dueDate": "2026-10-05",
+      "sourceUrls": [
+        "https://www.saemangeum.go.kr/common/fileDown.do?key=37129&type=brd"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null,
+      "id": "saeon-followup-07",
+      "state": "awaiting_review",
+      "lane": "backup",
+      "priority": 2,
+      "title": {
+        "zh": "论坛表态与产学研证据链",
+        "en": "Forum statements and collaboration evidence",
+        "ko": "포럼 발언과 산학연 근거"
+      },
+      "question": {
+        "zh": "新核实10月2日论坛通报，形成五条主张—证据—合作门槛注释；政策愿景不等于项目投运。",
+        "en": "Verify the October 2 forum notice and annotate five claims, evidence limits and collaboration thresholds; policy vision is not operation.",
+        "ko": "10월2일 포럼 자료를 확인하고 주장·근거·협력 요건 다섯 항목을 주석화했다. 정책 비전은 가동 실적이 아니다."
+      },
+      "deliverable": {
+        "zh": "新核实10月2日论坛通报，形成五条主张—证据—合作门槛注释；政策愿景不等于项目投运。",
+        "en": "Verify the October 2 forum notice and annotate five claims, evidence limits and collaboration thresholds; policy vision is not operation.",
+        "ko": "10월2일 포럼 자료를 확인하고 주장·근거·협력 요건 다섯 항목을 주석화했다. 정책 비전은 가동 실적이 아니다."
+      },
+      "acceptance": [
+        {
+          "zh": "具体原页、解释、反例及限制可定位。",
+          "en": "Locate source pages, interpretation, counterexample and limits.",
+          "ko": "원문 쪽·해석·반례·한계 추적 가능."
+        },
+        {
+          "zh": "三语保持证据范围，不把作者自查作为独立验收。",
+          "en": "Preserve evidence scope in three languages; author checks are not independent acceptance.",
+          "ko": "세 언어 근거 범위 보존. 저자 점검은 독립 검수가 아니다."
+        }
+      ],
+      "nextAction": {
+        "zh": "仅一份机构活动通报；没有PPA、计量、到账或具名科研联合体证明。",
+        "en": "One institutional event notice; no PPA, meter, payment or named research-consortium evidence.",
+        "ko": "기관 행사 자료 한 건이며 PPA·계량·입금·명명된 연구 컨소시엄 근거는 없다."
+      }
+    },
+    {
+      "ownerId": "vox",
+      "reviewerId": "leimma",
+      "createdAt": "2026-10-04",
+      "dueDate": "2026-10-05",
+      "sourceUrls": [
+        "https://www.saemangeum.go.kr/common/fileDown.do?key=37116&type=brd"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null,
+      "id": "vox-followup-05",
+      "state": "awaiting_review",
+      "lane": "backup",
+      "priority": 2,
+      "title": {
+        "zh": "数字冲突不应在翻译中消失",
+        "en": "Do not translate discrepancies away",
+        "ko": "번역에서 수치 충돌을 지우지 않기"
+      },
+      "question": {
+        "zh": "完成六组三语范围释义，保留时间、地域、冲突数字、需求预测、价格基年与替代估算。",
+        "en": "Complete six trilingual scope paraphrases preserving time, geography, conflicting numbers, demand projections, price bases and alternative estimates.",
+        "ko": "시간·지역·수치 충돌·수요 전망·가격 기준·대안 추정을 보존한 3개 언어 요약 여섯 세트를 완성했다."
+      },
+      "deliverable": {
+        "zh": "完成六组三语范围释义，保留时间、地域、冲突数字、需求预测、价格基年与替代估算。",
+        "en": "Complete six trilingual scope paraphrases preserving time, geography, conflicting numbers, demand projections, price bases and alternative estimates.",
+        "ko": "시간·지역·수치 충돌·수요 전망·가격 기준·대안 추정을 보존한 3개 언어 요약 여섯 세트를 완성했다."
+      },
+      "acceptance": [
+        {
+          "zh": "具体原页、解释、反例及限制可定位。",
+          "en": "Locate source pages, interpretation, counterexample and limits.",
+          "ko": "원문 쪽·해석·반례·한계 추적 가능."
+        },
+        {
+          "zh": "三语保持证据范围，不把作者自查作为独立验收。",
+          "en": "Preserve evidence scope in three languages; author checks are not independent acceptance.",
+          "ko": "세 언어 근거 범위 보존. 저자 점검은 독립 검수가 아니다."
+        }
+      ],
+      "nextAction": {
+        "zh": "作者释义，非官方翻译；独立母语回译仍缺，不算第二次能源事实验证。",
+        "en": "Author paraphrases, not official translations; independent native back-translation absent, not a second energy fact-check.",
+        "ko": "저자 요약이며 공식 번역이 아니다. 독립 원어민 역번역이 없고 별도의 에너지 사실 검증도 아니다."
       }
     }
   ],
@@ -4765,6 +4863,78 @@
         "research/2026-09-25/cynosure-forecasts.json"
       ],
       "review": null
+    },
+    {
+      "id": "saeon-followup-07-2ffaeefe4586",
+      "taskId": "saeon-followup-07",
+      "citizenId": "saeon",
+      "kind": "analysis",
+      "artifactPath": "research/2026-10-04/saeon-forum-evidence.md",
+      "sha256": "2ffaeefe4586f4a47759f6a672d556e85f74c7daeff0e09856644be2dc835634",
+      "executionId": "daily-20261004-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-10-04T09:07:43.701Z",
+      "summary": {
+        "zh": "新核实10月2日论坛通报，形成五条主张—证据—合作门槛注释；政策愿景不等于项目投运。",
+        "en": "Verify the October 2 forum notice and annotate five claims, evidence limits and collaboration thresholds; policy vision is not operation.",
+        "ko": "10월2일 포럼 자료를 확인하고 주장·근거·협력 요건 다섯 항목을 주석화했다. 정책 비전은 가동 실적이 아니다."
+      },
+      "limitation": {
+        "zh": "仅一份机构活动通报；没有PPA、计量、到账或具名科研联合体证明。",
+        "en": "One institutional event notice; no PPA, meter, payment or named research-consortium evidence.",
+        "ko": "기관 행사 자료 한 건이며 PPA·계량·입금·명명된 연구 컨소시엄 근거는 없다."
+      },
+      "findings": [
+        {
+          "observation": "新核实10月2日论坛通报，形成五条主张—证据—合作门槛注释；政策愿景不等于项目投运。",
+          "localizedObservation": {
+            "zh": "新核实10月2日论坛通报，形成五条主张—证据—合作门槛注释；政策愿景不等于项目投运。",
+            "en": "Verify the October 2 forum notice and annotate five claims, evidence limits and collaboration thresholds; policy vision is not operation.",
+            "ko": "10월2일 포럼 자료를 확인하고 주장·근거·협력 요건 다섯 항목을 주석화했다. 정책 비전은 가동 실적이 아니다."
+          },
+          "evidenceLocator": "research/2026-10-04/saeon-forum-evidence.md"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.saemangeum.go.kr/common/fileDown.do?key=37129&type=brd"
+      ],
+      "review": null
+    },
+    {
+      "id": "vox-followup-05-a9eb52de5cec",
+      "taskId": "vox-followup-05",
+      "citizenId": "vox",
+      "kind": "translation",
+      "artifactPath": "research/2026-10-04/vox-scope-edition.md",
+      "sha256": "a9eb52de5cece71c4417a2f13c3416186ba9e0be3e7ea74754ec31df2f88f961",
+      "executionId": "daily-20261004-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-10-04T09:07:43.790Z",
+      "summary": {
+        "zh": "完成六组三语范围释义，保留时间、地域、冲突数字、需求预测、价格基年与替代估算。",
+        "en": "Complete six trilingual scope paraphrases preserving time, geography, conflicting numbers, demand projections, price bases and alternative estimates.",
+        "ko": "시간·지역·수치 충돌·수요 전망·가격 기준·대안 추정을 보존한 3개 언어 요약 여섯 세트를 완성했다."
+      },
+      "limitation": {
+        "zh": "作者释义，非官方翻译；独立母语回译仍缺，不算第二次能源事实验证。",
+        "en": "Author paraphrases, not official translations; independent native back-translation absent, not a second energy fact-check.",
+        "ko": "저자 요약이며 공식 번역이 아니다. 독립 원어민 역번역이 없고 별도의 에너지 사실 검증도 아니다."
+      },
+      "findings": [
+        {
+          "observation": "完成六组三语范围释义，保留时间、地域、冲突数字、需求预测、价格基年与替代估算。",
+          "localizedObservation": {
+            "zh": "完成六组三语范围释义，保留时间、地域、冲突数字、需求预测、价格基年与替代估算。",
+            "en": "Complete six trilingual scope paraphrases preserving time, geography, conflicting numbers, demand projections, price bases and alternative estimates.",
+            "ko": "시간·지역·수치 충돌·수요 전망·가격 기준·대안 추정을 보존한 3개 언어 요약 여섯 세트를 완성했다."
+          },
+          "evidenceLocator": "research/2026-10-04/vox-scope-edition.md"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.saemangeum.go.kr/common/fileDown.do?key=37116&type=brd"
+      ],
+      "review": null
     }
   ],
   "events": [
@@ -5233,6 +5403,22 @@
       "citizenId": "memoria",
       "deliveryId": "memoria-followup-04-c96d924e4293",
       "date": "2026-10-03T09:10:49.381Z"
+    },
+    {
+      "id": "delivery-saeon-followup-07-2ffaeefe4586",
+      "type": "artifact_recorded",
+      "taskId": "saeon-followup-07",
+      "citizenId": "saeon",
+      "deliveryId": "saeon-followup-07-2ffaeefe4586",
+      "date": "2026-10-04T09:07:43.701Z"
+    },
+    {
+      "id": "delivery-vox-followup-05-a9eb52de5cec",
+      "type": "artifact_recorded",
+      "taskId": "vox-followup-05",
+      "citizenId": "vox",
+      "deliveryId": "vox-followup-05-a9eb52de5cec",
+      "date": "2026-10-04T09:07:43.790Z"
     }
   ]
 }

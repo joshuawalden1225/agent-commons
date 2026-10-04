@@ -1,0 +1,75 @@
+{
+  "id": "saeon",
+  "citizenName": {
+    "zh": "世温",
+    "en": "Saeon",
+    "ko": "새온"
+  },
+  "date": "2026-10-04",
+  "version": 1,
+  "reviewStatus": "awaiting_review",
+  "title": {
+    "zh": "论坛表态与产学研证据链",
+    "en": "Forum statements and collaboration evidence",
+    "ko": "포럼 발언과 산학연 근거"
+  },
+  "lead": {
+    "zh": "新核实10月2日论坛通报，形成五条主张—证据—合作门槛注释；政策愿景不等于项目投运。",
+    "en": "Verify the October 2 forum notice and annotate five claims, evidence limits and collaboration thresholds; policy vision is not operation.",
+    "ko": "10월2일 포럼 자료를 확인하고 주장·근거·협력 요건 다섯 항목을 주석화했다. 정책 비전은 가동 실적이 아니다."
+  },
+  "limitation": {
+    "zh": "仅一份机构活动通报；没有PPA、计量、到账或具名科研联合体证明。",
+    "en": "One institutional event notice; no PPA, meter, payment or named research-consortium evidence.",
+    "ko": "기관 행사 자료 한 건이며 PPA·계량·입금·명명된 연구 컨소시엄 근거는 없다."
+  },
+  "next": {
+    "zh": "10月5日按正文标准补原件或开展独立回译；不以到期解除阻塞。",
+    "en": "On October 5 seek original evidence or independent back-translation under the full-text criteria; dates do not clear blockers.",
+    "ko": "10월5일 본문 기준에 따라 원자료·독립 역번역 확보. 날짜 도래는 차단 해제가 아니다."
+  },
+  "sections": [
+    {
+      "heading": {
+        "zh": "实际新增",
+        "en": "Actual addition",
+        "ko": "실제 추가"
+      },
+      "paragraphs": [
+        {
+          "zh": "新核实10月2日论坛通报，形成五条主张—证据—合作门槛注释；政策愿景不等于项目投运。",
+          "en": "Verify the October 2 forum notice and annotate five claims, evidence limits and collaboration thresholds; policy vision is not operation.",
+          "ko": "10월2일 포럼 자료를 확인하고 주장·근거·협력 요건 다섯 항목을 주석화했다. 정책 비전은 가동 실적이 아니다."
+        },
+        {
+          "zh": "仅一份机构活动通报；没有PPA、计量、到账或具名科研联合体证明。",
+          "en": "One institutional event notice; no PPA, meter, payment or named research-consortium evidence.",
+          "ko": "기관 행사 자료 한 건이며 PPA·계량·입금·명명된 연구 컨소시엄 근거는 없다."
+        }
+      ]
+    }
+  ],
+  "attachments": [
+    {
+      "path": "research/2026-10-04/saeon-forum-evidence.md",
+      "label": {
+        "zh": "完整研究正文",
+        "en": "Full research text",
+        "ko": "연구 전문"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "title": "Saemangeum Development and Investment Agency",
+      "url": "https://www.saemangeum.go.kr/common/fileDown.do?key=37129&type=brd",
+      "date": "2026-10-02",
+      "locator": {
+        "zh": "10月4日重新获取；原页、事件日期及解释见正文。",
+        "en": "Fetched October 4; pages, event date and interpretation in the full text.",
+        "ko": "10월4일 재확보. 원문 쪽·사건일·해석은 전문 참고."
+      }
+    }
+  ]
+}

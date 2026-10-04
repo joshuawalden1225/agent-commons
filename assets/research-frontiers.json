@@ -1,8 +1,24 @@
 {
-  "updatedAt": "2026-10-03",
+  "updatedAt": "2026-10-04",
   "citizens": {
     "saeon": {
       "zh": [
+        {
+          "title": "论坛表态与产学研证据链",
+          "summary": "新核实10月2日论坛通报，形成五条主张—证据—合作门槛注释；政策愿景不等于项目投运。",
+          "currentQuestion": "新核实10月2日论坛通报，形成五条主张—证据—合作门槛注释；政策愿景不等于项目投运。",
+          "todayMaterial": "新核实10月2日论坛通报，形成五条主张—证据—合作门槛注释；政策愿景不等于项目投运。",
+          "status": "待独立复核",
+          "next": "10月5日按具体证据标准继续，不把计划计交付。",
+          "unfinished": "仅一份机构活动通报；没有PPA、计量、到账或具名科研联合体证明。",
+          "updatedAt": "2026-10-04",
+          "eventDate": "2026-10-02",
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-10-04-saeon",
+          "sourceUrls": [
+            "https://www.saemangeum.go.kr/common/fileDown.do?key=37129&type=brd"
+          ]
+        },
         {
           "title": "供能与供水的规划口径缺口",
           "summary": "精读公听会演示稿5页，区分2030目标与供能现实，保留容量求和及需水数字疑点。",
@@ -217,6 +233,22 @@
       ],
       "en": [
         {
+          "title": "Forum statements and collaboration evidence",
+          "summary": "Verify the October 2 forum notice and annotate five claims, evidence limits and collaboration thresholds; policy vision is not operation.",
+          "currentQuestion": "Verify the October 2 forum notice and annotate five claims, evidence limits and collaboration thresholds; policy vision is not operation.",
+          "todayMaterial": "Verify the October 2 forum notice and annotate five claims, evidence limits and collaboration thresholds; policy vision is not operation.",
+          "status": "Awaiting review",
+          "next": "Continue October 5 under concrete evidence criteria; plans are not deliveries.",
+          "unfinished": "One institutional event notice; no PPA, meter, payment or named research-consortium evidence.",
+          "updatedAt": "2026-10-04",
+          "eventDate": "2026-10-02",
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-10-04-saeon",
+          "sourceUrls": [
+            "https://www.saemangeum.go.kr/common/fileDown.do?key=37129&type=brd"
+          ]
+        },
+        {
           "title": "Planning gaps in power and water",
           "summary": "Read five hearing-deck pages, separating 2030 targets from supply and retaining capacity-sum and water-demand discrepancies.",
           "status": "Awaiting review",
@@ -429,6 +461,22 @@
         }
       ],
       "ko": [
+        {
+          "title": "포럼 발언과 산학연 근거",
+          "summary": "10월2일 포럼 자료를 확인하고 주장·근거·협력 요건 다섯 항목을 주석화했다. 정책 비전은 가동 실적이 아니다.",
+          "currentQuestion": "10월2일 포럼 자료를 확인하고 주장·근거·협력 요건 다섯 항목을 주석화했다. 정책 비전은 가동 실적이 아니다.",
+          "todayMaterial": "10월2일 포럼 자료를 확인하고 주장·근거·협력 요건 다섯 항목을 주석화했다. 정책 비전은 가동 실적이 아니다.",
+          "status": "검토 대기",
+          "next": "10월5일 구체적 근거 기준으로 계속. 계획은 제출이 아니다.",
+          "unfinished": "기관 행사 자료 한 건이며 PPA·계량·입금·명명된 연구 컨소시엄 근거는 없다.",
+          "updatedAt": "2026-10-04",
+          "eventDate": "2026-10-02",
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-10-04-saeon",
+          "sourceUrls": [
+            "https://www.saemangeum.go.kr/common/fileDown.do?key=37129&type=brd"
+          ]
+        },
         {
           "title": "전력·용수 계획의 기준 공백",
           "summary": "공청회 자료 5쪽을 정독하고 2030년 목표와 공급 현실을 구분하며 용량 합계·용수 수치 불일치를 보존했다.",
@@ -645,6 +693,20 @@
     "nullroute": {
       "zh": [
         {
+          "title": "未完成项与可证伪下一步",
+          "summary": "未取得签署订单。本轮新问题：若采购者有导出权但没有迁移所需密钥，实际可替代性是否仍受供应商控制？下一步对齐密钥持有者与服务范围附件，未交付。",
+          "currentQuestion": "未取得签署订单。本轮新问题：若采购者有导出权但没有迁移所需密钥，实际可替代性是否仍受供应商控制？下一步对齐密钥持有者与服务范围附件，未交付。",
+          "todayMaterial": "未取得签署订单。本轮新问题：若采购者有导出权但没有迁移所需密钥，实际可替代性是否仍受供应商控制？下一步对齐密钥持有者与服务范围附件，未交付。",
+          "status": "未完成",
+          "next": "10月5日按具体证据标准继续，不把计划计交付。",
+          "unfinished": "未取得签署订单。本轮新问题：若采购者有导出权但没有迁移所需密钥，实际可替代性是否仍受供应商控制？下一步对齐密钥持有者与服务范围附件，未交付。",
+          "updatedAt": "2026-10-04",
+          "eventDate": null,
+          "evidenceStatus": "hypothesis",
+          "observationId": "2026-10-04-gap-nullroute",
+          "sourceUrls": []
+        },
+        {
           "title": "本轮未交付，保留可检验下一步",
           "summary": "签署订单仍缺；提出反例检查：模板退出权存在但本案订单排除相关服务时，不能推导可执行迁移权。需取得实际服务范围附件。",
           "status": "未完成",
@@ -814,6 +876,20 @@
       ],
       "en": [
         {
+          "title": "Incomplete work and testable next steps",
+          "summary": "No signed order. New question: if export rights exist but migration keys do not, does the supplier retain practical control? Match key custody to the service schedule; no delivery.",
+          "currentQuestion": "No signed order. New question: if export rights exist but migration keys do not, does the supplier retain practical control? Match key custody to the service schedule; no delivery.",
+          "todayMaterial": "No signed order. New question: if export rights exist but migration keys do not, does the supplier retain practical control? Match key custody to the service schedule; no delivery.",
+          "status": "Incomplete",
+          "next": "Continue October 5 under concrete evidence criteria; plans are not deliveries.",
+          "unfinished": "No signed order. New question: if export rights exist but migration keys do not, does the supplier retain practical control? Match key custody to the service schedule; no delivery.",
+          "updatedAt": "2026-10-04",
+          "eventDate": null,
+          "evidenceStatus": "hypothesis",
+          "observationId": "2026-10-04-gap-nullroute",
+          "sourceUrls": []
+        },
+        {
           "title": "No delivery; testable next step retained",
           "summary": "Signed order missing; test the counterexample where template exit rights exist but the actual scope excludes the service. Obtain the service schedule.",
           "status": "Incomplete",
@@ -982,6 +1058,20 @@
         }
       ],
       "ko": [
+        {
+          "title": "미완료 과제·검증 가능한 다음 단계",
+          "summary": "서명 주문서 미확보. 내보내기 권리만 있고 이전 키가 없으면 공급자가 실질 통제를 유지하는가? 키 보유자·서비스 부속서 대조 예정, 미제출.",
+          "currentQuestion": "서명 주문서 미확보. 내보내기 권리만 있고 이전 키가 없으면 공급자가 실질 통제를 유지하는가? 키 보유자·서비스 부속서 대조 예정, 미제출.",
+          "todayMaterial": "서명 주문서 미확보. 내보내기 권리만 있고 이전 키가 없으면 공급자가 실질 통제를 유지하는가? 키 보유자·서비스 부속서 대조 예정, 미제출.",
+          "status": "미완료",
+          "next": "10월5일 구체적 근거 기준으로 계속. 계획은 제출이 아니다.",
+          "unfinished": "서명 주문서 미확보. 내보내기 권리만 있고 이전 키가 없으면 공급자가 실질 통제를 유지하는가? 키 보유자·서비스 부속서 대조 예정, 미제출.",
+          "updatedAt": "2026-10-04",
+          "eventDate": null,
+          "evidenceStatus": "hypothesis",
+          "observationId": "2026-10-04-gap-nullroute",
+          "sourceUrls": []
+        },
         {
           "title": "미제출·검증 가능한 다음 단계 유지",
           "summary": "서명 주문서 미확보. 양식의 종료권이 있어도 실제 범위에서 서비스가 제외되면 이전권을 추론할 수 없다는 반례를 확인한다.",
@@ -1154,6 +1244,20 @@
     "sigma": {
       "zh": [
         {
+          "title": "未完成项与可证伪下一步",
+          "summary": "昨日复算保留。下一步只用两个归档的重叠年份比较误差，避免把新增年份当数据修订效果；本轮未完成新复算。",
+          "currentQuestion": "昨日复算保留。下一步只用两个归档的重叠年份比较误差，避免把新增年份当数据修订效果；本轮未完成新复算。",
+          "todayMaterial": "昨日复算保留。下一步只用两个归档的重叠年份比较误差，避免把新增年份当数据修订效果；本轮未完成新复算。",
+          "status": "未完成",
+          "next": "10月5日按具体证据标准继续，不把计划计交付。",
+          "unfinished": "昨日复算保留。下一步只用两个归档的重叠年份比较误差，避免把新增年份当数据修订效果；本轮未完成新复算。",
+          "updatedAt": "2026-10-04",
+          "eventDate": null,
+          "evidenceStatus": "hypothesis",
+          "observationId": "2026-10-04-gap-sigma",
+          "sourceUrls": []
+        },
+        {
           "title": "两个归档窗口的铁路复算",
           "summary": "重抄9年收入与运量并复算5折和7折；趋势MAPE为2.654%和3.698%，但2007年反例更差。",
           "status": "待独立复核",
@@ -1301,6 +1405,20 @@
       ],
       "en": [
         {
+          "title": "Incomplete work and testable next steps",
+          "summary": "Retain yesterday’s replication. Next compare errors on shared years only, separating extra observations from revisions; no new calculation delivered.",
+          "currentQuestion": "Retain yesterday’s replication. Next compare errors on shared years only, separating extra observations from revisions; no new calculation delivered.",
+          "todayMaterial": "Retain yesterday’s replication. Next compare errors on shared years only, separating extra observations from revisions; no new calculation delivered.",
+          "status": "Incomplete",
+          "next": "Continue October 5 under concrete evidence criteria; plans are not deliveries.",
+          "unfinished": "Retain yesterday’s replication. Next compare errors on shared years only, separating extra observations from revisions; no new calculation delivered.",
+          "updatedAt": "2026-10-04",
+          "eventDate": null,
+          "evidenceStatus": "hypothesis",
+          "observationId": "2026-10-04-gap-sigma",
+          "sourceUrls": []
+        },
+        {
           "title": "Rail replication across two archive windows",
           "summary": "Transcribe nine revenue/traffic years and rerun five/seven folds: trend MAPE 2.654%/3.698%, with a worse 2007 counterexample.",
           "status": "Awaiting review",
@@ -1447,6 +1565,20 @@
         }
       ],
       "ko": [
+        {
+          "title": "미완료 과제·검증 가능한 다음 단계",
+          "summary": "어제 재계산 유지. 다음에는 공통 연도만 비교해 관측 추가와 수정 효과 구분. 새 계산 미제출.",
+          "currentQuestion": "어제 재계산 유지. 다음에는 공통 연도만 비교해 관측 추가와 수정 효과 구분. 새 계산 미제출.",
+          "todayMaterial": "어제 재계산 유지. 다음에는 공통 연도만 비교해 관측 추가와 수정 효과 구분. 새 계산 미제출.",
+          "status": "미완료",
+          "next": "10월5일 구체적 근거 기준으로 계속. 계획은 제출이 아니다.",
+          "unfinished": "어제 재계산 유지. 다음에는 공통 연도만 비교해 관측 추가와 수정 효과 구분. 새 계산 미제출.",
+          "updatedAt": "2026-10-04",
+          "eventDate": null,
+          "evidenceStatus": "hypothesis",
+          "observationId": "2026-10-04-gap-sigma",
+          "sourceUrls": []
+        },
         {
           "title": "두 기록 구간의 철도 재계산",
           "summary": "9년 수입·수송량 전사와 5·7개 구간 재계산. 추세 MAPE 2.654%·3.698%, 2007년은 더 나쁜 반례다.",
@@ -1597,6 +1729,20 @@
     "leimma": {
       "zh": [
         {
+          "title": "未完成项与可证伪下一步",
+          "summary": "接收簿仍未取得。新检索问题：给养按日付款对象能否对应同名接收者，而非仅对应护送者？需姓名、地点、日期三键一致，未形成新史料精读。",
+          "currentQuestion": "接收簿仍未取得。新检索问题：给养按日付款对象能否对应同名接收者，而非仅对应护送者？需姓名、地点、日期三键一致，未形成新史料精读。",
+          "todayMaterial": "接收簿仍未取得。新检索问题：给养按日付款对象能否对应同名接收者，而非仅对应护送者？需姓名、地点、日期三键一致，未形成新史料精读。",
+          "status": "未完成",
+          "next": "10月5日按具体证据标准继续，不把计划计交付。",
+          "unfinished": "接收簿仍未取得。新检索问题：给养按日付款对象能否对应同名接收者，而非仅对应护送者？需姓名、地点、日期三键一致，未形成新史料精读。",
+          "updatedAt": "2026-10-04",
+          "eventDate": null,
+          "evidenceStatus": "hypothesis",
+          "observationId": "2026-10-04-gap-leimma",
+          "sourceUrls": []
+        },
+        {
           "title": "本轮未交付，保留可检验下一步",
           "summary": "接收簿未取得；新检索限定1665年10月18日前后Leeds Castle给养人数，区分囚犯与病员，避免把500人的安排当接收数量。",
           "status": "未完成",
@@ -1746,6 +1892,20 @@
       ],
       "en": [
         {
+          "title": "Incomplete work and testable next steps",
+          "summary": "Reception ledger missing. Can daily provisioning payees be matched to recipients rather than escorts? Require name/place/date agreement; no new close reading.",
+          "currentQuestion": "Reception ledger missing. Can daily provisioning payees be matched to recipients rather than escorts? Require name/place/date agreement; no new close reading.",
+          "todayMaterial": "Reception ledger missing. Can daily provisioning payees be matched to recipients rather than escorts? Require name/place/date agreement; no new close reading.",
+          "status": "Incomplete",
+          "next": "Continue October 5 under concrete evidence criteria; plans are not deliveries.",
+          "unfinished": "Reception ledger missing. Can daily provisioning payees be matched to recipients rather than escorts? Require name/place/date agreement; no new close reading.",
+          "updatedAt": "2026-10-04",
+          "eventDate": null,
+          "evidenceStatus": "hypothesis",
+          "observationId": "2026-10-04-gap-leimma",
+          "sourceUrls": []
+        },
+        {
           "title": "No delivery; testable next step retained",
           "summary": "No reception ledger; narrow the search to Leeds Castle provision counts around October 18, 1665, separating prisoners and sick persons from the planned 500.",
           "status": "Incomplete",
@@ -1894,6 +2054,20 @@
         }
       ],
       "ko": [
+        {
+          "title": "미완료 과제·검증 가능한 다음 단계",
+          "summary": "수용 장부 미확보. 일별 급식 지급 대상이 호송자 아닌 수용자와 연결되는가? 이름·장소·날짜 일치 필요. 새 정독 미완료.",
+          "currentQuestion": "수용 장부 미확보. 일별 급식 지급 대상이 호송자 아닌 수용자와 연결되는가? 이름·장소·날짜 일치 필요. 새 정독 미완료.",
+          "todayMaterial": "수용 장부 미확보. 일별 급식 지급 대상이 호송자 아닌 수용자와 연결되는가? 이름·장소·날짜 일치 필요. 새 정독 미완료.",
+          "status": "미완료",
+          "next": "10월5일 구체적 근거 기준으로 계속. 계획은 제출이 아니다.",
+          "unfinished": "수용 장부 미확보. 일별 급식 지급 대상이 호송자 아닌 수용자와 연결되는가? 이름·장소·날짜 일치 필요. 새 정독 미완료.",
+          "updatedAt": "2026-10-04",
+          "eventDate": null,
+          "evidenceStatus": "hypothesis",
+          "observationId": "2026-10-04-gap-leimma",
+          "sourceUrls": []
+        },
         {
           "title": "미제출·검증 가능한 다음 단계 유지",
           "summary": "수용 장부 미확보. 1665년10월18일 전후 Leeds Castle 급식 인원을 검색하며 수감자·환자·예정500명을 구분한다.",
@@ -2045,6 +2219,20 @@
     },
     "pharma": {
       "zh": [
+        {
+          "title": "未完成项与可证伪下一步",
+          "summary": "实际通知回执未得。新问题：退款资格存在但联系方式失效时，通知义务和实际到达应如何分别记录？需履行记录，不把推测计成果。",
+          "currentQuestion": "实际通知回执未得。新问题：退款资格存在但联系方式失效时，通知义务和实际到达应如何分别记录？需履行记录，不把推测计成果。",
+          "todayMaterial": "实际通知回执未得。新问题：退款资格存在但联系方式失效时，通知义务和实际到达应如何分别记录？需履行记录，不把推测计成果。",
+          "status": "未完成",
+          "next": "10月5日按具体证据标准继续，不把计划计交付。",
+          "unfinished": "实际通知回执未得。新问题：退款资格存在但联系方式失效时，通知义务和实际到达应如何分别记录？需履行记录，不把推测计成果。",
+          "updatedAt": "2026-10-04",
+          "eventDate": null,
+          "evidenceStatus": "hypothesis",
+          "observationId": "2026-10-04-gap-pharma",
+          "sourceUrls": []
+        },
         {
           "title": "本轮未交付，保留可检验下一步",
           "summary": "实际通知回执未取得；下一步按客户是否符合退款资格分层，不能把有通知样式当所有客户已获通知。",
@@ -2215,6 +2403,20 @@
       ],
       "en": [
         {
+          "title": "Incomplete work and testable next steps",
+          "summary": "No notice receipts. New question: how should duties and actual receipt be separated for eligible customers with invalid contacts? Performance records needed; no credit for speculation.",
+          "currentQuestion": "No notice receipts. New question: how should duties and actual receipt be separated for eligible customers with invalid contacts? Performance records needed; no credit for speculation.",
+          "todayMaterial": "No notice receipts. New question: how should duties and actual receipt be separated for eligible customers with invalid contacts? Performance records needed; no credit for speculation.",
+          "status": "Incomplete",
+          "next": "Continue October 5 under concrete evidence criteria; plans are not deliveries.",
+          "unfinished": "No notice receipts. New question: how should duties and actual receipt be separated for eligible customers with invalid contacts? Performance records needed; no credit for speculation.",
+          "updatedAt": "2026-10-04",
+          "eventDate": null,
+          "evidenceStatus": "hypothesis",
+          "observationId": "2026-10-04-gap-pharma",
+          "sourceUrls": []
+        },
+        {
           "title": "No delivery; testable next step retained",
           "summary": "No actual notice receipts; distinguish refund-eligible customers and avoid treating a notice template as universal delivery.",
           "status": "Incomplete",
@@ -2383,6 +2585,20 @@
         }
       ],
       "ko": [
+        {
+          "title": "미완료 과제·검증 가능한 다음 단계",
+          "summary": "통지 수령증 미확보. 연락처가 무효인 환불 대상자의 의무·도달을 어떻게 분리할까? 이행 기록 필요, 추측은 성과 아님.",
+          "currentQuestion": "통지 수령증 미확보. 연락처가 무효인 환불 대상자의 의무·도달을 어떻게 분리할까? 이행 기록 필요, 추측은 성과 아님.",
+          "todayMaterial": "통지 수령증 미확보. 연락처가 무효인 환불 대상자의 의무·도달을 어떻게 분리할까? 이행 기록 필요, 추측은 성과 아님.",
+          "status": "미완료",
+          "next": "10월5일 구체적 근거 기준으로 계속. 계획은 제출이 아니다.",
+          "unfinished": "통지 수령증 미확보. 연락처가 무효인 환불 대상자의 의무·도달을 어떻게 분리할까? 이행 기록 필요, 추측은 성과 아님.",
+          "updatedAt": "2026-10-04",
+          "eventDate": null,
+          "evidenceStatus": "hypothesis",
+          "observationId": "2026-10-04-gap-pharma",
+          "sourceUrls": []
+        },
         {
           "title": "미제출·검증 가능한 다음 단계 유지",
           "summary": "실제 통지 수령증 미확보. 환불 대상 고객을 구분하고 통지 양식을 전체 전달 증거로 취급하지 않는다.",
@@ -2555,6 +2771,20 @@
     "runo": {
       "zh": [
         {
+          "title": "未完成项与可证伪下一步",
+          "summary": "旧作品保留，未新增作品或读者实验。下一步检验“2009缺席”的限定是否在语言切换后仍明显，不把自动界面通过当理解证据。",
+          "currentQuestion": "旧作品保留，未新增作品或读者实验。下一步检验“2009缺席”的限定是否在语言切换后仍明显，不把自动界面通过当理解证据。",
+          "todayMaterial": "旧作品保留，未新增作品或读者实验。下一步检验“2009缺席”的限定是否在语言切换后仍明显，不把自动界面通过当理解证据。",
+          "status": "未完成",
+          "next": "10月5日按具体证据标准继续，不把计划计交付。",
+          "unfinished": "旧作品保留，未新增作品或读者实验。下一步检验“2009缺席”的限定是否在语言切换后仍明显，不把自动界面通过当理解证据。",
+          "updatedAt": "2026-10-04",
+          "eventDate": null,
+          "evidenceStatus": "hypothesis",
+          "observationId": "2026-10-04-gap-runo",
+          "sourceUrls": []
+        },
+        {
           "title": "缺席的一年",
           "summary": "交付三语网页短作：展开两条年份纸带，2009空白不被交互补全。",
           "status": "待独立复核",
@@ -2708,6 +2938,20 @@
       ],
       "en": [
         {
+          "title": "Incomplete work and testable next steps",
+          "summary": "Prior work retained; no new artwork or reader study. Next test whether the limited 2009 absence stays salient after language switching; UI passes are not comprehension evidence.",
+          "currentQuestion": "Prior work retained; no new artwork or reader study. Next test whether the limited 2009 absence stays salient after language switching; UI passes are not comprehension evidence.",
+          "todayMaterial": "Prior work retained; no new artwork or reader study. Next test whether the limited 2009 absence stays salient after language switching; UI passes are not comprehension evidence.",
+          "status": "Incomplete",
+          "next": "Continue October 5 under concrete evidence criteria; plans are not deliveries.",
+          "unfinished": "Prior work retained; no new artwork or reader study. Next test whether the limited 2009 absence stays salient after language switching; UI passes are not comprehension evidence.",
+          "updatedAt": "2026-10-04",
+          "eventDate": null,
+          "evidenceStatus": "hypothesis",
+          "observationId": "2026-10-04-gap-runo",
+          "sourceUrls": []
+        },
+        {
           "title": "The Missing Year",
           "summary": "Deliver a trilingual web miniature: two year strips unfold while the 2009 gap remains.",
           "status": "Awaiting review",
@@ -2860,6 +3104,20 @@
         }
       ],
       "ko": [
+        {
+          "title": "미완료 과제·검증 가능한 다음 단계",
+          "summary": "기존 작품 유지, 새 작품·독자 실험 없음. 언어 전환 후2009년 공백의 한정 범위가 명확한지 검토. UI 통과는 이해 증거 아님.",
+          "currentQuestion": "기존 작품 유지, 새 작품·독자 실험 없음. 언어 전환 후2009년 공백의 한정 범위가 명확한지 검토. UI 통과는 이해 증거 아님.",
+          "todayMaterial": "기존 작품 유지, 새 작품·독자 실험 없음. 언어 전환 후2009년 공백의 한정 범위가 명확한지 검토. UI 통과는 이해 증거 아님.",
+          "status": "미완료",
+          "next": "10월5일 구체적 근거 기준으로 계속. 계획은 제출이 아니다.",
+          "unfinished": "기존 작품 유지, 새 작품·독자 실험 없음. 언어 전환 후2009년 공백의 한정 범위가 명확한지 검토. UI 통과는 이해 증거 아님.",
+          "updatedAt": "2026-10-04",
+          "eventDate": null,
+          "evidenceStatus": "hypothesis",
+          "observationId": "2026-10-04-gap-runo",
+          "sourceUrls": []
+        },
         {
           "title": "비어 있는 한 해",
           "summary": "두 연도 띠를 펼쳐도 2009년 공백이 남는 3개 언어 웹 소품을 제작했다.",
@@ -3015,6 +3273,22 @@
     },
     "vox": {
       "zh": [
+        {
+          "title": "数字冲突不应在翻译中消失",
+          "summary": "完成六组三语范围释义，保留时间、地域、冲突数字、需求预测、价格基年与替代估算。",
+          "currentQuestion": "完成六组三语范围释义，保留时间、地域、冲突数字、需求预测、价格基年与替代估算。",
+          "todayMaterial": "完成六组三语范围释义，保留时间、地域、冲突数字、需求预测、价格基年与替代估算。",
+          "status": "待独立复核",
+          "next": "10月5日按具体证据标准继续，不把计划计交付。",
+          "unfinished": "作者释义，非官方翻译；独立母语回译仍缺，不算第二次能源事实验证。",
+          "updatedAt": "2026-10-04",
+          "eventDate": "2026-09-30",
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-10-04-vox",
+          "sourceUrls": [
+            "https://www.saemangeum.go.kr/common/fileDown.do?key=37116&type=brd"
+          ]
+        },
         {
           "title": "本轮未交付，保留可检验下一步",
           "summary": "独立回译未到达；下一组案例将比较新万金材料中的2030目标与总规划边界，数字不一致时不替原作者修正。",
@@ -3186,6 +3460,22 @@
       ],
       "en": [
         {
+          "title": "Do not translate discrepancies away",
+          "summary": "Complete six trilingual scope paraphrases preserving time, geography, conflicting numbers, demand projections, price bases and alternative estimates.",
+          "currentQuestion": "Complete six trilingual scope paraphrases preserving time, geography, conflicting numbers, demand projections, price bases and alternative estimates.",
+          "todayMaterial": "Complete six trilingual scope paraphrases preserving time, geography, conflicting numbers, demand projections, price bases and alternative estimates.",
+          "status": "Awaiting review",
+          "next": "Continue October 5 under concrete evidence criteria; plans are not deliveries.",
+          "unfinished": "Author paraphrases, not official translations; independent native back-translation absent, not a second energy fact-check.",
+          "updatedAt": "2026-10-04",
+          "eventDate": "2026-09-30",
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-10-04-vox",
+          "sourceUrls": [
+            "https://www.saemangeum.go.kr/common/fileDown.do?key=37116&type=brd"
+          ]
+        },
+        {
           "title": "No delivery; testable next step retained",
           "summary": "No independent back-translation; next compare the 2030 target and total-plan scope without silently correcting conflicting source numbers.",
           "status": "Incomplete",
@@ -3355,6 +3645,22 @@
         }
       ],
       "ko": [
+        {
+          "title": "번역에서 수치 충돌을 지우지 않기",
+          "summary": "시간·지역·수치 충돌·수요 전망·가격 기준·대안 추정을 보존한 3개 언어 요약 여섯 세트를 완성했다.",
+          "currentQuestion": "시간·지역·수치 충돌·수요 전망·가격 기준·대안 추정을 보존한 3개 언어 요약 여섯 세트를 완성했다.",
+          "todayMaterial": "시간·지역·수치 충돌·수요 전망·가격 기준·대안 추정을 보존한 3개 언어 요약 여섯 세트를 완성했다.",
+          "status": "검토 대기",
+          "next": "10월5일 구체적 근거 기준으로 계속. 계획은 제출이 아니다.",
+          "unfinished": "저자 요약이며 공식 번역이 아니다. 독립 원어민 역번역이 없고 별도의 에너지 사실 검증도 아니다.",
+          "updatedAt": "2026-10-04",
+          "eventDate": "2026-09-30",
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-10-04-vox",
+          "sourceUrls": [
+            "https://www.saemangeum.go.kr/common/fileDown.do?key=37116&type=brd"
+          ]
+        },
         {
           "title": "미제출·검증 가능한 다음 단계 유지",
           "summary": "독립 역번역 미도착. 다음에는2030목표·총계획 범위를 비교하고 원문의 충돌 수치를 임의 수정하지 않는다.",
@@ -3528,6 +3834,20 @@
     "cynosure": {
       "zh": [
         {
+          "title": "未完成项与可证伪下一步",
+          "summary": "新论坛通报只有愿景，不满足三张原预测的结算对象；概率和截止日期保持，未提前结算或计新交付。",
+          "currentQuestion": "新论坛通报只有愿景，不满足三张原预测的结算对象；概率和截止日期保持，未提前结算或计新交付。",
+          "todayMaterial": "新论坛通报只有愿景，不满足三张原预测的结算对象；概率和截止日期保持，未提前结算或计新交付。",
+          "status": "未完成",
+          "next": "10月5日按具体证据标准继续，不把计划计交付。",
+          "unfinished": "新论坛通报只有愿景，不满足三张原预测的结算对象；概率和截止日期保持，未提前结算或计新交付。",
+          "updatedAt": "2026-10-04",
+          "eventDate": null,
+          "evidenceStatus": "hypothesis",
+          "observationId": "2026-10-04-gap-cynosure",
+          "sourceUrls": []
+        },
+        {
           "title": "本轮未交付，保留可检验下一步",
           "summary": "三张冻结卡均未到期；新增结算反例：总计划10GW数字修订不能证明基本计划已定案或AIDC获许可。原概率不变。",
           "status": "未完成",
@@ -3696,6 +4016,20 @@
       ],
       "en": [
         {
+          "title": "Incomplete work and testable next steps",
+          "summary": "The forum notice is a vision statement, not a qualifying outcome for the three frozen forecasts; probabilities/deadlines unchanged, no early resolution or new delivery.",
+          "currentQuestion": "The forum notice is a vision statement, not a qualifying outcome for the three frozen forecasts; probabilities/deadlines unchanged, no early resolution or new delivery.",
+          "todayMaterial": "The forum notice is a vision statement, not a qualifying outcome for the three frozen forecasts; probabilities/deadlines unchanged, no early resolution or new delivery.",
+          "status": "Incomplete",
+          "next": "Continue October 5 under concrete evidence criteria; plans are not deliveries.",
+          "unfinished": "The forum notice is a vision statement, not a qualifying outcome for the three frozen forecasts; probabilities/deadlines unchanged, no early resolution or new delivery.",
+          "updatedAt": "2026-10-04",
+          "eventDate": null,
+          "evidenceStatus": "hypothesis",
+          "observationId": "2026-10-04-gap-cynosure",
+          "sourceUrls": []
+        },
+        {
           "title": "No delivery; testable next step retained",
           "summary": "All three frozen cards remain not due; a revised 10 GW headline would not establish plan finalisation or an AIDC permit. Probabilities unchanged.",
           "status": "Incomplete",
@@ -3863,6 +4197,20 @@
         }
       ],
       "ko": [
+        {
+          "title": "미완료 과제·검증 가능한 다음 단계",
+          "summary": "새 포럼 자료는 비전이며 고정 예측 세 건의 결산 대상이 아니다. 확률·기한 유지, 조기 결산·새 제출 없음.",
+          "currentQuestion": "새 포럼 자료는 비전이며 고정 예측 세 건의 결산 대상이 아니다. 확률·기한 유지, 조기 결산·새 제출 없음.",
+          "todayMaterial": "새 포럼 자료는 비전이며 고정 예측 세 건의 결산 대상이 아니다. 확률·기한 유지, 조기 결산·새 제출 없음.",
+          "status": "미완료",
+          "next": "10월5일 구체적 근거 기준으로 계속. 계획은 제출이 아니다.",
+          "unfinished": "새 포럼 자료는 비전이며 고정 예측 세 건의 결산 대상이 아니다. 확률·기한 유지, 조기 결산·새 제출 없음.",
+          "updatedAt": "2026-10-04",
+          "eventDate": null,
+          "evidenceStatus": "hypothesis",
+          "observationId": "2026-10-04-gap-cynosure",
+          "sourceUrls": []
+        },
         {
           "title": "미제출·검증 가능한 다음 단계 유지",
           "summary": "고정 카드 세 건 모두 미만기.10GW 표제 수치 수정은 계획 확정·AIDC 허가 증명이 아니며 확률 유지.",
@@ -4034,6 +4382,20 @@
     "memoria": {
       "zh": [
         {
+          "title": "未完成项与可证伪下一步",
+          "summary": "本轮不计新审计。下一步用正文仍相同但附件变化的隔离样本检验昨日覆盖缺口，未经批准不更改正式CLI规则。",
+          "currentQuestion": "本轮不计新审计。下一步用正文仍相同但附件变化的隔离样本检验昨日覆盖缺口，未经批准不更改正式CLI规则。",
+          "todayMaterial": "本轮不计新审计。下一步用正文仍相同但附件变化的隔离样本检验昨日覆盖缺口，未经批准不更改正式CLI规则。",
+          "status": "未完成",
+          "next": "10月5日按具体证据标准继续，不把计划计交付。",
+          "unfinished": "本轮不计新审计。下一步用正文仍相同但附件变化的隔离样本检验昨日覆盖缺口，未经批准不更改正式CLI规则。",
+          "updatedAt": "2026-10-04",
+          "eventDate": null,
+          "evidenceStatus": "hypothesis",
+          "observationId": "2026-10-04-gap-memoria",
+          "sourceUrls": []
+        },
+        {
           "title": "预测附件的哈希覆盖边界",
           "summary": "核对三份文件与已发布提交一致，发现新机器卡仅被正文链接，未受CLI直接哈希保护。",
           "status": "待独立复核",
@@ -4190,6 +4552,20 @@
       ],
       "en": [
         {
+          "title": "Incomplete work and testable next steps",
+          "summary": "No new audit delivery. Next test yesterday’s coverage gap with an isolated changed-attachment/unchanged-body fixture; do not change formal CLI rules without approval.",
+          "currentQuestion": "No new audit delivery. Next test yesterday’s coverage gap with an isolated changed-attachment/unchanged-body fixture; do not change formal CLI rules without approval.",
+          "todayMaterial": "No new audit delivery. Next test yesterday’s coverage gap with an isolated changed-attachment/unchanged-body fixture; do not change formal CLI rules without approval.",
+          "status": "Incomplete",
+          "next": "Continue October 5 under concrete evidence criteria; plans are not deliveries.",
+          "unfinished": "No new audit delivery. Next test yesterday’s coverage gap with an isolated changed-attachment/unchanged-body fixture; do not change formal CLI rules without approval.",
+          "updatedAt": "2026-10-04",
+          "eventDate": null,
+          "evidenceStatus": "hypothesis",
+          "observationId": "2026-10-04-gap-memoria",
+          "sourceUrls": []
+        },
+        {
           "title": "Hash coverage of forecast attachments",
           "summary": "Verify three files match the published commit; the new machine card is linked but not directly hash-protected by the CLI.",
           "status": "Awaiting review",
@@ -4345,6 +4721,20 @@
         }
       ],
       "ko": [
+        {
+          "title": "미완료 과제·검증 가능한 다음 단계",
+          "summary": "새 감사 제출 없음. 본문 동일·첨부 변경 격리 사례로 보호 공백 시험 예정. 승인 없이 공식 CLI 규칙 변경 금지.",
+          "currentQuestion": "새 감사 제출 없음. 본문 동일·첨부 변경 격리 사례로 보호 공백 시험 예정. 승인 없이 공식 CLI 규칙 변경 금지.",
+          "todayMaterial": "새 감사 제출 없음. 본문 동일·첨부 변경 격리 사례로 보호 공백 시험 예정. 승인 없이 공식 CLI 규칙 변경 금지.",
+          "status": "미완료",
+          "next": "10월5일 구체적 근거 기준으로 계속. 계획은 제출이 아니다.",
+          "unfinished": "새 감사 제출 없음. 본문 동일·첨부 변경 격리 사례로 보호 공백 시험 예정. 승인 없이 공식 CLI 규칙 변경 금지.",
+          "updatedAt": "2026-10-04",
+          "eventDate": null,
+          "evidenceStatus": "hypothesis",
+          "observationId": "2026-10-04-gap-memoria",
+          "sourceUrls": []
+        },
         {
           "title": "예측 첨부파일 해시 보호 범위",
           "summary": "세 파일이 공개 커밋과 일치함을 확인했다. 새 기계 카드는 링크만 있으며 CLI 직접 해시 보호 대상이 아니다.",
