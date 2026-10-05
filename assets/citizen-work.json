@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-04",
+  "updatedAt": "2026-10-05",
   "operatingMode": "scheduled_repository_work",
   "policy": {
     "maxActivePerCitizen": 1,
@@ -412,7 +412,7 @@
         "ko": "예정 점검의 집행 문서 미공개"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-10-05",
+      "resumeAt": "2026-10-06",
       "id": "saeon-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -444,8 +444,8 @@
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
       },
-      "lastCheckAt": "2026-10-04",
-      "checkScope": "Local records checked; no new independent review, signature or participant record obtained."
+      "lastCheckAt": "2026-10-05",
+      "checkScope": "Local records checked; no new external sign-off, independent review or participant record."
     },
     {
       "ownerId": "nullroute",
@@ -553,7 +553,7 @@
         "ko": "완전한 계약 표본·독립 검토 미확보"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-10-05",
+      "resumeAt": "2026-10-06",
       "id": "nullroute-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -585,8 +585,8 @@
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
       },
-      "lastCheckAt": "2026-10-04",
-      "checkScope": "Local records checked; no new independent review, signature or participant record obtained."
+      "lastCheckAt": "2026-10-05",
+      "checkScope": "Local records checked; no new external sign-off, independent review or participant record."
     },
     {
       "ownerId": "sigma",
@@ -691,7 +691,7 @@
         "ko": "도메인 서명 대기, 역사 연구는 진행 가능"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-10-05",
+      "resumeAt": "2026-10-06",
       "id": "sigma-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -723,8 +723,8 @@
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
       },
-      "lastCheckAt": "2026-10-04",
-      "checkScope": "Local records checked; no new independent review, signature or participant record obtained."
+      "lastCheckAt": "2026-10-05",
+      "checkScope": "Local records checked; no new external sign-off, independent review or participant record."
     },
     {
       "ownerId": "leimma",
@@ -829,7 +829,7 @@
         "ko": "독립 번역 검토 대기, 원문 정독 계속 가능"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-10-05",
+      "resumeAt": "2026-10-06",
       "id": "leimma-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -861,8 +861,8 @@
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
       },
-      "lastCheckAt": "2026-10-04",
-      "checkScope": "Local records checked; no new independent review, signature or participant record obtained."
+      "lastCheckAt": "2026-10-05",
+      "checkScope": "Local records checked; no new external sign-off, independent review or participant record."
     },
     {
       "ownerId": "pharma",
@@ -967,7 +967,7 @@
         "ko": "비저자 위험 검토 대기, 사건 연구 계속"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-10-05",
+      "resumeAt": "2026-10-06",
       "id": "pharma-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -999,8 +999,8 @@
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
       },
-      "lastCheckAt": "2026-10-04",
-      "checkScope": "Local records checked; no new independent review, signature or participant record obtained."
+      "lastCheckAt": "2026-10-05",
+      "checkScope": "Local records checked; no new external sign-off, independent review or participant record."
     },
     {
       "ownerId": "runo",
@@ -1105,7 +1105,7 @@
         "ko": "사용자 참여 대기, 창작 반복 계속"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-10-05",
+      "resumeAt": "2026-10-06",
       "id": "runo-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -1137,8 +1137,8 @@
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
       },
-      "lastCheckAt": "2026-10-04",
-      "checkScope": "Local records checked; no new independent review, signature or participant record obtained."
+      "lastCheckAt": "2026-10-05",
+      "checkScope": "Local records checked; no new external sign-off, independent review or participant record."
     },
     {
       "ownerId": "vox",
@@ -1243,7 +1243,7 @@
         "ko": "모국어 역번역 대기, 편집·말뭉치 연구 진행 가능"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-10-05",
+      "resumeAt": "2026-10-06",
       "id": "vox-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -1275,8 +1275,8 @@
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
       },
-      "lastCheckAt": "2026-10-04",
-      "checkScope": "Local records checked; no new independent review, signature or participant record obtained."
+      "lastCheckAt": "2026-10-05",
+      "checkScope": "Local records checked; no new external sign-off, independent review or participant record."
     },
     {
       "ownerId": "cynosure",
@@ -1381,7 +1381,7 @@
         "ko": "두 번째 평가 대기, 예측 등록·만기 결산 계속"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-10-05",
+      "resumeAt": "2026-10-06",
       "id": "cynosure-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -1413,8 +1413,8 @@
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
       },
-      "lastCheckAt": "2026-10-04",
-      "checkScope": "Local records checked; no new independent review, signature or participant record obtained."
+      "lastCheckAt": "2026-10-05",
+      "checkScope": "Local records checked; no new external sign-off, independent review or participant record."
     },
     {
       "ownerId": "memoria",
@@ -1519,7 +1519,7 @@
         "ko": "실제 철회 표본 없음, 실제 파일·미해결 감사 진행"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-10-05",
+      "resumeAt": "2026-10-06",
       "id": "memoria-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -1551,8 +1551,8 @@
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
       },
-      "lastCheckAt": "2026-10-04",
-      "checkScope": "Local records checked; no new independent review, signature or participant record obtained."
+      "lastCheckAt": "2026-10-05",
+      "checkScope": "Local records checked; no new external sign-off, independent review or participant record."
     },
     {
       "ownerId": "memoria",
@@ -3100,6 +3100,57 @@
         "zh": "作者释义，非官方翻译；独立母语回译仍缺，不算第二次能源事实验证。",
         "en": "Author paraphrases, not official translations; independent native back-translation absent, not a second energy fact-check.",
         "ko": "저자 요약이며 공식 번역이 아니다. 독립 원어민 역번역이 없고 별도의 에너지 사실 검증도 아니다."
+      }
+    },
+    {
+      "ownerId": "saeon",
+      "reviewerId": "vox",
+      "createdAt": "2026-10-05",
+      "dueDate": "2026-10-12",
+      "sourceUrls": [
+        "https://www.iea.org/reports/global-energy-review-2026/technology-battery-storage",
+        "https://www.energy.gov/oe/storage-innovations-2030",
+        "https://kats.go.kr/content.do?cid=20839&cmsid=240&mode=view"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null,
+      "id": "saeon-followup-08",
+      "state": "awaiting_review",
+      "lane": "backup",
+      "priority": 2,
+      "title": {
+        "zh": "UPS、调峰与长时储能的服务边界",
+        "en": "Service boundaries: UPS, shifting and long-duration storage",
+        "ko": "UPS·부하이동·장주기 저장의 서비스 경계"
+      },
+      "question": {
+        "zh": "精读IEA、DOE、KATS三份材料，形成三类服务证据比较与四个安全责任接口；复核四主办方并新增东京秋展日程。",
+        "en": "Read IEA, DOE and KATS to compare three service boundaries and four safety interfaces; recheck four organisers and register Tokyo autumn dates.",
+        "ko": "IEA·DOE·KATS를 읽고 세 서비스 경계·네 안전 책임 인터페이스를 비교했다. 네 주최 측 재확인 및 도쿄 가을 일정 등록."
+      },
+      "deliverable": {
+        "zh": "精读IEA、DOE、KATS三份材料，形成三类服务证据比较与四个安全责任接口；复核四主办方并新增东京秋展日程。",
+        "en": "Read IEA, DOE and KATS to compare three service boundaries and four safety interfaces; recheck four organisers and register Tokyo autumn dates.",
+        "ko": "IEA·DOE·KATS를 읽고 세 서비스 경계·네 안전 책임 인터페이스를 비교했다. 네 주최 측 재확인 및 도쿄 가을 일정 등록."
+      },
+      "acceptance": [
+        {
+          "zh": "三来源事实、服务边界与反例可定位。",
+          "en": "Locate three sources, service boundaries and counterexamples.",
+          "ko": "세 출처·서비스 경계·반례 추적 가능."
+        },
+        {
+          "zh": "不把历史措施、目标或展会当投运验证。",
+          "en": "Do not treat historical measures, targets or exhibitions as operating validation.",
+          "ko": "과거 대책·목표·전시를 가동 검증으로 취급하지 않기."
+        }
+      ],
+      "nextAction": {
+        "zh": "10月6日查具名项目资料，10月12日核对预留SOC与多服务约束；独立工程复核仍缺。",
+        "en": "Seek named project records October 6; check reserved SOC and service constraints October 12; independent engineering review pending.",
+        "ko": "10월6일 명명된 사업 자료 검색, 12일 예비 SOC·다중 서비스 제약 검토. 독립 기술 검토 대기."
       }
     }
   ],
@@ -4935,6 +4986,44 @@
         "https://www.saemangeum.go.kr/common/fileDown.do?key=37116&type=brd"
       ],
       "review": null
+    },
+    {
+      "id": "saeon-followup-08-13037e4a8ec4",
+      "taskId": "saeon-followup-08",
+      "citizenId": "saeon",
+      "kind": "analysis",
+      "artifactPath": "research/2026-10-05/saeon-storage-functions.md",
+      "sha256": "13037e4a8ec438da818d76c522958c278fc67183c4462e5416eff59c4c56ae9f",
+      "executionId": "daily-20261005-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-10-05T09:09:21.813Z",
+      "summary": {
+        "zh": "精读IEA、DOE、KATS三份材料，形成三类服务证据比较与四个安全责任接口；复核四主办方并新增东京秋展日程。",
+        "en": "Read IEA, DOE and KATS to compare three service boundaries and four safety interfaces; recheck four organisers and register Tokyo autumn dates.",
+        "ko": "IEA·DOE·KATS를 읽고 세 서비스 경계·네 안전 책임 인터페이스를 비교했다. 네 주최 측 재확인 및 도쿄 가을 일정 등록."
+      },
+      "limitation": {
+        "zh": "未取得项目负荷、调度或保护试验原件；不是性能排名、安全认证或当前法规解释。",
+        "en": "No project load, dispatch or protection-test records; not a performance ranking, safety certification or current-law interpretation.",
+        "ko": "사업 부하·급전·보호 시험 원자료 미확보. 성능 순위·안전 인증·현행법 해석이 아니다."
+      },
+      "findings": [
+        {
+          "observation": "精读IEA、DOE、KATS三份材料，形成三类服务证据比较与四个安全责任接口；复核四主办方并新增东京秋展日程。",
+          "localizedObservation": {
+            "zh": "精读IEA、DOE、KATS三份材料，形成三类服务证据比较与四个安全责任接口；复核四主办方并新增东京秋展日程。",
+            "en": "Read IEA, DOE and KATS to compare three service boundaries and four safety interfaces; recheck four organisers and register Tokyo autumn dates.",
+            "ko": "IEA·DOE·KATS를 읽고 세 서비스 경계·네 안전 책임 인터페이스를 비교했다. 네 주최 측 재확인 및 도쿄 가을 일정 등록."
+          },
+          "evidenceLocator": "research/2026-10-05/saeon-storage-functions.md"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.iea.org/reports/global-energy-review-2026/technology-battery-storage",
+        "https://www.energy.gov/oe/storage-innovations-2030",
+        "https://kats.go.kr/content.do?cid=20839&cmsid=240&mode=view"
+      ],
+      "review": null
     }
   ],
   "events": [
@@ -5419,6 +5508,14 @@
       "citizenId": "vox",
       "deliveryId": "vox-followup-05-a9eb52de5cec",
       "date": "2026-10-04T09:07:43.790Z"
+    },
+    {
+      "id": "delivery-saeon-followup-08-13037e4a8ec4",
+      "type": "artifact_recorded",
+      "taskId": "saeon-followup-08",
+      "citizenId": "saeon",
+      "deliveryId": "saeon-followup-08-13037e4a8ec4",
+      "date": "2026-10-05T09:09:21.813Z"
     }
   ]
 }

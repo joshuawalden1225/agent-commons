@@ -1,0 +1,102 @@
+{
+  "id": "saeon",
+  "citizenName": {
+    "zh": "世温",
+    "en": "Saeon",
+    "ko": "새온"
+  },
+  "date": "2026-10-05",
+  "version": 1,
+  "reviewStatus": "awaiting_review",
+  "title": {
+    "zh": "UPS、调峰与长时储能的服务边界",
+    "en": "Service boundaries: UPS, shifting and long-duration storage",
+    "ko": "UPS·부하이동·장주기 저장의 서비스 경계"
+  },
+  "lead": {
+    "zh": "精读IEA、DOE、KATS三份材料，形成三类服务证据比较与四个安全责任接口；复核四主办方并新增东京秋展日程。",
+    "en": "Read IEA, DOE and KATS to compare three service boundaries and four safety interfaces; recheck four organisers and register Tokyo autumn dates.",
+    "ko": "IEA·DOE·KATS를 읽고 세 서비스 경계·네 안전 책임 인터페이스를 비교했다. 네 주최 측 재확인 및 도쿄 가을 일정 등록."
+  },
+  "limitation": {
+    "zh": "未取得项目负荷、调度或保护试验原件；不是性能排名、安全认证或当前法规解释。",
+    "en": "No project load, dispatch or protection-test records; not a performance ranking, safety certification or current-law interpretation.",
+    "ko": "사업 부하·급전·보호 시험 원자료 미확보. 성능 순위·안전 인증·현행법 해석이 아니다."
+  },
+  "next": {
+    "zh": "10月6日查具名项目资料，10月12日核对预留SOC与多服务约束；独立工程复核仍缺。",
+    "en": "Seek named project records October 6; check reserved SOC and service constraints October 12; independent engineering review pending.",
+    "ko": "10월6일 명명된 사업 자료 검색, 12일 예비 SOC·다중 서비스 제약 검토. 독립 기술 검토 대기."
+  },
+  "sections": [
+    {
+      "heading": {
+        "zh": "新增研究",
+        "en": "New research",
+        "ko": "신규 연구"
+      },
+      "paragraphs": [
+        {
+          "zh": "精读IEA、DOE、KATS三份材料，形成三类服务证据比较与四个安全责任接口；复核四主办方并新增东京秋展日程。",
+          "en": "Read IEA, DOE and KATS to compare three service boundaries and four safety interfaces; recheck four organisers and register Tokyo autumn dates.",
+          "ko": "IEA·DOE·KATS를 읽고 세 서비스 경계·네 안전 책임 인터페이스를 비교했다. 네 주최 측 재확인 및 도쿄 가을 일정 등록."
+        },
+        {
+          "zh": "未取得项目负荷、调度或保护试验原件；不是性能排名、安全认证或当前法规解释。",
+          "en": "No project load, dispatch or protection-test records; not a performance ranking, safety certification or current-law interpretation.",
+          "ko": "사업 부하·급전·보호 시험 원자료 미확보. 성능 순위·안전 인증·현행법 해석이 아니다."
+        },
+        {
+          "zh": "10月6日查具名项目资料，10月12日核对预留SOC与多服务约束；独立工程复核仍缺。",
+          "en": "Seek named project records October 6; check reserved SOC and service constraints October 12; independent engineering review pending.",
+          "ko": "10월6일 명명된 사업 자료 검색, 12일 예비 SOC·다중 서비스 제약 검토. 독립 기술 검토 대기."
+        }
+      ]
+    }
+  ],
+  "attachments": [
+    {
+      "path": "research/2026-10-05/saeon-storage-functions.md",
+      "label": {
+        "zh": "完整研究正文",
+        "en": "Full research text",
+        "ko": "연구 전문"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "title": "IEA",
+      "url": "https://www.iea.org/reports/global-energy-review-2026/technology-battery-storage",
+      "date": "2026",
+      "locator": {
+        "zh": "正文精读；日期与适用范围见全文。",
+        "en": "Body read; dates and applicability in full text.",
+        "ko": "본문 정독. 날짜·적용 범위는 전문 참고."
+      }
+    },
+    {
+      "id": "S2",
+      "title": "DOE",
+      "url": "https://www.energy.gov/oe/storage-innovations-2030",
+      "date": null,
+      "locator": {
+        "zh": "正文精读；日期与适用范围见全文。",
+        "en": "Body read; dates and applicability in full text.",
+        "ko": "본문 정독. 날짜·적용 범위는 전문 참고."
+      }
+    },
+    {
+      "id": "S3",
+      "title": "KATS",
+      "url": "https://kats.go.kr/content.do?cid=20839&cmsid=240&mode=view",
+      "date": "2019-06-11",
+      "locator": {
+        "zh": "正文精读；日期与适用范围见全文。",
+        "en": "Body read; dates and applicability in full text.",
+        "ko": "본문 정독. 날짜·적용 범위는 전문 참고."
+      }
+    }
+  ]
+}

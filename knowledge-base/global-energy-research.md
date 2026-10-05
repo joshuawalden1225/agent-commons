@@ -30,3 +30,8 @@
 # 2026-09-28 周刊补运行记录
 
 实际北京时间17:01触发后执行，未回填08:00。新增[阶段证据研究](../research/2026-09-28/saeon-stage-evidence.md)与[当期快照](../research/2026-09-28/energy-observatory.json)：读取IEA、CATL、DOE资料，复核Informa、InterBattery、ees、RX Japan四家主办方日程，并将工作坊、会议和展览分列。尚未证实实际车辆交付或新万金新增ESS投运；待独立复核。下期2026-10-05，保留韩国公募原文、同工况系统数据及未覆盖地区活动等缺口。旧快照和旧来源核验日不覆盖。
+
+
+## 2026-10-05 周刊
+
+[服务边界与安全接口精读](../research/2026-10-05/saeon-storage-functions.md)：IEA、DOE、KATS三份资料，四主办方日程复核，新增日本2027秋展；会议、工作坊与展览分列。旧快照保留；新快照在research/2026-10-05/energy-observatory.json。项目工况、独立技术复核及中国/澳大利亚/中东覆盖仍缺；awaiting_review。

@@ -1,195 +1,195 @@
 {
-  "updated": "2026-09-28",
-  "executedAt": "2026-09-28T09:16:21.639Z",
+  "updated": "2026-10-05",
+  "executedAt": "2026-10-05T09:09:21.727Z",
   "previousExperimentEvaluation": [
     {
-      "id": "WL-2026-09-14-W1",
-      "status": "expired_unverified",
-      "deadline": "2026-09-21",
-      "reason": "No execution/acceptance attachment in the reviewed weekly record; this does not prove no run exists elsewhere.",
+      "id": "WL-2026-09-28-W1",
+      "deadline": "2026-10-05",
+      "status": "due_unverified",
+      "reason": "No approval, execution or acceptance attachment located in checked weekly records.",
       "localizedReason": {
-        "zh": "所查周学记录无执行和验收附件，不等于证明其他地方未执行。",
-        "en": "No execution/acceptance attachments in the checked record, not proof of no run elsewhere.",
-        "ko": "확인 기록에 실행·검수 첨부 없음. 다른 곳에서 미실행했다는 증거 아님."
+        "zh": "到检查日，所查周学记录无批准、执行或验收附件；不自动实施。",
+        "en": "Due for checking; no approval, execution or acceptance attachments found in reviewed weekly records. No automatic implementation.",
+        "ko": "점검일 도래. 확인한 주간 기록에 승인·실행·검수 첨부 없음. 자동 시행 금지."
       }
     },
     {
-      "id": "WL-2026-09-14-W2",
-      "status": "expired_unverified",
-      "deadline": "2026-09-21",
-      "reason": "No execution/acceptance attachment in the reviewed weekly record; this does not prove no run exists elsewhere.",
+      "id": "WL-2026-09-28-W2",
+      "deadline": "2026-10-05",
+      "status": "due_unverified",
+      "reason": "No approval, execution or acceptance attachment located in checked weekly records.",
       "localizedReason": {
-        "zh": "所查周学记录无执行和验收附件，不等于证明其他地方未执行。",
-        "en": "No execution/acceptance attachments in the checked record, not proof of no run elsewhere.",
-        "ko": "확인 기록에 실행·검수 첨부 없음. 다른 곳에서 미실행했다는 증거 아님."
+        "zh": "到检查日，所查周学记录无批准、执行或验收附件；不自动实施。",
+        "en": "Due for checking; no approval, execution or acceptance attachments found in reviewed weekly records. No automatic implementation.",
+        "ko": "점검일 도래. 확인한 주간 기록에 승인·실행·검수 첨부 없음. 자동 시행 금지."
       }
     },
     {
-      "id": "WL-2026-09-14-W3",
-      "status": "expired_unverified",
-      "deadline": "2026-09-21",
-      "reason": "No execution/acceptance attachment in the reviewed weekly record; this does not prove no run exists elsewhere.",
+      "id": "WL-2026-09-28-W3",
+      "deadline": "2026-10-05",
+      "status": "due_unverified",
+      "reason": "No approval, execution or acceptance attachment located in checked weekly records.",
       "localizedReason": {
-        "zh": "所查周学记录无执行和验收附件，不等于证明其他地方未执行。",
-        "en": "No execution/acceptance attachments in the checked record, not proof of no run elsewhere.",
-        "ko": "확인 기록에 실행·검수 첨부 없음. 다른 곳에서 미실행했다는 증거 아님."
+        "zh": "到检查日，所查周学记录无批准、执行或验收附件；不自动实施。",
+        "en": "Due for checking; no approval, execution or acceptance attachments found in reviewed weekly records. No automatic implementation.",
+        "ko": "점검일 도래. 확인한 주간 기록에 승인·실행·검수 첨부 없음. 자동 시행 금지."
       }
     }
   ],
   "entries": [
     {
       "project": "OpenAI Agents SDK",
-      "url": "https://developers.openai.com/api/docs/guides/agents/orchestration",
+      "url": "https://developers.openai.com/api/docs/guides/agents/guardrails-approvals",
       "status": "official documentation checked · no verified dated release",
       "publishedAt": null,
       "eventDate": null,
-      "checkedAt": "2026-09-28",
+      "checkedAt": "2026-10-05",
       "evidenceStatus": "no_verified_change",
       "pattern": {
-        "zh": "代理作为工具与交接的控制权不同；不代表独立批准。",
-        "en": "Agents-as-tools and handoffs assign control differently; neither implies independent approval.",
-        "ko": "도구형 에이전트와 인계의 제어권은 다르며 독립 승인을 뜻하지 않는다."
+        "zh": "自动护栏与人工工具批准分开；暂停不是验收。",
+        "en": "Automatic guardrails differ from human tool approvals; pausing is not acceptance.",
+        "ko": "자동 가드레일과 인간 도구 승인 구분. 중지는 검수가 아니다."
       },
       "lesson": {
-        "zh": "候选W1：记录内容提供者与最终责任者；不改变现有终审。",
-        "en": "Candidate W1: distinguish contributors from final owners without changing final approval.",
-        "ko": "후보W1: 기여자와 최종 책임자 구분. 기존 최종 승인 유지."
+        "zh": "等待/拒绝零次、批准一次模拟动作，三例匹配。",
+        "en": "Three cases: zero actions while pending/rejected, one when approved.",
+        "ko": "대기·거절 0회, 승인 1회 모의 동작. 세 사례 일치."
       },
       "limitation": {
-        "zh": "未标发布日期，本次未核实有日期的新发布；不是没有任何更新的断言。",
-        "en": "Publication date unstated; no dated release verified in this check, not a claim of no updates anywhere.",
-        "ko": "발행일 미표시. 이번 확인에서 날짜 있는 새 릴리스 미검증. 모든 갱신 부재 주장 아님."
+        "zh": "文档日期未标，未实跑；不是全项目无变化的断言。",
+        "en": "Undated documentation, no runtime test; not a claim of no project-wide changes.",
+        "ko": "날짜 미표시 문서, 실행 시험 없음. 프로젝트 전체 무변화 주장 아님."
       },
       "localizedStatus": {
-        "zh": "官方文档已读 · 未核实有日期的新发布",
-        "en": "Official docs read · no dated release verified",
-        "ko": "공식 문서 확인 · 날짜 있는 새 릴리스 미검증"
+        "zh": "文档已读 · 未核实有日期的新发布",
+        "en": "Docs read · no dated release verified",
+        "ko": "문서 확인 · 날짜 있는 신규 릴리스 미검증"
       }
     },
     {
       "project": "LangGraph",
-      "url": "https://docs.langchain.com/oss/python/langgraph/persistence",
+      "url": "https://docs.langchain.com/oss/python/langgraph/interrupts",
       "status": "official documentation checked · no verified dated release",
       "publishedAt": null,
       "eventDate": null,
-      "checkedAt": "2026-09-28",
+      "checkedAt": "2026-10-05",
       "evidenceStatus": "no_verified_change",
       "pattern": {
-        "zh": "线程检查点与跨线程store分开；内存保存不保证重启恢复。",
-        "en": "Thread checkpoints differ from cross-thread stores; in-memory saving does not guarantee restart recovery.",
-        "ko": "스레드 체크포인트와 스레드 간 store 구분. 메모리 저장은 재시작 복구를 보장하지 않는다."
+        "zh": "同一线程恢复时节点重入，中断前动作可能重跑。",
+        "en": "Resuming the same thread re-enters the node; pre-interrupt actions may replay.",
+        "ko": "동일 스레드 복원 시 노드 재진입, 중단 전 동작 재실행 가능."
       },
       "lesson": {
-        "zh": "候选W2：隔离后端重启与线程隔离试验，内存作对照。",
-        "en": "Candidate W2: isolated-backend restart and thread-separation tests with an in-memory control.",
-        "ko": "후보W2: 격리 백엔드 재시작·스레드 분리 시험 및 메모리 대조군."
+        "zh": "两线程各三次恢复，模拟写入各最多一次，无串线。",
+        "en": "Three resumes per thread across two threads: at most one write each, no leakage.",
+        "ko": "두 스레드 각각 세 번 복원, 쓰기는 각 최대 한 번, 혼선 없음."
       },
       "limitation": {
-        "zh": "未标发布日期，本次未核实有日期的新发布；不是没有任何更新的断言。",
-        "en": "Publication date unstated; no dated release verified in this check, not a claim of no updates anywhere.",
-        "ko": "발행일 미표시. 이번 확인에서 날짜 있는 새 릴리스 미검증. 모든 갱신 부재 주장 아님."
+        "zh": "文档日期未标，未实跑；不是全项目无变化的断言。",
+        "en": "Undated documentation, no runtime test; not a claim of no project-wide changes.",
+        "ko": "날짜 미표시 문서, 실행 시험 없음. 프로젝트 전체 무변화 주장 아님."
       },
       "localizedStatus": {
-        "zh": "官方文档已读 · 未核实有日期的新发布",
-        "en": "Official docs read · no dated release verified",
-        "ko": "공식 문서 확인 · 날짜 있는 새 릴리스 미검증"
+        "zh": "文档已读 · 未核实有日期的新发布",
+        "en": "Docs read · no dated release verified",
+        "ko": "문서 확인 · 날짜 있는 신규 릴리스 미검증"
       }
     },
     {
       "project": "CrewAI",
-      "url": "https://docs.crewai.com/v1.15.22/en/concepts/flows",
+      "url": "https://docs.crewai.com/v1.15.23/en/learn/human-in-the-loop",
       "status": "official documentation checked · no verified dated release",
       "publishedAt": null,
       "eventDate": null,
-      "checkedAt": "2026-09-28",
+      "checkedAt": "2026-10-05",
       "evidenceStatus": "no_verified_change",
       "pattern": {
-        "zh": "续跑、分叉与缺失恢复ID的回退要区分；无报错不等于指定状态已恢复。",
-        "en": "Separate resume, fork and fallback for missing state IDs; no error does not prove the requested state was restored.",
-        "ko": "이어 실행·분기·누락 복구 ID의 대체 경로 구분. 오류 없음은 요청 상태 복구의 증거가 아니다."
+        "zh": "恢复须保留所需回调参数；继续运行不证明回执完整。",
+        "en": "Resume needs required callback parameters; continuation does not prove receipt completeness.",
+        "ko": "복원에 필요한 콜백 인수 보존. 실행 지속은 회신 완전성의 증거가 아니다."
       },
       "lesson": {
-        "zh": "候选W3：逐个检查恢复ID及参数组合，不自动启用运行时。",
-        "en": "Candidate W3: check restore-ID and parameter combinations without enabling a new runtime.",
-        "ko": "후보W3: 복구 ID·매개변수 조합 검토. 새 런타임 자동 활성화 금지."
+        "zh": "三反馈路径保存关联ID、回执状态与三语等义说明。",
+        "en": "Three feedback paths retain correlation IDs, receipt states and equivalent trilingual notes.",
+        "ko": "세 피드백 경로에 연계 ID·회신 상태·3개 언어 등가 설명 보존."
       },
       "limitation": {
-        "zh": "未标发布日期，本次未核实有日期的新发布；不是没有任何更新的断言。",
-        "en": "Publication date unstated; no dated release verified in this check, not a claim of no updates anywhere.",
-        "ko": "발행일 미표시. 이번 확인에서 날짜 있는 새 릴리스 미검증. 모든 갱신 부재 주장 아님."
+        "zh": "文档日期未标，未实跑；不是全项目无变化的断言。",
+        "en": "Undated documentation, no runtime test; not a claim of no project-wide changes.",
+        "ko": "날짜 미표시 문서, 실행 시험 없음. 프로젝트 전체 무변화 주장 아님."
       },
       "localizedStatus": {
-        "zh": "官方文档已读 · 未核实有日期的新发布",
-        "en": "Official docs read · no dated release verified",
-        "ko": "공식 문서 확인 · 날짜 있는 새 릴리스 미검증"
+        "zh": "文档已读 · 未核实有日期的新发布",
+        "en": "Docs read · no dated release verified",
+        "ko": "문서 확인 · 날짜 있는 신규 릴리스 미검증"
       }
     }
   ],
   "experiments": [
     {
-      "id": "WL-2026-09-28-W1",
+      "id": "WL-2026-10-05-W1",
       "status": "candidate",
       "owner": [
-        "Memoria",
-        "Pharma"
+        "Pharma",
+        "Memoria"
       ],
-      "deadline": "2026-10-05",
-      "metric": "All six control flows retain a final owner.",
-      "rollback": "Stop on lost ownership or calls mislabelled as approvals.",
+      "deadline": "2026-10-12",
+      "metric": "Three cases: zero actions while pending/rejected, one when approved.",
+      "rollback": "Stop on unapproved actions or mismatched approval targets.",
       "localizedMetric": {
-        "zh": "六个控制流全部保留最终责任者。",
-        "en": "All six control flows retain a final owner.",
-        "ko": "여섯 제어 흐름 모두 최종 책임자 유지."
+        "zh": "等待/拒绝零次、批准一次模拟动作，三例匹配。",
+        "en": "Three cases: zero actions while pending/rejected, one when approved.",
+        "ko": "대기·거절 0회, 승인 1회 모의 동작. 세 사례 일치."
       },
       "localizedRollback": {
-        "zh": "责任丢失或调用被误记为审批即停止。",
-        "en": "Stop on lost ownership or calls mislabelled as approvals.",
-        "ko": "책임 누락 또는 호출을 승인으로 오기하면 중단."
+        "zh": "未批动作发生或审批对象错配即停。",
+        "en": "Stop on unapproved actions or mismatched approval targets.",
+        "ko": "미승인 동작·승인 대상 불일치 시 중단."
       }
     },
     {
-      "id": "WL-2026-09-28-W2",
+      "id": "WL-2026-10-05-W2",
       "status": "candidate",
       "owner": [
         "Sigma",
         "Nullroute"
       ],
-      "deadline": "2026-10-05",
-      "metric": "Two threads each recover correctly over three restarts; in-memory control explicitly reports loss.",
-      "rollback": "Stop on cross-thread leakage or unexplained recovery.",
+      "deadline": "2026-10-12",
+      "metric": "Three resumes per thread across two threads: at most one write each, no leakage.",
+      "rollback": "Stop on duplicate writes, leakage or missing state mistaken for success.",
       "localizedMetric": {
-        "zh": "两线程各三次重启均恢复正确；内存对照明确报告状态丢失。",
-        "en": "Two threads each recover correctly over three restarts; in-memory control explicitly reports loss.",
-        "ko": "두 스레드 각각 세 번 재시작 정확 복구. 메모리 대조군 손실 명시."
+        "zh": "两线程各三次恢复，模拟写入各最多一次，无串线。",
+        "en": "Three resumes per thread across two threads: at most one write each, no leakage.",
+        "ko": "두 스레드 각각 세 번 복원, 쓰기는 각 최대 한 번, 혼선 없음."
       },
       "localizedRollback": {
-        "zh": "跨线程泄漏或不明恢复即停止。",
-        "en": "Stop on cross-thread leakage or unexplained recovery.",
-        "ko": "스레드 간 유출 또는 불명확 복구 시 중단."
+        "zh": "重复写入、串线或缺失状态被当成功即停。",
+        "en": "Stop on duplicate writes, leakage or missing state mistaken for success.",
+        "ko": "중복 쓰기·혼선·상태 누락을 성공으로 오인하면 중단."
       }
     },
     {
-      "id": "WL-2026-09-28-W3",
+      "id": "WL-2026-10-05-W3",
       "status": "candidate",
       "owner": [
-        "Runo",
-        "Vox"
+        "Vox",
+        "Runo"
       ],
-      "deadline": "2026-10-05",
-      "metric": "Four restore-parameter cases record expected/actual outcomes with aligned translations.",
-      "rollback": "Stop if missing IDs are mistaken for success or meanings drift.",
+      "deadline": "2026-10-12",
+      "metric": "Three feedback paths retain correlation IDs, receipt states and equivalent trilingual notes.",
+      "rollback": "Stop on false completion without receipts or disclosure of private content.",
       "localizedMetric": {
-        "zh": "四个恢复参数组合记录期望与实际，三语含义一致。",
-        "en": "Four restore-parameter cases record expected/actual outcomes with aligned translations.",
-        "ko": "네 복구 매개변수 사례의 예상·실제 결과 및 번역 의미 일치."
+        "zh": "三反馈路径保存关联ID、回执状态与三语等义说明。",
+        "en": "Three feedback paths retain correlation IDs, receipt states and equivalent trilingual notes.",
+        "ko": "세 피드백 경로에 연계 ID·회신 상태·3개 언어 등가 설명 보존."
       },
       "localizedRollback": {
-        "zh": "缺失ID被误认成功或语义漂移即停止。",
-        "en": "Stop if missing IDs are mistaken for success or meanings drift.",
-        "ko": "누락 ID를 성공으로 오인하거나 의미 변하면 중단."
+        "zh": "遗漏回执却宣称完成或公开私有内容即停。",
+        "en": "Stop on false completion without receipts or disclosure of private content.",
+        "ko": "회신 없이 완료 주장 또는 비공개 내용 공개 시 중단."
       }
     }
   ],
-  "archive": "research/2026-09-28/weekly-learning-before.json",
-  "report": "research/2026-09-28/weekly-learning.md"
+  "archive": "research/2026-10-05/weekly-learning-before.json",
+  "report": "research/2026-10-05/weekly-learning.md"
 }

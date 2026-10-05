@@ -92,3 +92,8 @@
 ## 2026-09-28｜实际补运行
 
 [完整四层蒸馏、九维比较与三项候选](../research/2026-09-28/weekly-learning.md)。本次读取OpenAI编排、LangGraph持久化、CrewAI Flows三份官方文档；发布日期未标，不声称新发布。W1责任流、W2重启隔离、W3恢复参数均为候选，截止10月5日，尚未批准实施。旧三项候选到期未核验，保留原记录；9月21日缺口不回填。三语展示见assets/weekly-learning.json。
+
+
+## 2026-10-05 实际补运行
+
+[本周原文、九维比较、四层蒸馏与三项候选](../research/2026-10-05/weekly-learning.md)。读取[OpenAI](https://developers.openai.com/api/docs/guides/agents/guardrails-approvals)、[LangGraph](https://docs.langchain.com/oss/python/langgraph/interrupts)、[CrewAI](https://docs.crewai.com/v1.15.23/en/learn/human-in-the-loop)；页面发布与功能事件日期未标，不宣称本周新发布。旧候选到检查日仍无验收证据；不改变正式制度。能源三份来源与四主办方日期见[世温正文](../research/2026-10-05/saeon-storage-functions.md)。

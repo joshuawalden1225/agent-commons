@@ -1,0 +1,152 @@
+{
+  "checkedAt": "2026-10-05T09:13:53.081Z",
+  "authorChecksOnly": true,
+  "independentReview": false,
+  "views": [
+    {
+      "url": "system.html",
+      "lang": "zh",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "url": "energy.html",
+      "lang": "zh",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "url": "research.html",
+      "lang": "zh",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "url": "research-note.html?id=saeon&date=2026-10-05",
+      "lang": "zh",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "url": "system.html",
+      "lang": "zh",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "url": "energy.html",
+      "lang": "zh",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "url": "research.html",
+      "lang": "zh",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "url": "research-note.html?id=saeon&date=2026-10-05",
+      "lang": "zh",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "url": "system.html",
+      "lang": "en",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "url": "energy.html",
+      "lang": "en",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "url": "research.html",
+      "lang": "en",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "url": "research-note.html?id=saeon&date=2026-10-05",
+      "lang": "en",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "url": "system.html",
+      "lang": "en",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "url": "energy.html",
+      "lang": "en",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "url": "research.html",
+      "lang": "en",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "url": "research-note.html?id=saeon&date=2026-10-05",
+      "lang": "en",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "url": "system.html",
+      "lang": "ko",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "url": "energy.html",
+      "lang": "ko",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "url": "research.html",
+      "lang": "ko",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "url": "research-note.html?id=saeon&date=2026-10-05",
+      "lang": "ko",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "url": "system.html",
+      "lang": "ko",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "url": "energy.html",
+      "lang": "ko",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "url": "research.html",
+      "lang": "ko",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "url": "research-note.html?id=saeon&date=2026-10-05",
+      "lang": "ko",
+      "width": 1440,
+      "passed": true
+    }
+  ],
+  "pdf": "One A4 page, rendered and visually checked"
+}

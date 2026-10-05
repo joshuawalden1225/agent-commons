@@ -1,0 +1,102 @@
+{
+  "checkedAt": "2026-10-05T09:09:21.727Z",
+  "timezone": "Asia/Shanghai",
+  "executor": "Codex / root",
+  "sources": [
+    {
+      "id": "iea-storage",
+      "title": "IEA · Global Energy Review 2026",
+      "url": "https://www.iea.org/reports/global-energy-review-2026/technology-battery-storage",
+      "publishedAt": "2026",
+      "checkedAt": "2026-10-05",
+      "access": "page_read",
+      "retrievedAt": "2026-10-05T09:09:21.727Z"
+    },
+    {
+      "id": "doe",
+      "title": "US DOE · Storage Innovations 2030",
+      "url": "https://www.energy.gov/oe/storage-innovations-2030",
+      "publishedAt": null,
+      "checkedAt": "2026-10-05",
+      "access": "page_read",
+      "retrievedAt": "2026-10-05T09:09:21.727Z"
+    },
+    {
+      "id": "kats",
+      "title": "KATS · ESS 사고원인 조사결과 및 안전강화 대책",
+      "url": "https://kats.go.kr/content.do?cid=20839&cmsid=240&mode=view",
+      "publishedAt": "2019-06-11",
+      "checkedAt": "2026-10-05",
+      "access": "page_read",
+      "retrievedAt": "2026-10-05T09:09:21.727Z"
+    },
+    {
+      "id": "battery-show",
+      "title": "The Battery Show · Organizer FAQ",
+      "url": "https://www.thebatteryshow.com/about/faqs/",
+      "publishedAt": null,
+      "checkedAt": "2026-10-05",
+      "access": "page_read",
+      "retrievedAt": "2026-10-05T09:09:21.727Z"
+    },
+    {
+      "id": "interbattery",
+      "title": "InterBattery · Show overview",
+      "url": "https://interbattery.or.kr/sub-1-1",
+      "publishedAt": null,
+      "checkedAt": "2026-10-05",
+      "access": "page_read",
+      "retrievedAt": "2026-10-05T09:09:21.727Z"
+    },
+    {
+      "id": "ees",
+      "title": "ees Europe · Organizer homepage",
+      "url": "https://www.ees-europe.com/home",
+      "publishedAt": null,
+      "checkedAt": "2026-10-05",
+      "access": "page_read",
+      "retrievedAt": "2026-10-05T09:09:21.727Z"
+    },
+    {
+      "id": "japan",
+      "title": "RX Japan · BATTERY JAPAN",
+      "url": "https://www.wsew.jp/hub/en-gb/about/bj.html",
+      "publishedAt": null,
+      "checkedAt": "2026-10-05",
+      "access": "page_read",
+      "retrievedAt": "2026-10-05T09:09:21.727Z"
+    },
+    {
+      "url": "https://developers.openai.com/api/docs/guides/agents/guardrails-approvals",
+      "publishedAt": null,
+      "eventDate": null,
+      "status": "page_read"
+    },
+    {
+      "url": "https://docs.langchain.com/oss/python/langgraph/interrupts",
+      "publishedAt": null,
+      "eventDate": null,
+      "status": "page_read"
+    },
+    {
+      "url": "https://docs.crewai.com/v1.15.23/en/learn/human-in-the-loop",
+      "publishedAt": null,
+      "eventDate": null,
+      "status": "page_read"
+    },
+    {
+      "url": "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009074409621",
+      "status": "direct_fetch_success",
+      "total": 2385,
+      "latestPublishedAt": "2026-10-02",
+      "eventDate": null
+    }
+  ],
+  "failed": [
+    {
+      "url": "https://www.nobelprize.org/prizes/chemistry/2019/press-release/",
+      "status": "direct_fetch_failed"
+    }
+  ],
+  "limitation": "SDA listing only today; no exhaustive ministry/company search. No independent acceptance. Eight daily domain-delivery gaps."
+}
