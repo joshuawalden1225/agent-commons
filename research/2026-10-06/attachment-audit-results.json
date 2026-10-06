@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-06",
+  "executionId": "daily-20261006-root",
+  "executor": "Codex / root",
+  "synthetic": true,
+  "independentReview": false,
+  "cliSha256": "71539989ad751bd6b42c5be456324241b2e60ccaf943d8db7e52f9643ea50770",
+  "cases": [
+    {
+      "case": "baseline",
+      "expected": "pass",
+      "errors": []
+    },
+    {
+      "case": "linked_attachment_changed_body_unchanged",
+      "expected": "pass_despite_changed_attachment",
+      "errors": [],
+      "bodyUnchanged": true,
+      "attachmentChanged": true
+    },
+    {
+      "case": "registered_body_changed",
+      "expected": "reject",
+      "errors": [
+        "Changed archived artifact: research/body.md"
+      ]
+    }
+  ],
+  "conclusion": "Current validation covers the registered body, not recursively linked attachments. This demonstrates a coverage gap, not actual tampering."
+}

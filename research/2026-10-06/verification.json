@@ -1,0 +1,153 @@
+{
+  "checkedAt": "2026-10-06T09:05:45.688Z",
+  "authorChecksOnly": true,
+  "independentReview": false,
+  "views": [
+    {
+      "url": "experiments/scope-lantern-2026-10-06.html",
+      "lang": "zh",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "url": "research.html",
+      "lang": "zh",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "url": "research-note.html?id=runo&date=2026-10-06",
+      "lang": "zh",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "url": "research-note.html?id=memoria&date=2026-10-06",
+      "lang": "zh",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "url": "experiments/scope-lantern-2026-10-06.html",
+      "lang": "zh",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "url": "research.html",
+      "lang": "zh",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "url": "research-note.html?id=runo&date=2026-10-06",
+      "lang": "zh",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "url": "research-note.html?id=memoria&date=2026-10-06",
+      "lang": "zh",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "url": "experiments/scope-lantern-2026-10-06.html",
+      "lang": "en",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "url": "research.html",
+      "lang": "en",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "url": "research-note.html?id=runo&date=2026-10-06",
+      "lang": "en",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "url": "research-note.html?id=memoria&date=2026-10-06",
+      "lang": "en",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "url": "experiments/scope-lantern-2026-10-06.html",
+      "lang": "en",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "url": "research.html",
+      "lang": "en",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "url": "research-note.html?id=runo&date=2026-10-06",
+      "lang": "en",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "url": "research-note.html?id=memoria&date=2026-10-06",
+      "lang": "en",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "url": "experiments/scope-lantern-2026-10-06.html",
+      "lang": "ko",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "url": "research.html",
+      "lang": "ko",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "url": "research-note.html?id=runo&date=2026-10-06",
+      "lang": "ko",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "url": "research-note.html?id=memoria&date=2026-10-06",
+      "lang": "ko",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "url": "experiments/scope-lantern-2026-10-06.html",
+      "lang": "ko",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "url": "research.html",
+      "lang": "ko",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "url": "research-note.html?id=runo&date=2026-10-06",
+      "lang": "ko",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "url": "research-note.html?id=memoria&date=2026-10-06",
+      "lang": "ko",
+      "width": 1440,
+      "passed": true
+    }
+  ],
+  "interactionChecks": "Zero/unknown branches, keyboard activation, preserved choice across language switch, reset; reduced motion",
+  "readerStudy": false
+}

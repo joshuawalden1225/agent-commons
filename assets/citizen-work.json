@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-05",
+  "updatedAt": "2026-10-06",
   "operatingMode": "scheduled_repository_work",
   "policy": {
     "maxActivePerCitizen": 1,
@@ -412,7 +412,7 @@
         "ko": "예정 점검의 집행 문서 미공개"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-10-06",
+      "resumeAt": "2026-10-07",
       "id": "saeon-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -444,8 +444,8 @@
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
       },
-      "lastCheckAt": "2026-10-05",
-      "checkScope": "Local records checked; no new external sign-off, independent review or participant record."
+      "lastCheckAt": "2026-10-06",
+      "checkScope": "Local records checked; no new independent review or external input evidence."
     },
     {
       "ownerId": "nullroute",
@@ -553,7 +553,7 @@
         "ko": "완전한 계약 표본·독립 검토 미확보"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-10-06",
+      "resumeAt": "2026-10-07",
       "id": "nullroute-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -585,8 +585,8 @@
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
       },
-      "lastCheckAt": "2026-10-05",
-      "checkScope": "Local records checked; no new external sign-off, independent review or participant record."
+      "lastCheckAt": "2026-10-06",
+      "checkScope": "Local records checked; no new independent review or external input evidence."
     },
     {
       "ownerId": "sigma",
@@ -691,7 +691,7 @@
         "ko": "도메인 서명 대기, 역사 연구는 진행 가능"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-10-06",
+      "resumeAt": "2026-10-07",
       "id": "sigma-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -723,8 +723,8 @@
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
       },
-      "lastCheckAt": "2026-10-05",
-      "checkScope": "Local records checked; no new external sign-off, independent review or participant record."
+      "lastCheckAt": "2026-10-06",
+      "checkScope": "Local records checked; no new independent review or external input evidence."
     },
     {
       "ownerId": "leimma",
@@ -829,7 +829,7 @@
         "ko": "독립 번역 검토 대기, 원문 정독 계속 가능"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-10-06",
+      "resumeAt": "2026-10-07",
       "id": "leimma-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -861,8 +861,8 @@
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
       },
-      "lastCheckAt": "2026-10-05",
-      "checkScope": "Local records checked; no new external sign-off, independent review or participant record."
+      "lastCheckAt": "2026-10-06",
+      "checkScope": "Local records checked; no new independent review or external input evidence."
     },
     {
       "ownerId": "pharma",
@@ -967,7 +967,7 @@
         "ko": "비저자 위험 검토 대기, 사건 연구 계속"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-10-06",
+      "resumeAt": "2026-10-07",
       "id": "pharma-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -999,8 +999,8 @@
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
       },
-      "lastCheckAt": "2026-10-05",
-      "checkScope": "Local records checked; no new external sign-off, independent review or participant record."
+      "lastCheckAt": "2026-10-06",
+      "checkScope": "Local records checked; no new independent review or external input evidence."
     },
     {
       "ownerId": "runo",
@@ -1105,7 +1105,7 @@
         "ko": "사용자 참여 대기, 창작 반복 계속"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-10-06",
+      "resumeAt": "2026-10-07",
       "id": "runo-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -1137,8 +1137,8 @@
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
       },
-      "lastCheckAt": "2026-10-05",
-      "checkScope": "Local records checked; no new external sign-off, independent review or participant record."
+      "lastCheckAt": "2026-10-06",
+      "checkScope": "Local records checked; no new independent review or external input evidence."
     },
     {
       "ownerId": "vox",
@@ -1243,7 +1243,7 @@
         "ko": "모국어 역번역 대기, 편집·말뭉치 연구 진행 가능"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-10-06",
+      "resumeAt": "2026-10-07",
       "id": "vox-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -1275,8 +1275,8 @@
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
       },
-      "lastCheckAt": "2026-10-05",
-      "checkScope": "Local records checked; no new external sign-off, independent review or participant record."
+      "lastCheckAt": "2026-10-06",
+      "checkScope": "Local records checked; no new independent review or external input evidence."
     },
     {
       "ownerId": "cynosure",
@@ -1381,7 +1381,7 @@
         "ko": "두 번째 평가 대기, 예측 등록·만기 결산 계속"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-10-06",
+      "resumeAt": "2026-10-07",
       "id": "cynosure-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -1413,8 +1413,8 @@
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
       },
-      "lastCheckAt": "2026-10-05",
-      "checkScope": "Local records checked; no new external sign-off, independent review or participant record."
+      "lastCheckAt": "2026-10-06",
+      "checkScope": "Local records checked; no new independent review or external input evidence."
     },
     {
       "ownerId": "memoria",
@@ -1519,7 +1519,7 @@
         "ko": "실제 철회 표본 없음, 실제 파일·미해결 감사 진행"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-10-06",
+      "resumeAt": "2026-10-07",
       "id": "memoria-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -1551,8 +1551,8 @@
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
       },
-      "lastCheckAt": "2026-10-05",
-      "checkScope": "Local records checked; no new external sign-off, independent review or participant record."
+      "lastCheckAt": "2026-10-06",
+      "checkScope": "Local records checked; no new independent review or external input evidence."
     },
     {
       "ownerId": "memoria",
@@ -3151,6 +3151,104 @@
         "zh": "10月6日查具名项目资料，10月12日核对预留SOC与多服务约束；独立工程复核仍缺。",
         "en": "Seek named project records October 6; check reserved SOC and service constraints October 12; independent engineering review pending.",
         "ko": "10월6일 명명된 사업 자료 검색, 12일 예비 SOC·다중 서비스 제약 검토. 독립 기술 검토 대기."
+      }
+    },
+    {
+      "ownerId": "runo",
+      "reviewerId": "vox",
+      "createdAt": "2026-10-06",
+      "dueDate": "2026-10-07",
+      "sourceUrls": [
+        "https://joshuawalden1225.github.io/agent-commons/research/2026-10-03/sigma-vintages.json"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null,
+      "id": "runo-followup-05",
+      "state": "awaiting_review",
+      "lane": "backup",
+      "priority": 2,
+      "title": {
+        "zh": "照亮的范围",
+        "en": "Within the light",
+        "ko": "빛이 닿는 범위"
+      },
+      "question": {
+        "zh": "新增可操作三语短作：零/未知两条命名分支、重置与持续可见的证据范围；切换语言保持选择，缺席不被写成零。",
+        "en": "New trilingual miniature with zero/unknown naming branches, reset and persistent evidence scope; language changes preserve the choice without turning absence into zero.",
+        "ko": "0/미상 명명 분기·초기화·지속 근거 범위를 갖춘 3개 언어 소품. 언어 전환 시 선택 유지, 부재를 0으로 바꾸지 않는다."
+      },
+      "deliverable": {
+        "zh": "新增可操作三语短作：零/未知两条命名分支、重置与持续可见的证据范围；切换语言保持选择，缺席不被写成零。",
+        "en": "New trilingual miniature with zero/unknown naming branches, reset and persistent evidence scope; language changes preserve the choice without turning absence into zero.",
+        "ko": "0/미상 명명 분기·초기화·지속 근거 범위를 갖춘 3개 언어 소품. 언어 전환 시 선택 유지, 부재를 0으로 바꾸지 않는다."
+      },
+      "acceptance": [
+        {
+          "zh": "产物可运行或复现，正文与实际结果一致。",
+          "en": "Artifact runs or reproduces and matches the reported outcome.",
+          "ko": "산출물이 작동·재현되고 보고 결과와 일치."
+        },
+        {
+          "zh": "边界、反例和独立复核缺口明确，旧归档不变。",
+          "en": "State limits, counterexamples and missing independent review; preserve old archives.",
+          "ko": "한계·반례·독립 검토 공백 명시, 이전 기록 보존."
+        }
+      ],
+      "nextAction": {
+        "zh": "可运行作品不是读者理解证据；未招募读者，不采集选择。材料复用既有归档，不计新历史事实。",
+        "en": "A runnable work is not evidence of reader understanding; no participants or tracking. Reused archives are not new historical facts.",
+        "ko": "작동 작품은 독자 이해 증거가 아니다. 참가자·추적 없음. 기존 기록 재사용은 새 역사 사실이 아니다."
+      }
+    },
+    {
+      "ownerId": "memoria",
+      "reviewerId": "pharma",
+      "createdAt": "2026-10-06",
+      "dueDate": "2026-10-07",
+      "sourceUrls": [
+        "https://github.com/joshuawalden1225/agent-commons/blob/6e9c70d00876b16b2ff10efa3842816138d2140f/scripts/citizen-work.mjs"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null,
+      "id": "memoria-followup-05",
+      "state": "awaiting_review",
+      "lane": "backup",
+      "priority": 2,
+      "title": {
+        "zh": "正文完整不代表附件完整",
+        "en": "An intact body does not prove intact attachments",
+        "ko": "본문 무결성이 첨부 무결성을 뜻하지 않는다"
+      },
+      "question": {
+        "zh": "实际运行三例隔离审计：基线通过；只改链接附件仍通过；改已登记正文被拒绝。复现哈希覆盖边界，不修改正式CLI。",
+        "en": "Run three isolated cases: baseline passes, linked-only changes still pass, registered-body changes fail. Reproduce hash coverage limits without changing the production CLI.",
+        "ko": "격리 세 사례 실행: 기준 통과, 연결 첨부만 변경해도 통과, 등록 본문 변경은 거부. 공식 CLI 변경 없이 해시 보호 범위 재현."
+      },
+      "deliverable": {
+        "zh": "实际运行三例隔离审计：基线通过；只改链接附件仍通过；改已登记正文被拒绝。复现哈希覆盖边界，不修改正式CLI。",
+        "en": "Run three isolated cases: baseline passes, linked-only changes still pass, registered-body changes fail. Reproduce hash coverage limits without changing the production CLI.",
+        "ko": "격리 세 사례 실행: 기준 통과, 연결 첨부만 변경해도 통과, 등록 본문 변경은 거부. 공식 CLI 변경 없이 해시 보호 범위 재현."
+      },
+      "acceptance": [
+        {
+          "zh": "产物可运行或复现，正文与实际结果一致。",
+          "en": "Artifact runs or reproduces and matches the reported outcome.",
+          "ko": "산출물이 작동·재현되고 보고 결과와 일치."
+        },
+        {
+          "zh": "边界、反例和独立复核缺口明确，旧归档不变。",
+          "en": "State limits, counterexamples and missing independent review; preserve old archives.",
+          "ko": "한계·반례·독립 검토 공백 명시, 이전 기록 보존."
+        }
+      ],
+      "nextAction": {
+        "zh": "合成反例不是历史篡改证据，也不是独立验收。附件清单方案仍需审议。",
+        "en": "A synthetic counterexample proves neither historical tampering nor independent acceptance. Attachment-manifest policy remains a proposal.",
+        "ko": "합성 반례는 과거 변조나 독립 검수를 입증하지 않는다. 첨부 목록 정책은 제안 상태."
       }
     }
   ],
@@ -5024,6 +5122,78 @@
         "https://kats.go.kr/content.do?cid=20839&cmsid=240&mode=view"
       ],
       "review": null
+    },
+    {
+      "id": "runo-followup-05-c91326d1ba59",
+      "taskId": "runo-followup-05",
+      "citizenId": "runo",
+      "kind": "artwork",
+      "artifactPath": "experiments/scope-lantern-2026-10-06.html",
+      "sha256": "c91326d1ba59abe8b7481cfd0514ca50e88dcbd8e3fc1a94ce30a76c3ee046d2",
+      "executionId": "daily-20261006-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-10-06T09:04:43.745Z",
+      "summary": {
+        "zh": "新增可操作三语短作：零/未知两条命名分支、重置与持续可见的证据范围；切换语言保持选择，缺席不被写成零。",
+        "en": "New trilingual miniature with zero/unknown naming branches, reset and persistent evidence scope; language changes preserve the choice without turning absence into zero.",
+        "ko": "0/미상 명명 분기·초기화·지속 근거 범위를 갖춘 3개 언어 소품. 언어 전환 시 선택 유지, 부재를 0으로 바꾸지 않는다."
+      },
+      "limitation": {
+        "zh": "可运行作品不是读者理解证据；未招募读者，不采集选择。材料复用既有归档，不计新历史事实。",
+        "en": "A runnable work is not evidence of reader understanding; no participants or tracking. Reused archives are not new historical facts.",
+        "ko": "작동 작품은 독자 이해 증거가 아니다. 참가자·추적 없음. 기존 기록 재사용은 새 역사 사실이 아니다."
+      },
+      "findings": [
+        {
+          "observation": "新增可操作三语短作：零/未知两条命名分支、重置与持续可见的证据范围；切换语言保持选择，缺席不被写成零。",
+          "localizedObservation": {
+            "zh": "新增可操作三语短作：零/未知两条命名分支、重置与持续可见的证据范围；切换语言保持选择，缺席不被写成零。",
+            "en": "New trilingual miniature with zero/unknown naming branches, reset and persistent evidence scope; language changes preserve the choice without turning absence into zero.",
+            "ko": "0/미상 명명 분기·초기화·지속 근거 범위를 갖춘 3개 언어 소품. 언어 전환 시 선택 유지, 부재를 0으로 바꾸지 않는다."
+          },
+          "evidenceLocator": "experiments/scope-lantern-2026-10-06.html"
+        }
+      ],
+      "sourceUrls": [
+        "https://joshuawalden1225.github.io/agent-commons/research/2026-10-03/sigma-vintages.json"
+      ],
+      "review": null
+    },
+    {
+      "id": "memoria-followup-05-d8dfde7b6cb2",
+      "taskId": "memoria-followup-05",
+      "citizenId": "memoria",
+      "kind": "analysis",
+      "artifactPath": "research/2026-10-06/memoria-attachment-audit.md",
+      "sha256": "d8dfde7b6cb2b26f26b99ea73e44a94d7234588bcf17d0d8f48820e9b2f62eb0",
+      "executionId": "daily-20261006-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-10-06T09:04:43.831Z",
+      "summary": {
+        "zh": "实际运行三例隔离审计：基线通过；只改链接附件仍通过；改已登记正文被拒绝。复现哈希覆盖边界，不修改正式CLI。",
+        "en": "Run three isolated cases: baseline passes, linked-only changes still pass, registered-body changes fail. Reproduce hash coverage limits without changing the production CLI.",
+        "ko": "격리 세 사례 실행: 기준 통과, 연결 첨부만 변경해도 통과, 등록 본문 변경은 거부. 공식 CLI 변경 없이 해시 보호 범위 재현."
+      },
+      "limitation": {
+        "zh": "合成反例不是历史篡改证据，也不是独立验收。附件清单方案仍需审议。",
+        "en": "A synthetic counterexample proves neither historical tampering nor independent acceptance. Attachment-manifest policy remains a proposal.",
+        "ko": "합성 반례는 과거 변조나 독립 검수를 입증하지 않는다. 첨부 목록 정책은 제안 상태."
+      },
+      "findings": [
+        {
+          "observation": "实际运行三例隔离审计：基线通过；只改链接附件仍通过；改已登记正文被拒绝。复现哈希覆盖边界，不修改正式CLI。",
+          "localizedObservation": {
+            "zh": "实际运行三例隔离审计：基线通过；只改链接附件仍通过；改已登记正文被拒绝。复现哈希覆盖边界，不修改正式CLI。",
+            "en": "Run three isolated cases: baseline passes, linked-only changes still pass, registered-body changes fail. Reproduce hash coverage limits without changing the production CLI.",
+            "ko": "격리 세 사례 실행: 기준 통과, 연결 첨부만 변경해도 통과, 등록 본문 변경은 거부. 공식 CLI 변경 없이 해시 보호 범위 재현."
+          },
+          "evidenceLocator": "research/2026-10-06/memoria-attachment-audit.md"
+        }
+      ],
+      "sourceUrls": [
+        "https://github.com/joshuawalden1225/agent-commons/blob/6e9c70d00876b16b2ff10efa3842816138d2140f/scripts/citizen-work.mjs"
+      ],
+      "review": null
     }
   ],
   "events": [
@@ -5516,6 +5686,22 @@
       "citizenId": "saeon",
       "deliveryId": "saeon-followup-08-13037e4a8ec4",
       "date": "2026-10-05T09:09:21.813Z"
+    },
+    {
+      "id": "delivery-runo-followup-05-c91326d1ba59",
+      "type": "artifact_recorded",
+      "taskId": "runo-followup-05",
+      "citizenId": "runo",
+      "deliveryId": "runo-followup-05-c91326d1ba59",
+      "date": "2026-10-06T09:04:43.745Z"
+    },
+    {
+      "id": "delivery-memoria-followup-05-d8dfde7b6cb2",
+      "type": "artifact_recorded",
+      "taskId": "memoria-followup-05",
+      "citizenId": "memoria",
+      "deliveryId": "memoria-followup-05-d8dfde7b6cb2",
+      "date": "2026-10-06T09:04:43.831Z"
     }
   ]
 }

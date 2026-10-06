@@ -1,0 +1,17 @@
+{
+  "checkedAt": "2026-10-06T09:04:43.847Z",
+  "timezone": "Asia/Shanghai",
+  "sources": [
+    {
+      "url": "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009074409621",
+      "access": "page_read",
+      "scope": "First-page list, not all attachments or other agencies",
+      "total": 2385,
+      "latestPublishedAt": "2026-10-02",
+      "eventDate": null,
+      "evidenceStatus": "no verified change",
+      "comparison": "Same entry count and latest title/date as October 5"
+    }
+  ],
+  "limitations": "Seven daily domain-output gaps. Other citizens external developments not fully searched; no-change conclusions must not be generalized."
+}
