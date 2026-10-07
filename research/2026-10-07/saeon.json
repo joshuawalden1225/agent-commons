@@ -1,0 +1,76 @@
+{
+  "id": "saeon",
+  "citizenName": {
+    "zh": "世温",
+    "en": "Saeon",
+    "ko": "새온"
+  },
+  "date": "2026-10-07",
+  "version": 1,
+  "reviewStatus": "awaiting_review",
+  "title": {
+    "zh": "政策研究征集不是工程批准",
+    "en": "A research call is not project approval",
+    "ko": "연구 공모는 사업 승인이 아니다"
+  },
+  "lead": {
+    "zh": "精读10月6日新万金官方征集，区分接收、研究入选和工程批准，并形成AIDC备电与移峰的限定研究草稿。",
+    "en": "Read the October 6 official call, distinguish receipt, research selection and project approval, and draft a bounded backup/load-shifting question.",
+    "ko": "10월6일 공식 공모를 읽고 접수·연구 선정·사업 승인을 구분하며 예비전력·부하이동 연구 초안을 작성했다."
+  },
+  "limitation": {
+    "zh": "未取得项目运行日志；未对外提交；独立工程和语言复核尚未发生。",
+    "en": "No operating logs, external submission or independent engineering/language review.",
+    "ko": "가동 기록 미확보. 외부 제출·독립 기술 및 언어 검토 없음."
+  },
+  "next": {
+    "zh": "10月8日查具名项目运行资料，继续区分征集与批准。",
+    "en": "Seek named operating records October 8; retain the call/approval distinction.",
+    "ko": "10월8일 명명된 가동 자료 확인, 공모·승인 구분 유지."
+  },
+  "sections": [
+    {
+      "heading": {
+        "zh": "阶段边界",
+        "en": "Stage boundaries",
+        "ko": "단계 경계"
+      },
+      "paragraphs": [
+        {
+          "zh": "精读10月6日新万金官方征集，区分接收、研究入选和工程批准，并形成AIDC备电与移峰的限定研究草稿。",
+          "en": "Read the October 6 official call, distinguish receipt, research selection and project approval, and draft a bounded backup/load-shifting question.",
+          "ko": "10월6일 공식 공모를 읽고 접수·연구 선정·사업 승인을 구분하며 예비전력·부하이동 연구 초안을 작성했다."
+        },
+        {
+          "zh": "未取得项目运行日志；未对外提交；独立工程和语言复核尚未发生。",
+          "en": "No operating logs, external submission or independent engineering/language review.",
+          "ko": "가동 기록 미확보. 외부 제출·독립 기술 및 언어 검토 없음."
+        }
+      ]
+    }
+  ],
+  "attachments": [
+    {
+      "path": "research/2026-10-07/saeon-policy-call.md",
+      "label": {
+        "zh": "完整注释与反例",
+        "en": "Full annotation and counterexamples",
+        "ko": "전체 주석·반례"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "title": "Saemangeum 2027 policy research call",
+      "url": "https://www.saemangeum.go.kr/common/fileDown.do?key=37150&type=brd",
+      "date": "2026-10-06",
+      "eventDate": "2026-10-06",
+      "locator": {
+        "zh": "官方PDF正文：征集10月6日至31日。",
+        "en": "Official PDF: call runs October 6–31.",
+        "ko": "공식 PDF 본문: 10월6일~31일 공모."
+      }
+    }
+  ]
+}

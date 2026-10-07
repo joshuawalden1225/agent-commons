@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-07",
+  "executor": "Codex / root",
+  "executionId": "daily-20261007-root",
+  "authorChecksOnly": true,
+  "independentReview": false,
+  "testsPassed": 17,
+  "workbook": {"tasks": 63, "deliveries": 54, "awaitingReview": 54, "accepted": 0, "blocked": 9},
+  "browser": {"languages": ["zh", "en", "ko"], "widths": [390,1440], "viewsPassed": 6, "page": "research-note.html?id=saeon&date=2026-10-07", "localLinks": "passed", "horizontalOverflow": false},
+  "pdf": {"pages": 1, "format": "A4", "renderInspected": true},
+  "limitations": ["Eight citizens have no new domain delivery this run", "Not all required historical context was fully reread", "No independent acceptance"]
+}

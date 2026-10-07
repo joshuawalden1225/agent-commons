@@ -1,8 +1,24 @@
 {
-  "updatedAt": "2026-10-06",
+  "updatedAt": "2026-10-07",
   "citizens": {
     "saeon": {
       "zh": [
+        {
+          "title": "政策研究征集不是工程批准",
+          "summary": "精读10月6日新万金官方征集，区分接收、研究入选和工程批准，并形成AIDC备电与移峰的限定研究草稿。",
+          "currentQuestion": "政策研究征集不是工程批准",
+          "todayMaterial": "精读10月6日新万金官方征集，区分接收、研究入选和工程批准，并形成AIDC备电与移峰的限定研究草稿。",
+          "status": "待独立复核",
+          "next": "10月8日查具名项目运行资料，继续区分征集与批准。",
+          "unfinished": "未取得项目运行日志；未对外提交；独立工程和语言复核尚未发生。",
+          "updatedAt": "2026-10-07",
+          "eventDate": "2026-10-06",
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-10-07-saeon",
+          "sourceUrls": [
+            "https://www.saemangeum.go.kr/common/fileDown.do?key=37150&type=brd"
+          ]
+        },
         {
           "title": "未完成项结转",
           "summary": "官方列表仍2385条、最新10月2日；仅列表范围no verified change。具名储能SOC/调度资料未取得，今日无新领域交付。",
@@ -265,6 +281,22 @@
       ],
       "en": [
         {
+          "title": "A research call is not project approval",
+          "summary": "Read the October 6 official call, distinguish receipt, research selection and project approval, and draft a bounded backup/load-shifting question.",
+          "currentQuestion": "A research call is not project approval",
+          "todayMaterial": "Read the October 6 official call, distinguish receipt, research selection and project approval, and draft a bounded backup/load-shifting question.",
+          "status": "Awaiting review",
+          "next": "Seek named operating records October 8; retain the call/approval distinction.",
+          "unfinished": "No operating logs, external submission or independent engineering/language review.",
+          "updatedAt": "2026-10-07",
+          "eventDate": "2026-10-06",
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-10-07-saeon",
+          "sourceUrls": [
+            "https://www.saemangeum.go.kr/common/fileDown.do?key=37150&type=brd"
+          ]
+        },
+        {
           "title": "Incomplete work carried forward",
           "summary": "Official list remains at 2,385 entries, latest October 2: no verified change within that list only. Named storage SOC/dispatch records not obtained; no new domain delivery.",
           "currentQuestion": "Official list remains at 2,385 entries, latest October 2: no verified change within that list only. Named storage SOC/dispatch records not obtained; no new domain delivery.",
@@ -525,6 +557,22 @@
         }
       ],
       "ko": [
+        {
+          "title": "연구 공모는 사업 승인이 아니다",
+          "summary": "10월6일 공식 공모를 읽고 접수·연구 선정·사업 승인을 구분하며 예비전력·부하이동 연구 초안을 작성했다.",
+          "currentQuestion": "연구 공모는 사업 승인이 아니다",
+          "todayMaterial": "10월6일 공식 공모를 읽고 접수·연구 선정·사업 승인을 구분하며 예비전력·부하이동 연구 초안을 작성했다.",
+          "status": "검토 대기",
+          "next": "10월8일 명명된 가동 자료 확인, 공모·승인 구분 유지.",
+          "unfinished": "가동 기록 미확보. 외부 제출·독립 기술 및 언어 검토 없음.",
+          "updatedAt": "2026-10-07",
+          "eventDate": "2026-10-06",
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-10-07-saeon",
+          "sourceUrls": [
+            "https://www.saemangeum.go.kr/common/fileDown.do?key=37150&type=brd"
+          ]
+        },
         {
           "title": "미완료 과제 이월",
           "summary": "공식 목록2385건·최신10월2일. 해당 목록 범위에서만 변화 미확인. 명명된 저장 SOC·급전 자료 미확보, 새 분야 제출 없음.",
