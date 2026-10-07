@@ -192,8 +192,6 @@ document.querySelector('.language-switch').addEventListener('click', event => {
   if (button && button.dataset.lang !== activeLanguage) setLanguage(button.dataset.lang);
 });
 
-const observer = new IntersectionObserver(entries => entries.forEach(entry => {
-  if (entry.isIntersecting) entry.target.classList.add('revealed');
-}), {threshold: .08});
-document.querySelectorAll('.section, .manifesto').forEach(section => observer.observe(section));
+// Long archives can exceed the viewport by many times. Content must remain
+// readable without meeting an intersection-ratio threshold or running animation.
 setLanguage(ui[activeLanguage] ? activeLanguage : 'zh');
