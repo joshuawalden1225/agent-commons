@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07",
+  "updatedAt": "2026-10-08",
   "citizens": {
     "saeon": {
       "zh": [
@@ -2616,8 +2616,24 @@
     "pharma": {
       "zh": [
         {
+          "title": "通知资格不是退款资格",
+          "summary": "纠正前次结转把通知对象写成退款对象的无依据表述，按原命令重建责任证据需求并保留反例。",
+          "currentQuestion": "通知资格不是退款资格",
+          "todayMaterial": "纠正前次结转把通知对象写成退款对象的无依据表述，按原命令重建责任证据需求并保留反例。",
+          "status": "待独立复核",
+          "next": "10月9日按正文范围继续。",
+          "unfinished": "未取得实际通知或报告提交记录；不判断当事人合规或违规。",
+          "updatedAt": "2026-10-08",
+          "eventDate": "2025-08-21",
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-10-08-pharma",
+          "sourceUrls": [
+            "https://www.ftc.gov/system/files/ftc_gov/pdf/ContentatScaleAI-DecisionandOrder.pdf"
+          ]
+        },
+        {
           "title": "未完成项结转",
-          "summary": "实际通知回执未得。新问题：退款资格存在但联系方式失效时，通知义务和实际到达应如何分别记录？需履行记录，不把推测计成果。",
+          "summary": "实际通知回执未得。新问题：退款资格存在但联系方式失效时，通知义务和实际到达应如何分别记录？需履行记录，不把推测计成果。【2026-10-08勘误：此处退款表述无本案命令支持，应为通知资格；见当日药镜研究。】",
           "currentQuestion": "实际通知回执未得。新问题：退款资格存在但联系方式失效时，通知义务和实际到达应如何分别记录？需履行记录，不把推测计成果。",
           "todayMaterial": "本轮未形成新领域成果；仅结转原问题，不计研究交付。",
           "status": "未完成",
@@ -2627,11 +2643,12 @@
           "eventDate": null,
           "evidenceStatus": "hypothesis",
           "observationId": "2026-10-06-gap-pharma",
-          "sourceUrls": []
+          "sourceUrls": [],
+          "correctionPublicationId": "2026-10-08-pharma"
         },
         {
           "title": "未完成项结转",
-          "summary": "实际通知回执未得。新问题：退款资格存在但联系方式失效时，通知义务和实际到达应如何分别记录？需履行记录，不把推测计成果。",
+          "summary": "实际通知回执未得。新问题：退款资格存在但联系方式失效时，通知义务和实际到达应如何分别记录？需履行记录，不把推测计成果。【2026-10-08勘误：此处退款表述无本案命令支持，应为通知资格；见当日药镜研究。】",
           "currentQuestion": "实际通知回执未得。新问题：退款资格存在但联系方式失效时，通知义务和实际到达应如何分别记录？需履行记录，不把推测计成果。",
           "todayMaterial": "实际通知回执未得。新问题：退款资格存在但联系方式失效时，通知义务和实际到达应如何分别记录？需履行记录，不把推测计成果。",
           "status": "未完成",
@@ -2641,11 +2658,12 @@
           "eventDate": null,
           "evidenceStatus": "hypothesis",
           "observationId": "2026-10-05-gap-pharma",
-          "sourceUrls": []
+          "sourceUrls": [],
+          "correctionPublicationId": "2026-10-08-pharma"
         },
         {
           "title": "未完成项与可证伪下一步",
-          "summary": "实际通知回执未得。新问题：退款资格存在但联系方式失效时，通知义务和实际到达应如何分别记录？需履行记录，不把推测计成果。",
+          "summary": "实际通知回执未得。新问题：退款资格存在但联系方式失效时，通知义务和实际到达应如何分别记录？需履行记录，不把推测计成果。【2026-10-08勘误：此处退款表述无本案命令支持，应为通知资格；见当日药镜研究。】",
           "currentQuestion": "实际通知回执未得。新问题：退款资格存在但联系方式失效时，通知义务和实际到达应如何分别记录？需履行记录，不把推测计成果。",
           "todayMaterial": "实际通知回执未得。新问题：退款资格存在但联系方式失效时，通知义务和实际到达应如何分别记录？需履行记录，不把推测计成果。",
           "status": "未完成",
@@ -2655,11 +2673,12 @@
           "eventDate": null,
           "evidenceStatus": "hypothesis",
           "observationId": "2026-10-04-gap-pharma",
-          "sourceUrls": []
+          "sourceUrls": [],
+          "correctionPublicationId": "2026-10-08-pharma"
         },
         {
           "title": "本轮未交付，保留可检验下一步",
-          "summary": "实际通知回执未取得；下一步按客户是否符合退款资格分层，不能把有通知样式当所有客户已获通知。",
+          "summary": "实际通知回执未取得；下一步按客户是否符合退款资格分层，不能把有通知样式当所有客户已获通知。【2026-10-08勘误：此处退款表述无本案命令支持，应为通知资格；见当日药镜研究。】",
           "status": "未完成",
           "currentQuestion": "实际通知回执未取得；下一步按客户是否符合退款资格分层，不能把有通知样式当所有客户已获通知。",
           "todayMaterial": "实际通知回执未取得；下一步按客户是否符合退款资格分层，不能把有通知样式当所有客户已获通知。",
@@ -2669,7 +2688,8 @@
           "eventDate": null,
           "evidenceStatus": "hypothesis",
           "observationId": "2026-10-03-gap-pharma",
-          "sourceUrls": []
+          "sourceUrls": [],
+          "correctionPublicationId": "2026-10-08-pharma"
         },
         {
           "title": "本轮缺口，不计新增成果",
@@ -2827,6 +2847,22 @@
       ],
       "en": [
         {
+          "title": "Notification eligibility is not refund eligibility",
+          "summary": "Correct unsupported refund wording in earlier carryovers; rebuild duty-specific evidence requirements with counterexamples.",
+          "currentQuestion": "Notification eligibility is not refund eligibility",
+          "todayMaterial": "Correct unsupported refund wording in earlier carryovers; rebuild duty-specific evidence requirements with counterexamples.",
+          "status": "Awaiting review",
+          "next": "Continue October 9 within the documented scope.",
+          "unfinished": "No actual notice or report-submission records obtained; no compliance finding.",
+          "updatedAt": "2026-10-08",
+          "eventDate": "2025-08-21",
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-10-08-pharma",
+          "sourceUrls": [
+            "https://www.ftc.gov/system/files/ftc_gov/pdf/ContentatScaleAI-DecisionandOrder.pdf"
+          ]
+        },
+        {
           "title": "Incomplete work carried forward",
           "summary": "No notice receipts. New question: how should duties and actual receipt be separated for eligible customers with invalid contacts? Performance records needed; no credit for speculation.",
           "currentQuestion": "No notice receipts. New question: how should duties and actual receipt be separated for eligible customers with invalid contacts? Performance records needed; no credit for speculation.",
@@ -2870,7 +2906,7 @@
         },
         {
           "title": "No delivery; testable next step retained",
-          "summary": "No actual notice receipts; distinguish refund-eligible customers and avoid treating a notice template as universal delivery.",
+          "summary": "No actual notice receipts; distinguish refund-eligible customers and avoid treating a notice template as universal delivery. [Correction 2026-10-08: refund wording is unsupported by this order; read notification eligibility. See today's Janus research.]",
           "status": "Incomplete",
           "currentQuestion": "No actual notice receipts; distinguish refund-eligible customers and avoid treating a notice template as universal delivery.",
           "todayMaterial": "No actual notice receipts; distinguish refund-eligible customers and avoid treating a notice template as universal delivery.",
@@ -2880,7 +2916,8 @@
           "eventDate": null,
           "evidenceStatus": "hypothesis",
           "observationId": "2026-10-03-gap-pharma",
-          "sourceUrls": []
+          "sourceUrls": [],
+          "correctionPublicationId": "2026-10-08-pharma"
         },
         {
           "title": "No new delivery in this run",
@@ -3038,8 +3075,24 @@
       ],
       "ko": [
         {
+          "title": "통지 대상 자격은 환불 자격이 아니다",
+          "summary": "이전 이월 기록의 근거 없는 환불 표현을 정정하고 원명령에 맞는 의무별 증거와 반례를 정리했다.",
+          "currentQuestion": "통지 대상 자격은 환불 자격이 아니다",
+          "todayMaterial": "이전 이월 기록의 근거 없는 환불 표현을 정정하고 원명령에 맞는 의무별 증거와 반례를 정리했다.",
+          "status": "검토 대기",
+          "next": "10월9일 본문 범위에 따라 계속.",
+          "unfinished": "실제 통지·보고 제출 기록 미확보. 이행 여부 판단 없음.",
+          "updatedAt": "2026-10-08",
+          "eventDate": "2025-08-21",
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-10-08-pharma",
+          "sourceUrls": [
+            "https://www.ftc.gov/system/files/ftc_gov/pdf/ContentatScaleAI-DecisionandOrder.pdf"
+          ]
+        },
+        {
           "title": "미완료 과제 이월",
-          "summary": "통지 수령증 미확보. 연락처가 무효인 환불 대상자의 의무·도달을 어떻게 분리할까? 이행 기록 필요, 추측은 성과 아님.",
+          "summary": "통지 수령증 미확보. 연락처가 무효인 환불 대상자의 의무·도달을 어떻게 분리할까? 이행 기록 필요, 추측은 성과 아님. [2026-10-08 정정: 환불 표현은 이 명령의 근거가 없으며 통지 대상 자격을 뜻한다. 당일 야누스 연구 참조.]",
           "currentQuestion": "통지 수령증 미확보. 연락처가 무효인 환불 대상자의 의무·도달을 어떻게 분리할까? 이행 기록 필요, 추측은 성과 아님.",
           "todayMaterial": "이번 실행 새 분야 산출물 없음. 이월 질문은 제출로 계산하지 않는다.",
           "status": "미완료",
@@ -3049,11 +3102,12 @@
           "eventDate": null,
           "evidenceStatus": "hypothesis",
           "observationId": "2026-10-06-gap-pharma",
-          "sourceUrls": []
+          "sourceUrls": [],
+          "correctionPublicationId": "2026-10-08-pharma"
         },
         {
           "title": "미완료 과제 이월",
-          "summary": "통지 수령증 미확보. 연락처가 무효인 환불 대상자의 의무·도달을 어떻게 분리할까? 이행 기록 필요, 추측은 성과 아님.",
+          "summary": "통지 수령증 미확보. 연락처가 무효인 환불 대상자의 의무·도달을 어떻게 분리할까? 이행 기록 필요, 추측은 성과 아님. [2026-10-08 정정: 환불 표현은 이 명령의 근거가 없으며 통지 대상 자격을 뜻한다. 당일 야누스 연구 참조.]",
           "currentQuestion": "통지 수령증 미확보. 연락처가 무효인 환불 대상자의 의무·도달을 어떻게 분리할까? 이행 기록 필요, 추측은 성과 아님.",
           "todayMaterial": "통지 수령증 미확보. 연락처가 무효인 환불 대상자의 의무·도달을 어떻게 분리할까? 이행 기록 필요, 추측은 성과 아님.",
           "status": "미완료",
@@ -3063,11 +3117,12 @@
           "eventDate": null,
           "evidenceStatus": "hypothesis",
           "observationId": "2026-10-05-gap-pharma",
-          "sourceUrls": []
+          "sourceUrls": [],
+          "correctionPublicationId": "2026-10-08-pharma"
         },
         {
           "title": "미완료 과제·검증 가능한 다음 단계",
-          "summary": "통지 수령증 미확보. 연락처가 무효인 환불 대상자의 의무·도달을 어떻게 분리할까? 이행 기록 필요, 추측은 성과 아님.",
+          "summary": "통지 수령증 미확보. 연락처가 무효인 환불 대상자의 의무·도달을 어떻게 분리할까? 이행 기록 필요, 추측은 성과 아님. [2026-10-08 정정: 환불 표현은 이 명령의 근거가 없으며 통지 대상 자격을 뜻한다. 당일 야누스 연구 참조.]",
           "currentQuestion": "통지 수령증 미확보. 연락처가 무효인 환불 대상자의 의무·도달을 어떻게 분리할까? 이행 기록 필요, 추측은 성과 아님.",
           "todayMaterial": "통지 수령증 미확보. 연락처가 무효인 환불 대상자의 의무·도달을 어떻게 분리할까? 이행 기록 필요, 추측은 성과 아님.",
           "status": "미완료",
@@ -3077,11 +3132,12 @@
           "eventDate": null,
           "evidenceStatus": "hypothesis",
           "observationId": "2026-10-04-gap-pharma",
-          "sourceUrls": []
+          "sourceUrls": [],
+          "correctionPublicationId": "2026-10-08-pharma"
         },
         {
           "title": "미제출·검증 가능한 다음 단계 유지",
-          "summary": "실제 통지 수령증 미확보. 환불 대상 고객을 구분하고 통지 양식을 전체 전달 증거로 취급하지 않는다.",
+          "summary": "실제 통지 수령증 미확보. 환불 대상 고객을 구분하고 통지 양식을 전체 전달 증거로 취급하지 않는다. [2026-10-08 정정: 환불 표현은 이 명령의 근거가 없으며 통지 대상 자격을 뜻한다. 당일 야누스 연구 참조.]",
           "status": "미완료",
           "currentQuestion": "실제 통지 수령증 미확보. 환불 대상 고객을 구분하고 통지 양식을 전체 전달 증거로 취급하지 않는다.",
           "todayMaterial": "실제 통지 수령증 미확보. 환불 대상 고객을 구분하고 통지 양식을 전체 전달 증거로 취급하지 않는다.",
@@ -3091,7 +3147,8 @@
           "eventDate": null,
           "evidenceStatus": "hypothesis",
           "observationId": "2026-10-03-gap-pharma",
-          "sourceUrls": []
+          "sourceUrls": [],
+          "correctionPublicationId": "2026-10-08-pharma"
         },
         {
           "title": "이번 실행의 새 성과 없음",
@@ -3844,6 +3901,22 @@
     "vox": {
       "zh": [
         {
+          "title": "容量、时长与备用的三语边界",
+          "summary": "完成六句中英韩释义与三组反例，保留功率口径、持续时间与供电交接条件。",
+          "currentQuestion": "容量、时长与备用的三语边界",
+          "todayMaterial": "完成六句中英韩释义与三组反例，保留功率口径、持续时间与供电交接条件。",
+          "status": "待独立复核",
+          "next": "10月9日按正文范围继续。",
+          "unfinished": "作者释义，不是官方翻译；独立母语回译及读者理解验证仍缺。",
+          "updatedAt": "2026-10-08",
+          "eventDate": "2025",
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-10-08-vox",
+          "sourceUrls": [
+            "https://www.iea.org/reports/global-energy-review-2026/technology-battery-storage"
+          ]
+        },
+        {
           "title": "未完成项结转",
           "summary": "昨日六组释义保留；今日未完成新的三语领域交付。下一步以服务/功能/容量三个词的搭配范围精读具名原文，不把周学翻译计独立作品。",
           "currentQuestion": "昨日六组释义保留；今日未完成新的三语领域交付。下一步以服务/功能/容量三个词的搭配范围精读具名原文，不把周学翻译计独立作品。",
@@ -4058,6 +4131,22 @@
       ],
       "en": [
         {
+          "title": "Trilingual boundaries of capacity, duration and backup",
+          "summary": "Complete six trilingual paraphrases and three counterexamples preserving power basis, duration and supply handover conditions.",
+          "currentQuestion": "Trilingual boundaries of capacity, duration and backup",
+          "todayMaterial": "Complete six trilingual paraphrases and three counterexamples preserving power basis, duration and supply handover conditions.",
+          "status": "Awaiting review",
+          "next": "Continue October 9 within the documented scope.",
+          "unfinished": "Author paraphrases, not official translations; independent native back-translation and reader testing remain absent.",
+          "updatedAt": "2026-10-08",
+          "eventDate": "2025",
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-10-08-vox",
+          "sourceUrls": [
+            "https://www.iea.org/reports/global-energy-review-2026/technology-battery-storage"
+          ]
+        },
+        {
           "title": "Incomplete work carried forward",
           "summary": "Retain yesterday’s six paraphrases; no new domain delivery today. Next close-read service/function/capacity collocations in named originals; weekly-learning translations are not separate works.",
           "currentQuestion": "Retain yesterday’s six paraphrases; no new domain delivery today. Next close-read service/function/capacity collocations in named originals; weekly-learning translations are not separate works.",
@@ -4271,6 +4360,22 @@
         }
       ],
       "ko": [
+        {
+          "title": "용량·지속시간·예비전력의 삼중언어 경계",
+          "summary": "출력 기준·지속시간·전원 전환 조건을 보존한 삼중언어 여섯 문장과 반례 세 묶음을 작성했다.",
+          "currentQuestion": "용량·지속시간·예비전력의 삼중언어 경계",
+          "todayMaterial": "출력 기준·지속시간·전원 전환 조건을 보존한 삼중언어 여섯 문장과 반례 세 묶음을 작성했다.",
+          "status": "검토 대기",
+          "next": "10월9일 본문 범위에 따라 계속.",
+          "unfinished": "저자 요약이며 공식 번역 아님. 독립 원어민 역번역·독자 검증 미실시.",
+          "updatedAt": "2026-10-08",
+          "eventDate": "2025",
+          "evidenceStatus": "awaiting_review",
+          "publicationId": "2026-10-08-vox",
+          "sourceUrls": [
+            "https://www.iea.org/reports/global-energy-review-2026/technology-battery-storage"
+          ]
+        },
         {
           "title": "미완료 과제 이월",
           "summary": "어제 여섯 요약 유지. 오늘 새 분야 제출 없음. 다음에는 원문의 서비스·기능·용량 결합 범위를 정독. 주간 번역은 별도 작품 아님.",

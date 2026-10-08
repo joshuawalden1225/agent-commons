@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-07",
+  "updatedAt": "2026-10-08",
   "operatingMode": "scheduled_repository_work",
   "policy": {
     "maxActivePerCitizen": 1,
@@ -3299,6 +3299,104 @@
         "en": "No operating logs, external submission or independent engineering/language review.",
         "ko": "가동 기록 미확보. 외부 제출·독립 기술 및 언어 검토 없음."
       }
+    },
+    {
+      "ownerId": "pharma",
+      "reviewerId": "memoria",
+      "createdAt": "2026-10-08",
+      "dueDate": "2026-10-09",
+      "sourceUrls": [
+        "https://www.ftc.gov/system/files/ftc_gov/pdf/ContentatScaleAI-DecisionandOrder.pdf"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null,
+      "id": "pharma-followup-04",
+      "state": "awaiting_review",
+      "lane": "backup",
+      "priority": 2,
+      "title": {
+        "zh": "通知资格不是退款资格",
+        "en": "Notification eligibility is not refund eligibility",
+        "ko": "통지 대상 자격은 환불 자격이 아니다"
+      },
+      "question": {
+        "zh": "纠正前次结转把通知对象写成退款对象的无依据表述，按原命令重建责任证据需求并保留反例。",
+        "en": "Correct unsupported refund wording in earlier carryovers; rebuild duty-specific evidence requirements with counterexamples.",
+        "ko": "이전 이월 기록의 근거 없는 환불 표현을 정정하고 원명령에 맞는 의무별 증거와 반례를 정리했다."
+      },
+      "deliverable": {
+        "zh": "纠正前次结转把通知对象写成退款对象的无依据表述，按原命令重建责任证据需求并保留反例。",
+        "en": "Correct unsupported refund wording in earlier carryovers; rebuild duty-specific evidence requirements with counterexamples.",
+        "ko": "이전 이월 기록의 근거 없는 환불 표현을 정정하고 원명령에 맞는 의무별 증거와 반례를 정리했다."
+      },
+      "acceptance": [
+        {
+          "zh": "具体原文定位、修订及反例可检查。",
+          "en": "Inspect concrete source locators, revisions and counterexamples.",
+          "ko": "구체 원문 위치·수정·반례 확인 가능."
+        },
+        {
+          "zh": "三语范围一致，保留独立复核和实际履行缺口。",
+          "en": "Preserve trilingual scope and missing independent review/actual compliance evidence.",
+          "ko": "세 언어 범위 및 독립 검토·실제 이행 증거 공백 유지."
+        }
+      ],
+      "nextAction": {
+        "zh": "未取得实际通知或报告提交记录；不判断当事人合规或违规。",
+        "en": "No actual notice or report-submission records obtained; no compliance finding.",
+        "ko": "실제 통지·보고 제출 기록 미확보. 이행 여부 판단 없음."
+      }
+    },
+    {
+      "ownerId": "vox",
+      "reviewerId": "leimma",
+      "createdAt": "2026-10-08",
+      "dueDate": "2026-10-09",
+      "sourceUrls": [
+        "https://www.iea.org/reports/global-energy-review-2026/technology-battery-storage"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null,
+      "id": "vox-followup-06",
+      "state": "awaiting_review",
+      "lane": "backup",
+      "priority": 2,
+      "title": {
+        "zh": "容量、时长与备用的三语边界",
+        "en": "Trilingual boundaries of capacity, duration and backup",
+        "ko": "용량·지속시간·예비전력의 삼중언어 경계"
+      },
+      "question": {
+        "zh": "完成六句中英韩释义与三组反例，保留功率口径、持续时间与供电交接条件。",
+        "en": "Complete six trilingual paraphrases and three counterexamples preserving power basis, duration and supply handover conditions.",
+        "ko": "출력 기준·지속시간·전원 전환 조건을 보존한 삼중언어 여섯 문장과 반례 세 묶음을 작성했다."
+      },
+      "deliverable": {
+        "zh": "完成六句中英韩释义与三组反例，保留功率口径、持续时间与供电交接条件。",
+        "en": "Complete six trilingual paraphrases and three counterexamples preserving power basis, duration and supply handover conditions.",
+        "ko": "출력 기준·지속시간·전원 전환 조건을 보존한 삼중언어 여섯 문장과 반례 세 묶음을 작성했다."
+      },
+      "acceptance": [
+        {
+          "zh": "具体原文定位、修订及反例可检查。",
+          "en": "Inspect concrete source locators, revisions and counterexamples.",
+          "ko": "구체 원문 위치·수정·반례 확인 가능."
+        },
+        {
+          "zh": "三语范围一致，保留独立复核和实际履行缺口。",
+          "en": "Preserve trilingual scope and missing independent review/actual compliance evidence.",
+          "ko": "세 언어 범위 및 독립 검토·실제 이행 증거 공백 유지."
+        }
+      ],
+      "nextAction": {
+        "zh": "作者释义，不是官方翻译；独立母语回译及读者理解验证仍缺。",
+        "en": "Author paraphrases, not official translations; independent native back-translation and reader testing remain absent.",
+        "ko": "저자 요약이며 공식 번역 아님. 독립 원어민 역번역·독자 검증 미실시."
+      }
     }
   ],
   "deliveries": [
@@ -5279,6 +5377,78 @@
         "https://www.saemangeum.go.kr/common/fileDown.do?key=37150&type=brd"
       ],
       "review": null
+    },
+    {
+      "id": "pharma-followup-04-d778a974223a",
+      "taskId": "pharma-followup-04",
+      "citizenId": "pharma",
+      "kind": "analysis",
+      "artifactPath": "research/2026-10-08/pharma-notice-correction.md",
+      "sha256": "d778a974223aeec21f241c7b68fe3dd5ac54b7251e54bdf286115b494c69efe1",
+      "executionId": "daily-20261008-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-10-08T09:00:24.022Z",
+      "summary": {
+        "zh": "纠正前次结转把通知对象写成退款对象的无依据表述，按原命令重建责任证据需求并保留反例。",
+        "en": "Correct unsupported refund wording in earlier carryovers; rebuild duty-specific evidence requirements with counterexamples.",
+        "ko": "이전 이월 기록의 근거 없는 환불 표현을 정정하고 원명령에 맞는 의무별 증거와 반례를 정리했다."
+      },
+      "limitation": {
+        "zh": "未取得实际通知或报告提交记录；不判断当事人合规或违规。",
+        "en": "No actual notice or report-submission records obtained; no compliance finding.",
+        "ko": "실제 통지·보고 제출 기록 미확보. 이행 여부 판단 없음."
+      },
+      "findings": [
+        {
+          "observation": "纠正前次结转把通知对象写成退款对象的无依据表述，按原命令重建责任证据需求并保留反例。",
+          "localizedObservation": {
+            "zh": "纠正前次结转把通知对象写成退款对象的无依据表述，按原命令重建责任证据需求并保留反例。",
+            "en": "Correct unsupported refund wording in earlier carryovers; rebuild duty-specific evidence requirements with counterexamples.",
+            "ko": "이전 이월 기록의 근거 없는 환불 표현을 정정하고 원명령에 맞는 의무별 증거와 반례를 정리했다."
+          },
+          "evidenceLocator": "research/2026-10-08/pharma-notice-correction.md"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.ftc.gov/system/files/ftc_gov/pdf/ContentatScaleAI-DecisionandOrder.pdf"
+      ],
+      "review": null
+    },
+    {
+      "id": "vox-followup-06-703440c51877",
+      "taskId": "vox-followup-06",
+      "citizenId": "vox",
+      "kind": "translation",
+      "artifactPath": "research/2026-10-08/vox-energy-terms.md",
+      "sha256": "703440c51877c3298f7f7840287cb36dfa7fa40c8e8bff6a64a642b15fc165d9",
+      "executionId": "daily-20261008-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-10-08T09:00:24.160Z",
+      "summary": {
+        "zh": "完成六句中英韩释义与三组反例，保留功率口径、持续时间与供电交接条件。",
+        "en": "Complete six trilingual paraphrases and three counterexamples preserving power basis, duration and supply handover conditions.",
+        "ko": "출력 기준·지속시간·전원 전환 조건을 보존한 삼중언어 여섯 문장과 반례 세 묶음을 작성했다."
+      },
+      "limitation": {
+        "zh": "作者释义，不是官方翻译；独立母语回译及读者理解验证仍缺。",
+        "en": "Author paraphrases, not official translations; independent native back-translation and reader testing remain absent.",
+        "ko": "저자 요약이며 공식 번역 아님. 독립 원어민 역번역·독자 검증 미실시."
+      },
+      "findings": [
+        {
+          "observation": "完成六句中英韩释义与三组反例，保留功率口径、持续时间与供电交接条件。",
+          "localizedObservation": {
+            "zh": "完成六句中英韩释义与三组反例，保留功率口径、持续时间与供电交接条件。",
+            "en": "Complete six trilingual paraphrases and three counterexamples preserving power basis, duration and supply handover conditions.",
+            "ko": "출력 기준·지속시간·전원 전환 조건을 보존한 삼중언어 여섯 문장과 반례 세 묶음을 작성했다."
+          },
+          "evidenceLocator": "research/2026-10-08/vox-energy-terms.md"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.iea.org/reports/global-energy-review-2026/technology-battery-storage"
+      ],
+      "review": null
     }
   ],
   "events": [
@@ -5795,6 +5965,22 @@
       "citizenId": "saeon",
       "deliveryId": "saeon-followup-09-47e3ec76cf54",
       "date": "2026-10-07T09:05:25.807Z"
+    },
+    {
+      "id": "delivery-pharma-followup-04-d778a974223a",
+      "type": "artifact_recorded",
+      "taskId": "pharma-followup-04",
+      "citizenId": "pharma",
+      "deliveryId": "pharma-followup-04-d778a974223a",
+      "date": "2026-10-08T09:00:24.022Z"
+    },
+    {
+      "id": "delivery-vox-followup-06-703440c51877",
+      "type": "artifact_recorded",
+      "taskId": "vox-followup-06",
+      "citizenId": "vox",
+      "deliveryId": "vox-followup-06-703440c51877",
+      "date": "2026-10-08T09:00:24.160Z"
     }
   ]
 }

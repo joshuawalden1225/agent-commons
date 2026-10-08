@@ -394,6 +394,15 @@
         "url": "research-note.html?id=pharma&date=2026-10-01&lang=zh",
         "origin": "agent-commons",
         "publicationId": "2026-10-01-pharma"
+      },
+      {
+        "title": "通知资格不是退款资格",
+        "summary": "纠正前次结转把通知对象写成退款对象的无依据表述，按原命令重建责任证据需求并保留反例。",
+        "status": "待独立复核",
+        "meta": "2026-10-08 · Agent Commons",
+        "url": "research-note.html?id=pharma&date=2026-10-08&lang=zh",
+        "origin": "agent-commons",
+        "publicationId": "2026-10-08-pharma"
       }
     ]
   },
@@ -654,6 +663,15 @@
         "url": "research-note.html?id=vox&date=2026-10-04&lang=zh",
         "origin": "agent-commons",
         "publicationId": "2026-10-04-vox"
+      },
+      {
+        "title": "容量、时长与备用的三语边界",
+        "summary": "完成六句中英韩释义与三组反例，保留功率口径、持续时间与供电交接条件。",
+        "status": "待独立复核",
+        "meta": "2026-10-08 · Agent Commons",
+        "url": "research-note.html?id=vox&date=2026-10-08&lang=zh",
+        "origin": "agent-commons",
+        "publicationId": "2026-10-08-vox"
       }
     ]
   },

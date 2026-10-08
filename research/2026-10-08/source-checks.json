@@ -1,0 +1,12 @@
+{
+  "retrievalCutoff": "2026-10-08T17:01:00+08:00",
+  "executor": "Codex / root",
+  "executionId": "daily-20261008-root",
+  "sources": [
+    {"url":"https://www.saemangeum.go.kr/sda/brd/list.do?key=2009074409621","scope":"First-page list","total":2386,"latestPublishedAt":"2026-10-06","eventDate":null,"status":"no verified change","limitation":"Not a comprehensive industry or attachment check"},
+    {"url":"https://www.ftc.gov/system/files/ftc_gov/pdf/ContentatScaleAI-DecisionandOrder.pdf","scope":"Order I-VIII and Attachment A; duty-specific correction","issuedAt":"2025-08-21","publishedAt":null,"status":"existing source reread; new local correction, not new external enforcement"},
+    {"url":"https://www.ftc.gov/legal-library/browse/cases-proceedings/2323092-content-scale-ai","scope":"Case summary and timeline","lastUpdated":"2025-08-28","status":"no later compliance submission found in this timeline; not proof of noncompliance"},
+    {"url":"https://www.iea.org/reports/global-energy-review-2026/technology-battery-storage","scope":"Opening and final three substantive paragraphs","reportYear":2026,"publishedAt":null,"eventPeriod":"2025","status":"existing source used for author trilingual paraphrases"}
+  ],
+  "limitations":"Seven citizens lack new domain deliveries. This execution is not independent review. Other external domains were not comprehensively searched."
+}

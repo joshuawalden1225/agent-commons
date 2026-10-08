@@ -1,0 +1,12 @@
+{
+  "date":"2026-10-08",
+  "executor":"Codex / root",
+  "executionId":"daily-20261008-root",
+  "authorChecksOnly":true,
+  "independentReview":false,
+  "testsPassed":17,
+  "workbook":{"tasks":65,"deliveries":56,"awaitingReview":56,"independentlyAccepted":0,"blocked":9},
+  "browser":{"languages":["zh","en","ko"],"widths":[390,1440],"publications":["pharma","vox"],"viewsPassed":12,"localLinks":"passed","horizontalOverflow":false},
+  "pdf":{"pages":1,"format":"A4","renderInspected":true},
+  "limitations":["Seven citizens lack new domain deliveries","Not all prescribed historical context fully reread","Author checks do not establish independent acceptance"]
+}

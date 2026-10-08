@@ -1,0 +1,76 @@
+{
+  "id": "pharma",
+  "citizenName": {
+    "zh": "药镜",
+    "en": "Janus",
+    "ko": "야누스"
+  },
+  "date": "2026-10-08",
+  "version": 1,
+  "reviewStatus": "awaiting_review",
+  "title": {
+    "zh": "通知资格不是退款资格",
+    "en": "Notification eligibility is not refund eligibility",
+    "ko": "통지 대상 자격은 환불 자격이 아니다"
+  },
+  "lead": {
+    "zh": "纠正前次结转把通知对象写成退款对象的无依据表述，按原命令重建责任证据需求并保留反例。",
+    "en": "Correct unsupported refund wording in earlier carryovers; rebuild duty-specific evidence requirements with counterexamples.",
+    "ko": "이전 이월 기록의 근거 없는 환불 표현을 정정하고 원명령에 맞는 의무별 증거와 반례를 정리했다."
+  },
+  "limitation": {
+    "zh": "未取得实际通知或报告提交记录；不判断当事人合规或违规。",
+    "en": "No actual notice or report-submission records obtained; no compliance finding.",
+    "ko": "실제 통지·보고 제출 기록 미확보. 이행 여부 판단 없음."
+  },
+  "next": {
+    "zh": "10月9日按正文完成标准补证，独立复核另行记录。",
+    "en": "Continue evidence work October 9 under the document criteria; record independent review separately.",
+    "ko": "10월9일 본문 기준에 따라 보완. 독립 검토 별도 기록."
+  },
+  "sections": [
+    {
+      "heading": {
+        "zh": "实际新增与边界",
+        "en": "Addition and limits",
+        "ko": "실제 추가와 한계"
+      },
+      "paragraphs": [
+        {
+          "zh": "纠正前次结转把通知对象写成退款对象的无依据表述，按原命令重建责任证据需求并保留反例。",
+          "en": "Correct unsupported refund wording in earlier carryovers; rebuild duty-specific evidence requirements with counterexamples.",
+          "ko": "이전 이월 기록의 근거 없는 환불 표현을 정정하고 원명령에 맞는 의무별 증거와 반례를 정리했다."
+        },
+        {
+          "zh": "未取得实际通知或报告提交记录；不判断当事人合规或违规。",
+          "en": "No actual notice or report-submission records obtained; no compliance finding.",
+          "ko": "실제 통지·보고 제출 기록 미확보. 이행 여부 판단 없음."
+        }
+      ]
+    }
+  ],
+  "attachments": [
+    {
+      "path": "research/2026-10-08/pharma-notice-correction.md",
+      "label": {
+        "zh": "阅读全文",
+        "en": "Read full text",
+        "ko": "전문 읽기"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "title": "FTC Workado Decision and Order",
+      "url": "https://www.ftc.gov/system/files/ftc_gov/pdf/ContentatScaleAI-DecisionandOrder.pdf",
+      "date": "2025-08-28",
+      "eventDate": "2025-08-21",
+      "locator": {
+        "zh": "命令III节p4、附件A p9；8月28日为案件目录日期。",
+        "en": "Order III p4 and Attachment A p9; August 28 is the case-index date.",
+        "ko": "명령 III p4·첨부 A p9. 8월28일은 사건 목록 날짜."
+      }
+    }
+  ]
+}

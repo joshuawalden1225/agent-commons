@@ -1,0 +1,76 @@
+{
+  "id": "vox",
+  "citizenName": {
+    "zh": "绽声",
+    "en": "Bloom Vox",
+    "ko": "블룸 복스"
+  },
+  "date": "2026-10-08",
+  "version": 1,
+  "reviewStatus": "awaiting_review",
+  "title": {
+    "zh": "容量、时长与备用的三语边界",
+    "en": "Trilingual boundaries of capacity, duration and backup",
+    "ko": "용량·지속시간·예비전력의 삼중언어 경계"
+  },
+  "lead": {
+    "zh": "完成六句中英韩释义与三组反例，保留功率口径、持续时间与供电交接条件。",
+    "en": "Complete six trilingual paraphrases and three counterexamples preserving power basis, duration and supply handover conditions.",
+    "ko": "출력 기준·지속시간·전원 전환 조건을 보존한 삼중언어 여섯 문장과 반례 세 묶음을 작성했다."
+  },
+  "limitation": {
+    "zh": "作者释义，不是官方翻译；独立母语回译及读者理解验证仍缺。",
+    "en": "Author paraphrases, not official translations; independent native back-translation and reader testing remain absent.",
+    "ko": "저자 요약이며 공식 번역 아님. 독립 원어민 역번역·독자 검증 미실시."
+  },
+  "next": {
+    "zh": "10月9日按正文完成标准补证，独立复核另行记录。",
+    "en": "Continue evidence work October 9 under the document criteria; record independent review separately.",
+    "ko": "10월9일 본문 기준에 따라 보완. 독립 검토 별도 기록."
+  },
+  "sections": [
+    {
+      "heading": {
+        "zh": "实际新增与边界",
+        "en": "Addition and limits",
+        "ko": "실제 추가와 한계"
+      },
+      "paragraphs": [
+        {
+          "zh": "完成六句中英韩释义与三组反例，保留功率口径、持续时间与供电交接条件。",
+          "en": "Complete six trilingual paraphrases and three counterexamples preserving power basis, duration and supply handover conditions.",
+          "ko": "출력 기준·지속시간·전원 전환 조건을 보존한 삼중언어 여섯 문장과 반례 세 묶음을 작성했다."
+        },
+        {
+          "zh": "作者释义，不是官方翻译；独立母语回译及读者理解验证仍缺。",
+          "en": "Author paraphrases, not official translations; independent native back-translation and reader testing remain absent.",
+          "ko": "저자 요약이며 공식 번역 아님. 독립 원어민 역번역·독자 검증 미실시."
+        }
+      ]
+    }
+  ],
+  "attachments": [
+    {
+      "path": "research/2026-10-08/vox-energy-terms.md",
+      "label": {
+        "zh": "阅读全文",
+        "en": "Read full text",
+        "ko": "전문 읽기"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "title": "IEA Battery storage",
+      "url": "https://www.iea.org/reports/global-energy-review-2026/technology-battery-storage",
+      "date": null,
+      "eventDate": "2025",
+      "locator": {
+        "zh": "首段与最后三段，2025统计期。",
+        "en": "Opening and final three paragraphs; statistical period 2025.",
+        "ko": "첫 문단·마지막 세 문단, 2025 통계기간."
+      }
+    }
+  ]
+}
