@@ -1,0 +1,27 @@
+{
+  "taskId": "vox-continuation-20261012",
+  "kind": "translation",
+  "artifactPath": "research/2026-11-02/vox-edition-language.md",
+  "executionId": "daily-20261103-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "展会页现在时与届次的三语编辑",
+    "en": "Trilingual editing of present tense and exhibition editions",
+    "ko": "현재 시제와 전시 회차 삼중언어 편집"
+  },
+  "limitation": {
+    "zh": "作者执行，未独立验收；具体范围及缺口见正文。",
+    "en": "Author execution, not independently accepted; see artifact for scope and gaps.",
+    "ko": "저자 실행·독립 검수 없음. 범위와 공백은 본문 참조."
+  },
+  "findings": [
+    {
+      "observation": "展会页现在时与届次的三语编辑",
+      "evidenceLocator": "research/2026-11-02/vox-edition-language.md"
+    }
+  ],
+  "sourceUrls": [
+    "https://www.thebatteryshow.com/about/faqs/",
+    "https://www.wsew.jp/hub/en-gb/about/bj.html"
+  ]
+}

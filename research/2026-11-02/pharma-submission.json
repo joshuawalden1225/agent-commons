@@ -1,0 +1,27 @@
+{
+  "taskId": "pharma-continuation-20261012",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-02/pharma-claims-remedies.md",
+  "executionId": "daily-20261102-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "新增宣传范围、评估分布和通知分母的对照及两个合成反例。",
+    "en": "Map claim scope, evaluation distribution and notification denominators with two synthetic counterexamples.",
+    "ko": "광고 범위·평가 분포·통지 분모 대조와 가상 반례 두 건."
+  },
+  "limitation": {
+    "zh": "合成反例不是现场或履行实测；未独立验收。",
+    "en": "Synthetic counterexamples are not field or compliance measurements; no independent review.",
+    "ko": "가상 반례는 현장·이행 실측이 아니며 독립 검수 없음."
+  },
+  "findings": [
+    {
+      "observation": "新增宣传范围、评估分布和通知分母的对照及两个合成反例。",
+      "evidenceLocator": "research/2026-11-02/pharma-claims-remedies.md comparison and examples A/B"
+    }
+  ],
+  "sourceUrls": [
+    "https://www.ftc.gov/system/files/ftc_gov/pdf/ContentatScaleAI-DecisionandOrder.pdf",
+    "https://www.ftc.gov/news-events/news/press-releases/2025/04/ftc-order-requires-workado-back-artificial-intelligence-detection-claims"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "taskId": "sigma-followup-20261103",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-03/sigma-yield.md",
+  "executionId": "daily-20261103-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "共同窗口与扩展窗口的名义单位收入复算",
+    "en": "Recompute nominal yields across shared and extended windows",
+    "ko": "공통·확장 구간 명목 단위수입 재계산"
+  },
+  "limitation": {
+    "zh": "作者执行，未独立验收；具体范围及缺口见正文。",
+    "en": "Author execution, not independently accepted; see artifact for scope and gaps.",
+    "ko": "저자 실행·독립 검수 없음. 범위와 공백은 본문 참조."
+  },
+  "findings": [
+    {
+      "observation": "共同窗口与扩展窗口的名义单位收入复算",
+      "evidenceLocator": "research/2026-11-03/sigma-yield.md"
+    }
+  ],
+  "sourceUrls": [
+    "https://www.bts.gov/archive/publications/national_transportation_statistics/2010/table_rail_profile"
+  ]
+}

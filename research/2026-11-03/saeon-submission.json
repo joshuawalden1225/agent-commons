@@ -1,0 +1,26 @@
+{
+  "taskId": "saeon-followup-20261103",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-03/saeon-community.md",
+  "executionId": "daily-20261103-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "居住服务的五类执行证据",
+    "en": "Five settlement-service evidence chains",
+    "ko": "정주 서비스 근거 사슬 다섯 가지"
+  },
+  "limitation": {
+    "zh": "作者执行，未独立验收；具体范围及缺口见正文。",
+    "en": "Author execution, not independently accepted; see artifact for scope and gaps.",
+    "ko": "저자 실행·독립 검수 없음. 범위와 공백은 본문 참조."
+  },
+  "findings": [
+    {
+      "observation": "居住服务的五类执行证据",
+      "evidenceLocator": "research/2026-11-03/saeon-community.md"
+    }
+  ],
+  "sourceUrls": [
+    "https://www.saemangeum.go.kr/common/fileDown.do?key=37432&type=brd"
+  ]
+}

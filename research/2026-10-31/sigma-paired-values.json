@@ -1,0 +1,182 @@
+{
+  "date": "2026-10-31",
+  "executor": "Codex / root",
+  "executionId": "daily-20261031-root",
+  "reviewStatus": "awaiting_review",
+  "displayedPublicationDate": "2012-11-21",
+  "originalReleaseDate": null,
+  "eventDates": "2000-2008",
+  "sourceUrls": [
+    "https://www.bts.gov/archive/publications/national_transportation_statistics/2009/table_rail_profile",
+    "https://www.bts.gov/archive/publications/national_transportation_statistics/2010/table_rail_profile"
+  ],
+  "sourceLocators": [
+    "FINANCIAL / Class I / Freight",
+    "PERFORMANCE / Revenue ton-miles of freight (millions)"
+  ],
+  "rows": [
+    {
+      "year": 2000,
+      "measure": "freightRevenue",
+      "unit": "nominal million USD",
+      "directory2009": 33083,
+      "directory2010": 33083,
+      "delta": 0,
+      "comparison": "equal"
+    },
+    {
+      "year": 2000,
+      "measure": "revenueTonMiles",
+      "unit": "million revenue ton-miles",
+      "directory2009": 1465960,
+      "directory2010": 1465960,
+      "delta": 0,
+      "comparison": "equal"
+    },
+    {
+      "year": 2001,
+      "measure": "freightRevenue",
+      "unit": "nominal million USD",
+      "directory2009": 33533,
+      "directory2010": 33533,
+      "delta": 0,
+      "comparison": "equal"
+    },
+    {
+      "year": 2001,
+      "measure": "revenueTonMiles",
+      "unit": "million revenue ton-miles",
+      "directory2009": 1495472,
+      "directory2010": 1495472,
+      "delta": 0,
+      "comparison": "equal"
+    },
+    {
+      "year": 2002,
+      "measure": "freightRevenue",
+      "unit": "nominal million USD",
+      "directory2009": 34110,
+      "directory2010": 34110,
+      "delta": 0,
+      "comparison": "equal"
+    },
+    {
+      "year": 2002,
+      "measure": "revenueTonMiles",
+      "unit": "million revenue ton-miles",
+      "directory2009": 1507011,
+      "directory2010": 1507011,
+      "delta": 0,
+      "comparison": "equal"
+    },
+    {
+      "year": 2003,
+      "measure": "freightRevenue",
+      "unit": "nominal million USD",
+      "directory2009": 35413,
+      "directory2010": 35413,
+      "delta": 0,
+      "comparison": "equal"
+    },
+    {
+      "year": 2003,
+      "measure": "revenueTonMiles",
+      "unit": "million revenue ton-miles",
+      "directory2009": 1551438,
+      "directory2010": 1551438,
+      "delta": 0,
+      "comparison": "equal"
+    },
+    {
+      "year": 2004,
+      "measure": "freightRevenue",
+      "unit": "nominal million USD",
+      "directory2009": 39131,
+      "directory2010": 39131,
+      "delta": 0,
+      "comparison": "equal"
+    },
+    {
+      "year": 2004,
+      "measure": "revenueTonMiles",
+      "unit": "million revenue ton-miles",
+      "directory2009": 1662598,
+      "directory2010": 1662598,
+      "delta": 0,
+      "comparison": "equal"
+    },
+    {
+      "year": 2005,
+      "measure": "freightRevenue",
+      "unit": "nominal million USD",
+      "directory2009": 44457,
+      "directory2010": 44457,
+      "delta": 0,
+      "comparison": "equal"
+    },
+    {
+      "year": 2005,
+      "measure": "revenueTonMiles",
+      "unit": "million revenue ton-miles",
+      "directory2009": 1696425,
+      "directory2010": 1696425,
+      "delta": 0,
+      "comparison": "equal"
+    },
+    {
+      "year": 2006,
+      "measure": "freightRevenue",
+      "unit": "nominal million USD",
+      "directory2009": 50315,
+      "directory2010": 50315,
+      "delta": 0,
+      "comparison": "equal"
+    },
+    {
+      "year": 2006,
+      "measure": "revenueTonMiles",
+      "unit": "million revenue ton-miles",
+      "directory2009": 1771897,
+      "directory2010": 1771897,
+      "delta": 0,
+      "comparison": "equal"
+    },
+    {
+      "year": 2007,
+      "measure": "freightRevenue",
+      "unit": "nominal million USD",
+      "directory2009": null,
+      "directory2010": 52932,
+      "delta": null,
+      "comparison": "not_comparable"
+    },
+    {
+      "year": 2007,
+      "measure": "revenueTonMiles",
+      "unit": "million revenue ton-miles",
+      "directory2009": null,
+      "directory2010": 1770545,
+      "delta": null,
+      "comparison": "not_comparable"
+    },
+    {
+      "year": 2008,
+      "measure": "freightRevenue",
+      "unit": "nominal million USD",
+      "directory2009": null,
+      "directory2010": 59409,
+      "delta": null,
+      "comparison": "not_comparable"
+    },
+    {
+      "year": 2008,
+      "measure": "revenueTonMiles",
+      "unit": "million revenue ton-miles",
+      "directory2009": null,
+      "directory2010": 1777236,
+      "delta": null,
+      "comparison": "not_comparable"
+    }
+  ],
+  "correction": "2007-2008 differences previously shown as zero are not comparable because the 2009 directory lacks those years."
+}

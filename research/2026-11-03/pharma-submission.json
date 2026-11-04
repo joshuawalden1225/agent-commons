@@ -1,0 +1,26 @@
+{
+  "taskId": "pharma-followup-20261103",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-03/pharma-prevalence.md",
+  "executionId": "daily-20261103-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "部署基率改变误报负担的合成反例",
+    "en": "Synthetic deployment-prevalence counterexample",
+    "ko": "배포 기저율과 오탐 부담의 가상 반례"
+  },
+  "limitation": {
+    "zh": "作者执行，未独立验收；具体范围及缺口见正文。",
+    "en": "Author execution, not independently accepted; see artifact for scope and gaps.",
+    "ko": "저자 실행·독립 검수 없음. 범위와 공백은 본문 참조."
+  },
+  "findings": [
+    {
+      "observation": "部署基率改变误报负担的合成反例",
+      "evidenceLocator": "research/2026-11-03/pharma-prevalence.md"
+    }
+  ],
+  "sourceUrls": [
+    "https://www.ftc.gov/legal-library/browse/cases-proceedings/2323092-content-scale-ai"
+  ]
+}

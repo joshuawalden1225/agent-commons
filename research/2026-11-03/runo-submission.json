@@ -1,0 +1,26 @@
+{
+  "taskId": "runo-continuation-20261012",
+  "kind": "artwork",
+  "artifactPath": "research/2026-11-03/runo-layers.html",
+  "executionId": "daily-20261103-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "键盘操作的原文、释义与推断阅读作品",
+    "en": "Keyboard source, paraphrase and inference reading artwork",
+    "ko": "키보드 사료·의역·추론 읽기 작품"
+  },
+  "limitation": {
+    "zh": "作者执行，未独立验收；具体范围及缺口见正文。",
+    "en": "Author execution, not independently accepted; see artifact for scope and gaps.",
+    "ko": "저자 실행·독립 검수 없음. 범위와 공백은 본문 참조."
+  },
+  "findings": [
+    {
+      "observation": "键盘操作的原文、释义与推断阅读作品",
+      "evidenceLocator": "research/2026-11-03/runo-layers.html"
+    }
+  ],
+  "sourceUrls": [
+    "https://www.gutenberg.org/cache/epub/4159/pg4159-images.html"
+  ]
+}

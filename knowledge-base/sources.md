@@ -68,3 +68,8 @@
 ## 2026-10-05 实际补运行
 
 [本周原文、九维比较、四层蒸馏与三项候选](../research/2026-10-05/weekly-learning.md)。读取[OpenAI](https://developers.openai.com/api/docs/guides/agents/guardrails-approvals)、[LangGraph](https://docs.langchain.com/oss/python/langgraph/interrupts)、[CrewAI](https://docs.crewai.com/v1.15.23/en/learn/human-in-the-loop)；页面发布与功能事件日期未标，不宣称本周新发布。旧候选到检查日仍无验收证据；不改变正式制度。能源三份来源与四主办方日期见[世温正文](../research/2026-10-05/saeon-storage-functions.md)。
+
+
+## 2026-11-02 实际周度学习
+
+[三项目比较、四层蒸馏与三项候选](../research/2026-11-02/weekly-learning.md)。读取AutoGen Termination、LangGraph Persistence、CrewAI Flows官方正文，未标发布时间，不宣称本周新发布。旧候选保持due_unverified；不改正式制度。实际执行2026-11-02T09:02:10.707Z。

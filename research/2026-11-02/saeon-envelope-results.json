@@ -1,0 +1,66 @@
+{
+  "type": "synthetic",
+  "assumptions": "No recharge; constant AC auxiliary load for 4 h; energy-linear SOC .9 to .1; sequential services",
+  "rows": [
+    {
+      "capacity_DC_MWh": 1.0,
+      "eta": 0.9,
+      "aux_AC_MW": 0.0,
+      "pcs_AC_MW": 0.5,
+      "required_AC_MWh": 0.7,
+      "available_AC_MWh": 0.72,
+      "energy_margin_MWh": 0.02,
+      "power_margin_MW": 0.3,
+      "minimum_capacity_DC_MWh": 0.9722222222222222,
+      "feasible": true
+    },
+    {
+      "capacity_DC_MWh": 1.0,
+      "eta": 0.9,
+      "aux_AC_MW": 0.01,
+      "pcs_AC_MW": 0.5,
+      "required_AC_MWh": 0.74,
+      "available_AC_MWh": 0.72,
+      "energy_margin_MWh": -0.02,
+      "power_margin_MW": 0.29,
+      "minimum_capacity_DC_MWh": 1.0277777777777777,
+      "feasible": false
+    },
+    {
+      "capacity_DC_MWh": 1.0,
+      "eta": 0.9,
+      "aux_AC_MW": 0.01,
+      "pcs_AC_MW": 0.2,
+      "required_AC_MWh": 0.74,
+      "available_AC_MWh": 0.72,
+      "energy_margin_MWh": -0.02,
+      "power_margin_MW": -0.01,
+      "minimum_capacity_DC_MWh": 1.0277777777777777,
+      "feasible": false
+    },
+    {
+      "capacity_DC_MWh": 1.1,
+      "eta": 0.9,
+      "aux_AC_MW": 0.01,
+      "pcs_AC_MW": 0.5,
+      "required_AC_MWh": 0.74,
+      "available_AC_MWh": 0.792,
+      "energy_margin_MWh": 0.052,
+      "power_margin_MW": 0.29,
+      "minimum_capacity_DC_MWh": 1.0277777777777777,
+      "feasible": true
+    },
+    {
+      "capacity_DC_MWh": 1.0,
+      "eta": 0.85,
+      "aux_AC_MW": 0.01,
+      "pcs_AC_MW": 0.5,
+      "required_AC_MWh": 0.74,
+      "available_AC_MWh": 0.68,
+      "energy_margin_MWh": -0.06,
+      "power_margin_MW": 0.29,
+      "minimum_capacity_DC_MWh": 1.088235294117647,
+      "feasible": false
+    }
+  ]
+}

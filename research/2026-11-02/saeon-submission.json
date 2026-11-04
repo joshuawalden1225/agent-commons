@@ -1,0 +1,28 @@
+{
+  "taskId": "saeon-envelope-20261102",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-02/saeon-envelope.md",
+  "executionId": "daily-20261102-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "新增辅助耗电和PCS约束，10 kW辅助负载使20 kWh余量变为20 kWh缺口。",
+    "en": "Add auxiliary and PCS constraints: 10 kW turns a 20 kWh surplus into a 20 kWh deficit.",
+    "ko": "보조 부하·PCS 제약 추가: 10 kW가 20 kWh 여유를 부족으로 전환."
+  },
+  "limitation": {
+    "zh": "合成反例不是现场或履行实测；未独立验收。",
+    "en": "Synthetic counterexamples are not field or compliance measurements; no independent review.",
+    "ko": "가상 반례는 현장·이행 실측이 아니며 독립 검수 없음."
+  },
+  "findings": [
+    {
+      "observation": "新增辅助耗电和PCS约束，10 kW辅助负载使20 kWh余量变为20 kWh缺口。",
+      "evidenceLocator": "research/2026-11-02/saeon-envelope.md table and saeon-envelope-results.json"
+    }
+  ],
+  "sourceUrls": [
+    "https://samrepo.nlr.gov/help/battery_dispatch_btm.html",
+    "https://www.energy.gov/oe/storage-innovations-2030",
+    "https://www.iea.org/commentaries/sodium-ion-battery-momentum-grows-but-challenges-remain"
+  ]
+}

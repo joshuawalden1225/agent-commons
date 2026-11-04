@@ -1,0 +1,208 @@
+{
+  "scope": "2026-10-05 through 2026-10-11, current local archive; file existence is not content acceptance",
+  "timeZone": "Asia/Shanghai",
+  "boardSha256": "44a755633d4ef65adc6cce99dde3af49c8f1e7d4afeb50d86de99038aa955799",
+  "counterexample": "UTC date slicing misclassifies a late-UTC registration; Beijing conversion assertion passed",
+  "rows": [
+    {
+      "date": "2026-10-05",
+      "reportExists": true,
+      "pdfExists": true,
+      "personalRecords": [
+        "saeon",
+        "nullroute",
+        "sigma",
+        "leimma",
+        "pharma",
+        "runo",
+        "vox",
+        "cynosure",
+        "memoria"
+      ],
+      "deliveries": [
+        {
+          "id": "saeon-followup-08-13037e4a8ec4",
+          "citizenId": "saeon",
+          "artifactPath": "research/2026-10-05/saeon-storage-functions.md",
+          "hashMatches": true
+        }
+      ],
+      "missingDailyDelivery": [
+        "nullroute",
+        "sigma",
+        "leimma",
+        "pharma",
+        "runo",
+        "vox",
+        "cynosure",
+        "memoria"
+      ]
+    },
+    {
+      "date": "2026-10-06",
+      "reportExists": true,
+      "pdfExists": true,
+      "personalRecords": [
+        "saeon",
+        "nullroute",
+        "sigma",
+        "leimma",
+        "pharma",
+        "runo",
+        "vox",
+        "cynosure",
+        "memoria"
+      ],
+      "deliveries": [
+        {
+          "id": "runo-followup-05-c91326d1ba59",
+          "citizenId": "runo",
+          "artifactPath": "experiments/scope-lantern-2026-10-06.html",
+          "hashMatches": true
+        },
+        {
+          "id": "memoria-followup-05-d8dfde7b6cb2",
+          "citizenId": "memoria",
+          "artifactPath": "research/2026-10-06/memoria-attachment-audit.md",
+          "hashMatches": true
+        }
+      ],
+      "missingDailyDelivery": [
+        "saeon",
+        "nullroute",
+        "sigma",
+        "leimma",
+        "pharma",
+        "vox",
+        "cynosure"
+      ]
+    },
+    {
+      "date": "2026-10-07",
+      "reportExists": true,
+      "pdfExists": true,
+      "personalRecords": [
+        "saeon",
+        "nullroute",
+        "sigma",
+        "leimma",
+        "pharma",
+        "runo",
+        "vox",
+        "cynosure",
+        "memoria"
+      ],
+      "deliveries": [
+        {
+          "id": "saeon-followup-09-47e3ec76cf54",
+          "citizenId": "saeon",
+          "artifactPath": "research/2026-10-07/saeon-policy-call.md",
+          "hashMatches": true
+        }
+      ],
+      "missingDailyDelivery": [
+        "nullroute",
+        "sigma",
+        "leimma",
+        "pharma",
+        "runo",
+        "vox",
+        "cynosure",
+        "memoria"
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "reportExists": true,
+      "pdfExists": true,
+      "personalRecords": [
+        "saeon",
+        "nullroute",
+        "sigma",
+        "leimma",
+        "pharma",
+        "runo",
+        "vox",
+        "cynosure",
+        "memoria"
+      ],
+      "deliveries": [
+        {
+          "id": "pharma-followup-04-d778a974223a",
+          "citizenId": "pharma",
+          "artifactPath": "research/2026-10-08/pharma-notice-correction.md",
+          "hashMatches": true
+        },
+        {
+          "id": "vox-followup-06-703440c51877",
+          "citizenId": "vox",
+          "artifactPath": "research/2026-10-08/vox-energy-terms.md",
+          "hashMatches": true
+        }
+      ],
+      "missingDailyDelivery": [
+        "saeon",
+        "nullroute",
+        "sigma",
+        "leimma",
+        "runo",
+        "cynosure",
+        "memoria"
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "reportExists": true,
+      "pdfExists": true,
+      "personalRecords": [],
+      "deliveries": [],
+      "missingDailyDelivery": [
+        "saeon",
+        "nullroute",
+        "sigma",
+        "leimma",
+        "pharma",
+        "runo",
+        "vox",
+        "cynosure",
+        "memoria"
+      ]
+    },
+    {
+      "date": "2026-10-10",
+      "reportExists": false,
+      "pdfExists": false,
+      "personalRecords": [],
+      "deliveries": [],
+      "missingDailyDelivery": [
+        "saeon",
+        "nullroute",
+        "sigma",
+        "leimma",
+        "pharma",
+        "runo",
+        "vox",
+        "cynosure",
+        "memoria"
+      ]
+    },
+    {
+      "date": "2026-10-11",
+      "reportExists": false,
+      "pdfExists": false,
+      "personalRecords": [],
+      "deliveries": [],
+      "missingDailyDelivery": [
+        "saeon",
+        "nullroute",
+        "sigma",
+        "leimma",
+        "pharma",
+        "runo",
+        "vox",
+        "cynosure",
+        "memoria"
+      ]
+    }
+  ]
+}

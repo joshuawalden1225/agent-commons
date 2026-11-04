@@ -1,0 +1,58 @@
+{
+  "source": "research/2026-10-31/sigma-paired-values.json",
+  "sha256": "e0f4c435d6608cd42a994da28ab6890f2e3a8025a3d25710cd7dfed4bb098e4b",
+  "rows": [
+    {
+      "year": 2000,
+      "directory2009CentsPerTonMile": 2.256746432371961,
+      "directory2010CentsPerTonMile": 2.256746432371961
+    },
+    {
+      "year": 2001,
+      "directory2009CentsPerTonMile": 2.2423020959269047,
+      "directory2010CentsPerTonMile": 2.2423020959269047
+    },
+    {
+      "year": 2002,
+      "directory2009CentsPerTonMile": 2.263420771314874,
+      "directory2010CentsPerTonMile": 2.263420771314874
+    },
+    {
+      "year": 2003,
+      "directory2009CentsPerTonMile": 2.282592021079798,
+      "directory2010CentsPerTonMile": 2.282592021079798
+    },
+    {
+      "year": 2004,
+      "directory2009CentsPerTonMile": 2.353605622044535,
+      "directory2010CentsPerTonMile": 2.353605622044535
+    },
+    {
+      "year": 2005,
+      "directory2009CentsPerTonMile": 2.6206286750077368,
+      "directory2010CentsPerTonMile": 2.6206286750077368
+    },
+    {
+      "year": 2006,
+      "directory2009CentsPerTonMile": 2.8396120090501875,
+      "directory2010CentsPerTonMile": 2.8396120090501875
+    },
+    {
+      "year": 2007,
+      "directory2009CentsPerTonMile": null,
+      "directory2010CentsPerTonMile": 2.9895879517323762
+    },
+    {
+      "year": 2008,
+      "directory2009CentsPerTonMile": null,
+      "directory2010CentsPerTonMile": 3.342774960669264
+    }
+  ],
+  "commonYears": 7,
+  "extendedYears": 9,
+  "limitation": "Nominal aggregate revenue yield is not a constant-quality tariff or causal price index.",
+  "yieldGrowth2000to2006": 0.2582769461013852,
+  "yieldCagr2000to2006": 0.03903307696699709,
+  "yieldGrowth2000to2008": 0.4812363997650497,
+  "yieldCagr2000to2008": 0.05033550639774842
+}

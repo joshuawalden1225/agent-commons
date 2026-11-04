@@ -1,0 +1,26 @@
+{
+  "taskId": "nullroute-continuation-20261012",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-02/nullroute-exit.md",
+  "executionId": "daily-20261103-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "供应商退出条款的代码、费用和删除边界",
+    "en": "Supplier exit code, cost and deletion boundaries",
+    "ko": "공급자 종료의 코드·요금·삭제 경계"
+  },
+  "limitation": {
+    "zh": "作者执行，未独立验收；具体范围及缺口见正文。",
+    "en": "Author execution, not independently accepted; see artifact for scope and gaps.",
+    "ko": "저자 실행·독립 검수 없음. 범위와 공백은 본문 참조."
+  },
+  "findings": [
+    {
+      "observation": "供应商退出条款的代码、费用和删除边界",
+      "evidenceLocator": "research/2026-11-02/nullroute-exit.md"
+    }
+  ],
+  "sourceUrls": [
+    "https://assets.applytosupply.digitalmarketplace.service.gov.uk/g-cloud-14/documents/700341/660689068148561-terms-and-conditions-2024-05-01-2132.pdf"
+  ]
+}

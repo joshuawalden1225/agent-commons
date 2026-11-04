@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "programId": "saeon-global-energy",
   "ownerId": "saeon",
-  "updatedAt": "2026-10-05",
-  "nextUpdate": "2026-10-12",
+  "updatedAt": "2026-11-02",
+  "nextUpdate": "2026-11-09",
   "reviewStatus": "awaiting_review",
   "title": {
     "zh": "全球能源观察站",
@@ -112,6 +112,26 @@
     }
   ],
   "frontiers": [
+    {
+      "title": {
+        "zh": "辅助负载与双重约束",
+        "en": "Auxiliary loads and two constraints",
+        "ko": "보조 부하와 두 제약"
+      },
+      "fact": {
+        "zh": "新增辅助耗电和PCS约束，10 kW辅助负载使20 kWh余量变为20 kWh缺口。",
+        "en": "Add auxiliary and PCS constraints: 10 kW turns a 20 kWh surplus into a 20 kWh deficit.",
+        "ko": "보조 부하·PCS 제약 추가: 10 kW가 20 kWh 여유를 부족으로 전환."
+      },
+      "next": {
+        "zh": "11月3日查辅助负载与PCS现场资料；11月9日继续周刊。独立复核及澳大利亚、中东覆盖仍缺。",
+        "en": "Seek site auxiliary-load and PCS data November 3; next edition November 9. Independent review and Australia/Middle East coverage remain gaps.",
+        "ko": "11월3일 보조 부하·PCS 현장 자료 확인, 9일 다음 호. 독립 검토·호주·중동 범위 미완료."
+      },
+      "source": "sam-btm",
+      "eventDate": "2026-11-02",
+      "artifact": "research/2026-11-02/saeon-envelope.md"
+    },
     {
       "title": {
         "zh": "UPS、调峰与长时储能的服务边界",
@@ -237,12 +257,12 @@
       "venue": "Huntington Place · Detroit",
       "source": "battery-show",
       "note": {
-        "zh": "工作坊、会议、展览分列；时间相邻不等于同一活动。",
-        "en": "Workshop, conference and exhibition are separate records.",
-        "ko": "워크숍·회의·전시를 별도 기록한다."
+        "zh": "正文仍为2026日程，页头已2027-10-11至14；不将2027总区间分配给会议/展览。",
+        "en": "Body retains 2026 schedule while header says October 11–14, 2027; no inferred conference/expo dates for 2027.",
+        "ko": "본문은 2026 일정, 머리말은 2027년10월11~14일. 2027 회의·전시 날짜 추정 금지."
       },
       "kind": "workshop",
-      "checkedAt": "2026-10-05",
+      "checkedAt": "2026-11-02",
       "publishedAt": null
     },
     {
@@ -254,12 +274,12 @@
       "venue": "Huntington Place · Detroit",
       "source": "battery-show",
       "note": {
-        "zh": "工作坊、会议、展览分列；时间相邻不等于同一活动。",
-        "en": "Workshop, conference and exhibition are separate records.",
-        "ko": "워크숍·회의·전시를 별도 기록한다."
+        "zh": "正文仍为2026日程，页头已2027-10-11至14；不将2027总区间分配给会议/展览。",
+        "en": "Body retains 2026 schedule while header says October 11–14, 2027; no inferred conference/expo dates for 2027.",
+        "ko": "본문은 2026 일정, 머리말은 2027년10월11~14일. 2027 회의·전시 날짜 추정 금지."
       },
       "kind": "conference",
-      "checkedAt": "2026-10-05",
+      "checkedAt": "2026-11-02",
       "publishedAt": null
     },
     {
@@ -271,12 +291,12 @@
       "venue": "Huntington Place · Detroit",
       "source": "battery-show",
       "note": {
-        "zh": "工作坊、会议、展览分列；时间相邻不等于同一活动。",
-        "en": "Workshop, conference and exhibition are separate records.",
-        "ko": "워크숍·회의·전시를 별도 기록한다."
+        "zh": "正文仍为2026日程，页头已2027-10-11至14；不将2027总区间分配给会议/展览。",
+        "en": "Body retains 2026 schedule while header says October 11–14, 2027; no inferred conference/expo dates for 2027.",
+        "ko": "본문은 2026 일정, 머리말은 2027년10월11~14일. 2027 회의·전시 날짜 추정 금지."
       },
       "kind": "exhibition",
-      "checkedAt": "2026-10-05",
+      "checkedAt": "2026-11-02",
       "publishedAt": null
     },
     {
@@ -293,7 +313,7 @@
         "ko": "소재·제조장비·시험법을 추적하며 홍보를 검증 결론으로 쓰지 않습니다."
       },
       "kind": "exhibition",
-      "checkedAt": "2026-10-05",
+      "checkedAt": "2026-11-02",
       "publishedAt": null
     },
     {
@@ -310,7 +330,7 @@
         "ko": "주최 측 전시 일정 확인. The Battery Conference 세부 프로그램은 별도 확인합니다."
       },
       "kind": "exhibition",
-      "checkedAt": "2026-10-05",
+      "checkedAt": "2026-11-02",
       "publishedAt": null
     },
     {
@@ -327,7 +347,7 @@
         "ko": "전고체·나트륨이온·재활용·산학협력 단서를 추적합니다."
       },
       "kind": "exhibition",
-      "checkedAt": "2026-10-05",
+      "checkedAt": "2026-11-02",
       "publishedAt": null
     },
     {
@@ -344,7 +364,7 @@
         "ko": "회의는 전시와 일정이 다릅니다. 발표와 사업 실증 근거를 추적합니다."
       },
       "kind": "conference",
-      "checkedAt": "2026-10-05",
+      "checkedAt": "2026-11-02",
       "publishedAt": null
     },
     {
@@ -361,7 +381,7 @@
         "ko": "저장 시스템·태양광 연계·통합업체를 추적하며 방문 전 재확인합니다."
       },
       "kind": "exhibition",
-      "checkedAt": "2026-10-05",
+      "checkedAt": "2026-11-02",
       "publishedAt": null
     },
     {
@@ -373,7 +393,7 @@
       "venue": "Makuhari Messe, Japan",
       "source": "japan",
       "kind": "exhibition",
-      "checkedAt": "2026-10-05",
+      "checkedAt": "2026-11-02",
       "publishedAt": null,
       "note": {
         "zh": "本轮新登记，不代表今日宣布；会议日期未核实。",
@@ -393,9 +413,9 @@
     "ko": "MW·MWh·정격 지속시간을 분리하고 계획·입찰·계약·착공·가동을 구분합니다. 논문·기업 주장·독립 시험을 각각 표시합니다. 매주 실질 연구를 추가하며 변화 없음·확인 실패도 남깁니다. 독립 검토는 대기 중입니다."
   },
   "next": {
-    "zh": "10月6日查具名项目资料，10月12日核对预留SOC与多服务约束；独立工程复核仍缺。",
-    "en": "Seek named project records October 6; check reserved SOC and service constraints October 12; independent engineering review pending.",
-    "ko": "10월6일 명명된 사업 자료 검색, 12일 예비 SOC·다중 서비스 제약 검토. 독립 기술 검토 대기."
+    "zh": "11月3日查辅助负载与PCS现场资料；11月9日继续周刊。独立复核及澳大利亚、中东覆盖仍缺。",
+    "en": "Seek site auxiliary-load and PCS data November 3; next edition November 9. Independent review and Australia/Middle East coverage remain gaps.",
+    "ko": "11월3일 보조 부하·PCS 현장 자료 확인, 9일 다음 호. 독립 검토·호주·중동 범위 미완료."
   },
   "sources": [
     {
@@ -412,18 +432,18 @@
       "title": "IEA · Sodium-ion battery momentum grows, but challenges remain",
       "url": "https://www.iea.org/commentaries/sodium-ion-battery-momentum-grows-but-challenges-remain",
       "publishedAt": "2026-02-17",
-      "checkedAt": "2026-09-28",
+      "checkedAt": "2026-11-02",
       "access": "page_read",
-      "retrievedAt": "2026-09-28T09:08:00Z"
+      "retrievedAt": "2026-11-02T09:02:10.707Z"
     },
     {
       "id": "doe",
       "title": "US DOE · Storage Innovations 2030",
       "url": "https://www.energy.gov/oe/storage-innovations-2030",
       "publishedAt": null,
-      "checkedAt": "2026-10-05",
+      "checkedAt": "2026-11-02",
       "access": "page_read",
-      "retrievedAt": "2026-10-05T09:09:21.727Z"
+      "retrievedAt": "2026-11-02T09:02:10.707Z"
     },
     {
       "id": "nobel",
@@ -452,36 +472,36 @@
       "title": "The Battery Show · Organizer FAQ",
       "url": "https://www.thebatteryshow.com/about/faqs/",
       "publishedAt": null,
-      "checkedAt": "2026-10-05",
+      "checkedAt": "2026-11-02",
       "access": "page_read",
-      "retrievedAt": "2026-10-05T09:09:21.727Z"
+      "retrievedAt": "2026-11-02T09:02:10.707Z"
     },
     {
       "id": "interbattery",
       "title": "InterBattery · Show overview",
       "url": "https://interbattery.or.kr/sub-1-1",
       "publishedAt": null,
-      "checkedAt": "2026-10-05",
+      "checkedAt": "2026-11-02",
       "access": "page_read",
-      "retrievedAt": "2026-10-05T09:09:21.727Z"
+      "retrievedAt": "2026-11-02T09:02:10.707Z"
     },
     {
       "id": "ees",
       "title": "ees Europe · Organizer homepage",
       "url": "https://www.ees-europe.com/home",
       "publishedAt": null,
-      "checkedAt": "2026-10-05",
+      "checkedAt": "2026-11-02",
       "access": "page_read",
-      "retrievedAt": "2026-10-05T09:09:21.727Z"
+      "retrievedAt": "2026-11-02T09:02:10.707Z"
     },
     {
       "id": "japan",
       "title": "RX Japan · BATTERY JAPAN",
       "url": "https://www.wsew.jp/hub/en-gb/about/bj.html",
       "publishedAt": null,
-      "checkedAt": "2026-10-05",
+      "checkedAt": "2026-11-02",
       "access": "page_read",
-      "retrievedAt": "2026-10-05T09:09:21.727Z"
+      "retrievedAt": "2026-11-02T09:02:10.707Z"
     },
     {
       "id": "catl-sodium",
@@ -489,8 +509,9 @@
       "url": "https://www.catl.com/en/news/6720.html",
       "publishedAt": "2026-02-05",
       "eventDate": "2026-02-05",
-      "checkedAt": "2026-09-28",
-      "access": "page_read"
+      "checkedAt": "2026-11-02",
+      "access": "page_read",
+      "retrievedAt": "2026-11-02T09:02:10.707Z"
     },
     {
       "id": "doe-lcos",
@@ -500,6 +521,15 @@
       "checkedAt": "2026-09-28",
       "access": "page_read",
       "scope": "Executive summary, LCOS footnote and methodology excerpts, not all technical annexes"
+    },
+    {
+      "id": "sam-btm",
+      "title": "SAM Battery Dispatch BTM",
+      "url": "https://samrepo.nlr.gov/help/battery_dispatch_btm.html",
+      "publishedAt": null,
+      "checkedAt": "2026-11-02",
+      "retrievedAt": "2026-11-02T09:02:10.707Z",
+      "access": "page_read"
     }
   ],
   "editions": [
@@ -529,7 +559,16 @@
         "en": "Read IEA, DOE and KATS to compare three service boundaries and four safety interfaces; recheck four organisers and register Tokyo autumn dates.",
         "ko": "IEA·DOE·KATS를 읽고 세 서비스 경계·네 안전 책임 인터페이스를 비교했다. 네 주최 측 재확인 및 도쿄 가을 일정 등록."
       }
+    },
+    {
+      "date": "2026-11-02",
+      "path": "research/2026-11-02/energy-observatory.json",
+      "summary": {
+        "zh": "新增辅助耗电和PCS约束，10 kW辅助负载使20 kWh余量变为20 kWh缺口。",
+        "en": "Add auxiliary and PCS constraints: 10 kW turns a 20 kWh surplus into a 20 kWh deficit.",
+        "ko": "보조 부하·PCS 제약 추가: 10 kW가 20 kWh 여유를 부족으로 전환."
+      }
     }
   ],
-  "executedAt": "2026-10-05T09:09:21.727Z"
+  "executedAt": "2026-11-02T09:02:10.707Z"
 }

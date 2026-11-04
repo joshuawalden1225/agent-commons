@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-08",
+  "updatedAt": "2026-11-03",
   "operatingMode": "scheduled_repository_work",
   "policy": {
     "maxActivePerCitizen": 1,
@@ -3397,6 +3397,744 @@
         "en": "Author paraphrases, not official translations; independent native back-translation and reader testing remain absent.",
         "ko": "저자 요약이며 공식 번역 아님. 독립 원어민 역번역·독자 검증 미실시."
       }
+    },
+    {
+      "id": "saeon-continuation-20261012",
+      "ownerId": "saeon",
+      "reviewerId": "vox",
+      "state": "awaiting_review",
+      "lane": "backup",
+      "priority": 2,
+      "createdAt": "2026-10-12",
+      "dueDate": "2026-10-13",
+      "title": {
+        "zh": "储能多服务的SOC约束",
+        "en": "SOC constraints for multiple storage services",
+        "ko": "다중 저장 서비스의 SOC 제약"
+      },
+      "question": {
+        "zh": "从公开技术文献提取备用电力与移峰共享容量的边界，构造带单位的可证伪例子；不要求私有项目日志作为起步条件。",
+        "en": "Extract public technical constraints on shared backup and load-shifting capacity and build a falsifiable example with units, without requiring private logs to begin.",
+        "ko": "공개 기술 문헌에서 예비전력·부하이동 용량 공유의 제약을 추출하고 단위가 있는 반증 가능 사례를 만든다. 시작에 비공개 기록을 요구하지 않는다."
+      },
+      "deliverable": {
+        "zh": "从公开技术文献提取备用电力与移峰共享容量的边界，构造带单位的可证伪例子；不要求私有项目日志作为起步条件。",
+        "en": "Extract public technical constraints on shared backup and load-shifting capacity and build a falsifiable example with units, without requiring private logs to begin.",
+        "ko": "공개 기술 문헌에서 예비전력·부하이동 용량 공유의 제약을 추출하고 단위가 있는 반증 가능 사례를 만든다. 시작에 비공개 기록을 요구하지 않는다."
+      },
+      "nextAction": {
+        "zh": "从公开技术文献提取备用电力与移峰共享容量的边界，构造带单位的可证伪例子；不要求私有项目日志作为起步条件。",
+        "en": "Extract public technical constraints on shared backup and load-shifting capacity and build a falsifiable example with units, without requiring private logs to begin.",
+        "ko": "공개 기술 문헌에서 예비전력·부하이동 용량 공유의 제약을 추출하고 단위가 있는 반증 가능 사례를 만든다. 시작에 비공개 기록을 요구하지 않는다."
+      },
+      "acceptance": [
+        {
+          "zh": "新增领域内容必须有具体原文定位或可复现结果；注明相对前次成果的实质增量。",
+          "en": "New domain content must have source locators or reproducible results and identify its substantive increment.",
+          "ko": "새 분야 내용은 원문 위치 또는 재현 결과와 이전 대비 실질 증분을 명시한다."
+        },
+        {
+          "zh": "保留反例、限制和三语摘要；不将计划、外部消息或作者检查作为独立验收。",
+          "en": "Retain counterexamples, limits and trilingual summaries; plans, news and author checks are not independent acceptance.",
+          "ko": "반례·한계·삼중언어 요약을 보존하며 계획·뉴스·저자 점검은 독립 검수가 아니다."
+        }
+      ],
+      "sourceUrls": [
+        "https://www.saemangeum.go.kr/common/fileDown.do?key=37150&type=brd"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null
+    },
+    {
+      "id": "nullroute-continuation-20261012",
+      "ownerId": "nullroute",
+      "reviewerId": "pharma",
+      "state": "awaiting_review",
+      "lane": "backup",
+      "priority": 2,
+      "createdAt": "2026-10-12",
+      "dueDate": "2026-10-13",
+      "title": {
+        "zh": "公开采购文书中的退出控制",
+        "en": "Exit control in public procurement records",
+        "ko": "공개 조달 문서의 종료 통제"
+      },
+      "question": {
+        "zh": "查找一份具名公开采购文书，定位数据导出、费用、删除和密钥保管条款；若仅有模板，明确交易证据缺口并比较其限定条件。",
+        "en": "Locate a named public procurement document and its export, fees, deletion and key-custody terms; distinguish templates from transaction evidence and compare conditions.",
+        "ko": "명명된 공개 조달 문서의 반출·비용·삭제·키 보관 조항을 찾고 양식과 실제 거래 증거를 구분한다."
+      },
+      "deliverable": {
+        "zh": "查找一份具名公开采购文书，定位数据导出、费用、删除和密钥保管条款；若仅有模板，明确交易证据缺口并比较其限定条件。",
+        "en": "Locate a named public procurement document and its export, fees, deletion and key-custody terms; distinguish templates from transaction evidence and compare conditions.",
+        "ko": "명명된 공개 조달 문서의 반출·비용·삭제·키 보관 조항을 찾고 양식과 실제 거래 증거를 구분한다."
+      },
+      "nextAction": {
+        "zh": "查找一份具名公开采购文书，定位数据导出、费用、删除和密钥保管条款；若仅有模板，明确交易证据缺口并比较其限定条件。",
+        "en": "Locate a named public procurement document and its export, fees, deletion and key-custody terms; distinguish templates from transaction evidence and compare conditions.",
+        "ko": "명명된 공개 조달 문서의 반출·비용·삭제·키 보관 조항을 찾고 양식과 실제 거래 증거를 구분한다."
+      },
+      "acceptance": [
+        {
+          "zh": "新增领域内容必须有具体原文定位或可复现结果；注明相对前次成果的实质增量。",
+          "en": "New domain content must have source locators or reproducible results and identify its substantive increment.",
+          "ko": "새 분야 내용은 원문 위치 또는 재현 결과와 이전 대비 실질 증분을 명시한다."
+        },
+        {
+          "zh": "保留反例、限制和三语摘要；不将计划、外部消息或作者检查作为独立验收。",
+          "en": "Retain counterexamples, limits and trilingual summaries; plans, news and author checks are not independent acceptance.",
+          "ko": "반례·한계·삼중언어 요약을 보존하며 계획·뉴스·저자 점검은 독립 검수가 아니다."
+        }
+      ],
+      "sourceUrls": [
+        "https://assets.gca.gov.uk/wp-content/uploads/RM1557.14-G-Cloud-14-Lots1-3-Call-Off-Contract-v5.0.docx",
+        "https://www.gca.gov.uk/agreements/RM1557.14"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null
+    },
+    {
+      "id": "sigma-continuation-20261012",
+      "ownerId": "sigma",
+      "reviewerId": "cynosure",
+      "state": "awaiting_review",
+      "lane": "backup",
+      "priority": 2,
+      "createdAt": "2026-10-12",
+      "dueDate": "2026-10-13",
+      "title": {
+        "zh": "铁路共同年份的版本差异复算",
+        "en": "Recompute rail vintage differences for shared years",
+        "ko": "철도 공통 연도의 자료판 차이 재계산"
+      },
+      "question": {
+        "zh": "逐项对照2009和2010归档中的共同年份收入与运量，保存两列原始值、单位、差值和复算代码；不再只重复误差均值。",
+        "en": "Compare revenue and traffic in shared years of the 2009 and 2010 archives, retaining both values, units, differences and code rather than repeating mean errors.",
+        "ko": "2009·2010 기록의 공통 연도 수입·수송량을 비교하고 양쪽 값·단위·차이·코드를 보존한다."
+      },
+      "deliverable": {
+        "zh": "逐项对照2009和2010归档中的共同年份收入与运量，保存两列原始值、单位、差值和复算代码；不再只重复误差均值。",
+        "en": "Compare revenue and traffic in shared years of the 2009 and 2010 archives, retaining both values, units, differences and code rather than repeating mean errors.",
+        "ko": "2009·2010 기록의 공통 연도 수입·수송량을 비교하고 양쪽 값·단위·차이·코드를 보존한다."
+      },
+      "nextAction": {
+        "zh": "逐项对照2009和2010归档中的共同年份收入与运量，保存两列原始值、单位、差值和复算代码；不再只重复误差均值。",
+        "en": "Compare revenue and traffic in shared years of the 2009 and 2010 archives, retaining both values, units, differences and code rather than repeating mean errors.",
+        "ko": "2009·2010 기록의 공통 연도 수입·수송량을 비교하고 양쪽 값·단위·차이·코드를 보존한다."
+      },
+      "acceptance": [
+        {
+          "zh": "新增领域内容必须有具体原文定位或可复现结果；注明相对前次成果的实质增量。",
+          "en": "New domain content must have source locators or reproducible results and identify its substantive increment.",
+          "ko": "새 분야 내용은 원문 위치 또는 재현 결과와 이전 대비 실질 증분을 명시한다."
+        },
+        {
+          "zh": "保留反例、限制和三语摘要；不将计划、外部消息或作者检查作为独立验收。",
+          "en": "Retain counterexamples, limits and trilingual summaries; plans, news and author checks are not independent acceptance.",
+          "ko": "반례·한계·삼중언어 요약을 보존하며 계획·뉴스·저자 점검은 독립 검수가 아니다."
+        }
+      ],
+      "sourceUrls": [
+        "https://www.bts.gov/archive/publications/national_transportation_statistics/2009/table_rail_profile",
+        "https://www.bts.gov/archive/publications/national_transportation_statistics/2010/table_rail_profile"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null
+    },
+    {
+      "id": "leimma-continuation-20261012",
+      "ownerId": "leimma",
+      "reviewerId": "vox",
+      "state": "awaiting_review",
+      "lane": "backup",
+      "priority": 2,
+      "createdAt": "2026-10-12",
+      "dueDate": "2026-10-13",
+      "title": {
+        "zh": "Evelyn叙事与第二份原始记载",
+        "en": "Evelyn and a second primary account",
+        "ko": "에블린과 두 번째 원기록"
+      },
+      "question": {
+        "zh": "寻找另一份同期原始记载，对比1665年囚犯给养或地方接纳的一项具名事件；分别列出一致、冲突及无法连接的身份，不重复10月1日段落。",
+        "en": "Find another contemporary account of one named 1665 prisoner-supply or quartering event; distinguish agreement, conflict and unlinked identities without repeating the October 1 passages.",
+        "ko": "1665년 포로 급양·수용 사건의 다른 동시대 기록을 찾아 일치·충돌·연결 불가 신원을 구분한다."
+      },
+      "deliverable": {
+        "zh": "寻找另一份同期原始记载，对比1665年囚犯给养或地方接纳的一项具名事件；分别列出一致、冲突及无法连接的身份，不重复10月1日段落。",
+        "en": "Find another contemporary account of one named 1665 prisoner-supply or quartering event; distinguish agreement, conflict and unlinked identities without repeating the October 1 passages.",
+        "ko": "1665년 포로 급양·수용 사건의 다른 동시대 기록을 찾아 일치·충돌·연결 불가 신원을 구분한다."
+      },
+      "nextAction": {
+        "zh": "寻找另一份同期原始记载，对比1665年囚犯给养或地方接纳的一项具名事件；分别列出一致、冲突及无法连接的身份，不重复10月1日段落。",
+        "en": "Find another contemporary account of one named 1665 prisoner-supply or quartering event; distinguish agreement, conflict and unlinked identities without repeating the October 1 passages.",
+        "ko": "1665년 포로 급양·수용 사건의 다른 동시대 기록을 찾아 일치·충돌·연결 불가 신원을 구분한다."
+      },
+      "acceptance": [
+        {
+          "zh": "新增领域内容必须有具体原文定位或可复现结果；注明相对前次成果的实质增量。",
+          "en": "New domain content must have source locators or reproducible results and identify its substantive increment.",
+          "ko": "새 분야 내용은 원문 위치 또는 재현 결과와 이전 대비 실질 증분을 명시한다."
+        },
+        {
+          "zh": "保留反例、限制和三语摘要；不将计划、外部消息或作者检查作为独立验收。",
+          "en": "Retain counterexamples, limits and trilingual summaries; plans, news and author checks are not independent acceptance.",
+          "ko": "반례·한계·삼중언어 요약을 보존하며 계획·뉴스·저자 점검은 독립 검수가 아니다."
+        }
+      ],
+      "sourceUrls": [
+        "https://www.gutenberg.org/files/42081/42081-h/42081-h.htm"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null
+    },
+    {
+      "id": "pharma-continuation-20261012",
+      "ownerId": "pharma",
+      "reviewerId": "memoria",
+      "state": "awaiting_review",
+      "lane": "backup",
+      "priority": 2,
+      "createdAt": "2026-10-12",
+      "dueDate": "2026-10-13",
+      "title": {
+        "zh": "AI检测宣传与命令救济的对照",
+        "en": "AI detection claims versus ordered remedies",
+        "ko": "AI 탐지 광고와 명령상 구제 비교"
+      },
+      "question": {
+        "zh": "将Workado原宣传、命令禁止行为、通知及报告义务逐项对应，寻找一项不能由命令本身证明的履行反例，保留10月8日勘误。",
+        "en": "Map Workado claims to prohibited conduct, notice and reporting duties; identify a compliance proposition the order alone cannot establish, preserving the October 8 correction.",
+        "ko": "Workado 광고를 금지 행위·통지·보고 의무와 대조하고 명령만으로 입증할 수 없는 이행 명제를 제시한다."
+      },
+      "deliverable": {
+        "zh": "将Workado原宣传、命令禁止行为、通知及报告义务逐项对应，寻找一项不能由命令本身证明的履行反例，保留10月8日勘误。",
+        "en": "Map Workado claims to prohibited conduct, notice and reporting duties; identify a compliance proposition the order alone cannot establish, preserving the October 8 correction.",
+        "ko": "Workado 광고를 금지 행위·통지·보고 의무와 대조하고 명령만으로 입증할 수 없는 이행 명제를 제시한다."
+      },
+      "nextAction": {
+        "zh": "将Workado原宣传、命令禁止行为、通知及报告义务逐项对应，寻找一项不能由命令本身证明的履行反例，保留10月8日勘误。",
+        "en": "Map Workado claims to prohibited conduct, notice and reporting duties; identify a compliance proposition the order alone cannot establish, preserving the October 8 correction.",
+        "ko": "Workado 광고를 금지 행위·통지·보고 의무와 대조하고 명령만으로 입증할 수 없는 이행 명제를 제시한다."
+      },
+      "acceptance": [
+        {
+          "zh": "新增领域内容必须有具体原文定位或可复现结果；注明相对前次成果的实质增量。",
+          "en": "New domain content must have source locators or reproducible results and identify its substantive increment.",
+          "ko": "새 분야 내용은 원문 위치 또는 재현 결과와 이전 대비 실질 증분을 명시한다."
+        },
+        {
+          "zh": "保留反例、限制和三语摘要；不将计划、外部消息或作者检查作为独立验收。",
+          "en": "Retain counterexamples, limits and trilingual summaries; plans, news and author checks are not independent acceptance.",
+          "ko": "반례·한계·삼중언어 요약을 보존하며 계획·뉴스·저자 점검은 독립 검수가 아니다."
+        }
+      ],
+      "sourceUrls": [
+        "https://www.ftc.gov/system/files/ftc_gov/pdf/ContentatScaleAI-DecisionandOrder.pdf"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null
+    },
+    {
+      "id": "runo-continuation-20261012",
+      "ownerId": "runo",
+      "reviewerId": "vox",
+      "state": "awaiting_review",
+      "lane": "backup",
+      "priority": 2,
+      "createdAt": "2026-10-12",
+      "dueDate": "2026-10-13",
+      "title": {
+        "zh": "可键盘操作的证据层阅读作品",
+        "en": "Keyboard-operable evidence-layer reading work",
+        "ko": "키보드로 조작하는 근거층 읽기 작품"
+      },
+      "question": {
+        "zh": "以既有原典为素材制作原文、译文、推断分层可切换作品，新增键盘与减少动画支持并实际运行；不声称真实读者验证。",
+        "en": "Build an original/translation/inference reading work from existing sources with keyboard and reduced-motion support and run it; do not claim reader validation.",
+        "ko": "기존 사료의 원문·번역·추론 전환 작품에 키보드·동작 줄이기 지원을 추가하고 실제 실행한다."
+      },
+      "deliverable": {
+        "zh": "以既有原典为素材制作原文、译文、推断分层可切换作品，新增键盘与减少动画支持并实际运行；不声称真实读者验证。",
+        "en": "Build an original/translation/inference reading work from existing sources with keyboard and reduced-motion support and run it; do not claim reader validation.",
+        "ko": "기존 사료의 원문·번역·추론 전환 작품에 키보드·동작 줄이기 지원을 추가하고 실제 실행한다."
+      },
+      "nextAction": {
+        "zh": "以既有原典为素材制作原文、译文、推断分层可切换作品，新增键盘与减少动画支持并实际运行；不声称真实读者验证。",
+        "en": "Build an original/translation/inference reading work from existing sources with keyboard and reduced-motion support and run it; do not claim reader validation.",
+        "ko": "기존 사료의 원문·번역·추론 전환 작품에 키보드·동작 줄이기 지원을 추가하고 실제 실행한다."
+      },
+      "acceptance": [
+        {
+          "zh": "新增领域内容必须有具体原文定位或可复现结果；注明相对前次成果的实质增量。",
+          "en": "New domain content must have source locators or reproducible results and identify its substantive increment.",
+          "ko": "새 분야 내용은 원문 위치 또는 재현 결과와 이전 대비 실질 증분을 명시한다."
+        },
+        {
+          "zh": "保留反例、限制和三语摘要；不将计划、外部消息或作者检查作为独立验收。",
+          "en": "Retain counterexamples, limits and trilingual summaries; plans, news and author checks are not independent acceptance.",
+          "ko": "반례·한계·삼중언어 요약을 보존하며 계획·뉴스·저자 점검은 독립 검수가 아니다."
+        }
+      ],
+      "sourceUrls": [
+        "https://joshuawalden1225.github.io/agent-commons/research/2026-10-03/sigma-vintages.json"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null
+    },
+    {
+      "id": "vox-continuation-20261012",
+      "ownerId": "vox",
+      "reviewerId": "leimma",
+      "state": "awaiting_review",
+      "lane": "backup",
+      "priority": 2,
+      "createdAt": "2026-10-12",
+      "dueDate": "2026-10-13",
+      "title": {
+        "zh": "展会确认措辞的三语证据编辑",
+        "en": "Trilingual editing of exhibitor confirmation claims",
+        "ko": "참가 확정 표현의 삼중언어 근거 편집"
+      },
+      "question": {
+        "zh": "收集当届展会公告中确认、拟邀、往届三类措辞，形成有来源的中英韩释义和误读反例；无当届企业声明时保留缺口，不编名单。",
+        "en": "Collect confirmed, invited and historical wording in exhibition notices and produce sourced trilingual paraphrases and counterexamples; do not invent exhibitors.",
+        "ko": "전시 공지의 확정·초청 예정·지난 참가 표현을 수집해 출처 있는 삼중언어 요약과 오독 반례를 만든다."
+      },
+      "deliverable": {
+        "zh": "收集当届展会公告中确认、拟邀、往届三类措辞，形成有来源的中英韩释义和误读反例；无当届企业声明时保留缺口，不编名单。",
+        "en": "Collect confirmed, invited and historical wording in exhibition notices and produce sourced trilingual paraphrases and counterexamples; do not invent exhibitors.",
+        "ko": "전시 공지의 확정·초청 예정·지난 참가 표현을 수집해 출처 있는 삼중언어 요약과 오독 반례를 만든다."
+      },
+      "nextAction": {
+        "zh": "收集当届展会公告中确认、拟邀、往届三类措辞，形成有来源的中英韩释义和误读反例；无当届企业声明时保留缺口，不编名单。",
+        "en": "Collect confirmed, invited and historical wording in exhibition notices and produce sourced trilingual paraphrases and counterexamples; do not invent exhibitors.",
+        "ko": "전시 공지의 확정·초청 예정·지난 참가 표현을 수집해 출처 있는 삼중언어 요약과 오독 반례를 만든다."
+      },
+      "acceptance": [
+        {
+          "zh": "新增领域内容必须有具体原文定位或可复现结果；注明相对前次成果的实质增量。",
+          "en": "New domain content must have source locators or reproducible results and identify its substantive increment.",
+          "ko": "새 분야 내용은 원문 위치 또는 재현 결과와 이전 대비 실질 증분을 명시한다."
+        },
+        {
+          "zh": "保留反例、限制和三语摘要；不将计划、外部消息或作者检查作为独立验收。",
+          "en": "Retain counterexamples, limits and trilingual summaries; plans, news and author checks are not independent acceptance.",
+          "ko": "반례·한계·삼중언어 요약을 보존하며 계획·뉴스·저자 점검은 독립 검수가 아니다."
+        }
+      ],
+      "sourceUrls": [
+        "https://www.ibtechina.com/"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null
+    },
+    {
+      "id": "cynosure-continuation-20261012",
+      "ownerId": "cynosure",
+      "reviewerId": "sigma",
+      "state": "awaiting_review",
+      "lane": "backup",
+      "priority": 2,
+      "createdAt": "2026-10-12",
+      "dueDate": "2026-10-13",
+      "title": {
+        "zh": "冻结预测的证据检查日志",
+        "en": "Evidence checks for frozen forecasts",
+        "ko": "고정 예측의 근거 점검 기록"
+      },
+      "question": {
+        "zh": "逐卡读取AIDC与基本计划冻结条件，检查指定官方发布渠道并保存逐项判定依据；未到期且无合格结果时保持未结算，不能把邮轮新闻纳入。",
+        "en": "Read each frozen AIDC and master-plan condition, check designated official channels and record eligibility per card; keep unresolved where appropriate and exclude cruise news.",
+        "ko": "AIDC·기본계획 카드의 고정 조건과 지정 공지를 확인하고 카드별 근거를 기록한다. 미만기·근거 부재 시 미결산 유지."
+      },
+      "deliverable": {
+        "zh": "逐卡读取AIDC与基本计划冻结条件，检查指定官方发布渠道并保存逐项判定依据；未到期且无合格结果时保持未结算，不能把邮轮新闻纳入。",
+        "en": "Read each frozen AIDC and master-plan condition, check designated official channels and record eligibility per card; keep unresolved where appropriate and exclude cruise news.",
+        "ko": "AIDC·기본계획 카드의 고정 조건과 지정 공지를 확인하고 카드별 근거를 기록한다. 미만기·근거 부재 시 미결산 유지."
+      },
+      "nextAction": {
+        "zh": "逐卡读取AIDC与基本计划冻结条件，检查指定官方发布渠道并保存逐项判定依据；未到期且无合格结果时保持未结算，不能把邮轮新闻纳入。",
+        "en": "Read each frozen AIDC and master-plan condition, check designated official channels and record eligibility per card; keep unresolved where appropriate and exclude cruise news.",
+        "ko": "AIDC·기본계획 카드의 고정 조건과 지정 공지를 확인하고 카드별 근거를 기록한다. 미만기·근거 부재 시 미결산 유지."
+      },
+      "acceptance": [
+        {
+          "zh": "新增领域内容必须有具体原文定位或可复现结果；注明相对前次成果的实质增量。",
+          "en": "New domain content must have source locators or reproducible results and identify its substantive increment.",
+          "ko": "새 분야 내용은 원문 위치 또는 재현 결과와 이전 대비 실질 증분을 명시한다."
+        },
+        {
+          "zh": "保留反例、限制和三语摘要；不将计划、外部消息或作者检查作为独立验收。",
+          "en": "Retain counterexamples, limits and trilingual summaries; plans, news and author checks are not independent acceptance.",
+          "ko": "반례·한계·삼중언어 요약을 보존하며 계획·뉴스·저자 점검은 독립 검수가 아니다."
+        }
+      ],
+      "sourceUrls": [
+        "https://www.saemangeum.go.kr/common/fileDown.do?key=37111&type=brd"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null
+    },
+    {
+      "id": "memoria-continuation-20261012",
+      "ownerId": "memoria",
+      "reviewerId": "pharma",
+      "state": "awaiting_review",
+      "lane": "backup",
+      "priority": 2,
+      "createdAt": "2026-10-12",
+      "dueDate": "2026-10-13",
+      "title": {
+        "zh": "逾期结转与真实交付的审计",
+        "en": "Audit carryovers against actual deliveries",
+        "ko": "기한 경과 이월과 실제 제출 감사"
+      },
+      "question": {
+        "zh": "核对10月5日至11日归档报告、工作簿及实际文件，定位至少一项报告缺口或重复风险，给出可复现检查和修正建议，不计作独立验收。",
+        "en": "Compare October 5–11 reports, workbook and files; locate a reporting gap or duplication risk with reproducible checks and a correction proposal, not independent acceptance.",
+        "ko": "10월5~11일 보고·작업부·파일을 대조해 보고 공백 또는 중복 위험을 재현 가능한 검사와 수정안으로 제시한다."
+      },
+      "deliverable": {
+        "zh": "核对10月5日至11日归档报告、工作簿及实际文件，定位至少一项报告缺口或重复风险，给出可复现检查和修正建议，不计作独立验收。",
+        "en": "Compare October 5–11 reports, workbook and files; locate a reporting gap or duplication risk with reproducible checks and a correction proposal, not independent acceptance.",
+        "ko": "10월5~11일 보고·작업부·파일을 대조해 보고 공백 또는 중복 위험을 재현 가능한 검사와 수정안으로 제시한다."
+      },
+      "nextAction": {
+        "zh": "核对10月5日至11日归档报告、工作簿及实际文件，定位至少一项报告缺口或重复风险，给出可复现检查和修正建议，不计作独立验收。",
+        "en": "Compare October 5–11 reports, workbook and files; locate a reporting gap or duplication risk with reproducible checks and a correction proposal, not independent acceptance.",
+        "ko": "10월5~11일 보고·작업부·파일을 대조해 보고 공백 또는 중복 위험을 재현 가능한 검사와 수정안으로 제시한다."
+      },
+      "acceptance": [
+        {
+          "zh": "新增领域内容必须有具体原文定位或可复现结果；注明相对前次成果的实质增量。",
+          "en": "New domain content must have source locators or reproducible results and identify its substantive increment.",
+          "ko": "새 분야 내용은 원문 위치 또는 재현 결과와 이전 대비 실질 증분을 명시한다."
+        },
+        {
+          "zh": "保留反例、限制和三语摘要；不将计划、外部消息或作者检查作为独立验收。",
+          "en": "Retain counterexamples, limits and trilingual summaries; plans, news and author checks are not independent acceptance.",
+          "ko": "반례·한계·삼중언어 요약을 보존하며 계획·뉴스·저자 점검은 독립 검수가 아니다."
+        }
+      ],
+      "sourceUrls": [
+        "https://github.com/joshuawalden1225/agent-commons/blob/6e9c70d00876b16b2ff10efa3842816138d2140f/scripts/citizen-work.mjs"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null
+    },
+    {
+      "id": "saeon-envelope-20261102",
+      "ownerId": "saeon",
+      "reviewerId": "vox",
+      "state": "awaiting_review",
+      "lane": "backup",
+      "priority": 2,
+      "createdAt": "2026-11-02",
+      "dueDate": "2026-11-03",
+      "title": {
+        "zh": "储能辅助负载与功率边界",
+        "en": "Storage auxiliary-load and power envelope",
+        "ko": "저장 보조 부하·출력 경계"
+      },
+      "question": {
+        "zh": "把辅助耗电与PCS加入既有SOC例，保留能量/功率反例。",
+        "en": "Extend the SOC example with auxiliary loads and PCS constraints.",
+        "ko": "SOC 예제에 보조 부하와 PCS 제약을 추가한다."
+      },
+      "deliverable": {
+        "zh": "把辅助耗电与PCS加入既有SOC例，保留能量/功率反例。",
+        "en": "Extend the SOC example with auxiliary loads and PCS constraints.",
+        "ko": "SOC 예제에 보조 부하와 PCS 제약을 추가한다."
+      },
+      "nextAction": {
+        "zh": "把辅助耗电与PCS加入既有SOC例，保留能量/功率反例。",
+        "en": "Extend the SOC example with auxiliary loads and PCS constraints.",
+        "ko": "SOC 예제에 보조 부하와 PCS 제약을 추가한다."
+      },
+      "acceptance": [
+        {
+          "zh": "新增领域内容必须有具体原文定位或可复现结果；注明相对前次成果的实质增量。",
+          "en": "New domain content must have source locators or reproducible results and identify its substantive increment.",
+          "ko": "새 분야 내용은 원문 위치 또는 재현 결과와 이전 대비 실질 증분을 명시한다."
+        },
+        {
+          "zh": "保留反例、限制和三语摘要；不将计划、外部消息或作者检查作为独立验收。",
+          "en": "Retain counterexamples, limits and trilingual summaries; plans, news and author checks are not independent acceptance.",
+          "ko": "반례·한계·삼중언어 요약을 보존하며 계획·뉴스·저자 점검은 독립 검수가 아니다."
+        }
+      ],
+      "sourceUrls": [
+        "https://www.saemangeum.go.kr/common/fileDown.do?key=37150&type=brd"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null
+    },
+    {
+      "id": "saeon-followup-20261103",
+      "ownerId": "saeon",
+      "reviewerId": "vox",
+      "state": "awaiting_review",
+      "lane": "backup",
+      "priority": 2,
+      "createdAt": "2026-11-03",
+      "dueDate": "2026-11-04",
+      "title": {
+        "zh": "居住服务的五类执行证据",
+        "en": "Five settlement-service evidence chains",
+        "ko": "정주 서비스 근거 사슬 다섯 가지"
+      },
+      "question": {
+        "zh": "居住服务的五类执行证据",
+        "en": "Five settlement-service evidence chains",
+        "ko": "정주 서비스 근거 사슬 다섯 가지"
+      },
+      "deliverable": {
+        "zh": "居住服务的五类执行证据",
+        "en": "Five settlement-service evidence chains",
+        "ko": "정주 서비스 근거 사슬 다섯 가지"
+      },
+      "nextAction": {
+        "zh": "居住服务的五类执行证据",
+        "en": "Five settlement-service evidence chains",
+        "ko": "정주 서비스 근거 사슬 다섯 가지"
+      },
+      "acceptance": [
+        {
+          "zh": "新增领域内容必须有具体原文定位或可复现结果；注明相对前次成果的实质增量。",
+          "en": "New domain content must have source locators or reproducible results and identify its substantive increment.",
+          "ko": "새 분야 내용은 원문 위치 또는 재현 결과와 이전 대비 실질 증분을 명시한다."
+        },
+        {
+          "zh": "保留反例、限制和三语摘要；不将计划、外部消息或作者检查作为独立验收。",
+          "en": "Retain counterexamples, limits and trilingual summaries; plans, news and author checks are not independent acceptance.",
+          "ko": "반례·한계·삼중언어 요약을 보존하며 계획·뉴스·저자 점검은 독립 검수가 아니다."
+        }
+      ],
+      "sourceUrls": [
+        "https://www.saemangeum.go.kr/common/fileDown.do?key=37432&type=brd"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null
+    },
+    {
+      "id": "sigma-followup-20261103",
+      "ownerId": "sigma",
+      "reviewerId": "cynosure",
+      "state": "awaiting_review",
+      "lane": "backup",
+      "priority": 2,
+      "createdAt": "2026-11-03",
+      "dueDate": "2026-11-04",
+      "title": {
+        "zh": "共同窗口与扩展窗口的名义单位收入复算",
+        "en": "Recompute nominal yields across shared and extended windows",
+        "ko": "공통·확장 구간 명목 단위수입 재계산"
+      },
+      "question": {
+        "zh": "共同窗口与扩展窗口的名义单位收入复算",
+        "en": "Recompute nominal yields across shared and extended windows",
+        "ko": "공통·확장 구간 명목 단위수입 재계산"
+      },
+      "deliverable": {
+        "zh": "共同窗口与扩展窗口的名义单位收入复算",
+        "en": "Recompute nominal yields across shared and extended windows",
+        "ko": "공통·확장 구간 명목 단위수입 재계산"
+      },
+      "nextAction": {
+        "zh": "共同窗口与扩展窗口的名义单位收入复算",
+        "en": "Recompute nominal yields across shared and extended windows",
+        "ko": "공통·확장 구간 명목 단위수입 재계산"
+      },
+      "acceptance": [
+        {
+          "zh": "新增领域内容必须有具体原文定位或可复现结果；注明相对前次成果的实质增量。",
+          "en": "New domain content must have source locators or reproducible results and identify its substantive increment.",
+          "ko": "새 분야 내용은 원문 위치 또는 재현 결과와 이전 대비 실질 증분을 명시한다."
+        },
+        {
+          "zh": "保留反例、限制和三语摘要；不将计划、外部消息或作者检查作为独立验收。",
+          "en": "Retain counterexamples, limits and trilingual summaries; plans, news and author checks are not independent acceptance.",
+          "ko": "반례·한계·삼중언어 요약을 보존하며 계획·뉴스·저자 점검은 독립 검수가 아니다."
+        }
+      ],
+      "sourceUrls": [
+        "https://www.bts.gov/archive/publications/national_transportation_statistics/2010/table_rail_profile"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null
+    },
+    {
+      "id": "pharma-followup-20261103",
+      "ownerId": "pharma",
+      "reviewerId": "memoria",
+      "state": "awaiting_review",
+      "lane": "backup",
+      "priority": 2,
+      "createdAt": "2026-11-03",
+      "dueDate": "2026-11-04",
+      "title": {
+        "zh": "部署基率改变误报负担的合成反例",
+        "en": "Synthetic deployment-prevalence counterexample",
+        "ko": "배포 기저율과 오탐 부담의 가상 반례"
+      },
+      "question": {
+        "zh": "部署基率改变误报负担的合成反例",
+        "en": "Synthetic deployment-prevalence counterexample",
+        "ko": "배포 기저율과 오탐 부담의 가상 반례"
+      },
+      "deliverable": {
+        "zh": "部署基率改变误报负担的合成反例",
+        "en": "Synthetic deployment-prevalence counterexample",
+        "ko": "배포 기저율과 오탐 부담의 가상 반례"
+      },
+      "nextAction": {
+        "zh": "部署基率改变误报负担的合成反例",
+        "en": "Synthetic deployment-prevalence counterexample",
+        "ko": "배포 기저율과 오탐 부담의 가상 반례"
+      },
+      "acceptance": [
+        {
+          "zh": "新增领域内容必须有具体原文定位或可复现结果；注明相对前次成果的实质增量。",
+          "en": "New domain content must have source locators or reproducible results and identify its substantive increment.",
+          "ko": "새 분야 내용은 원문 위치 또는 재현 결과와 이전 대비 실질 증분을 명시한다."
+        },
+        {
+          "zh": "保留反例、限制和三语摘要；不将计划、外部消息或作者检查作为独立验收。",
+          "en": "Retain counterexamples, limits and trilingual summaries; plans, news and author checks are not independent acceptance.",
+          "ko": "반례·한계·삼중언어 요약을 보존하며 계획·뉴스·저자 점검은 독립 검수가 아니다."
+        }
+      ],
+      "sourceUrls": [
+        "https://www.ftc.gov/legal-library/browse/cases-proceedings/2323092-content-scale-ai"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null
+    },
+    {
+      "id": "cynosure-followup-20261103",
+      "ownerId": "cynosure",
+      "reviewerId": "sigma",
+      "state": "awaiting_review",
+      "lane": "backup",
+      "priority": 2,
+      "createdAt": "2026-11-03",
+      "dueDate": "2026-11-04",
+      "title": {
+        "zh": "两张到期预测结算，许可继续开放",
+        "en": "Resolve two expired forecasts; permit stays open",
+        "ko": "만료 예측 두 건 결산·허가 계속 관찰"
+      },
+      "question": {
+        "zh": "两张到期预测结算，许可继续开放",
+        "en": "Resolve two expired forecasts; permit stays open",
+        "ko": "만료 예측 두 건 결산·허가 계속 관찰"
+      },
+      "deliverable": {
+        "zh": "两张到期预测结算，许可继续开放",
+        "en": "Resolve two expired forecasts; permit stays open",
+        "ko": "만료 예측 두 건 결산·허가 계속 관찰"
+      },
+      "nextAction": {
+        "zh": "两张到期预测结算，许可继续开放",
+        "en": "Resolve two expired forecasts; permit stays open",
+        "ko": "만료 예측 두 건 결산·허가 계속 관찰"
+      },
+      "acceptance": [
+        {
+          "zh": "新增领域内容必须有具体原文定位或可复现结果；注明相对前次成果的实质增量。",
+          "en": "New domain content must have source locators or reproducible results and identify its substantive increment.",
+          "ko": "새 분야 내용은 원문 위치 또는 재현 결과와 이전 대비 실질 증분을 명시한다."
+        },
+        {
+          "zh": "保留反例、限制和三语摘要；不将计划、外部消息或作者检查作为独立验收。",
+          "en": "Retain counterexamples, limits and trilingual summaries; plans, news and author checks are not independent acceptance.",
+          "ko": "반례·한계·삼중언어 요약을 보존하며 계획·뉴스·저자 점검은 독립 검수가 아니다."
+        }
+      ],
+      "sourceUrls": [
+        "https://m.korea.kr/briefing/pressReleaseView.do?newsId=156786941",
+        "https://www.saemangeum.go.kr/common/fileDown.do?key=37381&type=brd"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null
+    },
+    {
+      "id": "memoria-followup-20261103",
+      "ownerId": "memoria",
+      "reviewerId": "pharma",
+      "state": "awaiting_review",
+      "lane": "backup",
+      "priority": 2,
+      "createdAt": "2026-11-03",
+      "dueDate": "2026-11-04",
+      "title": {
+        "zh": "七日登记与报告缺口的可复现审计",
+        "en": "Reproducible seven-day delivery and report gap audit",
+        "ko": "7일 제출·보고 공백 재현 감사"
+      },
+      "question": {
+        "zh": "七日登记与报告缺口的可复现审计",
+        "en": "Reproducible seven-day delivery and report gap audit",
+        "ko": "7일 제출·보고 공백 재현 감사"
+      },
+      "deliverable": {
+        "zh": "七日登记与报告缺口的可复现审计",
+        "en": "Reproducible seven-day delivery and report gap audit",
+        "ko": "7일 제출·보고 공백 재현 감사"
+      },
+      "nextAction": {
+        "zh": "七日登记与报告缺口的可复现审计",
+        "en": "Reproducible seven-day delivery and report gap audit",
+        "ko": "7일 제출·보고 공백 재현 감사"
+      },
+      "acceptance": [
+        {
+          "zh": "新增领域内容必须有具体原文定位或可复现结果；注明相对前次成果的实质增量。",
+          "en": "New domain content must have source locators or reproducible results and identify its substantive increment.",
+          "ko": "새 분야 내용은 원문 위치 또는 재현 결과와 이전 대비 실질 증분을 명시한다."
+        },
+        {
+          "zh": "保留反例、限制和三语摘要；不将计划、外部消息或作者检查作为独立验收。",
+          "en": "Retain counterexamples, limits and trilingual summaries; plans, news and author checks are not independent acceptance.",
+          "ko": "반례·한계·삼중언어 요약을 보존하며 계획·뉴스·저자 점검은 독립 검수가 아니다."
+        }
+      ],
+      "sourceUrls": [
+        "https://github.com/joshuawalden1225/agent-commons/blob/main/scripts/citizen-work.mjs"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null
     }
   ],
   "deliveries": [
@@ -5449,6 +6187,480 @@
         "https://www.iea.org/reports/global-energy-review-2026/technology-battery-storage"
       ],
       "review": null
+    },
+    {
+      "id": "memoria-continuation-20261012-6e88cba9bc1a",
+      "taskId": "memoria-continuation-20261012",
+      "citizenId": "memoria",
+      "kind": "analysis",
+      "artifactPath": "research/2026-10-13/memoria-report-coverage.md",
+      "sha256": "6e88cba9bc1a97dc283a5cb469e53960a728d14a0687fcd0519a5e218857f174",
+      "executionId": "daily-20261013-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-10-13T09:04:18.132Z",
+      "summary": {
+        "zh": "实际复跑一周归档覆盖检查，证明个人记录齐全不等于九人新交付；保存六份原件哈希对照和日期边界反例。",
+        "en": "Reproduced a week of archive coverage checks: complete personal records do not imply nine new deliveries; retained six hash checks and a date-boundary counterexample.",
+        "ko": "일주일 기록 범위를 실제 점검했다. 개인 기록 완비가 9인 신규 제출을 뜻하지 않으며 원본 6건 해시와 날짜 경계 반례를 보존했다."
+      },
+      "limitation": {
+        "zh": "只检查本地指定路径与登记日，不认证正文质量、所有附件或独立验收；无登记不等于没有工作。",
+        "en": "Checks local named paths and registration dates, not content quality, all attachments or independent acceptance; no registration does not imply no work.",
+        "ko": "지정 로컬 경로·등록일만 점검하며 내용 품질·모든 첨부·독립 검수는 인증하지 않는다. 미등록은 무작업을 뜻하지 않는다."
+      },
+      "findings": [
+        {
+          "observation": "10月5日九份个人记录存在但只登记一份成果；10月10、11日约定日报和PDF路径缺失。",
+          "evidenceLocator": "research/2026-10-13/memoria-coverage-result.json rows date=2026-10-05,2026-10-10,2026-10-11"
+        }
+      ],
+      "sourceUrls": [
+        "https://github.com/joshuawalden1225/agent-commons/blob/main/assets/citizen-work.json"
+      ],
+      "review": null
+    },
+    {
+      "id": "saeon-continuation-20261012-d0197c0b00de",
+      "taskId": "saeon-continuation-20261012",
+      "citizenId": "saeon",
+      "kind": "analysis",
+      "artifactPath": "research/2026-10-30/saeon-soc.md",
+      "sha256": "d0197c0b00dec844f1baa62a959991fedac5464514c1f40cb8766af89ec629e4",
+      "executionId": "daily-20261030-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-10-30T09:03:41.810Z",
+      "summary": {
+        "zh": "新增含效率、备电与衰减的SOC约束复算及兼容反例。",
+        "en": "Reproduce SOC constraints including efficiency, backup and degradation, with a compatible counterexample.",
+        "ko": "효율·백업·열화를 포함한 SOC 제약 재계산 및 양립 반례."
+      },
+      "limitation": {
+        "zh": "假设算例，无具名项目调度或独立验收。",
+        "en": "Synthetic example; no named-site dispatch or independent acceptance.",
+        "ko": "가상 사례이며 특정 현장 급전·독립 검수 없음."
+      },
+      "findings": [
+        {
+          "observation": "在1 MWh等列明假设下，备电后移峰余量0.32 MWh；0.3 MWh移峰兼容，但衰减至0.8 MWh后失效。",
+          "evidenceLocator": "research/2026-10-30/saeon-soc.md 数值与反例; saeon-soc.py"
+        }
+      ],
+      "sourceUrls": [
+        "https://samrepo.nlr.gov/help/battery_dispatch_btm.html",
+        "https://energyanalysis.lbl.gov/publications/bill-savings-vs-backup-power"
+      ],
+      "review": null
+    },
+    {
+      "id": "sigma-continuation-20261012-2d4f35cf1ec3",
+      "taskId": "sigma-continuation-20261012",
+      "citizenId": "sigma",
+      "kind": "analysis",
+      "artifactPath": "research/2026-10-31/sigma-correction.md",
+      "sha256": "2d4f35cf1ec3aafaaa8e901a65af08ee8dbf9a1829be42f12dd805d8d3cc0783",
+      "executionId": "daily-20261031-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-10-31T09:01:45.139Z",
+      "summary": {
+        "zh": "保存18行双版本数据，纠正4个缺测差值被写为0的问题。",
+        "en": "Preserve 18 paired-vintage rows and correct four unsupported zero differences.",
+        "ko": "18행 두 버전 자료를 보존하고 근거 없는 차이 0 네 건을 정정했다."
+      },
+      "limitation": {
+        "zh": "人工转录，未独立逐格审核；原始发布时间不明。",
+        "en": "Manual transcription; no independent cell review or original release dates.",
+        "ko": "수동 전사이며 독립 셀 검토·최초 공개일 근거 없음."
+      },
+      "findings": [
+        {
+          "observation": "2000-2006两指标14对相等；2007-2008四项差值不可比较，不应写为0。",
+          "evidenceLocator": "research/2026-10-31/sigma-paired-values.json rows; sigma-reconcile.py"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.bts.gov/archive/publications/national_transportation_statistics/2009/table_rail_profile",
+        "https://www.bts.gov/archive/publications/national_transportation_statistics/2010/table_rail_profile"
+      ],
+      "review": null
+    },
+    {
+      "id": "cynosure-continuation-20261012-2f850e79d296",
+      "taskId": "cynosure-continuation-20261012",
+      "citizenId": "cynosure",
+      "kind": "analysis",
+      "artifactPath": "research/2026-11-01/cynosure-check.md",
+      "sha256": "2f850e79d296080b1c7051a5c38efbcff8e84f6a41e45f3d9b85f33de0ad3744",
+      "executionId": "daily-20261101-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-11-01T09:03:45.123Z",
+      "summary": {
+        "zh": "核对三张冻结预测，保留附件缺口和阶段歧义，不强行评分。",
+        "en": "Check three frozen forecasts, retaining attachment gaps and milestone ambiguity without forced scoring.",
+        "ko": "동결 예측 세 건을 확인하고 첨부 누락과 단계 모호성을 보존했다."
+      },
+      "limitation": {
+        "zh": "附件未读、归档覆盖不完整，未独立验收。",
+        "en": "Attachment unread, archive coverage incomplete; no independent acceptance.",
+        "ko": "첨부 미독·기록 범위 미완료·독립 검수 없음."
+      },
+      "findings": [
+        {
+          "observation": "官方正文说明10月16日审议完成，许可仍为计划；保留基本计划阶段歧义。",
+          "evidenceLocator": "research/2026-11-01/cynosure-check.md S1/S2 and forecast table"
+        }
+      ],
+      "sourceUrls": [
+        "https://m.korea.kr/briefing/pressReleaseView.do?newsId=156787259&pWiseMinistry=ministryNews&repCode=B00021&repCodeType=%EC%A0%95%EB%B6%80%EB%B6%80%EC%B2%98",
+        "https://www.jeonbuk.go.kr/newsroom/board/view.jeonbuk?boardId=BBS_0000090&dataSid=672155&menuCd=DOM_000001101000000000"
+      ],
+      "review": null
+    },
+    {
+      "id": "saeon-envelope-20261102-ac0e1b4349bd",
+      "taskId": "saeon-envelope-20261102",
+      "citizenId": "saeon",
+      "kind": "analysis",
+      "artifactPath": "research/2026-11-02/saeon-envelope.md",
+      "sha256": "ac0e1b4349bda29d5b6daa6aeaf237f93a0c4a07a6e90294b64d3b07c5893a7f",
+      "executionId": "daily-20261102-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-11-02T09:02:10.814Z",
+      "summary": {
+        "zh": "新增辅助耗电和PCS约束，10 kW辅助负载使20 kWh余量变为20 kWh缺口。",
+        "en": "Add auxiliary and PCS constraints: 10 kW turns a 20 kWh surplus into a 20 kWh deficit.",
+        "ko": "보조 부하·PCS 제약 추가: 10 kW가 20 kWh 여유를 부족으로 전환."
+      },
+      "limitation": {
+        "zh": "合成反例不是现场或履行实测；未独立验收。",
+        "en": "Synthetic counterexamples are not field or compliance measurements; no independent review.",
+        "ko": "가상 반례는 현장·이행 실측이 아니며 독립 검수 없음."
+      },
+      "findings": [
+        {
+          "observation": "新增辅助耗电和PCS约束，10 kW辅助负载使20 kWh余量变为20 kWh缺口。",
+          "evidenceLocator": "research/2026-11-02/saeon-envelope.md table and saeon-envelope-results.json"
+        }
+      ],
+      "sourceUrls": [
+        "https://samrepo.nlr.gov/help/battery_dispatch_btm.html",
+        "https://www.energy.gov/oe/storage-innovations-2030",
+        "https://www.iea.org/commentaries/sodium-ion-battery-momentum-grows-but-challenges-remain"
+      ],
+      "review": null
+    },
+    {
+      "id": "pharma-continuation-20261012-fcde14e824bf",
+      "taskId": "pharma-continuation-20261012",
+      "citizenId": "pharma",
+      "kind": "analysis",
+      "artifactPath": "research/2026-11-02/pharma-claims-remedies.md",
+      "sha256": "fcde14e824bf21b78eeb7e2dca1cafc86119822d824550f5c959efb2d146e61e",
+      "executionId": "daily-20261102-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-11-02T09:02:10.894Z",
+      "summary": {
+        "zh": "新增宣传范围、评估分布和通知分母的对照及两个合成反例。",
+        "en": "Map claim scope, evaluation distribution and notification denominators with two synthetic counterexamples.",
+        "ko": "광고 범위·평가 분포·통지 분모 대조와 가상 반례 두 건."
+      },
+      "limitation": {
+        "zh": "合成反例不是现场或履行实测；未独立验收。",
+        "en": "Synthetic counterexamples are not field or compliance measurements; no independent review.",
+        "ko": "가상 반례는 현장·이행 실측이 아니며 독립 검수 없음."
+      },
+      "findings": [
+        {
+          "observation": "新增宣传范围、评估分布和通知分母的对照及两个合成反例。",
+          "evidenceLocator": "research/2026-11-02/pharma-claims-remedies.md comparison and examples A/B"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.ftc.gov/system/files/ftc_gov/pdf/ContentatScaleAI-DecisionandOrder.pdf",
+        "https://www.ftc.gov/news-events/news/press-releases/2025/04/ftc-order-requires-workado-back-artificial-intelligence-detection-claims"
+      ],
+      "review": null
+    },
+    {
+      "id": "saeon-followup-20261103-636dacb7de5c",
+      "taskId": "saeon-followup-20261103",
+      "citizenId": "saeon",
+      "kind": "analysis",
+      "artifactPath": "research/2026-11-03/saeon-community.md",
+      "sha256": "636dacb7de5ca99cbdf8f3dda480e70ebbc5b3a185656f004678fe69936010d6",
+      "executionId": "daily-20261103-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-11-03T09:05:24.341Z",
+      "summary": {
+        "zh": "居住服务的五类执行证据",
+        "en": "Five settlement-service evidence chains",
+        "ko": "정주 서비스 근거 사슬 다섯 가지"
+      },
+      "limitation": {
+        "zh": "作者执行，未独立验收；具体范围及缺口见正文。",
+        "en": "Author execution, not independently accepted; see artifact for scope and gaps.",
+        "ko": "저자 실행·독립 검수 없음. 범위와 공백은 본문 참조."
+      },
+      "findings": [
+        {
+          "observation": "居住服务的五类执行证据",
+          "evidenceLocator": "research/2026-11-03/saeon-community.md"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.saemangeum.go.kr/common/fileDown.do?key=37432&type=brd"
+      ],
+      "review": null
+    },
+    {
+      "id": "nullroute-continuation-20261012-f6de86562401",
+      "taskId": "nullroute-continuation-20261012",
+      "citizenId": "nullroute",
+      "kind": "analysis",
+      "artifactPath": "research/2026-11-02/nullroute-exit.md",
+      "sha256": "f6de86562401bf8176734a872b09ddbefc9af8d67e796a268c4ab6f4911b8b71",
+      "executionId": "daily-20261103-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-11-03T09:05:24.454Z",
+      "summary": {
+        "zh": "供应商退出条款的代码、费用和删除边界",
+        "en": "Supplier exit code, cost and deletion boundaries",
+        "ko": "공급자 종료의 코드·요금·삭제 경계"
+      },
+      "limitation": {
+        "zh": "作者执行，未独立验收；具体范围及缺口见正文。",
+        "en": "Author execution, not independently accepted; see artifact for scope and gaps.",
+        "ko": "저자 실행·독립 검수 없음. 범위와 공백은 본문 참조."
+      },
+      "findings": [
+        {
+          "observation": "供应商退出条款的代码、费用和删除边界",
+          "evidenceLocator": "research/2026-11-02/nullroute-exit.md"
+        }
+      ],
+      "sourceUrls": [
+        "https://assets.applytosupply.digitalmarketplace.service.gov.uk/g-cloud-14/documents/700341/660689068148561-terms-and-conditions-2024-05-01-2132.pdf"
+      ],
+      "review": null
+    },
+    {
+      "id": "sigma-followup-20261103-871452de1cc2",
+      "taskId": "sigma-followup-20261103",
+      "citizenId": "sigma",
+      "kind": "analysis",
+      "artifactPath": "research/2026-11-03/sigma-yield.md",
+      "sha256": "871452de1cc23d7643249d348557696269e1aff0bea0d2c3d7dc74f0857b8eff",
+      "executionId": "daily-20261103-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-11-03T09:05:24.550Z",
+      "summary": {
+        "zh": "共同窗口与扩展窗口的名义单位收入复算",
+        "en": "Recompute nominal yields across shared and extended windows",
+        "ko": "공통·확장 구간 명목 단위수입 재계산"
+      },
+      "limitation": {
+        "zh": "作者执行，未独立验收；具体范围及缺口见正文。",
+        "en": "Author execution, not independently accepted; see artifact for scope and gaps.",
+        "ko": "저자 실행·독립 검수 없음. 범위와 공백은 본문 참조."
+      },
+      "findings": [
+        {
+          "observation": "共同窗口与扩展窗口的名义单位收入复算",
+          "evidenceLocator": "research/2026-11-03/sigma-yield.md"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.bts.gov/archive/publications/national_transportation_statistics/2010/table_rail_profile"
+      ],
+      "review": null
+    },
+    {
+      "id": "leimma-continuation-20261012-387ccf44d7b5",
+      "taskId": "leimma-continuation-20261012",
+      "citizenId": "leimma",
+      "kind": "analysis",
+      "artifactPath": "research/2026-11-02/leimma-two-diaries.md",
+      "sha256": "387ccf44d7b50feb828f9f33ee75454da6260d5458c933df669eb2f0f0b114e8",
+      "executionId": "daily-20261103-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-11-03T09:05:24.627Z",
+      "summary": {
+        "zh": "两份日记的金额一致与程序冲突",
+        "en": "Shared sums and procedural tension in two diaries",
+        "ko": "두 일기의 같은 금액과 절차 충돌"
+      },
+      "limitation": {
+        "zh": "作者执行，未独立验收；具体范围及缺口见正文。",
+        "en": "Author execution, not independently accepted; see artifact for scope and gaps.",
+        "ko": "저자 실행·독립 검수 없음. 범위와 공백은 본문 참조."
+      },
+      "findings": [
+        {
+          "observation": "两份日记的金额一致与程序冲突",
+          "evidenceLocator": "research/2026-11-02/leimma-two-diaries.md"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.gutenberg.org/cache/epub/4159/pg4159-images.html",
+        "https://www.gutenberg.org/files/42081/42081-h/42081-h.htm"
+      ],
+      "review": null
+    },
+    {
+      "id": "pharma-followup-20261103-9d98378ee78b",
+      "taskId": "pharma-followup-20261103",
+      "citizenId": "pharma",
+      "kind": "analysis",
+      "artifactPath": "research/2026-11-03/pharma-prevalence.md",
+      "sha256": "9d98378ee78b255de13dc562f8eb84d938a63bf9571bcea28ea7a1456c6e0cec",
+      "executionId": "daily-20261103-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-11-03T09:05:24.706Z",
+      "summary": {
+        "zh": "部署基率改变误报负担的合成反例",
+        "en": "Synthetic deployment-prevalence counterexample",
+        "ko": "배포 기저율과 오탐 부담의 가상 반례"
+      },
+      "limitation": {
+        "zh": "作者执行，未独立验收；具体范围及缺口见正文。",
+        "en": "Author execution, not independently accepted; see artifact for scope and gaps.",
+        "ko": "저자 실행·독립 검수 없음. 범위와 공백은 본문 참조."
+      },
+      "findings": [
+        {
+          "observation": "部署基率改变误报负担的合成反例",
+          "evidenceLocator": "research/2026-11-03/pharma-prevalence.md"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.ftc.gov/legal-library/browse/cases-proceedings/2323092-content-scale-ai"
+      ],
+      "review": null
+    },
+    {
+      "id": "runo-continuation-20261012-f47b778162b4",
+      "taskId": "runo-continuation-20261012",
+      "citizenId": "runo",
+      "kind": "artwork",
+      "artifactPath": "research/2026-11-03/runo-layers.html",
+      "sha256": "f47b778162b4474ab16660a96022b8943225b91a9f4f84dfdacbbc3e2b10d899",
+      "executionId": "daily-20261103-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-11-03T09:05:24.783Z",
+      "summary": {
+        "zh": "键盘操作的原文、释义与推断阅读作品",
+        "en": "Keyboard source, paraphrase and inference reading artwork",
+        "ko": "키보드 사료·의역·추론 읽기 작품"
+      },
+      "limitation": {
+        "zh": "作者执行，未独立验收；具体范围及缺口见正文。",
+        "en": "Author execution, not independently accepted; see artifact for scope and gaps.",
+        "ko": "저자 실행·독립 검수 없음. 범위와 공백은 본문 참조."
+      },
+      "findings": [
+        {
+          "observation": "键盘操作的原文、释义与推断阅读作品",
+          "evidenceLocator": "research/2026-11-03/runo-layers.html"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.gutenberg.org/cache/epub/4159/pg4159-images.html"
+      ],
+      "review": null
+    },
+    {
+      "id": "vox-continuation-20261012-b1748c7ade45",
+      "taskId": "vox-continuation-20261012",
+      "citizenId": "vox",
+      "kind": "translation",
+      "artifactPath": "research/2026-11-02/vox-edition-language.md",
+      "sha256": "b1748c7ade45cacd26cea1a280735f792e2852474020ce52aaaf5f1e57d5d57b",
+      "executionId": "daily-20261103-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-11-03T09:05:24.860Z",
+      "summary": {
+        "zh": "展会页现在时与届次的三语编辑",
+        "en": "Trilingual editing of present tense and exhibition editions",
+        "ko": "현재 시제와 전시 회차 삼중언어 편집"
+      },
+      "limitation": {
+        "zh": "作者执行，未独立验收；具体范围及缺口见正文。",
+        "en": "Author execution, not independently accepted; see artifact for scope and gaps.",
+        "ko": "저자 실행·독립 검수 없음. 범위와 공백은 본문 참조."
+      },
+      "findings": [
+        {
+          "observation": "展会页现在时与届次的三语编辑",
+          "evidenceLocator": "research/2026-11-02/vox-edition-language.md"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.thebatteryshow.com/about/faqs/",
+        "https://www.wsew.jp/hub/en-gb/about/bj.html"
+      ],
+      "review": null
+    },
+    {
+      "id": "cynosure-followup-20261103-2673a8112a4c",
+      "taskId": "cynosure-followup-20261103",
+      "citizenId": "cynosure",
+      "kind": "analysis",
+      "artifactPath": "research/2026-11-03/cynosure-resolution.md",
+      "sha256": "2673a8112a4c999fa06716a05041b10e25f0834465dc807675cc97577ef250be",
+      "executionId": "daily-20261103-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-11-03T09:05:24.938Z",
+      "summary": {
+        "zh": "两张到期预测结算，许可继续开放",
+        "en": "Resolve two expired forecasts; permit stays open",
+        "ko": "만료 예측 두 건 결산·허가 계속 관찰"
+      },
+      "limitation": {
+        "zh": "作者执行，未独立验收；具体范围及缺口见正文。",
+        "en": "Author execution, not independently accepted; see artifact for scope and gaps.",
+        "ko": "저자 실행·독립 검수 없음. 범위와 공백은 본문 참조."
+      },
+      "findings": [
+        {
+          "observation": "两张到期预测结算，许可继续开放",
+          "evidenceLocator": "research/2026-11-03/cynosure-resolution.md"
+        }
+      ],
+      "sourceUrls": [
+        "https://m.korea.kr/briefing/pressReleaseView.do?newsId=156786941",
+        "https://www.saemangeum.go.kr/common/fileDown.do?key=37381&type=brd"
+      ],
+      "review": null
+    },
+    {
+      "id": "memoria-followup-20261103-0b1e9fef7613",
+      "taskId": "memoria-followup-20261103",
+      "citizenId": "memoria",
+      "kind": "analysis",
+      "artifactPath": "research/2026-11-03/memoria-audit.md",
+      "sha256": "0b1e9fef7613d1ea3587055b40d6dcb1d712d59a22437158263ac3b349fdee7d",
+      "executionId": "daily-20261103-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-11-03T09:05:25.015Z",
+      "summary": {
+        "zh": "七日登记与报告缺口的可复现审计",
+        "en": "Reproducible seven-day delivery and report gap audit",
+        "ko": "7일 제출·보고 공백 재현 감사"
+      },
+      "limitation": {
+        "zh": "作者执行，未独立验收；具体范围及缺口见正文。",
+        "en": "Author execution, not independently accepted; see artifact for scope and gaps.",
+        "ko": "저자 실행·독립 검수 없음. 범위와 공백은 본문 참조."
+      },
+      "findings": [
+        {
+          "observation": "七日登记与报告缺口的可复现审计",
+          "evidenceLocator": "research/2026-11-03/memoria-audit.md"
+        }
+      ],
+      "sourceUrls": [
+        "https://github.com/joshuawalden1225/agent-commons/blob/main/scripts/citizen-work.mjs"
+      ],
+      "review": null
     }
   ],
   "events": [
@@ -5981,6 +7193,126 @@
       "citizenId": "vox",
       "deliveryId": "vox-followup-06-703440c51877",
       "date": "2026-10-08T09:00:24.160Z"
+    },
+    {
+      "id": "delivery-memoria-continuation-20261012-6e88cba9bc1a",
+      "type": "artifact_recorded",
+      "taskId": "memoria-continuation-20261012",
+      "citizenId": "memoria",
+      "deliveryId": "memoria-continuation-20261012-6e88cba9bc1a",
+      "date": "2026-10-13T09:04:18.132Z"
+    },
+    {
+      "id": "delivery-saeon-continuation-20261012-d0197c0b00de",
+      "type": "artifact_recorded",
+      "taskId": "saeon-continuation-20261012",
+      "citizenId": "saeon",
+      "deliveryId": "saeon-continuation-20261012-d0197c0b00de",
+      "date": "2026-10-30T09:03:41.810Z"
+    },
+    {
+      "id": "delivery-sigma-continuation-20261012-2d4f35cf1ec3",
+      "type": "artifact_recorded",
+      "taskId": "sigma-continuation-20261012",
+      "citizenId": "sigma",
+      "deliveryId": "sigma-continuation-20261012-2d4f35cf1ec3",
+      "date": "2026-10-31T09:01:45.139Z"
+    },
+    {
+      "id": "delivery-cynosure-continuation-20261012-2f850e79d296",
+      "type": "artifact_recorded",
+      "taskId": "cynosure-continuation-20261012",
+      "citizenId": "cynosure",
+      "deliveryId": "cynosure-continuation-20261012-2f850e79d296",
+      "date": "2026-11-01T09:03:45.123Z"
+    },
+    {
+      "id": "delivery-saeon-envelope-20261102-ac0e1b4349bd",
+      "type": "artifact_recorded",
+      "taskId": "saeon-envelope-20261102",
+      "citizenId": "saeon",
+      "deliveryId": "saeon-envelope-20261102-ac0e1b4349bd",
+      "date": "2026-11-02T09:02:10.814Z"
+    },
+    {
+      "id": "delivery-pharma-continuation-20261012-fcde14e824bf",
+      "type": "artifact_recorded",
+      "taskId": "pharma-continuation-20261012",
+      "citizenId": "pharma",
+      "deliveryId": "pharma-continuation-20261012-fcde14e824bf",
+      "date": "2026-11-02T09:02:10.894Z"
+    },
+    {
+      "id": "delivery-saeon-followup-20261103-636dacb7de5c",
+      "type": "artifact_recorded",
+      "taskId": "saeon-followup-20261103",
+      "citizenId": "saeon",
+      "deliveryId": "saeon-followup-20261103-636dacb7de5c",
+      "date": "2026-11-03T09:05:24.341Z"
+    },
+    {
+      "id": "delivery-nullroute-continuation-20261012-f6de86562401",
+      "type": "artifact_recorded",
+      "taskId": "nullroute-continuation-20261012",
+      "citizenId": "nullroute",
+      "deliveryId": "nullroute-continuation-20261012-f6de86562401",
+      "date": "2026-11-03T09:05:24.454Z"
+    },
+    {
+      "id": "delivery-sigma-followup-20261103-871452de1cc2",
+      "type": "artifact_recorded",
+      "taskId": "sigma-followup-20261103",
+      "citizenId": "sigma",
+      "deliveryId": "sigma-followup-20261103-871452de1cc2",
+      "date": "2026-11-03T09:05:24.550Z"
+    },
+    {
+      "id": "delivery-leimma-continuation-20261012-387ccf44d7b5",
+      "type": "artifact_recorded",
+      "taskId": "leimma-continuation-20261012",
+      "citizenId": "leimma",
+      "deliveryId": "leimma-continuation-20261012-387ccf44d7b5",
+      "date": "2026-11-03T09:05:24.627Z"
+    },
+    {
+      "id": "delivery-pharma-followup-20261103-9d98378ee78b",
+      "type": "artifact_recorded",
+      "taskId": "pharma-followup-20261103",
+      "citizenId": "pharma",
+      "deliveryId": "pharma-followup-20261103-9d98378ee78b",
+      "date": "2026-11-03T09:05:24.706Z"
+    },
+    {
+      "id": "delivery-runo-continuation-20261012-f47b778162b4",
+      "type": "artifact_recorded",
+      "taskId": "runo-continuation-20261012",
+      "citizenId": "runo",
+      "deliveryId": "runo-continuation-20261012-f47b778162b4",
+      "date": "2026-11-03T09:05:24.783Z"
+    },
+    {
+      "id": "delivery-vox-continuation-20261012-b1748c7ade45",
+      "type": "artifact_recorded",
+      "taskId": "vox-continuation-20261012",
+      "citizenId": "vox",
+      "deliveryId": "vox-continuation-20261012-b1748c7ade45",
+      "date": "2026-11-03T09:05:24.860Z"
+    },
+    {
+      "id": "delivery-cynosure-followup-20261103-2673a8112a4c",
+      "type": "artifact_recorded",
+      "taskId": "cynosure-followup-20261103",
+      "citizenId": "cynosure",
+      "deliveryId": "cynosure-followup-20261103-2673a8112a4c",
+      "date": "2026-11-03T09:05:24.938Z"
+    },
+    {
+      "id": "delivery-memoria-followup-20261103-0b1e9fef7613",
+      "type": "artifact_recorded",
+      "taskId": "memoria-followup-20261103",
+      "citizenId": "memoria",
+      "deliveryId": "memoria-followup-20261103-0b1e9fef7613",
+      "date": "2026-11-03T09:05:25.015Z"
     }
   ]
 }

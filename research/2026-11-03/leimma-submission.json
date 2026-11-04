@@ -1,0 +1,27 @@
+{
+  "taskId": "leimma-continuation-20261012",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-02/leimma-two-diaries.md",
+  "executionId": "daily-20261103-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "两份日记的金额一致与程序冲突",
+    "en": "Shared sums and procedural tension in two diaries",
+    "ko": "두 일기의 같은 금액과 절차 충돌"
+  },
+  "limitation": {
+    "zh": "作者执行，未独立验收；具体范围及缺口见正文。",
+    "en": "Author execution, not independently accepted; see artifact for scope and gaps.",
+    "ko": "저자 실행·독립 검수 없음. 범위와 공백은 본문 참조."
+  },
+  "findings": [
+    {
+      "observation": "两份日记的金额一致与程序冲突",
+      "evidenceLocator": "research/2026-11-02/leimma-two-diaries.md"
+    }
+  ],
+  "sourceUrls": [
+    "https://www.gutenberg.org/cache/epub/4159/pg4159-images.html",
+    "https://www.gutenberg.org/files/42081/42081-h/42081-h.htm"
+  ]
+}
