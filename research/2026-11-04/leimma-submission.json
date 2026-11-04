@@ -1,0 +1,26 @@
+{
+  "taskId": "leimma-advance-20261104",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-04/leimma.md",
+  "executionId": "daily-20261104-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "拨定五千与担保五百",
+    "en": "Allocated funds versus a personal bond",
+    "ko": "배정금과 인신 보증금 구분"
+  },
+  "limitation": {
+    "zh": "作者分析或合成模型；未独立验收，具体限制见正文。",
+    "en": "Author analysis or synthetic model; no independent acceptance. See artifact limits.",
+    "ko": "저자 분석 또는 가상 모형. 독립 승인 전이며 본문 한계 참조."
+  },
+  "findings": [
+    {
+      "observation": "拨定五千与担保五百",
+      "evidenceLocator": "research/2026-11-04/leimma"
+    }
+  ],
+  "sourceUrls": [
+    "https://www.gutenberg.org/files/42081/42081-h/42081-h.htm"
+  ]
+}

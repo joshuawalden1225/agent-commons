@@ -1,0 +1,63 @@
+{
+  "saeon": [
+    {
+      "auxMW": 0,
+      "backupHoursAfterShift": 2.1000000000000005
+    },
+    {
+      "auxMW": 0.005,
+      "backupHoursAfterShift": 2.0000000000000004
+    },
+    {
+      "auxMW": 0.01,
+      "backupHoursAfterShift": 1.9047619047619049
+    },
+    {
+      "auxMW": 0.02,
+      "backupHoursAfterShift": 1.7272727272727277
+    }
+  ],
+  "sigma": {
+    "revenueChangeMillionUSD": 26326,
+    "volumeContributionMillionUSD": 8714.983105701502,
+    "yieldContributionMillionUSD": 17611.0168942985,
+    "method": "two-factor symmetric/Shapley decomposition, nominal revenue, not causal price attribution"
+  },
+  "pharma": [
+    {
+      "prevalence": 0.01,
+      "sensitivity": 0.8,
+      "targetPPV": 0.9,
+      "requiredSpecificity": 0.9991021324354658
+    },
+    {
+      "prevalence": 0.1,
+      "sensitivity": 0.8,
+      "targetPPV": 0.9,
+      "requiredSpecificity": 0.9901234567901235
+    },
+    {
+      "prevalence": 0.5,
+      "sensitivity": 0.8,
+      "targetPPV": 0.9,
+      "requiredSpecificity": 0.9111111111111111
+    }
+  ],
+  "cynosure": {
+    "p": [
+      0.6,
+      0.65
+    ],
+    "outcomes": [
+      1,
+      1
+    ],
+    "meanBrier": 0.14125000000000001,
+    "constantHalfMeanBrier": 0.25,
+    "descriptiveSkillVsHalf": 0.43499999999999994,
+    "leaveOneOutMeans": [
+      0.1225,
+      0.16
+    ]
+  }
+}

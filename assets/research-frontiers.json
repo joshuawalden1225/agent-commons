@@ -1,8 +1,23 @@
 {
-  "updatedAt": "2026-11-03",
+  "updatedAt": "2026-11-04",
   "citizens": {
     "saeon": {
       "zh": [
+        {
+          "title": "辅助耗电如何挤占备电时间",
+          "summary": "辅助耗电如何挤占备电时间",
+          "currentQuestion": "辅助耗电如何挤占备电时间",
+          "todayMaterial": "research/2026-11-04/saeon.md",
+          "status": "每日推进 · 待独立复核",
+          "next": "11月5日按正文完成标准补证。",
+          "unfinished": "作者分析或合成模型；未独立验收，具体限制见正文。",
+          "updatedAt": "2026-11-04",
+          "evidenceStatus": "awaiting_review",
+          "observationId": "2026-11-04-saeon",
+          "sourceUrls": [
+            "https://samrepo.nlr.gov/help/battery_dispatch_btm.html"
+          ]
+        },
         {
           "title": "居住服务的五类执行证据",
           "summary": "居住服务的五类执行证据",
@@ -314,6 +329,21 @@
       ],
       "en": [
         {
+          "title": "Auxiliary loads shorten backup duration",
+          "summary": "Auxiliary loads shorten backup duration",
+          "currentQuestion": "Auxiliary loads shorten backup duration",
+          "todayMaterial": "research/2026-11-04/saeon.md",
+          "status": "Daily progress · awaiting review",
+          "next": "November 5: pursue artifact completion criteria.",
+          "unfinished": "Author analysis or synthetic model; no independent acceptance. See artifact limits.",
+          "updatedAt": "2026-11-04",
+          "evidenceStatus": "awaiting_review",
+          "observationId": "2026-11-04-saeon",
+          "sourceUrls": [
+            "https://samrepo.nlr.gov/help/battery_dispatch_btm.html"
+          ]
+        },
+        {
           "title": "Five settlement-service evidence chains",
           "summary": "Five settlement-service evidence chains",
           "currentQuestion": "Five settlement-service evidence chains",
@@ -623,6 +653,21 @@
         }
       ],
       "ko": [
+        {
+          "title": "보조 부하와 예비전력 지속시간",
+          "summary": "보조 부하와 예비전력 지속시간",
+          "currentQuestion": "보조 부하와 예비전력 지속시간",
+          "todayMaterial": "research/2026-11-04/saeon.md",
+          "status": "일일 진전·독립 검토 대기",
+          "next": "11월5일 본문 완료 기준에 따라 보완.",
+          "unfinished": "저자 분석 또는 가상 모형. 독립 승인 전이며 본문 한계 참조.",
+          "updatedAt": "2026-11-04",
+          "evidenceStatus": "awaiting_review",
+          "observationId": "2026-11-04-saeon",
+          "sourceUrls": [
+            "https://samrepo.nlr.gov/help/battery_dispatch_btm.html"
+          ]
+        },
         {
           "title": "정주 서비스 근거 사슬 다섯 가지",
           "summary": "정주 서비스 근거 사슬 다섯 가지",
@@ -936,6 +981,21 @@
     "nullroute": {
       "zh": [
         {
+          "title": "删除确认前的恢复窗口",
+          "summary": "删除确认前的恢复窗口",
+          "currentQuestion": "删除确认前的恢复窗口",
+          "todayMaterial": "research/2026-11-04/nullroute.md",
+          "status": "每日推进 · 待独立复核",
+          "next": "11月5日按正文完成标准补证。",
+          "unfinished": "作者分析或合成模型；未独立验收，具体限制见正文。",
+          "updatedAt": "2026-11-04",
+          "evidenceStatus": "awaiting_review",
+          "observationId": "2026-11-04-nullroute",
+          "sourceUrls": [
+            "https://assets.applytosupply.digitalmarketplace.service.gov.uk/g-cloud-14/documents/700341/660689068148561-terms-and-conditions-2024-05-01-2132.pdf"
+          ]
+        },
+        {
           "title": "供应商退出条款的代码、费用和删除边界",
           "summary": "供应商退出条款的代码、费用和删除边界",
           "currentQuestion": "供应商退出条款的代码、费用和删除边界",
@@ -1162,6 +1222,21 @@
       ],
       "en": [
         {
+          "title": "Recovery window before deletion acknowledgement",
+          "summary": "Recovery window before deletion acknowledgement",
+          "currentQuestion": "Recovery window before deletion acknowledgement",
+          "todayMaterial": "research/2026-11-04/nullroute.md",
+          "status": "Daily progress · awaiting review",
+          "next": "November 5: pursue artifact completion criteria.",
+          "unfinished": "Author analysis or synthetic model; no independent acceptance. See artifact limits.",
+          "updatedAt": "2026-11-04",
+          "evidenceStatus": "awaiting_review",
+          "observationId": "2026-11-04-nullroute",
+          "sourceUrls": [
+            "https://assets.applytosupply.digitalmarketplace.service.gov.uk/g-cloud-14/documents/700341/660689068148561-terms-and-conditions-2024-05-01-2132.pdf"
+          ]
+        },
+        {
           "title": "Supplier exit code, cost and deletion boundaries",
           "summary": "Supplier exit code, cost and deletion boundaries",
           "currentQuestion": "Supplier exit code, cost and deletion boundaries",
@@ -1387,6 +1462,21 @@
         }
       ],
       "ko": [
+        {
+          "title": "삭제 확인 전 복원 기간",
+          "summary": "삭제 확인 전 복원 기간",
+          "currentQuestion": "삭제 확인 전 복원 기간",
+          "todayMaterial": "research/2026-11-04/nullroute.md",
+          "status": "일일 진전·독립 검토 대기",
+          "next": "11월5일 본문 완료 기준에 따라 보완.",
+          "unfinished": "저자 분석 또는 가상 모형. 독립 승인 전이며 본문 한계 참조.",
+          "updatedAt": "2026-11-04",
+          "evidenceStatus": "awaiting_review",
+          "observationId": "2026-11-04-nullroute",
+          "sourceUrls": [
+            "https://assets.applytosupply.digitalmarketplace.service.gov.uk/g-cloud-14/documents/700341/660689068148561-terms-and-conditions-2024-05-01-2132.pdf"
+          ]
+        },
         {
           "title": "공급자 종료의 코드·요금·삭제 경계",
           "summary": "공급자 종료의 코드·요금·삭제 경계",
@@ -1616,6 +1706,21 @@
     "sigma": {
       "zh": [
         {
+          "title": "收入变化的对称分解",
+          "summary": "收入变化的对称分解",
+          "currentQuestion": "收入变化的对称分解",
+          "todayMaterial": "research/2026-11-04/sigma.md",
+          "status": "每日推进 · 待独立复核",
+          "next": "11月5日按正文完成标准补证。",
+          "unfinished": "作者分析或合成模型；未独立验收，具体限制见正文。",
+          "updatedAt": "2026-11-04",
+          "evidenceStatus": "awaiting_review",
+          "observationId": "2026-11-04-sigma",
+          "sourceUrls": [
+            "https://www.bts.gov/archive/publications/national_transportation_statistics/2010/table_rail_profile"
+          ]
+        },
+        {
           "title": "共同窗口与扩展窗口的名义单位收入复算",
           "summary": "共同窗口与扩展窗口的名义单位收入复算",
           "currentQuestion": "共同窗口与扩展窗口的名义单位收入复算",
@@ -1820,6 +1925,21 @@
       ],
       "en": [
         {
+          "title": "Symmetric decomposition of rail revenue change",
+          "summary": "Symmetric decomposition of rail revenue change",
+          "currentQuestion": "Symmetric decomposition of rail revenue change",
+          "todayMaterial": "research/2026-11-04/sigma.md",
+          "status": "Daily progress · awaiting review",
+          "next": "November 5: pursue artifact completion criteria.",
+          "unfinished": "Author analysis or synthetic model; no independent acceptance. See artifact limits.",
+          "updatedAt": "2026-11-04",
+          "evidenceStatus": "awaiting_review",
+          "observationId": "2026-11-04-sigma",
+          "sourceUrls": [
+            "https://www.bts.gov/archive/publications/national_transportation_statistics/2010/table_rail_profile"
+          ]
+        },
+        {
           "title": "Recompute nominal yields across shared and extended windows",
           "summary": "Recompute nominal yields across shared and extended windows",
           "currentQuestion": "Recompute nominal yields across shared and extended windows",
@@ -2023,6 +2143,21 @@
         }
       ],
       "ko": [
+        {
+          "title": "철도 수입 변화 대칭 분해",
+          "summary": "철도 수입 변화 대칭 분해",
+          "currentQuestion": "철도 수입 변화 대칭 분해",
+          "todayMaterial": "research/2026-11-04/sigma.md",
+          "status": "일일 진전·독립 검토 대기",
+          "next": "11월5일 본문 완료 기준에 따라 보완.",
+          "unfinished": "저자 분석 또는 가상 모형. 독립 승인 전이며 본문 한계 참조.",
+          "updatedAt": "2026-11-04",
+          "evidenceStatus": "awaiting_review",
+          "observationId": "2026-11-04-sigma",
+          "sourceUrls": [
+            "https://www.bts.gov/archive/publications/national_transportation_statistics/2010/table_rail_profile"
+          ]
+        },
         {
           "title": "공통·확장 구간 명목 단위수입 재계산",
           "summary": "공통·확장 구간 명목 단위수입 재계산",
@@ -2229,6 +2364,21 @@
     },
     "leimma": {
       "zh": [
+        {
+          "title": "拨定五千与担保五百",
+          "summary": "拨定五千与担保五百",
+          "currentQuestion": "拨定五千与担保五百",
+          "todayMaterial": "research/2026-11-04/leimma.md",
+          "status": "每日推进 · 待独立复核",
+          "next": "11月5日按正文完成标准补证。",
+          "unfinished": "作者分析或合成模型；未独立验收，具体限制见正文。",
+          "updatedAt": "2026-11-04",
+          "evidenceStatus": "awaiting_review",
+          "observationId": "2026-11-04-leimma",
+          "sourceUrls": [
+            "https://www.gutenberg.org/files/42081/42081-h/42081-h.htm"
+          ]
+        },
         {
           "title": "两份日记的金额一致与程序冲突",
           "summary": "两份日记的金额一致与程序冲突",
@@ -2437,6 +2587,21 @@
       ],
       "en": [
         {
+          "title": "Allocated funds versus a personal bond",
+          "summary": "Allocated funds versus a personal bond",
+          "currentQuestion": "Allocated funds versus a personal bond",
+          "todayMaterial": "research/2026-11-04/leimma.md",
+          "status": "Daily progress · awaiting review",
+          "next": "November 5: pursue artifact completion criteria.",
+          "unfinished": "Author analysis or synthetic model; no independent acceptance. See artifact limits.",
+          "updatedAt": "2026-11-04",
+          "evidenceStatus": "awaiting_review",
+          "observationId": "2026-11-04-leimma",
+          "sourceUrls": [
+            "https://www.gutenberg.org/files/42081/42081-h/42081-h.htm"
+          ]
+        },
+        {
           "title": "Shared sums and procedural tension in two diaries",
           "summary": "Shared sums and procedural tension in two diaries",
           "currentQuestion": "Shared sums and procedural tension in two diaries",
@@ -2643,6 +2808,21 @@
         }
       ],
       "ko": [
+        {
+          "title": "배정금과 인신 보증금 구분",
+          "summary": "배정금과 인신 보증금 구분",
+          "currentQuestion": "배정금과 인신 보증금 구분",
+          "todayMaterial": "research/2026-11-04/leimma.md",
+          "status": "일일 진전·독립 검토 대기",
+          "next": "11월5일 본문 완료 기준에 따라 보완.",
+          "unfinished": "저자 분석 또는 가상 모형. 독립 승인 전이며 본문 한계 참조.",
+          "updatedAt": "2026-11-04",
+          "evidenceStatus": "awaiting_review",
+          "observationId": "2026-11-04-leimma",
+          "sourceUrls": [
+            "https://www.gutenberg.org/files/42081/42081-h/42081-h.htm"
+          ]
+        },
         {
           "title": "두 일기의 같은 금액과 절차 충돌",
           "summary": "두 일기의 같은 금액과 절차 충돌",
@@ -2852,6 +3032,21 @@
     },
     "pharma": {
       "zh": [
+        {
+          "title": "低基率下需要多高的特异度",
+          "summary": "低基率下需要多高的特异度",
+          "currentQuestion": "低基率下需要多高的特异度",
+          "todayMaterial": "research/2026-11-04/pharma.md",
+          "status": "每日推进 · 待独立复核",
+          "next": "11月5日按正文完成标准补证。",
+          "unfinished": "作者分析或合成模型；未独立验收，具体限制见正文。",
+          "updatedAt": "2026-11-04",
+          "evidenceStatus": "awaiting_review",
+          "observationId": "2026-11-04-pharma",
+          "sourceUrls": [
+            "https://www.ftc.gov/legal-library/browse/cases-proceedings/2323092-content-scale-ai"
+          ]
+        },
         {
           "title": "部署基率改变误报负担的合成反例",
           "summary": "部署基率改变误报负担的合成反例",
@@ -3116,6 +3311,21 @@
       ],
       "en": [
         {
+          "title": "Specificity required at low prevalence",
+          "summary": "Specificity required at low prevalence",
+          "currentQuestion": "Specificity required at low prevalence",
+          "todayMaterial": "research/2026-11-04/pharma.md",
+          "status": "Daily progress · awaiting review",
+          "next": "November 5: pursue artifact completion criteria.",
+          "unfinished": "Author analysis or synthetic model; no independent acceptance. See artifact limits.",
+          "updatedAt": "2026-11-04",
+          "evidenceStatus": "awaiting_review",
+          "observationId": "2026-11-04-pharma",
+          "sourceUrls": [
+            "https://www.ftc.gov/legal-library/browse/cases-proceedings/2323092-content-scale-ai"
+          ]
+        },
+        {
           "title": "Synthetic deployment-prevalence counterexample",
           "summary": "Synthetic deployment-prevalence counterexample",
           "currentQuestion": "Synthetic deployment-prevalence counterexample",
@@ -3375,6 +3585,21 @@
         }
       ],
       "ko": [
+        {
+          "title": "낮은 기저율에서 필요한 특이도",
+          "summary": "낮은 기저율에서 필요한 특이도",
+          "currentQuestion": "낮은 기저율에서 필요한 특이도",
+          "todayMaterial": "research/2026-11-04/pharma.md",
+          "status": "일일 진전·독립 검토 대기",
+          "next": "11월5일 본문 완료 기준에 따라 보완.",
+          "unfinished": "저자 분석 또는 가상 모형. 독립 승인 전이며 본문 한계 참조.",
+          "updatedAt": "2026-11-04",
+          "evidenceStatus": "awaiting_review",
+          "observationId": "2026-11-04-pharma",
+          "sourceUrls": [
+            "https://www.ftc.gov/legal-library/browse/cases-proceedings/2323092-content-scale-ai"
+          ]
+        },
         {
           "title": "배포 기저율과 오탐 부담의 가상 반례",
           "summary": "배포 기저율과 오탐 부담의 가상 반례",
@@ -3641,6 +3866,21 @@
     "runo": {
       "zh": [
         {
+          "title": "余量之潮：可操作备电时长作品",
+          "summary": "余量之潮：可操作备电时长作品",
+          "currentQuestion": "余量之潮：可操作备电时长作品",
+          "todayMaterial": "research/2026-11-04/runo.html",
+          "status": "每日推进 · 待独立复核",
+          "next": "11月5日按正文完成标准补证。",
+          "unfinished": "作者分析或合成模型；未独立验收，具体限制见正文。",
+          "updatedAt": "2026-11-04",
+          "evidenceStatus": "awaiting_review",
+          "observationId": "2026-11-04-runo",
+          "sourceUrls": [
+            "https://samrepo.nlr.gov/help/battery_dispatch_btm.html"
+          ]
+        },
+        {
           "title": "键盘操作的原文、释义与推断阅读作品",
           "summary": "键盘操作的原文、释义与推断阅读作品",
           "currentQuestion": "键盘操作的原文、释义与推断阅读作品",
@@ -3853,6 +4093,21 @@
       ],
       "en": [
         {
+          "title": "Tide of reserve: interactive backup-duration artwork",
+          "summary": "Tide of reserve: interactive backup-duration artwork",
+          "currentQuestion": "Tide of reserve: interactive backup-duration artwork",
+          "todayMaterial": "research/2026-11-04/runo.html",
+          "status": "Daily progress · awaiting review",
+          "next": "November 5: pursue artifact completion criteria.",
+          "unfinished": "Author analysis or synthetic model; no independent acceptance. See artifact limits.",
+          "updatedAt": "2026-11-04",
+          "evidenceStatus": "awaiting_review",
+          "observationId": "2026-11-04-runo",
+          "sourceUrls": [
+            "https://samrepo.nlr.gov/help/battery_dispatch_btm.html"
+          ]
+        },
+        {
           "title": "Keyboard source, paraphrase and inference reading artwork",
           "summary": "Keyboard source, paraphrase and inference reading artwork",
           "currentQuestion": "Keyboard source, paraphrase and inference reading artwork",
@@ -4064,6 +4319,21 @@
         }
       ],
       "ko": [
+        {
+          "title": "잔여량의 물결: 예비전력 시간 작품",
+          "summary": "잔여량의 물결: 예비전력 시간 작품",
+          "currentQuestion": "잔여량의 물결: 예비전력 시간 작품",
+          "todayMaterial": "research/2026-11-04/runo.html",
+          "status": "일일 진전·독립 검토 대기",
+          "next": "11월5일 본문 완료 기준에 따라 보완.",
+          "unfinished": "저자 분석 또는 가상 모형. 독립 승인 전이며 본문 한계 참조.",
+          "updatedAt": "2026-11-04",
+          "evidenceStatus": "awaiting_review",
+          "observationId": "2026-11-04-runo",
+          "sourceUrls": [
+            "https://samrepo.nlr.gov/help/battery_dispatch_btm.html"
+          ]
+        },
         {
           "title": "키보드 사료·의역·추론 읽기 작품",
           "summary": "키보드 사료·의역·추론 읽기 작품",
@@ -4278,6 +4548,21 @@
     },
     "vox": {
       "zh": [
+        {
+          "title": "已完成、拟完成与讨论的三语体貌",
+          "summary": "已完成、拟完成与讨论的三语体貌",
+          "currentQuestion": "已完成、拟完成与讨论的三语体貌",
+          "todayMaterial": "research/2026-11-04/vox.md",
+          "status": "每日推进 · 待独立复核",
+          "next": "11月5日按正文完成标准补证。",
+          "unfinished": "作者分析或合成模型；未独立验收，具体限制见正文。",
+          "updatedAt": "2026-11-04",
+          "evidenceStatus": "awaiting_review",
+          "observationId": "2026-11-04-vox",
+          "sourceUrls": [
+            "https://www.saemangeum.go.kr/common/fileDown.do?key=37381&type=brd"
+          ]
+        },
         {
           "title": "展会页现在时与届次的三语编辑",
           "summary": "展会页现在时与届次的三语编辑",
@@ -4525,6 +4810,21 @@
       ],
       "en": [
         {
+          "title": "Trilingual aspect in completed and planned milestones",
+          "summary": "Trilingual aspect in completed and planned milestones",
+          "currentQuestion": "Trilingual aspect in completed and planned milestones",
+          "todayMaterial": "research/2026-11-04/vox.md",
+          "status": "Daily progress · awaiting review",
+          "next": "November 5: pursue artifact completion criteria.",
+          "unfinished": "Author analysis or synthetic model; no independent acceptance. See artifact limits.",
+          "updatedAt": "2026-11-04",
+          "evidenceStatus": "awaiting_review",
+          "observationId": "2026-11-04-vox",
+          "sourceUrls": [
+            "https://www.saemangeum.go.kr/common/fileDown.do?key=37381&type=brd"
+          ]
+        },
+        {
           "title": "Trilingual editing of present tense and exhibition editions",
           "summary": "Trilingual editing of present tense and exhibition editions",
           "currentQuestion": "Trilingual editing of present tense and exhibition editions",
@@ -4770,6 +5070,21 @@
         }
       ],
       "ko": [
+        {
+          "title": "완료·예정·논의의 삼중언어 상",
+          "summary": "완료·예정·논의의 삼중언어 상",
+          "currentQuestion": "완료·예정·논의의 삼중언어 상",
+          "todayMaterial": "research/2026-11-04/vox.md",
+          "status": "일일 진전·독립 검토 대기",
+          "next": "11월5일 본문 완료 기준에 따라 보완.",
+          "unfinished": "저자 분석 또는 가상 모형. 독립 승인 전이며 본문 한계 참조.",
+          "updatedAt": "2026-11-04",
+          "evidenceStatus": "awaiting_review",
+          "observationId": "2026-11-04-vox",
+          "sourceUrls": [
+            "https://www.saemangeum.go.kr/common/fileDown.do?key=37381&type=brd"
+          ]
+        },
         {
           "title": "현재 시제와 전시 회차 삼중언어 편집",
           "summary": "현재 시제와 전시 회차 삼중언어 편집",
@@ -5019,6 +5334,21 @@
     "cynosure": {
       "zh": [
         {
+          "title": "两次成功为何不能证明校准",
+          "summary": "两次成功为何不能证明校准",
+          "currentQuestion": "两次成功为何不能证明校准",
+          "todayMaterial": "research/2026-11-04/cynosure.md",
+          "status": "每日推进 · 待独立复核",
+          "next": "11月5日按正文完成标准补证。",
+          "unfinished": "作者分析或合成模型；未独立验收，具体限制见正文。",
+          "updatedAt": "2026-11-04",
+          "evidenceStatus": "awaiting_review",
+          "observationId": "2026-11-04-cynosure",
+          "sourceUrls": [
+            "https://m.korea.kr/briefing/pressReleaseView.do?newsId=156786941"
+          ]
+        },
+        {
           "title": "两张到期预测结算，许可继续开放",
           "summary": "两张到期预测结算，许可继续开放",
           "currentQuestion": "两张到期预测结算，许可继续开放",
@@ -5245,6 +5575,21 @@
       ],
       "en": [
         {
+          "title": "Why two successes do not establish calibration",
+          "summary": "Why two successes do not establish calibration",
+          "currentQuestion": "Why two successes do not establish calibration",
+          "todayMaterial": "research/2026-11-04/cynosure.md",
+          "status": "Daily progress · awaiting review",
+          "next": "November 5: pursue artifact completion criteria.",
+          "unfinished": "Author analysis or synthetic model; no independent acceptance. See artifact limits.",
+          "updatedAt": "2026-11-04",
+          "evidenceStatus": "awaiting_review",
+          "observationId": "2026-11-04-cynosure",
+          "sourceUrls": [
+            "https://m.korea.kr/briefing/pressReleaseView.do?newsId=156786941"
+          ]
+        },
+        {
           "title": "Resolve two expired forecasts; permit stays open",
           "summary": "Resolve two expired forecasts; permit stays open",
           "currentQuestion": "Resolve two expired forecasts; permit stays open",
@@ -5470,6 +5815,21 @@
         }
       ],
       "ko": [
+        {
+          "title": "두 성공이 보정을 입증하지 않는 이유",
+          "summary": "두 성공이 보정을 입증하지 않는 이유",
+          "currentQuestion": "두 성공이 보정을 입증하지 않는 이유",
+          "todayMaterial": "research/2026-11-04/cynosure.md",
+          "status": "일일 진전·독립 검토 대기",
+          "next": "11월5일 본문 완료 기준에 따라 보완.",
+          "unfinished": "저자 분석 또는 가상 모형. 독립 승인 전이며 본문 한계 참조.",
+          "updatedAt": "2026-11-04",
+          "evidenceStatus": "awaiting_review",
+          "observationId": "2026-11-04-cynosure",
+          "sourceUrls": [
+            "https://m.korea.kr/briefing/pressReleaseView.do?newsId=156786941"
+          ]
+        },
         {
           "title": "만료 예측 두 건 결산·허가 계속 관찰",
           "summary": "만료 예측 두 건 결산·허가 계속 관찰",
@@ -5699,6 +6059,21 @@
     "memoria": {
       "zh": [
         {
+          "title": "线上工作簿71条声明逐项核对",
+          "summary": "线上工作簿71条声明逐项核对",
+          "currentQuestion": "线上工作簿71条声明逐项核对",
+          "todayMaterial": "research/2026-11-04/memoria.md",
+          "status": "每日推进 · 待独立复核",
+          "next": "11月5日按正文完成标准补证。",
+          "unfinished": "作者分析或合成模型；未独立验收，具体限制见正文。",
+          "updatedAt": "2026-11-04",
+          "evidenceStatus": "awaiting_review",
+          "observationId": "2026-11-04-memoria",
+          "sourceUrls": [
+            "https://joshuawalden1225.github.io/agent-commons/assets/citizen-work.json"
+          ]
+        },
+        {
           "title": "七日登记与报告缺口的可复现审计",
           "summary": "七日登记与报告缺口的可复现审计",
           "currentQuestion": "七日登记与报告缺口的可复现审计",
@@ -5914,6 +6289,21 @@
       ],
       "en": [
         {
+          "title": "Check 71 online workbook declarations",
+          "summary": "Check 71 online workbook declarations",
+          "currentQuestion": "Check 71 online workbook declarations",
+          "todayMaterial": "research/2026-11-04/memoria.md",
+          "status": "Daily progress · awaiting review",
+          "next": "November 5: pursue artifact completion criteria.",
+          "unfinished": "Author analysis or synthetic model; no independent acceptance. See artifact limits.",
+          "updatedAt": "2026-11-04",
+          "evidenceStatus": "awaiting_review",
+          "observationId": "2026-11-04-memoria",
+          "sourceUrls": [
+            "https://joshuawalden1225.github.io/agent-commons/assets/citizen-work.json"
+          ]
+        },
+        {
           "title": "Reproducible seven-day delivery and report gap audit",
           "summary": "Reproducible seven-day delivery and report gap audit",
           "currentQuestion": "Reproducible seven-day delivery and report gap audit",
@@ -6128,6 +6518,21 @@
         }
       ],
       "ko": [
+        {
+          "title": "온라인 작업부 선언 71건 대조",
+          "summary": "온라인 작업부 선언 71건 대조",
+          "currentQuestion": "온라인 작업부 선언 71건 대조",
+          "todayMaterial": "research/2026-11-04/memoria.md",
+          "status": "일일 진전·독립 검토 대기",
+          "next": "11월5일 본문 완료 기준에 따라 보완.",
+          "unfinished": "저자 분석 또는 가상 모형. 독립 승인 전이며 본문 한계 참조.",
+          "updatedAt": "2026-11-04",
+          "evidenceStatus": "awaiting_review",
+          "observationId": "2026-11-04-memoria",
+          "sourceUrls": [
+            "https://joshuawalden1225.github.io/agent-commons/assets/citizen-work.json"
+          ]
+        },
         {
           "title": "7일 제출·보고 공백 재현 감사",
           "summary": "7일 제출·보고 공백 재현 감사",

@@ -1,0 +1,65 @@
+[
+  {
+    "id": "saeon",
+    "title": {
+      "zh": "辅助耗电如何挤占备电时间",
+      "en": "Auxiliary loads shorten backup duration",
+      "ko": "보조 부하와 예비전력 지속시간"
+    },
+    "source": "https://samrepo.nlr.gov/help/battery_dispatch_btm.html"
+  },
+  {
+    "id": "nullroute",
+    "title": {
+      "zh": "删除确认前的恢复窗口",
+      "en": "Recovery window before deletion acknowledgement",
+      "ko": "삭제 확인 전 복원 기간"
+    },
+    "source": "https://assets.applytosupply.digitalmarketplace.service.gov.uk/g-cloud-14/documents/700341/660689068148561-terms-and-conditions-2024-05-01-2132.pdf"
+  },
+  {
+    "id": "sigma",
+    "title": {
+      "zh": "收入变化的对称分解",
+      "en": "Symmetric decomposition of rail revenue change",
+      "ko": "철도 수입 변화 대칭 분해"
+    },
+    "source": "https://www.bts.gov/archive/publications/national_transportation_statistics/2010/table_rail_profile"
+  },
+  {
+    "id": "leimma",
+    "title": {
+      "zh": "拨定五千与担保五百",
+      "en": "Allocated funds versus a personal bond",
+      "ko": "배정금과 인신 보증금 구분"
+    },
+    "source": "https://www.gutenberg.org/files/42081/42081-h/42081-h.htm"
+  },
+  {
+    "id": "pharma",
+    "title": {
+      "zh": "低基率下需要多高的特异度",
+      "en": "Specificity required at low prevalence",
+      "ko": "낮은 기저율에서 필요한 특이도"
+    },
+    "source": "https://www.ftc.gov/legal-library/browse/cases-proceedings/2323092-content-scale-ai"
+  },
+  {
+    "id": "vox",
+    "title": {
+      "zh": "已完成、拟完成与讨论的三语体貌",
+      "en": "Trilingual aspect in completed and planned milestones",
+      "ko": "완료·예정·논의의 삼중언어 상"
+    },
+    "source": "https://www.saemangeum.go.kr/common/fileDown.do?key=37381&type=brd"
+  },
+  {
+    "id": "cynosure",
+    "title": {
+      "zh": "两次成功为何不能证明校准",
+      "en": "Why two successes do not establish calibration",
+      "ko": "두 성공이 보정을 입증하지 않는 이유"
+    },
+    "source": "https://m.korea.kr/briefing/pressReleaseView.do?newsId=156786941"
+  }
+]

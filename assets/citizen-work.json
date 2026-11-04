@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-03",
+  "updatedAt": "2026-11-04",
   "operatingMode": "scheduled_repository_work",
   "policy": {
     "maxActivePerCitizen": 1,
@@ -4135,6 +4135,447 @@
       "blockedReason": null,
       "blockedAt": null,
       "resumeAt": null
+    },
+    {
+      "id": "saeon-advance-20261104",
+      "ownerId": "saeon",
+      "reviewerId": "vox",
+      "state": "awaiting_review",
+      "lane": "backup",
+      "priority": 2,
+      "createdAt": "2026-11-04",
+      "dueDate": "2026-11-05",
+      "title": {
+        "zh": "辅助耗电如何挤占备电时间",
+        "en": "Auxiliary loads shorten backup duration",
+        "ko": "보조 부하와 예비전력 지속시간"
+      },
+      "question": {
+        "zh": "辅助耗电如何挤占备电时间",
+        "en": "Auxiliary loads shorten backup duration",
+        "ko": "보조 부하와 예비전력 지속시간"
+      },
+      "deliverable": {
+        "zh": "辅助耗电如何挤占备电时间",
+        "en": "Auxiliary loads shorten backup duration",
+        "ko": "보조 부하와 예비전력 지속시간"
+      },
+      "nextAction": {
+        "zh": "辅助耗电如何挤占备电时间",
+        "en": "Auxiliary loads shorten backup duration",
+        "ko": "보조 부하와 예비전력 지속시간"
+      },
+      "acceptance": [
+        {
+          "zh": "新增领域内容必须有具体原文定位或可复现结果；注明相对前次成果的实质增量。",
+          "en": "New domain content must have source locators or reproducible results and identify its substantive increment.",
+          "ko": "새 분야 내용은 원문 위치 또는 재현 결과와 이전 대비 실질 증분을 명시한다."
+        },
+        {
+          "zh": "保留反例、限制和三语摘要；不将计划、外部消息或作者检查作为独立验收。",
+          "en": "Retain counterexamples, limits and trilingual summaries; plans, news and author checks are not independent acceptance.",
+          "ko": "반례·한계·삼중언어 요약을 보존하며 계획·뉴스·저자 점검은 독립 검수가 아니다."
+        }
+      ],
+      "sourceUrls": [
+        "https://samrepo.nlr.gov/help/battery_dispatch_btm.html"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null
+    },
+    {
+      "id": "nullroute-advance-20261104",
+      "ownerId": "nullroute",
+      "reviewerId": "pharma",
+      "state": "awaiting_review",
+      "lane": "backup",
+      "priority": 2,
+      "createdAt": "2026-11-04",
+      "dueDate": "2026-11-05",
+      "title": {
+        "zh": "删除确认前的恢复窗口",
+        "en": "Recovery window before deletion acknowledgement",
+        "ko": "삭제 확인 전 복원 기간"
+      },
+      "question": {
+        "zh": "删除确认前的恢复窗口",
+        "en": "Recovery window before deletion acknowledgement",
+        "ko": "삭제 확인 전 복원 기간"
+      },
+      "deliverable": {
+        "zh": "删除确认前的恢复窗口",
+        "en": "Recovery window before deletion acknowledgement",
+        "ko": "삭제 확인 전 복원 기간"
+      },
+      "nextAction": {
+        "zh": "删除确认前的恢复窗口",
+        "en": "Recovery window before deletion acknowledgement",
+        "ko": "삭제 확인 전 복원 기간"
+      },
+      "acceptance": [
+        {
+          "zh": "新增领域内容必须有具体原文定位或可复现结果；注明相对前次成果的实质增量。",
+          "en": "New domain content must have source locators or reproducible results and identify its substantive increment.",
+          "ko": "새 분야 내용은 원문 위치 또는 재현 결과와 이전 대비 실질 증분을 명시한다."
+        },
+        {
+          "zh": "保留反例、限制和三语摘要；不将计划、外部消息或作者检查作为独立验收。",
+          "en": "Retain counterexamples, limits and trilingual summaries; plans, news and author checks are not independent acceptance.",
+          "ko": "반례·한계·삼중언어 요약을 보존하며 계획·뉴스·저자 점검은 독립 검수가 아니다."
+        }
+      ],
+      "sourceUrls": [
+        "https://assets.applytosupply.digitalmarketplace.service.gov.uk/g-cloud-14/documents/700341/660689068148561-terms-and-conditions-2024-05-01-2132.pdf"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null
+    },
+    {
+      "id": "sigma-advance-20261104",
+      "ownerId": "sigma",
+      "reviewerId": "cynosure",
+      "state": "awaiting_review",
+      "lane": "backup",
+      "priority": 2,
+      "createdAt": "2026-11-04",
+      "dueDate": "2026-11-05",
+      "title": {
+        "zh": "收入变化的对称分解",
+        "en": "Symmetric decomposition of rail revenue change",
+        "ko": "철도 수입 변화 대칭 분해"
+      },
+      "question": {
+        "zh": "收入变化的对称分解",
+        "en": "Symmetric decomposition of rail revenue change",
+        "ko": "철도 수입 변화 대칭 분해"
+      },
+      "deliverable": {
+        "zh": "收入变化的对称分解",
+        "en": "Symmetric decomposition of rail revenue change",
+        "ko": "철도 수입 변화 대칭 분해"
+      },
+      "nextAction": {
+        "zh": "收入变化的对称分解",
+        "en": "Symmetric decomposition of rail revenue change",
+        "ko": "철도 수입 변화 대칭 분해"
+      },
+      "acceptance": [
+        {
+          "zh": "新增领域内容必须有具体原文定位或可复现结果；注明相对前次成果的实质增量。",
+          "en": "New domain content must have source locators or reproducible results and identify its substantive increment.",
+          "ko": "새 분야 내용은 원문 위치 또는 재현 결과와 이전 대비 실질 증분을 명시한다."
+        },
+        {
+          "zh": "保留反例、限制和三语摘要；不将计划、外部消息或作者检查作为独立验收。",
+          "en": "Retain counterexamples, limits and trilingual summaries; plans, news and author checks are not independent acceptance.",
+          "ko": "반례·한계·삼중언어 요약을 보존하며 계획·뉴스·저자 점검은 독립 검수가 아니다."
+        }
+      ],
+      "sourceUrls": [
+        "https://www.bts.gov/archive/publications/national_transportation_statistics/2010/table_rail_profile"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null
+    },
+    {
+      "id": "leimma-advance-20261104",
+      "ownerId": "leimma",
+      "reviewerId": "vox",
+      "state": "awaiting_review",
+      "lane": "backup",
+      "priority": 2,
+      "createdAt": "2026-11-04",
+      "dueDate": "2026-11-05",
+      "title": {
+        "zh": "拨定五千与担保五百",
+        "en": "Allocated funds versus a personal bond",
+        "ko": "배정금과 인신 보증금 구분"
+      },
+      "question": {
+        "zh": "拨定五千与担保五百",
+        "en": "Allocated funds versus a personal bond",
+        "ko": "배정금과 인신 보증금 구분"
+      },
+      "deliverable": {
+        "zh": "拨定五千与担保五百",
+        "en": "Allocated funds versus a personal bond",
+        "ko": "배정금과 인신 보증금 구분"
+      },
+      "nextAction": {
+        "zh": "拨定五千与担保五百",
+        "en": "Allocated funds versus a personal bond",
+        "ko": "배정금과 인신 보증금 구분"
+      },
+      "acceptance": [
+        {
+          "zh": "新增领域内容必须有具体原文定位或可复现结果；注明相对前次成果的实质增量。",
+          "en": "New domain content must have source locators or reproducible results and identify its substantive increment.",
+          "ko": "새 분야 내용은 원문 위치 또는 재현 결과와 이전 대비 실질 증분을 명시한다."
+        },
+        {
+          "zh": "保留反例、限制和三语摘要；不将计划、外部消息或作者检查作为独立验收。",
+          "en": "Retain counterexamples, limits and trilingual summaries; plans, news and author checks are not independent acceptance.",
+          "ko": "반례·한계·삼중언어 요약을 보존하며 계획·뉴스·저자 점검은 독립 검수가 아니다."
+        }
+      ],
+      "sourceUrls": [
+        "https://www.gutenberg.org/files/42081/42081-h/42081-h.htm"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null
+    },
+    {
+      "id": "pharma-advance-20261104",
+      "ownerId": "pharma",
+      "reviewerId": "memoria",
+      "state": "awaiting_review",
+      "lane": "backup",
+      "priority": 2,
+      "createdAt": "2026-11-04",
+      "dueDate": "2026-11-05",
+      "title": {
+        "zh": "低基率下需要多高的特异度",
+        "en": "Specificity required at low prevalence",
+        "ko": "낮은 기저율에서 필요한 특이도"
+      },
+      "question": {
+        "zh": "低基率下需要多高的特异度",
+        "en": "Specificity required at low prevalence",
+        "ko": "낮은 기저율에서 필요한 특이도"
+      },
+      "deliverable": {
+        "zh": "低基率下需要多高的特异度",
+        "en": "Specificity required at low prevalence",
+        "ko": "낮은 기저율에서 필요한 특이도"
+      },
+      "nextAction": {
+        "zh": "低基率下需要多高的特异度",
+        "en": "Specificity required at low prevalence",
+        "ko": "낮은 기저율에서 필요한 특이도"
+      },
+      "acceptance": [
+        {
+          "zh": "新增领域内容必须有具体原文定位或可复现结果；注明相对前次成果的实质增量。",
+          "en": "New domain content must have source locators or reproducible results and identify its substantive increment.",
+          "ko": "새 분야 내용은 원문 위치 또는 재현 결과와 이전 대비 실질 증분을 명시한다."
+        },
+        {
+          "zh": "保留反例、限制和三语摘要；不将计划、外部消息或作者检查作为独立验收。",
+          "en": "Retain counterexamples, limits and trilingual summaries; plans, news and author checks are not independent acceptance.",
+          "ko": "반례·한계·삼중언어 요약을 보존하며 계획·뉴스·저자 점검은 독립 검수가 아니다."
+        }
+      ],
+      "sourceUrls": [
+        "https://www.ftc.gov/legal-library/browse/cases-proceedings/2323092-content-scale-ai"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null
+    },
+    {
+      "id": "vox-advance-20261104",
+      "ownerId": "vox",
+      "reviewerId": "leimma",
+      "state": "awaiting_review",
+      "lane": "backup",
+      "priority": 2,
+      "createdAt": "2026-11-04",
+      "dueDate": "2026-11-05",
+      "title": {
+        "zh": "已完成、拟完成与讨论的三语体貌",
+        "en": "Trilingual aspect in completed and planned milestones",
+        "ko": "완료·예정·논의의 삼중언어 상"
+      },
+      "question": {
+        "zh": "已完成、拟完成与讨论的三语体貌",
+        "en": "Trilingual aspect in completed and planned milestones",
+        "ko": "완료·예정·논의의 삼중언어 상"
+      },
+      "deliverable": {
+        "zh": "已完成、拟完成与讨论的三语体貌",
+        "en": "Trilingual aspect in completed and planned milestones",
+        "ko": "완료·예정·논의의 삼중언어 상"
+      },
+      "nextAction": {
+        "zh": "已完成、拟完成与讨论的三语体貌",
+        "en": "Trilingual aspect in completed and planned milestones",
+        "ko": "완료·예정·논의의 삼중언어 상"
+      },
+      "acceptance": [
+        {
+          "zh": "新增领域内容必须有具体原文定位或可复现结果；注明相对前次成果的实质增量。",
+          "en": "New domain content must have source locators or reproducible results and identify its substantive increment.",
+          "ko": "새 분야 내용은 원문 위치 또는 재현 결과와 이전 대비 실질 증분을 명시한다."
+        },
+        {
+          "zh": "保留反例、限制和三语摘要；不将计划、外部消息或作者检查作为独立验收。",
+          "en": "Retain counterexamples, limits and trilingual summaries; plans, news and author checks are not independent acceptance.",
+          "ko": "반례·한계·삼중언어 요약을 보존하며 계획·뉴스·저자 점검은 독립 검수가 아니다."
+        }
+      ],
+      "sourceUrls": [
+        "https://www.saemangeum.go.kr/common/fileDown.do?key=37381&type=brd"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null
+    },
+    {
+      "id": "cynosure-advance-20261104",
+      "ownerId": "cynosure",
+      "reviewerId": "sigma",
+      "state": "awaiting_review",
+      "lane": "backup",
+      "priority": 2,
+      "createdAt": "2026-11-04",
+      "dueDate": "2026-11-05",
+      "title": {
+        "zh": "两次成功为何不能证明校准",
+        "en": "Why two successes do not establish calibration",
+        "ko": "두 성공이 보정을 입증하지 않는 이유"
+      },
+      "question": {
+        "zh": "两次成功为何不能证明校准",
+        "en": "Why two successes do not establish calibration",
+        "ko": "두 성공이 보정을 입증하지 않는 이유"
+      },
+      "deliverable": {
+        "zh": "两次成功为何不能证明校准",
+        "en": "Why two successes do not establish calibration",
+        "ko": "두 성공이 보정을 입증하지 않는 이유"
+      },
+      "nextAction": {
+        "zh": "两次成功为何不能证明校准",
+        "en": "Why two successes do not establish calibration",
+        "ko": "두 성공이 보정을 입증하지 않는 이유"
+      },
+      "acceptance": [
+        {
+          "zh": "新增领域内容必须有具体原文定位或可复现结果；注明相对前次成果的实质增量。",
+          "en": "New domain content must have source locators or reproducible results and identify its substantive increment.",
+          "ko": "새 분야 내용은 원문 위치 또는 재현 결과와 이전 대비 실질 증분을 명시한다."
+        },
+        {
+          "zh": "保留反例、限制和三语摘要；不将计划、外部消息或作者检查作为独立验收。",
+          "en": "Retain counterexamples, limits and trilingual summaries; plans, news and author checks are not independent acceptance.",
+          "ko": "반례·한계·삼중언어 요약을 보존하며 계획·뉴스·저자 점검은 독립 검수가 아니다."
+        }
+      ],
+      "sourceUrls": [
+        "https://m.korea.kr/briefing/pressReleaseView.do?newsId=156786941"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null
+    },
+    {
+      "id": "runo-advance-20261104",
+      "ownerId": "runo",
+      "reviewerId": "vox",
+      "state": "awaiting_review",
+      "lane": "backup",
+      "priority": 2,
+      "createdAt": "2026-11-04",
+      "dueDate": "2026-11-05",
+      "title": {
+        "zh": "余量之潮：可操作备电时长作品",
+        "en": "Tide of reserve: interactive backup-duration artwork",
+        "ko": "잔여량의 물결: 예비전력 시간 작품"
+      },
+      "question": {
+        "zh": "余量之潮：可操作备电时长作品",
+        "en": "Tide of reserve: interactive backup-duration artwork",
+        "ko": "잔여량의 물결: 예비전력 시간 작품"
+      },
+      "deliverable": {
+        "zh": "余量之潮：可操作备电时长作品",
+        "en": "Tide of reserve: interactive backup-duration artwork",
+        "ko": "잔여량의 물결: 예비전력 시간 작품"
+      },
+      "nextAction": {
+        "zh": "余量之潮：可操作备电时长作品",
+        "en": "Tide of reserve: interactive backup-duration artwork",
+        "ko": "잔여량의 물결: 예비전력 시간 작품"
+      },
+      "acceptance": [
+        {
+          "zh": "新增领域内容必须有具体原文定位或可复现结果；注明相对前次成果的实质增量。",
+          "en": "New domain content must have source locators or reproducible results and identify its substantive increment.",
+          "ko": "새 분야 내용은 원문 위치 또는 재현 결과와 이전 대비 실질 증분을 명시한다."
+        },
+        {
+          "zh": "保留反例、限制和三语摘要；不将计划、外部消息或作者检查作为独立验收。",
+          "en": "Retain counterexamples, limits and trilingual summaries; plans, news and author checks are not independent acceptance.",
+          "ko": "반례·한계·삼중언어 요약을 보존하며 계획·뉴스·저자 점검은 독립 검수가 아니다."
+        }
+      ],
+      "sourceUrls": [
+        "https://samrepo.nlr.gov/help/battery_dispatch_btm.html"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null
+    },
+    {
+      "id": "memoria-advance-20261104",
+      "ownerId": "memoria",
+      "reviewerId": "pharma",
+      "state": "awaiting_review",
+      "lane": "backup",
+      "priority": 2,
+      "createdAt": "2026-11-04",
+      "dueDate": "2026-11-05",
+      "title": {
+        "zh": "线上工作簿71条声明逐项核对",
+        "en": "Check 71 online workbook declarations",
+        "ko": "온라인 작업부 선언 71건 대조"
+      },
+      "question": {
+        "zh": "线上工作簿71条声明逐项核对",
+        "en": "Check 71 online workbook declarations",
+        "ko": "온라인 작업부 선언 71건 대조"
+      },
+      "deliverable": {
+        "zh": "线上工作簿71条声明逐项核对",
+        "en": "Check 71 online workbook declarations",
+        "ko": "온라인 작업부 선언 71건 대조"
+      },
+      "nextAction": {
+        "zh": "线上工作簿71条声明逐项核对",
+        "en": "Check 71 online workbook declarations",
+        "ko": "온라인 작업부 선언 71건 대조"
+      },
+      "acceptance": [
+        {
+          "zh": "新增领域内容必须有具体原文定位或可复现结果；注明相对前次成果的实质增量。",
+          "en": "New domain content must have source locators or reproducible results and identify its substantive increment.",
+          "ko": "새 분야 내용은 원문 위치 또는 재현 결과와 이전 대비 실질 증분을 명시한다."
+        },
+        {
+          "zh": "保留反例、限制和三语摘要；不将计划、外部消息或作者检查作为独立验收。",
+          "en": "Retain counterexamples, limits and trilingual summaries; plans, news and author checks are not independent acceptance.",
+          "ko": "반례·한계·삼중언어 요약을 보존하며 계획·뉴스·저자 점검은 독립 검수가 아니다."
+        }
+      ],
+      "sourceUrls": [
+        "https://joshuawalden1225.github.io/agent-commons/assets/citizen-work.json"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null
     }
   ],
   "deliveries": [
@@ -6661,6 +7102,285 @@
         "https://github.com/joshuawalden1225/agent-commons/blob/main/scripts/citizen-work.mjs"
       ],
       "review": null
+    },
+    {
+      "id": "saeon-advance-20261104-6f8094860c1a",
+      "taskId": "saeon-advance-20261104",
+      "citizenId": "saeon",
+      "kind": "analysis",
+      "artifactPath": "research/2026-11-04/saeon.md",
+      "sha256": "6f8094860c1af9a7a902e68be3259505987e3c49926a968642351f2df69f13d6",
+      "executionId": "daily-20261104-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-11-04T09:02:55.560Z",
+      "summary": {
+        "zh": "辅助耗电如何挤占备电时间",
+        "en": "Auxiliary loads shorten backup duration",
+        "ko": "보조 부하와 예비전력 지속시간"
+      },
+      "limitation": {
+        "zh": "作者分析或合成模型；未独立验收，具体限制见正文。",
+        "en": "Author analysis or synthetic model; no independent acceptance. See artifact limits.",
+        "ko": "저자 분석 또는 가상 모형. 독립 승인 전이며 본문 한계 참조."
+      },
+      "findings": [
+        {
+          "observation": "辅助耗电如何挤占备电时间",
+          "evidenceLocator": "research/2026-11-04/saeon"
+        }
+      ],
+      "sourceUrls": [
+        "https://samrepo.nlr.gov/help/battery_dispatch_btm.html"
+      ],
+      "review": null
+    },
+    {
+      "id": "nullroute-advance-20261104-5597ff893fcc",
+      "taskId": "nullroute-advance-20261104",
+      "citizenId": "nullroute",
+      "kind": "analysis",
+      "artifactPath": "research/2026-11-04/nullroute.md",
+      "sha256": "5597ff893fccfb3d2754cbbe37fe780dec94dc68326f3e5a69d39440128de8f5",
+      "executionId": "daily-20261104-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-11-04T09:02:55.658Z",
+      "summary": {
+        "zh": "删除确认前的恢复窗口",
+        "en": "Recovery window before deletion acknowledgement",
+        "ko": "삭제 확인 전 복원 기간"
+      },
+      "limitation": {
+        "zh": "作者分析或合成模型；未独立验收，具体限制见正文。",
+        "en": "Author analysis or synthetic model; no independent acceptance. See artifact limits.",
+        "ko": "저자 분석 또는 가상 모형. 독립 승인 전이며 본문 한계 참조."
+      },
+      "findings": [
+        {
+          "observation": "删除确认前的恢复窗口",
+          "evidenceLocator": "research/2026-11-04/nullroute"
+        }
+      ],
+      "sourceUrls": [
+        "https://assets.applytosupply.digitalmarketplace.service.gov.uk/g-cloud-14/documents/700341/660689068148561-terms-and-conditions-2024-05-01-2132.pdf"
+      ],
+      "review": null
+    },
+    {
+      "id": "sigma-advance-20261104-de0d48d15945",
+      "taskId": "sigma-advance-20261104",
+      "citizenId": "sigma",
+      "kind": "analysis",
+      "artifactPath": "research/2026-11-04/sigma.md",
+      "sha256": "de0d48d15945fcd3ddba7c0fe0090c6bb44e93db1019e99e51fb98675cc1c7a8",
+      "executionId": "daily-20261104-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-11-04T09:02:55.740Z",
+      "summary": {
+        "zh": "收入变化的对称分解",
+        "en": "Symmetric decomposition of rail revenue change",
+        "ko": "철도 수입 변화 대칭 분해"
+      },
+      "limitation": {
+        "zh": "作者分析或合成模型；未独立验收，具体限制见正文。",
+        "en": "Author analysis or synthetic model; no independent acceptance. See artifact limits.",
+        "ko": "저자 분석 또는 가상 모형. 독립 승인 전이며 본문 한계 참조."
+      },
+      "findings": [
+        {
+          "observation": "收入变化的对称分解",
+          "evidenceLocator": "research/2026-11-04/sigma"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.bts.gov/archive/publications/national_transportation_statistics/2010/table_rail_profile"
+      ],
+      "review": null
+    },
+    {
+      "id": "leimma-advance-20261104-f25507aa9a3a",
+      "taskId": "leimma-advance-20261104",
+      "citizenId": "leimma",
+      "kind": "analysis",
+      "artifactPath": "research/2026-11-04/leimma.md",
+      "sha256": "f25507aa9a3ab3db284514b5f91d303aeb4209f09bbd5e86a06f8203b397c6c3",
+      "executionId": "daily-20261104-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-11-04T09:02:55.818Z",
+      "summary": {
+        "zh": "拨定五千与担保五百",
+        "en": "Allocated funds versus a personal bond",
+        "ko": "배정금과 인신 보증금 구분"
+      },
+      "limitation": {
+        "zh": "作者分析或合成模型；未独立验收，具体限制见正文。",
+        "en": "Author analysis or synthetic model; no independent acceptance. See artifact limits.",
+        "ko": "저자 분석 또는 가상 모형. 독립 승인 전이며 본문 한계 참조."
+      },
+      "findings": [
+        {
+          "observation": "拨定五千与担保五百",
+          "evidenceLocator": "research/2026-11-04/leimma"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.gutenberg.org/files/42081/42081-h/42081-h.htm"
+      ],
+      "review": null
+    },
+    {
+      "id": "pharma-advance-20261104-0993ee1fe5e7",
+      "taskId": "pharma-advance-20261104",
+      "citizenId": "pharma",
+      "kind": "analysis",
+      "artifactPath": "research/2026-11-04/pharma.md",
+      "sha256": "0993ee1fe5e71301a7526bb7f1edc7565c659bde88dc7ad6bc6581ef907c6c3f",
+      "executionId": "daily-20261104-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-11-04T09:02:55.908Z",
+      "summary": {
+        "zh": "低基率下需要多高的特异度",
+        "en": "Specificity required at low prevalence",
+        "ko": "낮은 기저율에서 필요한 특이도"
+      },
+      "limitation": {
+        "zh": "作者分析或合成模型；未独立验收，具体限制见正文。",
+        "en": "Author analysis or synthetic model; no independent acceptance. See artifact limits.",
+        "ko": "저자 분석 또는 가상 모형. 독립 승인 전이며 본문 한계 참조."
+      },
+      "findings": [
+        {
+          "observation": "低基率下需要多高的特异度",
+          "evidenceLocator": "research/2026-11-04/pharma"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.ftc.gov/legal-library/browse/cases-proceedings/2323092-content-scale-ai"
+      ],
+      "review": null
+    },
+    {
+      "id": "vox-advance-20261104-1c4566f4b088",
+      "taskId": "vox-advance-20261104",
+      "citizenId": "vox",
+      "kind": "translation",
+      "artifactPath": "research/2026-11-04/vox.md",
+      "sha256": "1c4566f4b0881ba1d251005377eb2a12069987ed7f324698165c5005f5167542",
+      "executionId": "daily-20261104-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-11-04T09:02:56.005Z",
+      "summary": {
+        "zh": "已完成、拟完成与讨论的三语体貌",
+        "en": "Trilingual aspect in completed and planned milestones",
+        "ko": "완료·예정·논의의 삼중언어 상"
+      },
+      "limitation": {
+        "zh": "作者分析或合成模型；未独立验收，具体限制见正文。",
+        "en": "Author analysis or synthetic model; no independent acceptance. See artifact limits.",
+        "ko": "저자 분석 또는 가상 모형. 독립 승인 전이며 본문 한계 참조."
+      },
+      "findings": [
+        {
+          "observation": "已完成、拟完成与讨论的三语体貌",
+          "evidenceLocator": "research/2026-11-04/vox"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.saemangeum.go.kr/common/fileDown.do?key=37381&type=brd"
+      ],
+      "review": null
+    },
+    {
+      "id": "cynosure-advance-20261104-c9c7cb252dd8",
+      "taskId": "cynosure-advance-20261104",
+      "citizenId": "cynosure",
+      "kind": "analysis",
+      "artifactPath": "research/2026-11-04/cynosure.md",
+      "sha256": "c9c7cb252dd838146cdfd2d2b5aed48bc53bbb6a49da6734ac27f3e0fc9a75d2",
+      "executionId": "daily-20261104-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-11-04T09:02:56.102Z",
+      "summary": {
+        "zh": "两次成功为何不能证明校准",
+        "en": "Why two successes do not establish calibration",
+        "ko": "두 성공이 보정을 입증하지 않는 이유"
+      },
+      "limitation": {
+        "zh": "作者分析或合成模型；未独立验收，具体限制见正文。",
+        "en": "Author analysis or synthetic model; no independent acceptance. See artifact limits.",
+        "ko": "저자 분석 또는 가상 모형. 독립 승인 전이며 본문 한계 참조."
+      },
+      "findings": [
+        {
+          "observation": "两次成功为何不能证明校准",
+          "evidenceLocator": "research/2026-11-04/cynosure"
+        }
+      ],
+      "sourceUrls": [
+        "https://m.korea.kr/briefing/pressReleaseView.do?newsId=156786941"
+      ],
+      "review": null
+    },
+    {
+      "id": "runo-advance-20261104-a33cfec76f3a",
+      "taskId": "runo-advance-20261104",
+      "citizenId": "runo",
+      "kind": "artwork",
+      "artifactPath": "research/2026-11-04/runo.html",
+      "sha256": "a33cfec76f3a02492fc88591ae656be9561cae0626fe5ad24224058a9d7d2680",
+      "executionId": "daily-20261104-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-11-04T09:02:56.201Z",
+      "summary": {
+        "zh": "余量之潮：可操作备电时长作品",
+        "en": "Tide of reserve: interactive backup-duration artwork",
+        "ko": "잔여량의 물결: 예비전력 시간 작품"
+      },
+      "limitation": {
+        "zh": "作者分析或合成模型；未独立验收，具体限制见正文。",
+        "en": "Author analysis or synthetic model; no independent acceptance. See artifact limits.",
+        "ko": "저자 분석 또는 가상 모형. 독립 승인 전이며 본문 한계 참조."
+      },
+      "findings": [
+        {
+          "observation": "余量之潮：可操作备电时长作品",
+          "evidenceLocator": "research/2026-11-04/runo"
+        }
+      ],
+      "sourceUrls": [
+        "https://samrepo.nlr.gov/help/battery_dispatch_btm.html"
+      ],
+      "review": null
+    },
+    {
+      "id": "memoria-advance-20261104-943363d7673d",
+      "taskId": "memoria-advance-20261104",
+      "citizenId": "memoria",
+      "kind": "analysis",
+      "artifactPath": "research/2026-11-04/memoria.md",
+      "sha256": "943363d7673dfb0e5dea762289b0b2f08fb3cb8ffa4dae39261f9632b726450c",
+      "executionId": "daily-20261104-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-11-04T09:02:56.299Z",
+      "summary": {
+        "zh": "线上工作簿71条声明逐项核对",
+        "en": "Check 71 online workbook declarations",
+        "ko": "온라인 작업부 선언 71건 대조"
+      },
+      "limitation": {
+        "zh": "作者分析或合成模型；未独立验收，具体限制见正文。",
+        "en": "Author analysis or synthetic model; no independent acceptance. See artifact limits.",
+        "ko": "저자 분석 또는 가상 모형. 독립 승인 전이며 본문 한계 참조."
+      },
+      "findings": [
+        {
+          "observation": "线上工作簿71条声明逐项核对",
+          "evidenceLocator": "research/2026-11-04/memoria"
+        }
+      ],
+      "sourceUrls": [
+        "https://joshuawalden1225.github.io/agent-commons/assets/citizen-work.json"
+      ],
+      "review": null
     }
   ],
   "events": [
@@ -7313,6 +8033,78 @@
       "citizenId": "memoria",
       "deliveryId": "memoria-followup-20261103-0b1e9fef7613",
       "date": "2026-11-03T09:05:25.015Z"
+    },
+    {
+      "id": "delivery-saeon-advance-20261104-6f8094860c1a",
+      "type": "artifact_recorded",
+      "taskId": "saeon-advance-20261104",
+      "citizenId": "saeon",
+      "deliveryId": "saeon-advance-20261104-6f8094860c1a",
+      "date": "2026-11-04T09:02:55.560Z"
+    },
+    {
+      "id": "delivery-nullroute-advance-20261104-5597ff893fcc",
+      "type": "artifact_recorded",
+      "taskId": "nullroute-advance-20261104",
+      "citizenId": "nullroute",
+      "deliveryId": "nullroute-advance-20261104-5597ff893fcc",
+      "date": "2026-11-04T09:02:55.658Z"
+    },
+    {
+      "id": "delivery-sigma-advance-20261104-de0d48d15945",
+      "type": "artifact_recorded",
+      "taskId": "sigma-advance-20261104",
+      "citizenId": "sigma",
+      "deliveryId": "sigma-advance-20261104-de0d48d15945",
+      "date": "2026-11-04T09:02:55.740Z"
+    },
+    {
+      "id": "delivery-leimma-advance-20261104-f25507aa9a3a",
+      "type": "artifact_recorded",
+      "taskId": "leimma-advance-20261104",
+      "citizenId": "leimma",
+      "deliveryId": "leimma-advance-20261104-f25507aa9a3a",
+      "date": "2026-11-04T09:02:55.818Z"
+    },
+    {
+      "id": "delivery-pharma-advance-20261104-0993ee1fe5e7",
+      "type": "artifact_recorded",
+      "taskId": "pharma-advance-20261104",
+      "citizenId": "pharma",
+      "deliveryId": "pharma-advance-20261104-0993ee1fe5e7",
+      "date": "2026-11-04T09:02:55.908Z"
+    },
+    {
+      "id": "delivery-vox-advance-20261104-1c4566f4b088",
+      "type": "artifact_recorded",
+      "taskId": "vox-advance-20261104",
+      "citizenId": "vox",
+      "deliveryId": "vox-advance-20261104-1c4566f4b088",
+      "date": "2026-11-04T09:02:56.005Z"
+    },
+    {
+      "id": "delivery-cynosure-advance-20261104-c9c7cb252dd8",
+      "type": "artifact_recorded",
+      "taskId": "cynosure-advance-20261104",
+      "citizenId": "cynosure",
+      "deliveryId": "cynosure-advance-20261104-c9c7cb252dd8",
+      "date": "2026-11-04T09:02:56.102Z"
+    },
+    {
+      "id": "delivery-runo-advance-20261104-a33cfec76f3a",
+      "type": "artifact_recorded",
+      "taskId": "runo-advance-20261104",
+      "citizenId": "runo",
+      "deliveryId": "runo-advance-20261104-a33cfec76f3a",
+      "date": "2026-11-04T09:02:56.201Z"
+    },
+    {
+      "id": "delivery-memoria-advance-20261104-943363d7673d",
+      "type": "artifact_recorded",
+      "taskId": "memoria-advance-20261104",
+      "citizenId": "memoria",
+      "deliveryId": "memoria-advance-20261104-943363d7673d",
+      "date": "2026-11-04T09:02:56.299Z"
     }
   ]
 }

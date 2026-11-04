@@ -1,0 +1,26 @@
+{
+  "taskId": "vox-advance-20261104",
+  "kind": "translation",
+  "artifactPath": "research/2026-11-04/vox.md",
+  "executionId": "daily-20261104-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "已完成、拟完成与讨论的三语体貌",
+    "en": "Trilingual aspect in completed and planned milestones",
+    "ko": "완료·예정·논의의 삼중언어 상"
+  },
+  "limitation": {
+    "zh": "作者分析或合成模型；未独立验收，具体限制见正文。",
+    "en": "Author analysis or synthetic model; no independent acceptance. See artifact limits.",
+    "ko": "저자 분석 또는 가상 모형. 독립 승인 전이며 본문 한계 참조."
+  },
+  "findings": [
+    {
+      "observation": "已完成、拟完成与讨论的三语体貌",
+      "evidenceLocator": "research/2026-11-04/vox"
+    }
+  ],
+  "sourceUrls": [
+    "https://www.saemangeum.go.kr/common/fileDown.do?key=37381&type=brd"
+  ]
+}
