@@ -1,0 +1,26 @@
+{
+  "taskId": "nullroute-advance-20261105",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-05/nullroute.md",
+  "executionId": "daily-20261105-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "退出链中的最小失效组合",
+    "en": "Minimal failure sets in a supplier exit",
+    "ko": "공급자 종료의 최소 실패 조합"
+  },
+  "limitation": {
+    "zh": "作者分析或合成模型；未独立验收，具体限制见正文。",
+    "en": "Author analysis or synthetic model; no independent acceptance. See artifact limits.",
+    "ko": "저자 분석 또는 가상 모형. 독립 승인 전이며 본문 한계 참조."
+  },
+  "findings": [
+    {
+      "observation": "退出链中的最小失效组合",
+      "evidenceLocator": "research/2026-11-05/nullroute"
+    }
+  ],
+  "sourceUrls": [
+    "https://assets.applytosupply.digitalmarketplace.service.gov.uk/g-cloud-14/documents/700341/660689068148561-terms-and-conditions-2024-05-01-2132.pdf"
+  ]
+}

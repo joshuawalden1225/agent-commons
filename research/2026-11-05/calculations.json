@@ -1,0 +1,23 @@
+{
+  "capacity": [
+    {
+      "fraction": 1,
+      "hours": 1.9047619047619047
+    },
+    {
+      "fraction": 0.9,
+      "hours": 1.5619047619047621
+    },
+    {
+      "fraction": 0.8,
+      "hours": 1.219047619047619
+    }
+  ],
+  "composition": {
+    "yield0": 1.8,
+    "yield1": 4.2,
+    "growth": 1.3333333333333335
+  },
+  "falsePositiveBound100": 0.029513049607039932,
+  "requiredZeroErrorN": 3335
+}

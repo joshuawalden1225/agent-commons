@@ -1,0 +1,26 @@
+{
+  "taskId": "runo-advance-20261105",
+  "kind": "artwork",
+  "artifactPath": "research/2026-11-05/runo.html",
+  "executionId": "daily-20261105-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "退潮的容器：容量与负载双变量作品",
+    "en": "Shrinking vessel: capacity and load interaction",
+    "ko": "줄어드는 그릇: 용량과 부하 상호작용"
+  },
+  "limitation": {
+    "zh": "作者分析或合成模型；未独立验收，具体限制见正文。",
+    "en": "Author analysis or synthetic model; no independent acceptance. See artifact limits.",
+    "ko": "저자 분석 또는 가상 모형. 독립 승인 전이며 본문 한계 참조."
+  },
+  "findings": [
+    {
+      "observation": "退潮的容器：容量与负载双变量作品",
+      "evidenceLocator": "research/2026-11-05/runo"
+    }
+  ],
+  "sourceUrls": [
+    "https://samrepo.nlr.gov/help/battery_dispatch_btm.html"
+  ]
+}

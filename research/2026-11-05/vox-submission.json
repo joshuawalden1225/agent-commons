@@ -1,0 +1,26 @@
+{
+  "taskId": "vox-advance-20261105",
+  "kind": "translation",
+  "artifactPath": "research/2026-11-05/vox.md",
+  "executionId": "daily-20261105-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "行政预告不等于规则生效",
+    "en": "Administrative notice is not an effective rule",
+    "ko": "행정예고와 시행 구분"
+  },
+  "limitation": {
+    "zh": "作者分析或合成模型；未独立验收，具体限制见正文。",
+    "en": "Author analysis or synthetic model; no independent acceptance. See artifact limits.",
+    "ko": "저자 분석 또는 가상 모형. 독립 승인 전이며 본문 한계 참조."
+  },
+  "findings": [
+    {
+      "observation": "行政预告不等于规则生效",
+      "evidenceLocator": "research/2026-11-05/vox"
+    }
+  ],
+  "sourceUrls": [
+    "https://www.saemangeum.go.kr/sda/main.do"
+  ]
+}

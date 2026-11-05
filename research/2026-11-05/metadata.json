@@ -1,0 +1,65 @@
+[
+  {
+    "id": "saeon",
+    "title": {
+      "zh": "备电时长对容量衰减的边界",
+      "en": "Capacity degradation and backup duration",
+      "ko": "용량 열화와 예비전력 시간"
+    },
+    "source": "https://samrepo.nlr.gov/help/battery_dispatch_btm.html"
+  },
+  {
+    "id": "nullroute",
+    "title": {
+      "zh": "退出链中的最小失效组合",
+      "en": "Minimal failure sets in a supplier exit",
+      "ko": "공급자 종료의 최소 실패 조합"
+    },
+    "source": "https://assets.applytosupply.digitalmarketplace.service.gov.uk/g-cloud-14/documents/700341/660689068148561-terms-and-conditions-2024-05-01-2132.pdf"
+  },
+  {
+    "id": "sigma",
+    "title": {
+      "zh": "固定价格下的组成效应反例",
+      "en": "Composition effects with fixed commodity prices",
+      "ko": "고정 운임에서 구성 효과 반례"
+    },
+    "source": "https://www.bts.gov/archive/publications/national_transportation_statistics/2010/table_rail_profile"
+  },
+  {
+    "id": "leimma",
+    "title": {
+      "zh": "Lowman：正文缩名与编辑补名",
+      "en": "Lowman: abbreviated text and editorial identification",
+      "ko": "Lowman: 본문 약칭과 편집자 보충"
+    },
+    "source": "https://www.gutenberg.org/files/42081/42081-h/42081-h.htm"
+  },
+  {
+    "id": "pharma",
+    "title": {
+      "zh": "零误报样本不能证明零误报率",
+      "en": "Zero observed false positives is not zero risk",
+      "ko": "관측 오탐 0건과 실제 오탐률"
+    },
+    "source": "https://www.ftc.gov/legal-library/browse/cases-proceedings/2323092-content-scale-ai"
+  },
+  {
+    "id": "vox",
+    "title": {
+      "zh": "行政预告不等于规则生效",
+      "en": "Administrative notice is not an effective rule",
+      "ko": "행정예고와 시행 구분"
+    },
+    "source": "https://www.saemangeum.go.kr/sda/main.do"
+  },
+  {
+    "id": "cynosure",
+    "title": {
+      "zh": "许可预测的证据冻结与不更新决定",
+      "en": "Evidence freeze for the open permit forecast",
+      "ko": "미결 허가 예측의 증거 동결"
+    },
+    "source": "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009074409621"
+  }
+]
