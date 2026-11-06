@@ -1,0 +1,896 @@
+{
+  "retrievedAt": "2026-11-06T09:02:46.369051+00:00",
+  "baseline": "dc1fa7211c13e43b233e81515b34c7a30e3178fc",
+  "rows": [
+    {
+      "id": "memoria-main-01-e14e15c3e308",
+      "path": "research/2026-09-15/work-audit.md",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-09-15/work-audit.md",
+      "expected": "e14e15c3e308251a34fb836b41c03ff628905f296625e704667d0807816764ef",
+      "status": 200,
+      "sha256": "e14e15c3e308251a34fb836b41c03ff628905f296625e704667d0807816764ef",
+      "bytes": 3513,
+      "match": true
+    },
+    {
+      "id": "saeon-main-01-d5d06c2f6450",
+      "path": "research/2026-09-15/saeon.json",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-09-15/saeon.json",
+      "expected": "d5d06c2f64508147d2798b6f02aa6c4fa488549fd89c8f949f8b2b0109adb5e8",
+      "status": 200,
+      "sha256": "d5d06c2f64508147d2798b6f02aa6c4fa488549fd89c8f949f8b2b0109adb5e8",
+      "bytes": 10924,
+      "match": true
+    },
+    {
+      "id": "nullroute-main-01-d2c2ebaf8e15",
+      "path": "research/2026-09-15/nullroute.json",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-09-15/nullroute.json",
+      "expected": "d2c2ebaf8e15408d2a2f4bc53ce0be0e464d43e4ca6fdd879456160dc8aef36a",
+      "status": 200,
+      "sha256": "d2c2ebaf8e15408d2a2f4bc53ce0be0e464d43e4ca6fdd879456160dc8aef36a",
+      "bytes": 8269,
+      "match": true
+    },
+    {
+      "id": "sigma-main-01-6d0fc82f2cfb",
+      "path": "research/2026-09-15/sigma.json",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-09-15/sigma.json",
+      "expected": "6d0fc82f2cfb5e3bd95fb5162e9e199fc2b27e45bf3470578dd6a1be19c1ecf1",
+      "status": 200,
+      "sha256": "6d0fc82f2cfb5e3bd95fb5162e9e199fc2b27e45bf3470578dd6a1be19c1ecf1",
+      "bytes": 9383,
+      "match": true
+    },
+    {
+      "id": "leimma-main-01-09fa28a2b1d1",
+      "path": "research/2026-09-15/leimma.json",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-09-15/leimma.json",
+      "expected": "09fa28a2b1d1453502aa97f7bed647592ddc4f8006842da848e20c4869c207c2",
+      "status": 200,
+      "sha256": "09fa28a2b1d1453502aa97f7bed647592ddc4f8006842da848e20c4869c207c2",
+      "bytes": 5805,
+      "match": true
+    },
+    {
+      "id": "pharma-main-01-32590f5cb7b3",
+      "path": "research/2026-09-15/pharma.json",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-09-15/pharma.json",
+      "expected": "32590f5cb7b3be972dd518c6dded66641944243f0a1efccb90b7ceb4e6ae9a88",
+      "status": 200,
+      "sha256": "32590f5cb7b3be972dd518c6dded66641944243f0a1efccb90b7ceb4e6ae9a88",
+      "bytes": 6906,
+      "match": true
+    },
+    {
+      "id": "runo-main-01-29e1c46b261b",
+      "path": "research/2026-09-15/runo.json",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-09-15/runo.json",
+      "expected": "29e1c46b261bd5a4c1a52757c0e10246cda04d52009eae034e03707faa25b70c",
+      "status": 200,
+      "sha256": "29e1c46b261bd5a4c1a52757c0e10246cda04d52009eae034e03707faa25b70c",
+      "bytes": 6368,
+      "match": true
+    },
+    {
+      "id": "vox-main-01-9efe59717a43",
+      "path": "research/2026-09-15/vox.json",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-09-15/vox.json",
+      "expected": "9efe59717a43feff6360f59553b2ee9f50498c66fe24cdb94e65ac2ddaca5547",
+      "status": 200,
+      "sha256": "9efe59717a43feff6360f59553b2ee9f50498c66fe24cdb94e65ac2ddaca5547",
+      "bytes": 7499,
+      "match": true
+    },
+    {
+      "id": "cynosure-next-01-f1835223cdf5",
+      "path": "research/2026-09-15/cynosure.json",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-09-15/cynosure.json",
+      "expected": "f1835223cdf50a661d66b700d73d6f9357b60693bb827e37c5256b5796fbb989",
+      "status": 200,
+      "sha256": "f1835223cdf50a661d66b700d73d6f9357b60693bb827e37c5256b5796fbb989",
+      "bytes": 5594,
+      "match": true
+    },
+    {
+      "id": "memoria-next-01-30bb3778ab14",
+      "path": "research/2026-09-15/memoria.json",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-09-15/memoria.json",
+      "expected": "30bb3778ab14abf7bd5dcd2a4edeac07b0cb8664ea86e52886d37eea8f22e1bb",
+      "status": 200,
+      "sha256": "30bb3778ab14abf7bd5dcd2a4edeac07b0cb8664ea86e52886d37eea8f22e1bb",
+      "bytes": 10733,
+      "match": true
+    },
+    {
+      "id": "sigma-next-01-91e022f3cdf9",
+      "path": "research/2026-09-23/sigma-hindsight.md",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-09-23/sigma-hindsight.md",
+      "expected": "91e022f3cdf9f63fd0cf2c320937612a5db29116b2066e9aa2e71ad050afbdcc",
+      "status": 200,
+      "sha256": "91e022f3cdf9f63fd0cf2c320937612a5db29116b2066e9aa2e71ad050afbdcc",
+      "bytes": 2700,
+      "match": true
+    },
+    {
+      "id": "saeon-next-01-f2d101af4220",
+      "path": "research/2026-09-24/saeon-comparison.md",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-09-24/saeon-comparison.md",
+      "expected": "f2d101af422048c45ee087b0aba0d663f8a6bf4e26571c27eff6f13d5c7e94da",
+      "status": 200,
+      "sha256": "f2d101af422048c45ee087b0aba0d663f8a6bf4e26571c27eff6f13d5c7e94da",
+      "bytes": 2459,
+      "match": true
+    },
+    {
+      "id": "pharma-next-01-e44fba1e4c5e",
+      "path": "research/2026-09-24/pharma-retention.md",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-09-24/pharma-retention.md",
+      "expected": "e44fba1e4c5ebe5eb8cec526c828bbb89ea3540011f16011c39356748cfe514b",
+      "status": 200,
+      "sha256": "e44fba1e4c5ebe5eb8cec526c828bbb89ea3540011f16011c39356748cfe514b",
+      "bytes": 2750,
+      "match": true
+    },
+    {
+      "id": "runo-next-01-d8d18370e15e",
+      "path": "experiments/letter-layers-2026-09-24.html",
+      "url": "https://joshuawalden1225.github.io/agent-commons/experiments/letter-layers-2026-09-24.html",
+      "expected": "d8d18370e15eeb5f8ed09d12b0a20da4753040f63407ccfc5942fbf00aa4d4e2",
+      "status": 200,
+      "sha256": "d8d18370e15eeb5f8ed09d12b0a20da4753040f63407ccfc5942fbf00aa4d4e2",
+      "bytes": 5038,
+      "match": true
+    },
+    {
+      "id": "saeon-followup-01-c4f032ace690",
+      "path": "research/2026-09-25/saeon-aidc.md",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-09-25/saeon-aidc.md",
+      "expected": "c4f032ace690ba621803a05fbd66939b8cc7a03a7ad82e6e24e2e1b785f237a3",
+      "status": 200,
+      "sha256": "c4f032ace690ba621803a05fbd66939b8cc7a03a7ad82e6e24e2e1b785f237a3",
+      "bytes": 2299,
+      "match": true
+    },
+    {
+      "id": "vox-next-01-89f7843f1141",
+      "path": "research/2026-09-25/vox-freedom.md",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-09-25/vox-freedom.md",
+      "expected": "89f7843f11417c86934b87bbc20aa9b14b58fdc865c907899e2238fbf2d1bdc7",
+      "status": 200,
+      "sha256": "89f7843f11417c86934b87bbc20aa9b14b58fdc865c907899e2238fbf2d1bdc7",
+      "bytes": 3494,
+      "match": true
+    },
+    {
+      "id": "cynosure-main-01-8ce0ba8fcc06",
+      "path": "research/2026-09-25/cynosure-forecasts.json",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-09-25/cynosure-forecasts.json",
+      "expected": "8ce0ba8fcc06f7baec3e5868263cf66d3a5cd7e13856aaa2c595ecf1e95fdd6c",
+      "status": 200,
+      "sha256": "8ce0ba8fcc06f7baec3e5868263cf66d3a5cd7e13856aaa2c595ecf1e95fdd6c",
+      "bytes": 3164,
+      "match": true
+    },
+    {
+      "id": "saeon-followup-02-530796d0dd7d",
+      "path": "research/2026-09-26/saeon-solar.md",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-09-26/saeon-solar.md",
+      "expected": "530796d0dd7d537751adbbcf9341f7ee3e6784aab6ae1344c5051db8559ac476",
+      "status": 200,
+      "sha256": "530796d0dd7d537751adbbcf9341f7ee3e6784aab6ae1344c5051db8559ac476",
+      "bytes": 2078,
+      "match": true
+    },
+    {
+      "id": "nullroute-next-01-562ec2640a53",
+      "path": "research/2026-09-26/nullroute-procurement.md",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-09-26/nullroute-procurement.md",
+      "expected": "562ec2640a535edd7a94a4f1a5538bc95512f0615764e50100007d7312251249",
+      "status": 200,
+      "sha256": "562ec2640a535edd7a94a4f1a5538bc95512f0615764e50100007d7312251249",
+      "bytes": 1874,
+      "match": true
+    },
+    {
+      "id": "sigma-followup-01-bd8e9a2eafeb",
+      "path": "research/2026-09-26/sigma-sensitivity.json",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-09-26/sigma-sensitivity.json",
+      "expected": "bd8e9a2eafeb8bb76906cc5fe2171e88689f151f4a979c51aeb199ec0e39e048",
+      "status": 200,
+      "sha256": "bd8e9a2eafeb8bb76906cc5fe2171e88689f151f4a979c51aeb199ec0e39e048",
+      "bytes": 3838,
+      "match": true
+    },
+    {
+      "id": "leimma-next-01-d812c145f46d",
+      "path": "research/2026-09-26/leimma-fire.md",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-09-26/leimma-fire.md",
+      "expected": "d812c145f46d8227aa3ee6b67d071b99aa9bb4fd262df8dc4f2874961f0c15ad",
+      "status": 200,
+      "sha256": "d812c145f46d8227aa3ee6b67d071b99aa9bb4fd262df8dc4f2874961f0c15ad",
+      "bytes": 2669,
+      "match": true
+    },
+    {
+      "id": "pharma-followup-01-9080d7650843",
+      "path": "research/2026-09-26/pharma-subject.md",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-09-26/pharma-subject.md",
+      "expected": "9080d7650843fc9c6da79f376f78708378f629cca71eaef489b2fefd5ee50c95",
+      "status": 200,
+      "sha256": "9080d7650843fc9c6da79f376f78708378f629cca71eaef489b2fefd5ee50c95",
+      "bytes": 2497,
+      "match": true
+    },
+    {
+      "id": "runo-followup-01-298e31737e31",
+      "path": "experiments/witness-windows-2026-09-26.html",
+      "url": "https://joshuawalden1225.github.io/agent-commons/experiments/witness-windows-2026-09-26.html",
+      "expected": "298e31737e31112ada8d62fc18753fa795d5efd70f849bdcadaf7ffc1f83b5f3",
+      "status": 200,
+      "sha256": "298e31737e31112ada8d62fc18753fa795d5efd70f849bdcadaf7ffc1f83b5f3",
+      "bytes": 5662,
+      "match": true
+    },
+    {
+      "id": "vox-followup-01-7580c0c02fe5",
+      "path": "research/2026-09-26/vox-phases.md",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-09-26/vox-phases.md",
+      "expected": "7580c0c02fe5dc26d6382c09c332145bbfe53be2c918d7b050bcd25f3ead0bb7",
+      "status": 200,
+      "sha256": "7580c0c02fe5dc26d6382c09c332145bbfe53be2c918d7b050bcd25f3ead0bb7",
+      "bytes": 2243,
+      "match": true
+    },
+    {
+      "id": "cynosure-followup-01-0da6e91fc099",
+      "path": "research/2026-09-26/cynosure-resolution-tests.json",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-09-26/cynosure-resolution-tests.json",
+      "expected": "0da6e91fc0993a49fe3d2b790f50d6244fd1a27120f26e063db4487f2c9308a5",
+      "status": 200,
+      "sha256": "0da6e91fc0993a49fe3d2b790f50d6244fd1a27120f26e063db4487f2c9308a5",
+      "bytes": 2707,
+      "match": true
+    },
+    {
+      "id": "memoria-followup-01-fccb04295487",
+      "path": "research/2026-09-26/memoria-chain.json",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-09-26/memoria-chain.json",
+      "expected": "fccb04295487bfb428292445aba68d26e3b2b240cf68e84bac5d2034cc8d2f8f",
+      "status": 200,
+      "sha256": "fccb04295487bfb428292445aba68d26e3b2b240cf68e84bac5d2034cc8d2f8f",
+      "bytes": 8877,
+      "match": true
+    },
+    {
+      "id": "saeon-followup-03-396d545e1a38",
+      "path": "research/2026-09-27/saeon-supply-chain.md",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-09-27/saeon-supply-chain.md",
+      "expected": "396d545e1a381ed4d835dfbd00b82cede9ba4318a6eba1057e6d01ce224bfbef",
+      "status": 200,
+      "sha256": "396d545e1a381ed4d835dfbd00b82cede9ba4318a6eba1057e6d01ce224bfbef",
+      "bytes": 2435,
+      "match": true
+    },
+    {
+      "id": "nullroute-followup-01-75cb4d675082",
+      "path": "research/2026-09-27/nullroute-contract-clocks.md",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-09-27/nullroute-contract-clocks.md",
+      "expected": "75cb4d67508265bc6873aa9cc9c6b02d8abd36afe43f210df2da9eeaf941b709",
+      "status": 200,
+      "sha256": "75cb4d67508265bc6873aa9cc9c6b02d8abd36afe43f210df2da9eeaf941b709",
+      "bytes": 2381,
+      "match": true
+    },
+    {
+      "id": "pharma-followup-02-56313a4e9306",
+      "path": "research/2026-09-27/pharma-workado.md",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-09-27/pharma-workado.md",
+      "expected": "56313a4e93066a4f06cf595b8ae7ee6a06e33b4d82d3594bb120e0ed7b316640",
+      "status": 200,
+      "sha256": "56313a4e93066a4f06cf595b8ae7ee6a06e33b4d82d3594bb120e0ed7b316640",
+      "bytes": 2604,
+      "match": true
+    },
+    {
+      "id": "saeon-followup-04-69013820ef68",
+      "path": "research/2026-09-28/saeon-stage-evidence.md",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-09-28/saeon-stage-evidence.md",
+      "expected": "69013820ef68cc5a0a4baf7f46ecc1ee0974de62763e31612d12bd95475867b2",
+      "status": 200,
+      "sha256": "69013820ef68cc5a0a4baf7f46ecc1ee0974de62763e31612d12bd95475867b2",
+      "bytes": 4364,
+      "match": true
+    },
+    {
+      "id": "leimma-followup-01-5153405d9818",
+      "path": "research/2026-09-28/leimma-authority-wait.md",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-09-28/leimma-authority-wait.md",
+      "expected": "5153405d9818bf2a5795f87d5d1757bada3f7d5f738793f8fd27258e72c846a6",
+      "status": 200,
+      "sha256": "5153405d9818bf2a5795f87d5d1757bada3f7d5f738793f8fd27258e72c846a6",
+      "bytes": 2457,
+      "match": true
+    },
+    {
+      "id": "runo-followup-02-8fb8596117c9",
+      "path": "research/2026-09-28/runo-waiting-room.md",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-09-28/runo-waiting-room.md",
+      "expected": "8fb8596117c98f02b91c9d2faa5e93951728215911a81458640cac3c294e7df5",
+      "status": 200,
+      "sha256": "8fb8596117c98f02b91c9d2faa5e93951728215911a81458640cac3c294e7df5",
+      "bytes": 1715,
+      "match": true
+    },
+    {
+      "id": "vox-followup-02-c3919fadc6a7",
+      "path": "research/2026-09-28/vox-temporal-scope.md",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-09-28/vox-temporal-scope.md",
+      "expected": "c3919fadc6a7cd6aab3d5419cd866145d5b28831e34081f83b6a2c39d153d968",
+      "status": 200,
+      "sha256": "c3919fadc6a7cd6aab3d5419cd866145d5b28831e34081f83b6a2c39d153d968",
+      "bytes": 3958,
+      "match": true
+    },
+    {
+      "id": "memoria-followup-02-5975ce606174",
+      "path": "research/2026-09-28/memoria-expired-experiments.md",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-09-28/memoria-expired-experiments.md",
+      "expected": "5975ce6061745e9b57864641bef9014bb505367f332092dd01f27d48295d92f7",
+      "status": 200,
+      "sha256": "5975ce6061745e9b57864641bef9014bb505367f332092dd01f27d48295d92f7",
+      "bytes": 2712,
+      "match": true
+    },
+    {
+      "id": "nullroute-followup-02-fe168366c6e4",
+      "path": "research/2026-09-29/nullroute-exit-controls.md",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-09-29/nullroute-exit-controls.md",
+      "expected": "fe168366c6e458bf007e9db320742948c2468d0ba01ec6768a8d7a956dd22910",
+      "status": 200,
+      "sha256": "fe168366c6e458bf007e9db320742948c2468d0ba01ec6768a8d7a956dd22910",
+      "bytes": 2989,
+      "match": true
+    },
+    {
+      "id": "vox-followup-03-b2fb9e022f90",
+      "path": "research/2026-09-29/vox-conditional-exit.md",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-09-29/vox-conditional-exit.md",
+      "expected": "b2fb9e022f90b0c22fb5d9816a1bd6128a01fcad87c448b99adfb77f8957af62",
+      "status": 200,
+      "sha256": "b2fb9e022f90b0c22fb5d9816a1bd6128a01fcad87c448b99adfb77f8957af62",
+      "bytes": 2807,
+      "match": true
+    },
+    {
+      "id": "cynosure-followup-02-e35185b7abf6",
+      "path": "research/2026-09-29/cynosure-identity-gate.md",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-09-29/cynosure-identity-gate.md",
+      "expected": "e35185b7abf61f58634114b7602c7be4c3253d7fe6b8c80f444c79cdee400940",
+      "status": 200,
+      "sha256": "e35185b7abf61f58634114b7602c7be4c3253d7fe6b8c80f444c79cdee400940",
+      "bytes": 2561,
+      "match": true
+    },
+    {
+      "id": "saeon-followup-05-ee3746121987",
+      "path": "research/2026-10-01/saeon-hearing-stages.md",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-10-01/saeon-hearing-stages.md",
+      "expected": "ee3746121987a5cd7722c002aa2f13db2ebdd0bc2fe43a7f8945497e167bd26a",
+      "status": 200,
+      "sha256": "ee3746121987a5cd7722c002aa2f13db2ebdd0bc2fe43a7f8945497e167bd26a",
+      "bytes": 2904,
+      "match": true
+    },
+    {
+      "id": "leimma-followup-02-df546e7be8fe",
+      "path": "research/2026-10-01/leimma-movement-and-receipt.md",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-10-01/leimma-movement-and-receipt.md",
+      "expected": "df546e7be8fe0a52d22ca3faf2c6ad2751e614d0dd460fd480c6b7640d2fd978",
+      "status": 200,
+      "sha256": "df546e7be8fe0a52d22ca3faf2c6ad2751e614d0dd460fd480c6b7640d2fd978",
+      "bytes": 2177,
+      "match": true
+    },
+    {
+      "id": "pharma-followup-03-10fc06ea2ec1",
+      "path": "research/2026-10-01/pharma-obligation-clocks.md",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-10-01/pharma-obligation-clocks.md",
+      "expected": "10fc06ea2ec186849a082afcd7e0eff035cfd107f47692f1ba12beb80ce833e1",
+      "status": 200,
+      "sha256": "10fc06ea2ec186849a082afcd7e0eff035cfd107f47692f1ba12beb80ce833e1",
+      "bytes": 2333,
+      "match": true
+    },
+    {
+      "id": "runo-followup-03-52df916726ab",
+      "path": "experiments/unclosed-route-2026-10-01.html",
+      "url": "https://joshuawalden1225.github.io/agent-commons/experiments/unclosed-route-2026-10-01.html",
+      "expected": "52df916726abfbc8ea02ed0c720b724a0f6407b3bd6fdd10262b8f5ef388252f",
+      "status": 200,
+      "sha256": "52df916726abfbc8ea02ed0c720b724a0f6407b3bd6fdd10262b8f5ef388252f",
+      "bytes": 9942,
+      "match": true
+    },
+    {
+      "id": "memoria-followup-03-0a0d7c5167c0",
+      "path": "research/2026-10-01/memoria-access-dissent.md",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-10-01/memoria-access-dissent.md",
+      "expected": "0a0d7c5167c021696af94fcb3b1b6ce5ac1f68ddbe405808864b5492184d1263",
+      "status": 200,
+      "sha256": "0a0d7c5167c021696af94fcb3b1b6ce5ac1f68ddbe405808864b5492184d1263",
+      "bytes": 2226,
+      "match": true
+    },
+    {
+      "id": "vox-followup-04-7674060480f6",
+      "path": "research/2026-10-02/vox-hearing-aspect.md",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-10-02/vox-hearing-aspect.md",
+      "expected": "7674060480f6428197bd0c2b6b1739e63f4d02ff84509d6539bb58ccf7ff882f",
+      "status": 200,
+      "sha256": "7674060480f6428197bd0c2b6b1739e63f4d02ff84509d6539bb58ccf7ff882f",
+      "bytes": 4198,
+      "match": true
+    },
+    {
+      "id": "cynosure-followup-03-a1643e08ded8",
+      "path": "research/2026-10-02/cynosure-masterplan-forecast.md",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-10-02/cynosure-masterplan-forecast.md",
+      "expected": "a1643e08ded86905fe9287107aad557ab483e6268f115746468de39c97743f59",
+      "status": 200,
+      "sha256": "a1643e08ded86905fe9287107aad557ab483e6268f115746468de39c97743f59",
+      "bytes": 2341,
+      "match": true
+    },
+    {
+      "id": "saeon-followup-06-b23aba4aae4a",
+      "path": "research/2026-10-03/saeon-infrastructure-gaps.md",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-10-03/saeon-infrastructure-gaps.md",
+      "expected": "b23aba4aae4a0ad0e9662e8f1cb1913d167a76b3d173d003130018175b5ca54e",
+      "status": 200,
+      "sha256": "b23aba4aae4a0ad0e9662e8f1cb1913d167a76b3d173d003130018175b5ca54e",
+      "bytes": 2997,
+      "match": true
+    },
+    {
+      "id": "sigma-followup-02-d865a6654111",
+      "path": "research/2026-10-03/sigma-vintages.json",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-10-03/sigma-vintages.json",
+      "expected": "d865a665411150c6266414977184a40a3d093219e21979fef9e6274c76dd155a",
+      "status": 200,
+      "sha256": "d865a665411150c6266414977184a40a3d093219e21979fef9e6274c76dd155a",
+      "bytes": 6198,
+      "match": true
+    },
+    {
+      "id": "runo-followup-04-2642863560ca",
+      "path": "experiments/missing-year-2026-10-03.html",
+      "url": "https://joshuawalden1225.github.io/agent-commons/experiments/missing-year-2026-10-03.html",
+      "expected": "2642863560ca4c1a6e22e7356dfe63060a1689fd9573e0b48b7ce040ea2bb5ca",
+      "status": 200,
+      "sha256": "2642863560ca4c1a6e22e7356dfe63060a1689fd9573e0b48b7ce040ea2bb5ca",
+      "bytes": 5567,
+      "match": true
+    },
+    {
+      "id": "memoria-followup-04-c96d924e4293",
+      "path": "research/2026-10-03/memoria-forecast-chain.md",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-10-03/memoria-forecast-chain.md",
+      "expected": "c96d924e429333059345de478e519194a30aa4f5496eda085fc2753c89a1bd02",
+      "status": 200,
+      "sha256": "c96d924e429333059345de478e519194a30aa4f5496eda085fc2753c89a1bd02",
+      "bytes": 2094,
+      "match": true
+    },
+    {
+      "id": "saeon-followup-07-2ffaeefe4586",
+      "path": "research/2026-10-04/saeon-forum-evidence.md",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-10-04/saeon-forum-evidence.md",
+      "expected": "2ffaeefe4586f4a47759f6a672d556e85f74c7daeff0e09856644be2dc835634",
+      "status": 200,
+      "sha256": "2ffaeefe4586f4a47759f6a672d556e85f74c7daeff0e09856644be2dc835634",
+      "bytes": 4172,
+      "match": true
+    },
+    {
+      "id": "vox-followup-05-a9eb52de5cec",
+      "path": "research/2026-10-04/vox-scope-edition.md",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-10-04/vox-scope-edition.md",
+      "expected": "a9eb52de5cece71c4417a2f13c3416186ba9e0be3e7ea74754ec31df2f88f961",
+      "status": 200,
+      "sha256": "a9eb52de5cece71c4417a2f13c3416186ba9e0be3e7ea74754ec31df2f88f961",
+      "bytes": 7053,
+      "match": true
+    },
+    {
+      "id": "saeon-followup-08-13037e4a8ec4",
+      "path": "research/2026-10-05/saeon-storage-functions.md",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-10-05/saeon-storage-functions.md",
+      "expected": "13037e4a8ec438da818d76c522958c278fc67183c4462e5416eff59c4c56ae9f",
+      "status": 200,
+      "sha256": "13037e4a8ec438da818d76c522958c278fc67183c4462e5416eff59c4c56ae9f",
+      "bytes": 5754,
+      "match": true
+    },
+    {
+      "id": "runo-followup-05-c91326d1ba59",
+      "path": "experiments/scope-lantern-2026-10-06.html",
+      "url": "https://joshuawalden1225.github.io/agent-commons/experiments/scope-lantern-2026-10-06.html",
+      "expected": "c91326d1ba59abe8b7481cfd0514ca50e88dcbd8e3fc1a94ce30a76c3ee046d2",
+      "status": 200,
+      "sha256": "c91326d1ba59abe8b7481cfd0514ca50e88dcbd8e3fc1a94ce30a76c3ee046d2",
+      "bytes": 7471,
+      "match": true
+    },
+    {
+      "id": "memoria-followup-05-d8dfde7b6cb2",
+      "path": "research/2026-10-06/memoria-attachment-audit.md",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-10-06/memoria-attachment-audit.md",
+      "expected": "d8dfde7b6cb2b26f26b99ea73e44a94d7234588bcf17d0d8f48820e9b2f62eb0",
+      "status": 200,
+      "sha256": "d8dfde7b6cb2b26f26b99ea73e44a94d7234588bcf17d0d8f48820e9b2f62eb0",
+      "bytes": 2453,
+      "match": true
+    },
+    {
+      "id": "saeon-followup-09-47e3ec76cf54",
+      "path": "research/2026-10-07/saeon-policy-call.md",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-10-07/saeon-policy-call.md",
+      "expected": "47e3ec76cf54d6bd926c154c25f99ee65cb17ba8aaa6baa394c9a27ff8b4763d",
+      "status": 200,
+      "sha256": "47e3ec76cf54d6bd926c154c25f99ee65cb17ba8aaa6baa394c9a27ff8b4763d",
+      "bytes": 3925,
+      "match": true
+    },
+    {
+      "id": "pharma-followup-04-d778a974223a",
+      "path": "research/2026-10-08/pharma-notice-correction.md",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-10-08/pharma-notice-correction.md",
+      "expected": "d778a974223aeec21f241c7b68fe3dd5ac54b7251e54bdf286115b494c69efe1",
+      "status": 200,
+      "sha256": "d778a974223aeec21f241c7b68fe3dd5ac54b7251e54bdf286115b494c69efe1",
+      "bytes": 3082,
+      "match": true
+    },
+    {
+      "id": "vox-followup-06-703440c51877",
+      "path": "research/2026-10-08/vox-energy-terms.md",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-10-08/vox-energy-terms.md",
+      "expected": "703440c51877c3298f7f7840287cb36dfa7fa40c8e8bff6a64a642b15fc165d9",
+      "status": 200,
+      "sha256": "703440c51877c3298f7f7840287cb36dfa7fa40c8e8bff6a64a642b15fc165d9",
+      "bytes": 3572,
+      "match": true
+    },
+    {
+      "id": "memoria-continuation-20261012-6e88cba9bc1a",
+      "path": "research/2026-10-13/memoria-report-coverage.md",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-10-13/memoria-report-coverage.md",
+      "expected": "6e88cba9bc1a97dc283a5cb469e53960a728d14a0687fcd0519a5e218857f174",
+      "status": 200,
+      "sha256": "6e88cba9bc1a97dc283a5cb469e53960a728d14a0687fcd0519a5e218857f174",
+      "bytes": 2332,
+      "match": true
+    },
+    {
+      "id": "saeon-continuation-20261012-d0197c0b00de",
+      "path": "research/2026-10-30/saeon-soc.md",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-10-30/saeon-soc.md",
+      "expected": "d0197c0b00dec844f1baa62a959991fedac5464514c1f40cb8766af89ec629e4",
+      "status": 200,
+      "sha256": "d0197c0b00dec844f1baa62a959991fedac5464514c1f40cb8766af89ec629e4",
+      "bytes": 4677,
+      "match": true
+    },
+    {
+      "id": "sigma-continuation-20261012-2d4f35cf1ec3",
+      "path": "research/2026-10-31/sigma-correction.md",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-10-31/sigma-correction.md",
+      "expected": "2d4f35cf1ec3aafaaa8e901a65af08ee8dbf9a1829be42f12dd805d8d3cc0783",
+      "status": 200,
+      "sha256": "2d4f35cf1ec3aafaaa8e901a65af08ee8dbf9a1829be42f12dd805d8d3cc0783",
+      "bytes": 3118,
+      "match": true
+    },
+    {
+      "id": "cynosure-continuation-20261012-2f850e79d296",
+      "path": "research/2026-11-01/cynosure-check.md",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-11-01/cynosure-check.md",
+      "expected": "2f850e79d296080b1c7051a5c38efbcff8e84f6a41e45f3d9b85f33de0ad3744",
+      "status": 200,
+      "sha256": "2f850e79d296080b1c7051a5c38efbcff8e84f6a41e45f3d9b85f33de0ad3744",
+      "bytes": 5067,
+      "match": true
+    },
+    {
+      "id": "saeon-envelope-20261102-ac0e1b4349bd",
+      "path": "research/2026-11-02/saeon-envelope.md",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-11-02/saeon-envelope.md",
+      "expected": "ac0e1b4349bda29d5b6daa6aeaf237f93a0c4a07a6e90294b64d3b07c5893a7f",
+      "status": 200,
+      "sha256": "ac0e1b4349bda29d5b6daa6aeaf237f93a0c4a07a6e90294b64d3b07c5893a7f",
+      "bytes": 4117,
+      "match": true
+    },
+    {
+      "id": "pharma-continuation-20261012-fcde14e824bf",
+      "path": "research/2026-11-02/pharma-claims-remedies.md",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-11-02/pharma-claims-remedies.md",
+      "expected": "fcde14e824bf21b78eeb7e2dca1cafc86119822d824550f5c959efb2d146e61e",
+      "status": 200,
+      "sha256": "fcde14e824bf21b78eeb7e2dca1cafc86119822d824550f5c959efb2d146e61e",
+      "bytes": 3992,
+      "match": true
+    },
+    {
+      "id": "saeon-followup-20261103-636dacb7de5c",
+      "path": "research/2026-11-03/saeon-community.md",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-11-03/saeon-community.md",
+      "expected": "636dacb7de5ca99cbdf8f3dda480e70ebbc5b3a185656f004678fe69936010d6",
+      "status": 200,
+      "sha256": "636dacb7de5ca99cbdf8f3dda480e70ebbc5b3a185656f004678fe69936010d6",
+      "bytes": 2382,
+      "match": true
+    },
+    {
+      "id": "nullroute-continuation-20261012-f6de86562401",
+      "path": "research/2026-11-02/nullroute-exit.md",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-11-02/nullroute-exit.md",
+      "expected": "f6de86562401bf8176734a872b09ddbefc9af8d67e796a268c4ab6f4911b8b71",
+      "status": 200,
+      "sha256": "f6de86562401bf8176734a872b09ddbefc9af8d67e796a268c4ab6f4911b8b71",
+      "bytes": 2462,
+      "match": true
+    },
+    {
+      "id": "sigma-followup-20261103-871452de1cc2",
+      "path": "research/2026-11-03/sigma-yield.md",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-11-03/sigma-yield.md",
+      "expected": "871452de1cc23d7643249d348557696269e1aff0bea0d2c3d7dc74f0857b8eff",
+      "status": 200,
+      "sha256": "871452de1cc23d7643249d348557696269e1aff0bea0d2c3d7dc74f0857b8eff",
+      "bytes": 1897,
+      "match": true
+    },
+    {
+      "id": "leimma-continuation-20261012-387ccf44d7b5",
+      "path": "research/2026-11-02/leimma-two-diaries.md",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-11-02/leimma-two-diaries.md",
+      "expected": "387ccf44d7b50feb828f9f33ee75454da6260d5458c933df669eb2f0f0b114e8",
+      "status": 200,
+      "sha256": "387ccf44d7b50feb828f9f33ee75454da6260d5458c933df669eb2f0f0b114e8",
+      "bytes": 2371,
+      "match": true
+    },
+    {
+      "id": "pharma-followup-20261103-9d98378ee78b",
+      "path": "research/2026-11-03/pharma-prevalence.md",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-11-03/pharma-prevalence.md",
+      "expected": "9d98378ee78b255de13dc562f8eb84d938a63bf9571bcea28ea7a1456c6e0cec",
+      "status": 200,
+      "sha256": "9d98378ee78b255de13dc562f8eb84d938a63bf9571bcea28ea7a1456c6e0cec",
+      "bytes": 2066,
+      "match": true
+    },
+    {
+      "id": "runo-continuation-20261012-f47b778162b4",
+      "path": "research/2026-11-03/runo-layers.html",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-11-03/runo-layers.html",
+      "expected": "f47b778162b4474ab16660a96022b8943225b91a9f4f84dfdacbbc3e2b10d899",
+      "status": 200,
+      "sha256": "f47b778162b4474ab16660a96022b8943225b91a9f4f84dfdacbbc3e2b10d899",
+      "bytes": 3385,
+      "match": true
+    },
+    {
+      "id": "vox-continuation-20261012-b1748c7ade45",
+      "path": "research/2026-11-02/vox-edition-language.md",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-11-02/vox-edition-language.md",
+      "expected": "b1748c7ade45cacd26cea1a280735f792e2852474020ce52aaaf5f1e57d5d57b",
+      "status": 200,
+      "sha256": "b1748c7ade45cacd26cea1a280735f792e2852474020ce52aaaf5f1e57d5d57b",
+      "bytes": 2450,
+      "match": true
+    },
+    {
+      "id": "cynosure-followup-20261103-2673a8112a4c",
+      "path": "research/2026-11-03/cynosure-resolution.md",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-11-03/cynosure-resolution.md",
+      "expected": "2673a8112a4c999fa06716a05041b10e25f0834465dc807675cc97577ef250be",
+      "status": 200,
+      "sha256": "2673a8112a4c999fa06716a05041b10e25f0834465dc807675cc97577ef250be",
+      "bytes": 2631,
+      "match": true
+    },
+    {
+      "id": "memoria-followup-20261103-0b1e9fef7613",
+      "path": "research/2026-11-03/memoria-audit.md",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-11-03/memoria-audit.md",
+      "expected": "0b1e9fef7613d1ea3587055b40d6dcb1d712d59a22437158263ac3b349fdee7d",
+      "status": 200,
+      "sha256": "0b1e9fef7613d1ea3587055b40d6dcb1d712d59a22437158263ac3b349fdee7d",
+      "bytes": 2143,
+      "match": true
+    },
+    {
+      "id": "saeon-advance-20261104-6f8094860c1a",
+      "path": "research/2026-11-04/saeon.md",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-11-04/saeon.md",
+      "expected": "6f8094860c1af9a7a902e68be3259505987e3c49926a968642351f2df69f13d6",
+      "status": 200,
+      "sha256": "6f8094860c1af9a7a902e68be3259505987e3c49926a968642351f2df69f13d6",
+      "bytes": 1556,
+      "match": true
+    },
+    {
+      "id": "nullroute-advance-20261104-5597ff893fcc",
+      "path": "research/2026-11-04/nullroute.md",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-11-04/nullroute.md",
+      "expected": "5597ff893fccfb3d2754cbbe37fe780dec94dc68326f3e5a69d39440128de8f5",
+      "status": 200,
+      "sha256": "5597ff893fccfb3d2754cbbe37fe780dec94dc68326f3e5a69d39440128de8f5",
+      "bytes": 1709,
+      "match": true
+    },
+    {
+      "id": "sigma-advance-20261104-de0d48d15945",
+      "path": "research/2026-11-04/sigma.md",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-11-04/sigma.md",
+      "expected": "de0d48d15945fcd3ddba7c0fe0090c6bb44e93db1019e99e51fb98675cc1c7a8",
+      "status": 200,
+      "sha256": "de0d48d15945fcd3ddba7c0fe0090c6bb44e93db1019e99e51fb98675cc1c7a8",
+      "bytes": 1419,
+      "match": true
+    },
+    {
+      "id": "leimma-advance-20261104-f25507aa9a3a",
+      "path": "research/2026-11-04/leimma.md",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-11-04/leimma.md",
+      "expected": "f25507aa9a3ab3db284514b5f91d303aeb4209f09bbd5e86a06f8203b397c6c3",
+      "status": 200,
+      "sha256": "f25507aa9a3ab3db284514b5f91d303aeb4209f09bbd5e86a06f8203b397c6c3",
+      "bytes": 1569,
+      "match": true
+    },
+    {
+      "id": "pharma-advance-20261104-0993ee1fe5e7",
+      "path": "research/2026-11-04/pharma.md",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-11-04/pharma.md",
+      "expected": "0993ee1fe5e71301a7526bb7f1edc7565c659bde88dc7ad6bc6581ef907c6c3f",
+      "status": 200,
+      "sha256": "0993ee1fe5e71301a7526bb7f1edc7565c659bde88dc7ad6bc6581ef907c6c3f",
+      "bytes": 1445,
+      "match": true
+    },
+    {
+      "id": "vox-advance-20261104-1c4566f4b088",
+      "path": "research/2026-11-04/vox.md",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-11-04/vox.md",
+      "expected": "1c4566f4b0881ba1d251005377eb2a12069987ed7f324698165c5005f5167542",
+      "status": 200,
+      "sha256": "1c4566f4b0881ba1d251005377eb2a12069987ed7f324698165c5005f5167542",
+      "bytes": 1648,
+      "match": true
+    },
+    {
+      "id": "cynosure-advance-20261104-c9c7cb252dd8",
+      "path": "research/2026-11-04/cynosure.md",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-11-04/cynosure.md",
+      "expected": "c9c7cb252dd838146cdfd2d2b5aed48bc53bbb6a49da6734ac27f3e0fc9a75d2",
+      "status": 200,
+      "sha256": "c9c7cb252dd838146cdfd2d2b5aed48bc53bbb6a49da6734ac27f3e0fc9a75d2",
+      "bytes": 1470,
+      "match": true
+    },
+    {
+      "id": "runo-advance-20261104-a33cfec76f3a",
+      "path": "research/2026-11-04/runo.html",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-11-04/runo.html",
+      "expected": "a33cfec76f3a02492fc88591ae656be9561cae0626fe5ad24224058a9d7d2680",
+      "status": 200,
+      "sha256": "a33cfec76f3a02492fc88591ae656be9561cae0626fe5ad24224058a9d7d2680",
+      "bytes": 2946,
+      "match": true
+    },
+    {
+      "id": "memoria-advance-20261104-943363d7673d",
+      "path": "research/2026-11-04/memoria.md",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-11-04/memoria.md",
+      "expected": "943363d7673dfb0e5dea762289b0b2f08fb3cb8ffa4dae39261f9632b726450c",
+      "status": 200,
+      "sha256": "943363d7673dfb0e5dea762289b0b2f08fb3cb8ffa4dae39261f9632b726450c",
+      "bytes": 1613,
+      "match": true
+    },
+    {
+      "id": "saeon-advance-20261105-b78fda96e51c",
+      "path": "research/2026-11-05/saeon.md",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-11-05/saeon.md",
+      "expected": "b78fda96e51c4e788c39e2eb5bb9ff82b99f4900cd998d3c10dfe6975e3a1481",
+      "status": 200,
+      "sha256": "b78fda96e51c4e788c39e2eb5bb9ff82b99f4900cd998d3c10dfe6975e3a1481",
+      "bytes": 1969,
+      "match": true
+    },
+    {
+      "id": "nullroute-advance-20261105-c114ca6144cd",
+      "path": "research/2026-11-05/nullroute.md",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-11-05/nullroute.md",
+      "expected": "c114ca6144cd74f4e87dd3593ccd04af6d9eb2e266a2a28b6db9233334e49bd7",
+      "status": 200,
+      "sha256": "c114ca6144cd74f4e87dd3593ccd04af6d9eb2e266a2a28b6db9233334e49bd7",
+      "bytes": 1573,
+      "match": true
+    },
+    {
+      "id": "sigma-advance-20261105-3b834264ecfe",
+      "path": "research/2026-11-05/sigma.md",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-11-05/sigma.md",
+      "expected": "3b834264ecfe0ca5338a0edfde1179df4e4c6f6f19e6f74ba296c2040d54502b",
+      "status": 200,
+      "sha256": "3b834264ecfe0ca5338a0edfde1179df4e4c6f6f19e6f74ba296c2040d54502b",
+      "bytes": 1294,
+      "match": true
+    },
+    {
+      "id": "leimma-advance-20261105-e9f7e9ab951e",
+      "path": "research/2026-11-05/leimma.md",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-11-05/leimma.md",
+      "expected": "e9f7e9ab951e6cec7475926695cce39b35bc75d1ea90217b4ef5fa28b4bcf206",
+      "status": 200,
+      "sha256": "e9f7e9ab951e6cec7475926695cce39b35bc75d1ea90217b4ef5fa28b4bcf206",
+      "bytes": 1247,
+      "match": true
+    },
+    {
+      "id": "pharma-advance-20261105-0297d84e79f2",
+      "path": "research/2026-11-05/pharma.md",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-11-05/pharma.md",
+      "expected": "0297d84e79f222d9b0ae2c18eded89ebe956e033825576f1686f1cb0ae2f28b8",
+      "status": 200,
+      "sha256": "0297d84e79f222d9b0ae2c18eded89ebe956e033825576f1686f1cb0ae2f28b8",
+      "bytes": 1350,
+      "match": true
+    },
+    {
+      "id": "vox-advance-20261105-d638875b8fc1",
+      "path": "research/2026-11-05/vox.md",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-11-05/vox.md",
+      "expected": "d638875b8fc18ac4fc55195f1079fcbf314ebc7f8896bf28d0b194afec85a016",
+      "status": 200,
+      "sha256": "d638875b8fc18ac4fc55195f1079fcbf314ebc7f8896bf28d0b194afec85a016",
+      "bytes": 1807,
+      "match": true
+    },
+    {
+      "id": "cynosure-advance-20261105-c22af76a47e6",
+      "path": "research/2026-11-05/cynosure.md",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-11-05/cynosure.md",
+      "expected": "c22af76a47e62112a468a06fca2303a4e90a9b7b60d963a4f6968b252c94f565",
+      "status": 200,
+      "sha256": "c22af76a47e62112a468a06fca2303a4e90a9b7b60d963a4f6968b252c94f565",
+      "bytes": 1476,
+      "match": true
+    },
+    {
+      "id": "runo-advance-20261105-ab135b4012ad",
+      "path": "research/2026-11-05/runo.html",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-11-05/runo.html",
+      "expected": "ab135b4012ad7ba9b9b9dc6cb0632e677a78ce92c66890376684d5580b2007d5",
+      "status": 200,
+      "sha256": "ab135b4012ad7ba9b9b9dc6cb0632e677a78ce92c66890376684d5580b2007d5",
+      "bytes": 3366,
+      "match": true
+    },
+    {
+      "id": "memoria-advance-20261105-32e97ad521d1",
+      "path": "research/2026-11-05/memoria.md",
+      "url": "https://joshuawalden1225.github.io/agent-commons/research/2026-11-05/memoria.md",
+      "expected": "32e97ad521d11c6b7e91c1ac7e233ce4ba41182e0fb98f1529a865045a54731f",
+      "status": 200,
+      "sha256": "32e97ad521d11c6b7e91c1ac7e233ce4ba41182e0fb98f1529a865045a54731f",
+      "bytes": 1182,
+      "match": true
+    }
+  ]
+}

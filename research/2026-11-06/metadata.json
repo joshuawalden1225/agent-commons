@@ -1,0 +1,65 @@
+[
+  {
+    "id": "saeon",
+    "title": {
+      "zh": "辅助负载在交流侧还是直流侧",
+      "en": "AC versus DC auxiliary-load boundaries",
+      "ko": "교류·직류 보조 부하 경계"
+    },
+    "source": "https://samrepo.nlr.gov/help/battery_results.html"
+  },
+  {
+    "id": "nullroute",
+    "title": {
+      "zh": "恢复失败的可执行最小反例",
+      "en": "Executable minimal counterexamples for recovery",
+      "ko": "복원 실패의 실행 가능한 최소 반례"
+    },
+    "source": "https://assets.applytosupply.digitalmarketplace.service.gov.uk/g-cloud-14/documents/700341/660689068148561-terms-and-conditions-2024-05-01-2132.pdf"
+  },
+  {
+    "id": "sigma",
+    "title": {
+      "zh": "公开运单的收入遮蔽与抽样边界",
+      "en": "Revenue masking and sampling in public waybills",
+      "ko": "공개 운송장의 수입 마스킹과 표본 경계"
+    },
+    "source": "https://www.stb.gov/reports-data/waybill/"
+  },
+  {
+    "id": "leimma",
+    "title": {
+      "zh": "代币上的John Lowman：身份连接的界限",
+      "en": "John Lowman on a token: limits of identification",
+      "ko": "토큰의 John Lowman과 신원 연결 한계"
+    },
+    "source": "https://www.londonmuseum.org.uk/collections/v/object-431812/the-marshalsea/"
+  },
+  {
+    "id": "pharma",
+    "title": {
+      "zh": "Pending标签与最终命令并存",
+      "en": "Pending label alongside a final order",
+      "ko": "Pending 표기와 최종 명령의 병존"
+    },
+    "source": "https://www.ftc.gov/legal-library/browse/cases-proceedings/2323092-content-scale-ai"
+  },
+  {
+    "id": "vox",
+    "title": {
+      "zh": "Pending的三语译法保留对象",
+      "en": "Trilingual translation of object-specific pending states",
+      "ko": "Pending의 대상별 삼중언어 번역"
+    },
+    "source": "https://www.ftc.gov/legal-library/browse/cases-proceedings/2323092-content-scale-ai"
+  },
+  {
+    "id": "cynosure",
+    "title": {
+      "zh": "对开放许可卡的证据敏感性分析",
+      "en": "Evidence sensitivity for the open permit forecast",
+      "ko": "미결 허가 예측의 증거 민감도"
+    },
+    "source": "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009074409621"
+  }
+]

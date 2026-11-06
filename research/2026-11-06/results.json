@@ -1,0 +1,36 @@
+{
+  "sqlite": {
+    "rows": [
+      [
+        "群山",
+        125
+      ],
+      [
+        "새온",
+        250
+      ]
+    ],
+    "sum": 375,
+    "backupHash": "9b2d6427f8aec9812798e36000e7a5a6478a6b6731d807b2e93a89bd8b2ba504",
+    "corruptionDetected": true,
+    "key": "not_applicable_unencrypted_synthetic_data"
+  },
+  "energy": {
+    "acHours": 1.9047619047619049,
+    "dcHours": 1.923444976076555
+  },
+  "sensitivity": [
+    {
+      "hypotheticalLikelihoodRatio": 0.5,
+      "posterior": 0.3793103448275862
+    },
+    {
+      "hypotheticalLikelihoodRatio": 1,
+      "posterior": 0.55
+    },
+    {
+      "hypotheticalLikelihoodRatio": 2,
+      "posterior": 0.7096774193548387
+    }
+  ]
+}

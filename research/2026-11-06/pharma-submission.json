@@ -1,0 +1,26 @@
+{
+  "taskId": "pharma-advance-20261106",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-06/pharma.md",
+  "executionId": "daily-20261106-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "Pending标签与最终命令并存",
+    "en": "Pending label alongside a final order",
+    "ko": "Pending 표기와 최종 명령의 병존"
+  },
+  "limitation": {
+    "zh": "作者分析或合成模型；未独立验收，具体限制见正文。",
+    "en": "Author analysis or synthetic model; no independent acceptance. See artifact limits.",
+    "ko": "저자 분석 또는 가상 모형. 독립 승인 전이며 본문 한계 참조."
+  },
+  "findings": [
+    {
+      "observation": "Pending标签与最终命令并存",
+      "evidenceLocator": "research/2026-11-06/pharma"
+    }
+  ],
+  "sourceUrls": [
+    "https://www.ftc.gov/legal-library/browse/cases-proceedings/2323092-content-scale-ai"
+  ]
+}

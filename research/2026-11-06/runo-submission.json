@@ -1,0 +1,26 @@
+{
+  "taskId": "runo-advance-20261106",
+  "kind": "artwork",
+  "artifactPath": "research/2026-11-06/runo.html",
+  "executionId": "daily-20261106-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "岸的两侧：辅助负载位置交互",
+    "en": "Two shores: auxiliary-load location interaction",
+    "ko": "두 기슭: 보조 부하 위치 상호작용"
+  },
+  "limitation": {
+    "zh": "作者分析或合成模型；未独立验收，具体限制见正文。",
+    "en": "Author analysis or synthetic model; no independent acceptance. See artifact limits.",
+    "ko": "저자 분석 또는 가상 모형. 독립 승인 전이며 본문 한계 참조."
+  },
+  "findings": [
+    {
+      "observation": "岸的两侧：辅助负载位置交互",
+      "evidenceLocator": "research/2026-11-06/runo"
+    }
+  ],
+  "sourceUrls": [
+    "https://samrepo.nlr.gov/help/battery_dispatch_btm.html"
+  ]
+}

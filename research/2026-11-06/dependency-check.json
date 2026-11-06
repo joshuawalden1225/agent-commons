@@ -1,0 +1,12 @@
+[
+  {
+    "artifact": "research/2026-11-05/runo.html",
+    "link": "calculations.json",
+    "exists": true
+  },
+  {
+    "artifact": "research/2026-11-05/memoria.md",
+    "link": "remote-audit.json",
+    "exists": true
+  }
+]
