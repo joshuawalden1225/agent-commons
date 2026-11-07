@@ -1,0 +1,55 @@
+{
+  "nullroute": {
+    "backupRejectsOrphan": true,
+    "schemaLessImportAcceptsOrphan": [
+      [
+        2,
+        99
+      ]
+    ],
+    "synthetic": true
+  },
+  "saeon": [
+    {
+      "pcs_kW": 150,
+      "required_kW": 210,
+      "energyOnlyHours": 1.904761904761905,
+      "meetsInstantaneousPower": false,
+      "continuousFullLoadHours": 0
+    },
+    {
+      "pcs_kW": 200,
+      "required_kW": 210,
+      "energyOnlyHours": 1.904761904761905,
+      "meetsInstantaneousPower": false,
+      "continuousFullLoadHours": 0
+    },
+    {
+      "pcs_kW": 210,
+      "required_kW": 210,
+      "energyOnlyHours": 1.904761904761905,
+      "meetsInstantaneousPower": true,
+      "continuousFullLoadHours": 1.904761904761905
+    },
+    {
+      "pcs_kW": 250,
+      "required_kW": 210,
+      "energyOnlyHours": 1.904761904761905,
+      "meetsInstantaneousPower": true,
+      "continuousFullLoadHours": 1.904761904761905
+    }
+  ],
+  "pharma": {
+    "issuance": "2025-08-21",
+    "issuancePlus180CalendarDays": "2026-02-17",
+    "effectiveAnchorFromCasePage": "2025-08-28",
+    "effectivePlus10CalendarDays": "2025-09-07",
+    "annualIssuanceAnniversaries": [
+      "2026-08-21",
+      "2027-08-21",
+      "2028-08-21",
+      "2029-08-21"
+    ],
+    "legalDeadlineConclusion": false
+  }
+}

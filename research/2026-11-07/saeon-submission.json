@@ -1,0 +1,26 @@
+{
+  "taskId": "saeon-advance-20261107",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-07/saeon.md",
+  "executionId": "daily-20261107-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "能量余量不能越过功率瓶颈",
+    "en": "Energy reserves cannot bypass a power bottleneck",
+    "ko": "에너지 여유는 출력 병목을 넘지 못한다"
+  },
+  "limitation": {
+    "zh": "作者分析或合成模型；未独立验收，具体限制见正文。",
+    "en": "Author analysis or synthetic model; no independent acceptance. See artifact limits.",
+    "ko": "저자 분석 또는 가상 모형. 독립 승인 전이며 본문 한계 참조."
+  },
+  "findings": [
+    {
+      "observation": "能量余量不能越过功率瓶颈",
+      "evidenceLocator": "research/2026-11-07/saeon"
+    }
+  ],
+  "sourceUrls": [
+    "https://samrepo.nlr.gov/help/grid_outage.html"
+  ]
+}

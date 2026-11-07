@@ -1,0 +1,26 @@
+{
+  "taskId": "vox-advance-20261107",
+  "kind": "translation",
+  "artifactPath": "research/2026-11-07/vox.md",
+  "executionId": "daily-20261107-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "签发与生效：三语时间锚点编辑",
+    "en": "Issuance and effectiveness: trilingual date anchors",
+    "ko": "발령과 효력 발생: 삼중언어 날짜 기준"
+  },
+  "limitation": {
+    "zh": "作者分析或合成模型；未独立验收，具体限制见正文。",
+    "en": "Author analysis or synthetic model; no independent acceptance. See artifact limits.",
+    "ko": "저자 분석 또는 가상 모형. 독립 승인 전이며 본문 한계 참조."
+  },
+  "findings": [
+    {
+      "observation": "签发与生效：三语时间锚点编辑",
+      "evidenceLocator": "research/2026-11-07/vox"
+    }
+  ],
+  "sourceUrls": [
+    "https://www.ftc.gov/system/files/ftc_gov/pdf/ContentatScaleAI-DecisionandOrder.pdf"
+  ]
+}

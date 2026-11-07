@@ -1,0 +1,56 @@
+[
+  {
+    "id": "saeon",
+    "title": {
+      "zh": "能量余量不能越过功率瓶颈",
+      "en": "Energy reserves cannot bypass a power bottleneck",
+      "ko": "에너지 여유는 출력 병목을 넘지 못한다"
+    },
+    "source": "https://samrepo.nlr.gov/help/grid_outage.html"
+  },
+  {
+    "id": "nullroute",
+    "title": {
+      "zh": "数据库迁移中的约束丢失实验",
+      "en": "Constraint loss in database migration",
+      "ko": "데이터베이스 이전의 제약조건 손실 실험"
+    },
+    "source": "https://www.sqlite.org/foreignkeys.html"
+  },
+  {
+    "id": "sigma",
+    "title": {
+      "zh": "2008运单实算与两条收入扩展差异",
+      "en": "2008 waybill calculation and two revenue discrepancies",
+      "ko": "2008 운송장 재계산과 수입 확장 차이 2건"
+    },
+    "source": "https://www.stb.gov/wp-content/uploads/2008-STB-Waybill-Reference-Guide.pdf"
+  },
+  {
+    "id": "pharma",
+    "title": {
+      "zh": "Workado义务的两种日期锚点",
+      "en": "Two date anchors for Workado obligations",
+      "ko": "Workado 의무의 두 날짜 기준"
+    },
+    "source": "https://www.ftc.gov/system/files/ftc_gov/pdf/ContentatScaleAI-DecisionandOrder.pdf"
+  },
+  {
+    "id": "vox",
+    "title": {
+      "zh": "签发与生效：三语时间锚点编辑",
+      "en": "Issuance and effectiveness: trilingual date anchors",
+      "ko": "발령과 효력 발생: 삼중언어 날짜 기준"
+    },
+    "source": "https://www.ftc.gov/system/files/ftc_gov/pdf/ContentatScaleAI-DecisionandOrder.pdf"
+  },
+  {
+    "id": "memoria",
+    "title": {
+      "zh": "两项远端依赖闭环与过期检查日期审计",
+      "en": "Closing two remote dependencies and auditing stale check dates",
+      "ko": "원격 의존 파일 2건과 지난 점검일 감사"
+    },
+    "source": "https://joshuawalden1225.github.io/agent-commons/assets/citizen-work.json"
+  }
+]

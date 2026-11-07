@@ -1,0 +1,260 @@
+{
+  "source": "https://www.stb.gov/wp-content/uploads/PublicUseWaybillSample2008.zip",
+  "retrievedAt": "2026-11-07T09:09:29.079987+00:00",
+  "publicationDate": null,
+  "dataPeriod": "2008",
+  "zipSha256": "e00ee7297e9c201b496a8d0667592e8c766c6a4037d088bcf4386122b7a254ad",
+  "member": "PUB08A.txt",
+  "memberSha256": "0ff0bc6ec7016cc7f81d7aa1441a82960a15f247850c0b808aa3204eeadaaba0",
+  "records": 622318,
+  "recordLength": 247,
+  "columns": {
+    "cars": [
+      11,
+      14
+    ],
+    "tons": [
+      41,
+      47
+    ],
+    "revenue": [
+      55,
+      63
+    ],
+    "exact_factor_x100": [
+      95,
+      99
+    ],
+    "theoretical_factor": [
+      100,
+      102
+    ],
+    "expanded_cars": [
+      216,
+      221
+    ],
+    "expanded_tons": [
+      222,
+      230
+    ],
+    "expanded_revenue": [
+      231,
+      241
+    ]
+  },
+  "sums": {
+    "cars": 5400052,
+    "tons": 545354984,
+    "revenue": 11170224176,
+    "exact_factor_x100": 2237951407,
+    "theoretical_factor": 22504322,
+    "expanded_cars": 34808906,
+    "expanded_tons": 2123372249,
+    "expanded_revenue": 72628586345
+  },
+  "expansionMismatchCounts": {
+    "revenue": 2
+  },
+  "mismatches": [
+    {
+      "row": 201784,
+      "field": "revenue",
+      "base": 5687433,
+      "factor": 3,
+      "stored": 17062300,
+      "computed": 17062299
+    },
+    {
+      "row": 226290,
+      "field": "revenue",
+      "base": 8441737,
+      "factor": 3,
+      "stored": 25325210,
+      "computed": 25325211
+    }
+  ],
+  "firstThreeParsedRows": [
+    {
+      "cars": 1,
+      "tons": 88,
+      "revenue": 5090,
+      "exact_factor_x100": 6669,
+      "theoretical_factor": 100,
+      "expanded_cars": 100,
+      "expanded_tons": 8800,
+      "expanded_revenue": 509000
+    },
+    {
+      "cars": 1,
+      "tons": 99,
+      "revenue": 5347,
+      "exact_factor_x100": 6669,
+      "theoretical_factor": 100,
+      "expanded_cars": 100,
+      "expanded_tons": 9900,
+      "expanded_revenue": 534700
+    },
+    {
+      "cars": 4,
+      "tons": 360,
+      "revenue": 14106,
+      "exact_factor_x100": 6669,
+      "theoretical_factor": 100,
+      "expanded_cars": 400,
+      "expanded_tons": 36000,
+      "expanded_revenue": 1410600
+    }
+  ],
+  "stcc2Groups": {
+    "01": {
+      "records": 20193,
+      "expanded_tons": 181010747
+    },
+    "08": {
+      "records": 51,
+      "expanded_tons": 109436
+    },
+    "09": {
+      "records": 41,
+      "expanded_tons": 46800
+    },
+    "10": {
+      "records": 3693,
+      "expanded_tons": 62055521
+    },
+    "11": {
+      "records": 31951,
+      "expanded_tons": 869766308
+    },
+    "13": {
+      "records": 552,
+      "expanded_tons": 2014164
+    },
+    "14": {
+      "records": 13801,
+      "expanded_tons": 142124041
+    },
+    "19": {
+      "records": 150,
+      "expanded_tons": 258896
+    },
+    "20": {
+      "records": 39773,
+      "expanded_tons": 123049760
+    },
+    "22": {
+      "records": 445,
+      "expanded_tons": 230320
+    },
+    "23": {
+      "records": 3744,
+      "expanded_tons": 1930440
+    },
+    "24": {
+      "records": 14423,
+      "expanded_tons": 47093240
+    },
+    "25": {
+      "records": 1934,
+      "expanded_tons": 796400
+    },
+    "26": {
+      "records": 22652,
+      "expanded_tons": 50571156
+    },
+    "27": {
+      "records": 557,
+      "expanded_tons": 383400
+    },
+    "28": {
+      "records": 54996,
+      "expanded_tons": 210847317
+    },
+    "29": {
+      "records": 13837,
+      "expanded_tons": 55147923
+    },
+    "30": {
+      "records": 3429,
+      "expanded_tons": 1929660
+    },
+    "31": {
+      "records": 108,
+      "expanded_tons": 55640
+    },
+    "32": {
+      "records": 12818,
+      "expanded_tons": 55288282
+    },
+    "33": {
+      "records": 18543,
+      "expanded_tons": 68043516
+    },
+    "34": {
+      "records": 1606,
+      "expanded_tons": 940728
+    },
+    "35": {
+      "records": 1211,
+      "expanded_tons": 1377967
+    },
+    "36": {
+      "records": 3903,
+      "expanded_tons": 1915288
+    },
+    "37": {
+      "records": 52761,
+      "expanded_tons": 46218320
+    },
+    "38": {
+      "records": 260,
+      "expanded_tons": 132120
+    },
+    "39": {
+      "records": 1191,
+      "expanded_tons": 617920
+    },
+    "40": {
+      "records": 17446,
+      "expanded_tons": 51967269
+    },
+    "41": {
+      "records": 3972,
+      "expanded_tons": 2310478
+    },
+    "42": {
+      "records": 43671,
+      "expanded_tons": 11575752
+    },
+    "43": {
+      "records": 1260,
+      "expanded_tons": 624560
+    },
+    "44": {
+      "records": 5790,
+      "expanded_tons": 3534080
+    },
+    "45": {
+      "records": 93,
+      "expanded_tons": 68160
+    },
+    "46": {
+      "records": 228791,
+      "expanded_tons": 126932700
+    },
+    "47": {
+      "records": 2143,
+      "expanded_tons": 909280
+    },
+    "48": {
+      "records": 529,
+      "expanded_tons": 1494660
+    }
+  },
+  "limits": [
+    "Revenue may be masked; not actual railroad revenue.",
+    "Not reconciled to BTS national totals or 2000 sample.",
+    "Excluded-record companion file is not merged into public sample.",
+    "Exact factor field width in layout is five; description calls it seven. Used layout, implied /100."
+  ]
+}

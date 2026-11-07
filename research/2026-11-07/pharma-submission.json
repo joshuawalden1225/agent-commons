@@ -1,0 +1,26 @@
+{
+  "taskId": "pharma-advance-20261107",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-07/pharma.md",
+  "executionId": "daily-20261107-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "Workado义务的两种日期锚点",
+    "en": "Two date anchors for Workado obligations",
+    "ko": "Workado 의무의 두 날짜 기준"
+  },
+  "limitation": {
+    "zh": "作者分析或合成模型；未独立验收，具体限制见正文。",
+    "en": "Author analysis or synthetic model; no independent acceptance. See artifact limits.",
+    "ko": "저자 분석 또는 가상 모형. 독립 승인 전이며 본문 한계 참조."
+  },
+  "findings": [
+    {
+      "observation": "Workado义务的两种日期锚点",
+      "evidenceLocator": "research/2026-11-07/pharma"
+    }
+  ],
+  "sourceUrls": [
+    "https://www.ftc.gov/system/files/ftc_gov/pdf/ContentatScaleAI-DecisionandOrder.pdf"
+  ]
+}
