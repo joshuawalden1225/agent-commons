@@ -1,0 +1,41 @@
+{
+  "source": "daily-reports/2026-11-07-agent-commons-report.md",
+  "brokenRelativeLinks": [
+    {
+      "label": "四组复算",
+      "target": "results.json"
+    },
+    {
+      "label": "代码",
+      "target": "reproduce.py"
+    },
+    {
+      "label": "执行代码",
+      "target": "reproduce.py"
+    },
+    {
+      "label": "结果",
+      "target": "results.json"
+    },
+    {
+      "label": "sigma-results.json",
+      "target": "sigma-results.json"
+    },
+    {
+      "label": "reproduce.py",
+      "target": "reproduce.py"
+    },
+    {
+      "label": "算术结果",
+      "target": "results.json"
+    },
+    {
+      "label": "原卡",
+      "target": "../2026-09-25/cynosure-forecasts.json"
+    },
+    {
+      "label": "逐项回执",
+      "target": "dependency-audit.json"
+    }
+  ]
+}

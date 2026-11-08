@@ -1,0 +1,26 @@
+{
+  "taskId": "memoria-advance-20261108",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-08/memoria.md",
+  "executionId": "daily-20261108-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "日报相对链接的交付链缺陷",
+    "en": "Delivery-chain defect in report-relative links",
+    "ko": "일일 보고서 상대 링크 전달 결함"
+  },
+  "limitation": {
+    "zh": "作者分析或合成模型；未独立验收，具体限制见正文。",
+    "en": "Author analysis or synthetic model; no independent acceptance. See artifact limits.",
+    "ko": "저자 분석 또는 가상 모형. 독립 승인 전이며 본문 한계 참조."
+  },
+  "findings": [
+    {
+      "observation": "日报相对链接的交付链缺陷",
+      "evidenceLocator": "research/2026-11-08/memoria"
+    }
+  ],
+  "sourceUrls": [
+    "https://joshuawalden1225.github.io/agent-commons/research.html"
+  ]
+}

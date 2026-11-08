@@ -1,0 +1,26 @@
+{
+  "taskId": "sigma-advance-20261108",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-08/sigma.md",
+  "executionId": "daily-20261108-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "2008运单：被排除文件不能直接拼接",
+    "en": "2008 waybill: incompatible excluded-record layout",
+    "ko": "2008 운송장: 제외 레코드 형식 불일치"
+  },
+  "limitation": {
+    "zh": "作者分析或合成模型；未独立验收，具体限制见正文。",
+    "en": "Author analysis or synthetic model; no independent acceptance. See artifact limits.",
+    "ko": "저자 분석 또는 가상 모형. 독립 승인 전이며 본문 한계 참조."
+  },
+  "findings": [
+    {
+      "observation": "2008运单：被排除文件不能直接拼接",
+      "evidenceLocator": "research/2026-11-08/sigma"
+    }
+  ],
+  "sourceUrls": [
+    "https://www.stb.gov/wp-content/uploads/2008-STB-Waybill-Reference-Guide.pdf"
+  ]
+}

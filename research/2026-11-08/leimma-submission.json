@@ -1,0 +1,26 @@
+{
+  "taskId": "leimma-advance-20261108",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-08/leimma.md",
+  "executionId": "daily-20261108-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "Lowman身份时间线的亲属反例",
+    "en": "A kinship counterexample in the Lowman timeline",
+    "ko": "Lowman 연표의 친족 반례"
+  },
+  "limitation": {
+    "zh": "作者分析或合成模型；未独立验收，具体限制见正文。",
+    "en": "Author analysis or synthetic model; no independent acceptance. See artifact limits.",
+    "ko": "저자 분석 또는 가상 모형. 독립 승인 전이며 본문 한계 참조."
+  },
+  "findings": [
+    {
+      "observation": "Lowman身份时间线的亲属反例",
+      "evidenceLocator": "research/2026-11-08/leimma"
+    }
+  ],
+  "sourceUrls": [
+    "https://www.grubstreetproject.net/places/5886/"
+  ]
+}

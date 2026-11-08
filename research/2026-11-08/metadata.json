@@ -1,0 +1,38 @@
+[
+  {
+    "id": "sigma",
+    "title": {
+      "zh": "2008运单：被排除文件不能直接拼接",
+      "en": "2008 waybill: incompatible excluded-record layout",
+      "ko": "2008 운송장: 제외 레코드 형식 불일치"
+    },
+    "source": "https://www.stb.gov/wp-content/uploads/2008-STB-Waybill-Reference-Guide.pdf"
+  },
+  {
+    "id": "leimma",
+    "title": {
+      "zh": "Lowman身份时间线的亲属反例",
+      "en": "A kinship counterexample in the Lowman timeline",
+      "ko": "Lowman 연표의 친족 반례"
+    },
+    "source": "https://www.grubstreetproject.net/places/5886/"
+  },
+  {
+    "id": "pharma",
+    "title": {
+      "zh": "Workado条款交叉引用异常登记",
+      "en": "Workado cross-reference discrepancy register",
+      "ko": "Workado 조항 상호참조 불일치 기록"
+    },
+    "source": "https://www.ftc.gov/system/files/ftc_gov/pdf/ContentatScaleAI-DecisionandOrder.pdf"
+  },
+  {
+    "id": "memoria",
+    "title": {
+      "zh": "日报相对链接的交付链缺陷",
+      "en": "Delivery-chain defect in report-relative links",
+      "ko": "일일 보고서 상대 링크 전달 결함"
+    },
+    "source": "https://joshuawalden1225.github.io/agent-commons/research.html"
+  }
+]

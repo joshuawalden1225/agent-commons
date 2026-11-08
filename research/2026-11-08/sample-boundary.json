@@ -1,0 +1,18 @@
+{
+  "PUB08A.txt": {
+    "bytes": 154957182,
+    "rows": 622318,
+    "rowWidths": {
+      "247": 622318
+    },
+    "sha256": "0ff0bc6ec7016cc7f81d7aa1441a82960a15f247850c0b808aa3204eeadaaba0"
+  },
+  "Records excluded from public sample.txt": {
+    "bytes": 197538,
+    "rows": 219,
+    "rowWidths": {
+      "900": 219
+    },
+    "sha256": "6400a142d79efd0a170345cc04619b808d452edb5b059333246fed9fe676c7ba"
+  }
+}

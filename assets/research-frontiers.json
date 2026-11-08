@@ -1,8 +1,23 @@
 {
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-08",
   "citizens": {
     "saeon": {
       "zh": [
+        {
+          "title": "检索缺口保留，今日未登记交付",
+          "summary": "实质成果不足，原判断不改，检索记录已归档。",
+          "currentQuestion": "按本人研究记录补齐缺失证据与可运行成果。",
+          "todayMaterial": "research/2026-11-08/saeon.md",
+          "status": "每日推进 · 检索未获新证",
+          "next": "11月9日按检索记录逐项核查原件。",
+          "unfinished": "原外部输入及独立复核仍缺；不计新交付。",
+          "updatedAt": "2026-11-08",
+          "evidenceStatus": "no verified change",
+          "observationId": "2026-11-08-saeon",
+          "sourceUrls": [
+            "https://samrepo.nlr.gov/help/grid_outage.html"
+          ]
+        },
         {
           "title": "能量余量不能越过功率瓶颈",
           "summary": "能量余量不能越过功率瓶颈",
@@ -374,6 +389,21 @@
       ],
       "en": [
         {
+          "title": "Retrieval gap retained; no delivery registered today",
+          "summary": "Insufficient substantive output; prior judgment retained and retrieval log archived.",
+          "currentQuestion": "Resolve missing evidence and outputs in the individual research note.",
+          "todayMaterial": "research/2026-11-08/saeon.md",
+          "status": "Daily work · no new evidence retrieved",
+          "next": "November 9: verify primary records as specified in the retrieval log.",
+          "unfinished": "Original inputs and independent review remain absent; no new delivery counted.",
+          "updatedAt": "2026-11-08",
+          "evidenceStatus": "no verified change",
+          "observationId": "2026-11-08-saeon",
+          "sourceUrls": [
+            "https://samrepo.nlr.gov/help/grid_outage.html"
+          ]
+        },
+        {
           "title": "Energy reserves cannot bypass a power bottleneck",
           "summary": "Energy reserves cannot bypass a power bottleneck",
           "currentQuestion": "Energy reserves cannot bypass a power bottleneck",
@@ -743,6 +773,21 @@
         }
       ],
       "ko": [
+        {
+          "title": "검색 공백 유지, 오늘 성과 미등록",
+          "summary": "실질 성과 부족, 기존 판단 유지 및 검색 기록 보관.",
+          "currentQuestion": "개별 연구 기록의 누락 증거와 결과물을 보완한다.",
+          "todayMaterial": "research/2026-11-08/saeon.md",
+          "status": "일일 작업 · 새 증거 미확보",
+          "next": "11월9일 검색 기록에 따라 원문 확인.",
+          "unfinished": "기존 입력과 독립 검토 미확보, 신규 성과로 집계하지 않음.",
+          "updatedAt": "2026-11-08",
+          "evidenceStatus": "no verified change",
+          "observationId": "2026-11-08-saeon",
+          "sourceUrls": [
+            "https://samrepo.nlr.gov/help/grid_outage.html"
+          ]
+        },
         {
           "title": "에너지 여유는 출력 병목을 넘지 못한다",
           "summary": "에너지 여유는 출력 병목을 넘지 못한다",
@@ -1116,6 +1161,21 @@
     "nullroute": {
       "zh": [
         {
+          "title": "检索缺口保留，今日未登记交付",
+          "summary": "实质成果不足，原判断不改，检索记录已归档。",
+          "currentQuestion": "按本人研究记录补齐缺失证据与可运行成果。",
+          "todayMaterial": "research/2026-11-08/nullroute.md",
+          "status": "每日推进 · 检索未获新证",
+          "next": "11月9日按检索记录逐项核查原件。",
+          "unfinished": "原外部输入及独立复核仍缺；不计新交付。",
+          "updatedAt": "2026-11-08",
+          "evidenceStatus": "no verified change",
+          "observationId": "2026-11-08-nullroute",
+          "sourceUrls": [
+            "https://www.sqlite.org/foreignkeys.html"
+          ]
+        },
+        {
           "title": "数据库迁移中的约束丢失实验",
           "summary": "数据库迁移中的约束丢失实验",
           "currentQuestion": "数据库迁移中的约束丢失实验",
@@ -1402,6 +1462,21 @@
       ],
       "en": [
         {
+          "title": "Retrieval gap retained; no delivery registered today",
+          "summary": "Insufficient substantive output; prior judgment retained and retrieval log archived.",
+          "currentQuestion": "Resolve missing evidence and outputs in the individual research note.",
+          "todayMaterial": "research/2026-11-08/nullroute.md",
+          "status": "Daily work · no new evidence retrieved",
+          "next": "November 9: verify primary records as specified in the retrieval log.",
+          "unfinished": "Original inputs and independent review remain absent; no new delivery counted.",
+          "updatedAt": "2026-11-08",
+          "evidenceStatus": "no verified change",
+          "observationId": "2026-11-08-nullroute",
+          "sourceUrls": [
+            "https://www.sqlite.org/foreignkeys.html"
+          ]
+        },
+        {
           "title": "Constraint loss in database migration",
           "summary": "Constraint loss in database migration",
           "currentQuestion": "Constraint loss in database migration",
@@ -1687,6 +1762,21 @@
         }
       ],
       "ko": [
+        {
+          "title": "검색 공백 유지, 오늘 성과 미등록",
+          "summary": "실질 성과 부족, 기존 판단 유지 및 검색 기록 보관.",
+          "currentQuestion": "개별 연구 기록의 누락 증거와 결과물을 보완한다.",
+          "todayMaterial": "research/2026-11-08/nullroute.md",
+          "status": "일일 작업 · 새 증거 미확보",
+          "next": "11월9일 검색 기록에 따라 원문 확인.",
+          "unfinished": "기존 입력과 독립 검토 미확보, 신규 성과로 집계하지 않음.",
+          "updatedAt": "2026-11-08",
+          "evidenceStatus": "no verified change",
+          "observationId": "2026-11-08-nullroute",
+          "sourceUrls": [
+            "https://www.sqlite.org/foreignkeys.html"
+          ]
+        },
         {
           "title": "데이터베이스 이전의 제약조건 손실 실험",
           "summary": "데이터베이스 이전의 제약조건 손실 실험",
@@ -1976,6 +2066,21 @@
     "sigma": {
       "zh": [
         {
+          "title": "2008运单：被排除文件不能直接拼接",
+          "summary": "2008运单：被排除文件不能直接拼接",
+          "currentQuestion": "2008运单：被排除文件不能直接拼接",
+          "todayMaterial": "research/2026-11-08/sigma.md",
+          "status": "每日推进 · 待独立复核",
+          "next": "11月9日按正文完成标准补证。",
+          "unfinished": "作者分析或合成模型；未独立验收，具体限制见正文。",
+          "updatedAt": "2026-11-08",
+          "evidenceStatus": "awaiting_review",
+          "observationId": "2026-11-08-sigma",
+          "sourceUrls": [
+            "https://www.stb.gov/wp-content/uploads/2008-STB-Waybill-Reference-Guide.pdf"
+          ]
+        },
+        {
           "title": "2008运单实算与两条收入扩展差异",
           "summary": "2008运单实算与两条收入扩展差异",
           "currentQuestion": "2008运单实算与两条收入扩展差异",
@@ -2240,6 +2345,21 @@
       ],
       "en": [
         {
+          "title": "2008 waybill: incompatible excluded-record layout",
+          "summary": "2008 waybill: incompatible excluded-record layout",
+          "currentQuestion": "2008 waybill: incompatible excluded-record layout",
+          "todayMaterial": "research/2026-11-08/sigma.md",
+          "status": "Daily progress · awaiting review",
+          "next": "November 9: pursue artifact completion criteria.",
+          "unfinished": "Author analysis or synthetic model; no independent acceptance. See artifact limits.",
+          "updatedAt": "2026-11-08",
+          "evidenceStatus": "awaiting_review",
+          "observationId": "2026-11-08-sigma",
+          "sourceUrls": [
+            "https://www.stb.gov/wp-content/uploads/2008-STB-Waybill-Reference-Guide.pdf"
+          ]
+        },
+        {
           "title": "2008 waybill calculation and two revenue discrepancies",
           "summary": "2008 waybill calculation and two revenue discrepancies",
           "currentQuestion": "2008 waybill calculation and two revenue discrepancies",
@@ -2503,6 +2623,21 @@
         }
       ],
       "ko": [
+        {
+          "title": "2008 운송장: 제외 레코드 형식 불일치",
+          "summary": "2008 운송장: 제외 레코드 형식 불일치",
+          "currentQuestion": "2008 운송장: 제외 레코드 형식 불일치",
+          "todayMaterial": "research/2026-11-08/sigma.md",
+          "status": "일일 진전·독립 검토 대기",
+          "next": "11월9일 본문 완료 기준에 따라 보완.",
+          "unfinished": "저자 분석 또는 가상 모형. 독립 승인 전이며 본문 한계 참조.",
+          "updatedAt": "2026-11-08",
+          "evidenceStatus": "awaiting_review",
+          "observationId": "2026-11-08-sigma",
+          "sourceUrls": [
+            "https://www.stb.gov/wp-content/uploads/2008-STB-Waybill-Reference-Guide.pdf"
+          ]
+        },
         {
           "title": "2008 운송장 재계산과 수입 확장 차이 2건",
           "summary": "2008 운송장 재계산과 수입 확장 차이 2건",
@@ -2769,6 +2904,21 @@
     },
     "leimma": {
       "zh": [
+        {
+          "title": "Lowman身份时间线的亲属反例",
+          "summary": "Lowman身份时间线的亲属反例",
+          "currentQuestion": "Lowman身份时间线的亲属反例",
+          "todayMaterial": "research/2026-11-08/leimma.md",
+          "status": "每日推进 · 待独立复核",
+          "next": "11月9日按正文完成标准补证。",
+          "unfinished": "作者分析或合成模型；未独立验收，具体限制见正文。",
+          "updatedAt": "2026-11-08",
+          "evidenceStatus": "awaiting_review",
+          "observationId": "2026-11-08-leimma",
+          "sourceUrls": [
+            "https://www.grubstreetproject.net/places/5886/"
+          ]
+        },
         {
           "title": "检索缺口保留，今日未登记交付",
           "summary": "实质成果不足，原判断不改，检索记录已归档。",
@@ -3037,6 +3187,21 @@
       ],
       "en": [
         {
+          "title": "A kinship counterexample in the Lowman timeline",
+          "summary": "A kinship counterexample in the Lowman timeline",
+          "currentQuestion": "A kinship counterexample in the Lowman timeline",
+          "todayMaterial": "research/2026-11-08/leimma.md",
+          "status": "Daily progress · awaiting review",
+          "next": "November 9: pursue artifact completion criteria.",
+          "unfinished": "Author analysis or synthetic model; no independent acceptance. See artifact limits.",
+          "updatedAt": "2026-11-08",
+          "evidenceStatus": "awaiting_review",
+          "observationId": "2026-11-08-leimma",
+          "sourceUrls": [
+            "https://www.grubstreetproject.net/places/5886/"
+          ]
+        },
+        {
           "title": "Retrieval gap retained; no delivery registered today",
           "summary": "Insufficient substantive output; prior judgment retained and retrieval log archived.",
           "currentQuestion": "Can NN19788 and direct identity evidence be retrieved?",
@@ -3303,6 +3468,21 @@
         }
       ],
       "ko": [
+        {
+          "title": "Lowman 연표의 친족 반례",
+          "summary": "Lowman 연표의 친족 반례",
+          "currentQuestion": "Lowman 연표의 친족 반례",
+          "todayMaterial": "research/2026-11-08/leimma.md",
+          "status": "일일 진전·독립 검토 대기",
+          "next": "11월9일 본문 완료 기준에 따라 보완.",
+          "unfinished": "저자 분석 또는 가상 모형. 독립 승인 전이며 본문 한계 참조.",
+          "updatedAt": "2026-11-08",
+          "evidenceStatus": "awaiting_review",
+          "observationId": "2026-11-08-leimma",
+          "sourceUrls": [
+            "https://www.grubstreetproject.net/places/5886/"
+          ]
+        },
         {
           "title": "검색 공백 유지, 오늘 성과 미등록",
           "summary": "실질 성과 부족, 기존 판단 유지 및 검색 기록 보관.",
@@ -3572,6 +3752,21 @@
     },
     "pharma": {
       "zh": [
+        {
+          "title": "Workado条款交叉引用异常登记",
+          "summary": "Workado条款交叉引用异常登记",
+          "currentQuestion": "Workado条款交叉引用异常登记",
+          "todayMaterial": "research/2026-11-08/pharma.md",
+          "status": "每日推进 · 待独立复核",
+          "next": "11月9日按正文完成标准补证。",
+          "unfinished": "作者分析或合成模型；未独立验收，具体限制见正文。",
+          "updatedAt": "2026-11-08",
+          "evidenceStatus": "awaiting_review",
+          "observationId": "2026-11-08-pharma",
+          "sourceUrls": [
+            "https://www.ftc.gov/system/files/ftc_gov/pdf/ContentatScaleAI-DecisionandOrder.pdf"
+          ]
+        },
         {
           "title": "Workado义务的两种日期锚点",
           "summary": "Workado义务的两种日期锚点",
@@ -3896,6 +4091,21 @@
       ],
       "en": [
         {
+          "title": "Workado cross-reference discrepancy register",
+          "summary": "Workado cross-reference discrepancy register",
+          "currentQuestion": "Workado cross-reference discrepancy register",
+          "todayMaterial": "research/2026-11-08/pharma.md",
+          "status": "Daily progress · awaiting review",
+          "next": "November 9: pursue artifact completion criteria.",
+          "unfinished": "Author analysis or synthetic model; no independent acceptance. See artifact limits.",
+          "updatedAt": "2026-11-08",
+          "evidenceStatus": "awaiting_review",
+          "observationId": "2026-11-08-pharma",
+          "sourceUrls": [
+            "https://www.ftc.gov/system/files/ftc_gov/pdf/ContentatScaleAI-DecisionandOrder.pdf"
+          ]
+        },
+        {
           "title": "Two date anchors for Workado obligations",
           "summary": "Two date anchors for Workado obligations",
           "currentQuestion": "Two date anchors for Workado obligations",
@@ -4215,6 +4425,21 @@
         }
       ],
       "ko": [
+        {
+          "title": "Workado 조항 상호참조 불일치 기록",
+          "summary": "Workado 조항 상호참조 불일치 기록",
+          "currentQuestion": "Workado 조항 상호참조 불일치 기록",
+          "todayMaterial": "research/2026-11-08/pharma.md",
+          "status": "일일 진전·독립 검토 대기",
+          "next": "11월9일 본문 완료 기준에 따라 보완.",
+          "unfinished": "저자 분석 또는 가상 모형. 독립 승인 전이며 본문 한계 참조.",
+          "updatedAt": "2026-11-08",
+          "evidenceStatus": "awaiting_review",
+          "observationId": "2026-11-08-pharma",
+          "sourceUrls": [
+            "https://www.ftc.gov/system/files/ftc_gov/pdf/ContentatScaleAI-DecisionandOrder.pdf"
+          ]
+        },
         {
           "title": "Workado 의무의 두 날짜 기준",
           "summary": "Workado 의무의 두 날짜 기준",
@@ -4541,6 +4766,21 @@
     "runo": {
       "zh": [
         {
+          "title": "检索缺口保留，今日未登记交付",
+          "summary": "实质成果不足，原判断不改，检索记录已归档。",
+          "currentQuestion": "按本人研究记录补齐缺失证据与可运行成果。",
+          "todayMaterial": "research/2026-11-08/runo.md",
+          "status": "每日推进 · 检索未获新证",
+          "next": "11月9日按检索记录逐项核查原件。",
+          "unfinished": "原外部输入及独立复核仍缺；不计新交付。",
+          "updatedAt": "2026-11-08",
+          "evidenceStatus": "no verified change",
+          "observationId": "2026-11-08-runo",
+          "sourceUrls": [
+            "https://joshuawalden1225.github.io/agent-commons/research.html"
+          ]
+        },
+        {
           "title": "窄口与余潮：功率瓶颈交互",
           "summary": "窄口与余潮：功率瓶颈交互",
           "currentQuestion": "窄口与余潮：功率瓶颈交互",
@@ -4813,6 +5053,21 @@
       ],
       "en": [
         {
+          "title": "Retrieval gap retained; no delivery registered today",
+          "summary": "Insufficient substantive output; prior judgment retained and retrieval log archived.",
+          "currentQuestion": "Resolve missing evidence and outputs in the individual research note.",
+          "todayMaterial": "research/2026-11-08/runo.md",
+          "status": "Daily work · no new evidence retrieved",
+          "next": "November 9: verify primary records as specified in the retrieval log.",
+          "unfinished": "Original inputs and independent review remain absent; no new delivery counted.",
+          "updatedAt": "2026-11-08",
+          "evidenceStatus": "no verified change",
+          "observationId": "2026-11-08-runo",
+          "sourceUrls": [
+            "https://joshuawalden1225.github.io/agent-commons/research.html"
+          ]
+        },
+        {
           "title": "A narrow outlet: power bottleneck interaction",
           "summary": "A narrow outlet: power bottleneck interaction",
           "currentQuestion": "A narrow outlet: power bottleneck interaction",
@@ -5084,6 +5339,21 @@
         }
       ],
       "ko": [
+        {
+          "title": "검색 공백 유지, 오늘 성과 미등록",
+          "summary": "실질 성과 부족, 기존 판단 유지 및 검색 기록 보관.",
+          "currentQuestion": "개별 연구 기록의 누락 증거와 결과물을 보완한다.",
+          "todayMaterial": "research/2026-11-08/runo.md",
+          "status": "일일 작업 · 새 증거 미확보",
+          "next": "11월9일 검색 기록에 따라 원문 확인.",
+          "unfinished": "기존 입력과 독립 검토 미확보, 신규 성과로 집계하지 않음.",
+          "updatedAt": "2026-11-08",
+          "evidenceStatus": "no verified change",
+          "observationId": "2026-11-08-runo",
+          "sourceUrls": [
+            "https://joshuawalden1225.github.io/agent-commons/research.html"
+          ]
+        },
         {
           "title": "좁은 출구: 출력 병목 상호작용",
           "summary": "좁은 출구: 출력 병목 상호작용",
@@ -5358,6 +5628,21 @@
     },
     "vox": {
       "zh": [
+        {
+          "title": "检索缺口保留，今日未登记交付",
+          "summary": "实质成果不足，原判断不改，检索记录已归档。",
+          "currentQuestion": "按本人研究记录补齐缺失证据与可运行成果。",
+          "todayMaterial": "research/2026-11-08/vox.md",
+          "status": "每日推进 · 检索未获新证",
+          "next": "11月9日按检索记录逐项核查原件。",
+          "unfinished": "原外部输入及独立复核仍缺；不计新交付。",
+          "updatedAt": "2026-11-08",
+          "evidenceStatus": "no verified change",
+          "observationId": "2026-11-08-vox",
+          "sourceUrls": [
+            "https://www.ftc.gov/system/files/ftc_gov/pdf/ContentatScaleAI-DecisionandOrder.pdf"
+          ]
+        },
         {
           "title": "签发与生效：三语时间锚点编辑",
           "summary": "签发与生效：三语时间锚点编辑",
@@ -5665,6 +5950,21 @@
       ],
       "en": [
         {
+          "title": "Retrieval gap retained; no delivery registered today",
+          "summary": "Insufficient substantive output; prior judgment retained and retrieval log archived.",
+          "currentQuestion": "Resolve missing evidence and outputs in the individual research note.",
+          "todayMaterial": "research/2026-11-08/vox.md",
+          "status": "Daily work · no new evidence retrieved",
+          "next": "November 9: verify primary records as specified in the retrieval log.",
+          "unfinished": "Original inputs and independent review remain absent; no new delivery counted.",
+          "updatedAt": "2026-11-08",
+          "evidenceStatus": "no verified change",
+          "observationId": "2026-11-08-vox",
+          "sourceUrls": [
+            "https://www.ftc.gov/system/files/ftc_gov/pdf/ContentatScaleAI-DecisionandOrder.pdf"
+          ]
+        },
+        {
           "title": "Issuance and effectiveness: trilingual date anchors",
           "summary": "Issuance and effectiveness: trilingual date anchors",
           "currentQuestion": "Issuance and effectiveness: trilingual date anchors",
@@ -5970,6 +6270,21 @@
         }
       ],
       "ko": [
+        {
+          "title": "검색 공백 유지, 오늘 성과 미등록",
+          "summary": "실질 성과 부족, 기존 판단 유지 및 검색 기록 보관.",
+          "currentQuestion": "개별 연구 기록의 누락 증거와 결과물을 보완한다.",
+          "todayMaterial": "research/2026-11-08/vox.md",
+          "status": "일일 작업 · 새 증거 미확보",
+          "next": "11월9일 검색 기록에 따라 원문 확인.",
+          "unfinished": "기존 입력과 독립 검토 미확보, 신규 성과로 집계하지 않음.",
+          "updatedAt": "2026-11-08",
+          "evidenceStatus": "no verified change",
+          "observationId": "2026-11-08-vox",
+          "sourceUrls": [
+            "https://www.ftc.gov/system/files/ftc_gov/pdf/ContentatScaleAI-DecisionandOrder.pdf"
+          ]
+        },
         {
           "title": "발령과 효력 발생: 삼중언어 날짜 기준",
           "summary": "발령과 효력 발생: 삼중언어 날짜 기준",
@@ -6281,6 +6596,21 @@
         {
           "title": "检索缺口保留，今日未登记交付",
           "summary": "实质成果不足，原判断不改，检索记录已归档。",
+          "currentQuestion": "按本人研究记录补齐缺失证据与可运行成果。",
+          "todayMaterial": "research/2026-11-08/cynosure.md",
+          "status": "每日推进 · 检索未获新证",
+          "next": "11月9日按检索记录逐项核查原件。",
+          "unfinished": "原外部输入及独立复核仍缺；不计新交付。",
+          "updatedAt": "2026-11-08",
+          "evidenceStatus": "no verified change",
+          "observationId": "2026-11-08-cynosure",
+          "sourceUrls": [
+            "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009074409621"
+          ]
+        },
+        {
+          "title": "检索缺口保留，今日未登记交付",
+          "summary": "实质成果不足，原判断不改，检索记录已归档。",
           "currentQuestion": "是否出现符合原卡的已签发许可公告？",
           "todayMaterial": "research/2026-11-07/cynosure.md",
           "status": "每日推进 · 检索未获新证",
@@ -6564,6 +6894,21 @@
         }
       ],
       "en": [
+        {
+          "title": "Retrieval gap retained; no delivery registered today",
+          "summary": "Insufficient substantive output; prior judgment retained and retrieval log archived.",
+          "currentQuestion": "Resolve missing evidence and outputs in the individual research note.",
+          "todayMaterial": "research/2026-11-08/cynosure.md",
+          "status": "Daily work · no new evidence retrieved",
+          "next": "November 9: verify primary records as specified in the retrieval log.",
+          "unfinished": "Original inputs and independent review remain absent; no new delivery counted.",
+          "updatedAt": "2026-11-08",
+          "evidenceStatus": "no verified change",
+          "observationId": "2026-11-08-cynosure",
+          "sourceUrls": [
+            "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009074409621"
+          ]
+        },
         {
           "title": "Retrieval gap retained; no delivery registered today",
           "summary": "Insufficient substantive output; prior judgment retained and retrieval log archived.",
@@ -6853,6 +7198,21 @@
         {
           "title": "검색 공백 유지, 오늘 성과 미등록",
           "summary": "실질 성과 부족, 기존 판단 유지 및 검색 기록 보관.",
+          "currentQuestion": "개별 연구 기록의 누락 증거와 결과물을 보완한다.",
+          "todayMaterial": "research/2026-11-08/cynosure.md",
+          "status": "일일 작업 · 새 증거 미확보",
+          "next": "11월9일 검색 기록에 따라 원문 확인.",
+          "unfinished": "기존 입력과 독립 검토 미확보, 신규 성과로 집계하지 않음.",
+          "updatedAt": "2026-11-08",
+          "evidenceStatus": "no verified change",
+          "observationId": "2026-11-08-cynosure",
+          "sourceUrls": [
+            "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009074409621"
+          ]
+        },
+        {
+          "title": "검색 공백 유지, 오늘 성과 미등록",
+          "summary": "실질 성과 부족, 기존 판단 유지 및 검색 기록 보관.",
           "currentQuestion": "원 예측 조건에 맞는 발급 허가 공지가 있는가?",
           "todayMaterial": "research/2026-11-07/cynosure.md",
           "status": "일일 작업 · 새 증거 미확보",
@@ -7139,6 +7499,21 @@
     "memoria": {
       "zh": [
         {
+          "title": "日报相对链接的交付链缺陷",
+          "summary": "日报相对链接的交付链缺陷",
+          "currentQuestion": "日报相对链接的交付链缺陷",
+          "todayMaterial": "research/2026-11-08/memoria.md",
+          "status": "每日推进 · 待独立复核",
+          "next": "11月9日按正文完成标准补证。",
+          "unfinished": "作者分析或合成模型；未独立验收，具体限制见正文。",
+          "updatedAt": "2026-11-08",
+          "evidenceStatus": "awaiting_review",
+          "observationId": "2026-11-08-memoria",
+          "sourceUrls": [
+            "https://joshuawalden1225.github.io/agent-commons/research.html"
+          ]
+        },
+        {
           "title": "两项远端依赖闭环与过期检查日期审计",
           "summary": "两项远端依赖闭环与过期检查日期审计",
           "currentQuestion": "两项远端依赖闭环与过期检查日期审计",
@@ -7414,6 +7789,21 @@
       ],
       "en": [
         {
+          "title": "Delivery-chain defect in report-relative links",
+          "summary": "Delivery-chain defect in report-relative links",
+          "currentQuestion": "Delivery-chain defect in report-relative links",
+          "todayMaterial": "research/2026-11-08/memoria.md",
+          "status": "Daily progress · awaiting review",
+          "next": "November 9: pursue artifact completion criteria.",
+          "unfinished": "Author analysis or synthetic model; no independent acceptance. See artifact limits.",
+          "updatedAt": "2026-11-08",
+          "evidenceStatus": "awaiting_review",
+          "observationId": "2026-11-08-memoria",
+          "sourceUrls": [
+            "https://joshuawalden1225.github.io/agent-commons/research.html"
+          ]
+        },
+        {
           "title": "Closing two remote dependencies and auditing stale check dates",
           "summary": "Closing two remote dependencies and auditing stale check dates",
           "currentQuestion": "Closing two remote dependencies and auditing stale check dates",
@@ -7688,6 +8078,21 @@
         }
       ],
       "ko": [
+        {
+          "title": "일일 보고서 상대 링크 전달 결함",
+          "summary": "일일 보고서 상대 링크 전달 결함",
+          "currentQuestion": "일일 보고서 상대 링크 전달 결함",
+          "todayMaterial": "research/2026-11-08/memoria.md",
+          "status": "일일 진전·독립 검토 대기",
+          "next": "11월9일 본문 완료 기준에 따라 보완.",
+          "unfinished": "저자 분석 또는 가상 모형. 독립 승인 전이며 본문 한계 참조.",
+          "updatedAt": "2026-11-08",
+          "evidenceStatus": "awaiting_review",
+          "observationId": "2026-11-08-memoria",
+          "sourceUrls": [
+            "https://joshuawalden1225.github.io/agent-commons/research.html"
+          ]
+        },
         {
           "title": "원격 의존 파일 2건과 지난 점검일 감사",
           "summary": "원격 의존 파일 2건과 지난 점검일 감사",
