@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "programId": "saeon-global-energy",
   "ownerId": "saeon",
-  "updatedAt": "2026-11-02",
-  "nextUpdate": "2026-11-09",
+  "updatedAt": "2026-11-09",
+  "nextUpdate": "2026-11-16",
   "reviewStatus": "awaiting_review",
   "title": {
     "zh": "全球能源观察站",
@@ -112,6 +112,25 @@
     }
   ],
   "frontiers": [
+    {
+      "title": {
+        "zh": "峰值瓦数不是过载时间曲线",
+        "en": "Peak watts are not an overload duration curve",
+        "ko": "피크 출력은 과부하 시간 곡선이 아니다"
+      },
+      "fact": {
+        "zh": "两型号连续功率与峰值比较；峰值持续时间仍缺，不能证明启动可行。",
+        "en": "Two models compared on continuous and peak power; missing peak duration prevents startup proof.",
+        "ko": "두 모델 연속·피크 출력 비교. 피크 지속시간 미확보로 기동 가능 입증 불가."
+      },
+      "next": {
+        "zh": "补对应型号过载曲线、BMS与现场负载，保持待复核。",
+        "en": "Obtain model overload curves, BMS limits and site loads; awaiting review.",
+        "ko": "모델 과부하 곡선·BMS·현장 부하 확보, 검토 대기."
+      },
+      "source": "victron-multiplus",
+      "eventDate": null
+    },
     {
       "title": {
         "zh": "辅助负载与双重约束",
@@ -262,7 +281,7 @@
         "ko": "본문은 2026 일정, 머리말은 2027년10월11~14일. 2027 회의·전시 날짜 추정 금지."
       },
       "kind": "workshop",
-      "checkedAt": "2026-11-02",
+      "checkedAt": "2026-11-09",
       "publishedAt": null
     },
     {
@@ -279,7 +298,7 @@
         "ko": "본문은 2026 일정, 머리말은 2027년10월11~14일. 2027 회의·전시 날짜 추정 금지."
       },
       "kind": "conference",
-      "checkedAt": "2026-11-02",
+      "checkedAt": "2026-11-09",
       "publishedAt": null
     },
     {
@@ -296,7 +315,7 @@
         "ko": "본문은 2026 일정, 머리말은 2027년10월11~14일. 2027 회의·전시 날짜 추정 금지."
       },
       "kind": "exhibition",
-      "checkedAt": "2026-11-02",
+      "checkedAt": "2026-11-09",
       "publishedAt": null
     },
     {
@@ -313,7 +332,7 @@
         "ko": "소재·제조장비·시험법을 추적하며 홍보를 검증 결론으로 쓰지 않습니다."
       },
       "kind": "exhibition",
-      "checkedAt": "2026-11-02",
+      "checkedAt": "2026-11-09",
       "publishedAt": null
     },
     {
@@ -330,7 +349,7 @@
         "ko": "주최 측 전시 일정 확인. The Battery Conference 세부 프로그램은 별도 확인합니다."
       },
       "kind": "exhibition",
-      "checkedAt": "2026-11-02",
+      "checkedAt": "2026-11-09",
       "publishedAt": null
     },
     {
@@ -347,7 +366,7 @@
         "ko": "전고체·나트륨이온·재활용·산학협력 단서를 추적합니다."
       },
       "kind": "exhibition",
-      "checkedAt": "2026-11-02",
+      "checkedAt": "2026-11-09",
       "publishedAt": null
     },
     {
@@ -364,7 +383,7 @@
         "ko": "회의는 전시와 일정이 다릅니다. 발표와 사업 실증 근거를 추적합니다."
       },
       "kind": "conference",
-      "checkedAt": "2026-11-02",
+      "checkedAt": "2026-11-09",
       "publishedAt": null
     },
     {
@@ -381,7 +400,7 @@
         "ko": "저장 시스템·태양광 연계·통합업체를 추적하며 방문 전 재확인합니다."
       },
       "kind": "exhibition",
-      "checkedAt": "2026-11-02",
+      "checkedAt": "2026-11-09",
       "publishedAt": null
     },
     {
@@ -393,7 +412,7 @@
       "venue": "Makuhari Messe, Japan",
       "source": "japan",
       "kind": "exhibition",
-      "checkedAt": "2026-11-02",
+      "checkedAt": "2026-11-09",
       "publishedAt": null,
       "note": {
         "zh": "本轮新登记，不代表今日宣布；会议日期未核实。",
@@ -413,9 +432,9 @@
     "ko": "MW·MWh·정격 지속시간을 분리하고 계획·입찰·계약·착공·가동을 구분합니다. 논문·기업 주장·독립 시험을 각각 표시합니다. 매주 실질 연구를 추가하며 변화 없음·확인 실패도 남깁니다. 독립 검토는 대기 중입니다."
   },
   "next": {
-    "zh": "11月3日查辅助负载与PCS现场资料；11月9日继续周刊。独立复核及澳大利亚、中东覆盖仍缺。",
-    "en": "Seek site auxiliary-load and PCS data November 3; next edition November 9. Independent review and Australia/Middle East coverage remain gaps.",
-    "ko": "11월3일 보조 부하·PCS 현장 자료 확인, 9일 다음 호. 독립 검토·호주·중동 범위 미완료."
+    "zh": "11月10日补过载时间曲线；11月16日下期。独立复核、中国、澳大利亚、中东新增活动核验仍缺。",
+    "en": "Seek overload curves November 10; next edition November 16. Independent review and new China/Australia/Middle East event verification remain gaps.",
+    "ko": "11월10일 과부하 곡선 확인, 16일 다음 호. 독립 검토·중국·호주·중동 새 행사 검증 미완료."
   },
   "sources": [
     {
@@ -472,36 +491,36 @@
       "title": "The Battery Show · Organizer FAQ",
       "url": "https://www.thebatteryshow.com/about/faqs/",
       "publishedAt": null,
-      "checkedAt": "2026-11-02",
+      "checkedAt": "2026-11-09",
       "access": "page_read",
-      "retrievedAt": "2026-11-02T09:02:10.707Z"
+      "retrievedAt": "2026-11-09T09:07:54.645643+00:00"
     },
     {
       "id": "interbattery",
       "title": "InterBattery · Show overview",
       "url": "https://interbattery.or.kr/sub-1-1",
       "publishedAt": null,
-      "checkedAt": "2026-11-02",
+      "checkedAt": "2026-11-09",
       "access": "page_read",
-      "retrievedAt": "2026-11-02T09:02:10.707Z"
+      "retrievedAt": "2026-11-09T09:07:54.645643+00:00"
     },
     {
       "id": "ees",
       "title": "ees Europe · Organizer homepage",
       "url": "https://www.ees-europe.com/home",
       "publishedAt": null,
-      "checkedAt": "2026-11-02",
+      "checkedAt": "2026-11-09",
       "access": "page_read",
-      "retrievedAt": "2026-11-02T09:02:10.707Z"
+      "retrievedAt": "2026-11-09T09:07:54.645643+00:00"
     },
     {
       "id": "japan",
       "title": "RX Japan · BATTERY JAPAN",
       "url": "https://www.wsew.jp/hub/en-gb/about/bj.html",
       "publishedAt": null,
-      "checkedAt": "2026-11-02",
+      "checkedAt": "2026-11-09",
       "access": "page_read",
-      "retrievedAt": "2026-11-02T09:02:10.707Z"
+      "retrievedAt": "2026-11-09T09:07:54.645643+00:00"
     },
     {
       "id": "catl-sodium",
@@ -529,6 +548,36 @@
       "publishedAt": null,
       "checkedAt": "2026-11-02",
       "retrievedAt": "2026-11-02T09:02:10.707Z",
+      "access": "page_read"
+    },
+    {
+      "id": "victron-multiplus",
+      "title": "Victron MultiPlus-II specifications",
+      "url": "https://www.victronenergy.com/inverters-chargers/multiplus-ii",
+      "publishedAt": null,
+      "eventDate": null,
+      "checkedAt": "2026-11-09",
+      "retrievedAt": "2026-11-09T09:07:54.645643+00:00",
+      "access": "page_read"
+    },
+    {
+      "id": "sam-grid",
+      "title": "SAM Grid Outage",
+      "url": "https://samrepo.nlr.gov/help/grid_outage.html",
+      "publishedAt": null,
+      "eventDate": null,
+      "checkedAt": "2026-11-09",
+      "retrievedAt": "2026-11-09T09:07:54.645643+00:00",
+      "access": "page_read"
+    },
+    {
+      "id": "doe-si2030",
+      "title": "DOE Storage Innovations 2030",
+      "url": "https://www.energy.gov/oe/storage-innovations-2030",
+      "publishedAt": null,
+      "eventDate": null,
+      "checkedAt": "2026-11-09",
+      "retrievedAt": "2026-11-09T09:07:54.645643+00:00",
       "access": "page_read"
     }
   ],
@@ -568,7 +617,16 @@
         "en": "Add auxiliary and PCS constraints: 10 kW turns a 20 kWh surplus into a 20 kWh deficit.",
         "ko": "보조 부하·PCS 제약 추가: 10 kW가 20 kWh 여유를 부족으로 전환."
       }
+    },
+    {
+      "date": "2026-11-09",
+      "path": "research/2026-11-09/energy-observatory.json",
+      "summary": {
+        "zh": "两型号连续功率与峰值比较；峰值持续时间仍缺，不能证明启动可行。",
+        "en": "Two models compared on continuous and peak power; missing peak duration prevents startup proof.",
+        "ko": "두 모델 연속·피크 출력 비교. 피크 지속시간 미확보로 기동 가능 입증 불가."
+      }
     }
   ],
-  "executedAt": "2026-11-02T09:02:10.707Z"
+  "executedAt": "2026-11-09T09:07:54.645643+00:00"
 }

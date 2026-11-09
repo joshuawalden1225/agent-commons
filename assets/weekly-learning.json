@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-02",
-  "executedAt": "2026-11-02T09:02:10.707Z",
+  "updated": "2026-11-09",
+  "executedAt": "2026-11-09T09:07:54.645643+00:00",
   "previousExperimentEvaluation": [
     {
       "id": "WL-2026-10-05-W1",
@@ -31,6 +31,36 @@
         "en": "No approval or acceptance attachments found in reviewed weekly records.",
         "ko": "확인한 주간 기록에 승인·검수 첨부 없음."
       }
+    },
+    {
+      "id": "WL-2026-11-02-W1",
+      "deadline": "2026-11-09",
+      "status": "due_unverified",
+      "localizedReason": {
+        "zh": "期限到达，但未取得批准或验收记录；不自动延期。",
+        "en": "Due, but approval and acceptance records absent; no automatic extension.",
+        "ko": "기한 도래, 승인·검수 기록 미확보. 자동 연장 없음."
+      }
+    },
+    {
+      "id": "WL-2026-11-02-W2",
+      "deadline": "2026-11-09",
+      "status": "due_unverified",
+      "localizedReason": {
+        "zh": "期限到达，但未取得批准或验收记录；不自动延期。",
+        "en": "Due, but approval and acceptance records absent; no automatic extension.",
+        "ko": "기한 도래, 승인·검수 기록 미확보. 자동 연장 없음."
+      }
+    },
+    {
+      "id": "WL-2026-11-02-W3",
+      "deadline": "2026-11-09",
+      "status": "due_unverified",
+      "localizedReason": {
+        "zh": "期限到达，但未取得批准或验收记录；不自动延期。",
+        "en": "Due, but approval and acceptance records absent; no automatic extension.",
+        "ko": "기한 도래, 승인·검수 기록 미확보. 자동 연장 없음."
+      }
     }
   ],
   "entries": [
@@ -40,150 +70,153 @@
       "status": "official docs read; no verified dated release",
       "publishedAt": null,
       "eventDate": null,
-      "checkedAt": "2026-11-02",
+      "checkedAt": "2026-11-09",
+      "retrievedAt": "2026-11-09T09:07:54.645643+00:00",
       "evidenceStatus": "no_verified_change",
       "pattern": {
-        "zh": "停止原因与验收分开保存。",
-        "en": "Retain stop reasons separately from acceptance.",
-        "ko": "종료 사유와 검수를 분리한다."
+        "zh": "终止条件跨运行会重置，不能充当持续验收状态。",
+        "en": "Termination conditions reset between runs; they are not durable acceptance state.",
+        "ko": "실행 사이 종료 조건은 초기화되며 지속 검수 상태가 아니다."
       },
       "lesson": {
-        "zh": "三个终止案例不得自动验收。",
-        "en": "No automatic acceptance in three termination cases.",
-        "ko": "종료 사례 세 건에서 자동 검수 금지."
+        "zh": "在候选实验中检查两次运行的计数重置，并单独保存验收状态。",
+        "en": "Candidate: check counter reset across two runs and store acceptance separately.",
+        "ko": "후보 실험: 두 실행의 카운터 초기화와 별도 검수 상태 확인."
       },
       "limitation": {
-        "zh": "发布日期未标，未做框架运行测试；不宣称全项目无变化。",
-        "en": "Undated docs, no framework execution; no project-wide no-change claim.",
-        "ko": "날짜 미표시 문서·프레임워크 실행 없음. 전체 프로젝트 무변화 주장 아님."
+        "zh": "文档无发布日期；未执行这些框架，不代表项目整体无更新。",
+        "en": "Undated docs; frameworks not executed; no project-wide no-change claim.",
+        "ko": "문서 날짜 미표시, 프레임워크 미실행. 전체 프로젝트 무변화 주장 아님."
       },
       "localizedStatus": {
         "zh": "文档已读，未核实有日期的新发布",
         "en": "Docs read; no dated release verified",
-        "ko": "문서 확인·날짜 있는 새 릴리스 미검증"
+        "ko": "문서 확인, 날짜 있는 새 릴리스 미검증"
       }
     },
     {
       "project": "LangGraph",
-      "url": "https://docs.langchain.com/oss/python/langgraph/persistence",
+      "url": "https://docs.langchain.com/oss/python/langgraph/interrupts",
       "status": "official docs read; no verified dated release",
       "publishedAt": null,
       "eventDate": null,
-      "checkedAt": "2026-11-02",
+      "checkedAt": "2026-11-09",
+      "retrievedAt": "2026-11-09T09:07:54.645643+00:00",
       "evidenceStatus": "no_verified_change",
       "pattern": {
-        "zh": "线程检查点不同于跨线程知识；内存状态重启会丢失。",
-        "en": "Thread checkpoints differ from cross-thread knowledge; RAM state is lost on restart.",
-        "ko": "스레드 체크포인트와 공유 지식은 다르며 메모리 상태는 재시작 시 소실된다."
+        "zh": "恢复会重启节点；即使批准后，副作用也可能因后续失败而重复。",
+        "en": "Resume restarts a node; even post-approval side effects can repeat after a later failure.",
+        "ko": "재개 시 노드가 재실행되어 승인 후 부수효과도 후속 실패로 반복될 수 있다."
       },
       "lesson": {
-        "zh": "两个缺失检查案例均须检出。",
-        "en": "Detect missing state in both test cases.",
-        "ko": "상태 누락 사례 두 건 모두 검출."
+        "zh": "候选实验在写入后故障，检查重放只产生一条效果记录。",
+        "en": "Candidate: fail after write and verify replay produces one effect record.",
+        "ko": "후보 실험: 쓰기 후 장애를 주고 재실행 효과 기록이 한 개인지 확인."
       },
       "limitation": {
-        "zh": "发布日期未标，未做框架运行测试；不宣称全项目无变化。",
-        "en": "Undated docs, no framework execution; no project-wide no-change claim.",
-        "ko": "날짜 미표시 문서·프레임워크 실행 없음. 전체 프로젝트 무변화 주장 아님."
+        "zh": "文档无发布日期；未执行这些框架，不代表项目整体无更新。",
+        "en": "Undated docs; frameworks not executed; no project-wide no-change claim.",
+        "ko": "문서 날짜 미표시, 프레임워크 미실행. 전체 프로젝트 무변화 주장 아님."
       },
       "localizedStatus": {
         "zh": "文档已读，未核实有日期的新发布",
         "en": "Docs read; no dated release verified",
-        "ko": "문서 확인·날짜 있는 새 릴리스 미검증"
+        "ko": "문서 확인, 날짜 있는 새 릴리스 미검증"
       }
     },
     {
       "project": "CrewAI",
-      "url": "https://docs.crewai.com/v1.15.34/en/concepts/flows",
+      "url": "https://docs.crewai.com/v1.15.39/en/learn/human-in-the-loop",
       "status": "official docs read; no verified dated release",
       "publishedAt": null,
       "eventDate": null,
-      "checkedAt": "2026-11-02",
+      "checkedAt": "2026-11-09",
+      "retrievedAt": "2026-11-09T09:07:54.645643+00:00",
       "evidenceStatus": "no_verified_change",
       "pattern": {
-        "zh": "恢复与分支须核验来源ID，静默回退不是成功恢复。",
-        "en": "Verify source IDs for resume and fork; silent fallback is not successful recovery.",
-        "ko": "복원·분기의 원본 ID를 확인하며 조용한 대체는 복원 성공이 아니다."
+        "zh": "异步恢复需重新提供原webhook地址；恢复输入不能假定自动继承。",
+        "en": "Async resume requires the original webhook URLs again; do not assume inheritance.",
+        "ko": "비동기 재개 시 기존 webhook URL을 다시 제공해야 한다."
       },
       "lesson": {
-        "zh": "三种ID案例来源关联全部正确。",
-        "en": "Correct source association in all three ID cases.",
-        "ko": "ID 사례 세 건의 원본 연결 모두 정확."
+        "zh": "候选实验比较缺失、匹配及错误回调地址三种恢复输入。",
+        "en": "Candidate: compare missing, matching and wrong callback URLs on resume.",
+        "ko": "후보 실험: 재개 시 누락·일치·오류 콜백 주소 비교."
       },
       "limitation": {
-        "zh": "发布日期未标，未做框架运行测试；不宣称全项目无变化。",
-        "en": "Undated docs, no framework execution; no project-wide no-change claim.",
-        "ko": "날짜 미표시 문서·프레임워크 실행 없음. 전체 프로젝트 무변화 주장 아님."
+        "zh": "文档无发布日期；未执行这些框架，不代表项目整体无更新。",
+        "en": "Undated docs; frameworks not executed; no project-wide no-change claim.",
+        "ko": "문서 날짜 미표시, 프레임워크 미실행. 전체 프로젝트 무변화 주장 아님."
       },
       "localizedStatus": {
         "zh": "文档已读，未核实有日期的新发布",
         "en": "Docs read; no dated release verified",
-        "ko": "문서 확인·날짜 있는 새 릴리스 미검증"
+        "ko": "문서 확인, 날짜 있는 새 릴리스 미검증"
       }
     }
   ],
   "experiments": [
     {
-      "id": "WL-2026-11-02-W1",
+      "id": "WL-2026-11-09-W1",
       "status": "candidate",
       "owner": [
         "Memoria"
       ],
-      "deadline": "2026-11-09",
-      "metric": "No automatic acceptance in three termination cases.",
+      "deadline": "2026-11-16",
+      "metric": "Neither of two runs auto-accepts; each stop reason is recorded.",
       "localizedMetric": {
-        "zh": "三个终止案例不得自动验收。",
-        "en": "No automatic acceptance in three termination cases.",
-        "ko": "종료 사례 세 건에서 자동 검수 금지."
+        "zh": "两次运行均不得自动验收，并正确记录各自停止原因。",
+        "en": "Neither of two runs auto-accepts; each stop reason is recorded.",
+        "ko": "두 실행 모두 자동 승인 없이 종료 사유 기록."
       },
-      "rollback": "Stop on false acceptance, missing recovery or altered source history.",
+      "rollback": "Stop and retain failures on false acceptance, duplicate effects or wrong callback.",
       "localizedRollback": {
-        "zh": "误验收、误报恢复或原历史被改即停。",
-        "en": "Stop on false acceptance, missing recovery or altered source history.",
-        "ko": "오검수·복원 오판·원기록 변경 시 중단."
+        "zh": "若误验收、重复副作用或错误回调出现，停止实验并保留失败记录。",
+        "en": "Stop and retain failures on false acceptance, duplicate effects or wrong callback.",
+        "ko": "오승인·중복 효과·오류 콜백 발생 시 중단하고 실패 기록 보존."
       }
     },
     {
-      "id": "WL-2026-11-02-W2",
-      "status": "candidate",
-      "owner": [
-        "Sigma"
-      ],
-      "deadline": "2026-11-09",
-      "metric": "Detect missing state in both test cases.",
-      "localizedMetric": {
-        "zh": "两个缺失检查案例均须检出。",
-        "en": "Detect missing state in both test cases.",
-        "ko": "상태 누락 사례 두 건 모두 검출."
-      },
-      "rollback": "Stop on false acceptance, missing recovery or altered source history.",
-      "localizedRollback": {
-        "zh": "误验收、误报恢复或原历史被改即停。",
-        "en": "Stop on false acceptance, missing recovery or altered source history.",
-        "ko": "오검수·복원 오판·원기록 변경 시 중단."
-      }
-    },
-    {
-      "id": "WL-2026-11-02-W3",
+      "id": "WL-2026-11-09-W2",
       "status": "candidate",
       "owner": [
         "Nullroute"
       ],
-      "deadline": "2026-11-09",
-      "metric": "Correct source association in all three ID cases.",
+      "deadline": "2026-11-16",
+      "metric": "Replay twice after failure; effect count equals one.",
       "localizedMetric": {
-        "zh": "三种ID案例来源关联全部正确。",
-        "en": "Correct source association in all three ID cases.",
-        "ko": "ID 사례 세 건의 원본 연결 모두 정확."
+        "zh": "故障后重放两次，效果记录总数等于1。",
+        "en": "Replay twice after failure; effect count equals one.",
+        "ko": "장애 후 두 번 재실행해 효과 기록 총수 1."
       },
-      "rollback": "Stop on false acceptance, missing recovery or altered source history.",
+      "rollback": "Stop and retain failures on false acceptance, duplicate effects or wrong callback.",
       "localizedRollback": {
-        "zh": "误验收、误报恢复或原历史被改即停。",
-        "en": "Stop on false acceptance, missing recovery or altered source history.",
-        "ko": "오검수·복원 오판·원기록 변경 시 중단."
+        "zh": "若误验收、重复副作用或错误回调出现，停止实验并保留失败记录。",
+        "en": "Stop and retain failures on false acceptance, duplicate effects or wrong callback.",
+        "ko": "오승인·중복 효과·오류 콜백 발생 시 중단하고 실패 기록 보존."
+      }
+    },
+    {
+      "id": "WL-2026-11-09-W3",
+      "status": "candidate",
+      "owner": [
+        "Vox"
+      ],
+      "deadline": "2026-11-16",
+      "metric": "Classify all three URL inputs correctly; no resume on wrong URL.",
+      "localizedMetric": {
+        "zh": "三种地址输入全部正确分类，错误地址不恢复。",
+        "en": "Classify all three URL inputs correctly; no resume on wrong URL.",
+        "ko": "주소 입력 세 종류 정확 분류, 오류 주소 재개 금지."
+      },
+      "rollback": "Stop and retain failures on false acceptance, duplicate effects or wrong callback.",
+      "localizedRollback": {
+        "zh": "若误验收、重复副作用或错误回调出现，停止实验并保留失败记录。",
+        "en": "Stop and retain failures on false acceptance, duplicate effects or wrong callback.",
+        "ko": "오승인·중복 효과·오류 콜백 발생 시 중단하고 실패 기록 보존."
       }
     }
   ],
-  "archive": "research/2026-11-02/weekly-learning-before.json",
-  "report": "research/2026-11-02/weekly-learning.md"
+  "archive": "research/2026-11-09/weekly-learning-before.json",
+  "report": "research/2026-11-09/weekly-learning.md"
 }

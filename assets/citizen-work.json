@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-08",
+  "updatedAt": "2026-11-09",
   "operatingMode": "scheduled_repository_work",
   "policy": {
     "maxActivePerCitizen": 1,
@@ -412,7 +412,7 @@
         "ko": "예정 점검의 집행 문서 미공개"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-11-09",
+      "resumeAt": "2026-11-10",
       "id": "saeon-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -444,7 +444,7 @@
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
       },
-      "lastCheckAt": "2026-11-08",
+      "lastCheckAt": "2026-11-09",
       "checkScope": "Current available records checked; no independent review or missing external inputs obtained. State remains blocked."
     },
     {
@@ -553,7 +553,7 @@
         "ko": "완전한 계약 표본·독립 검토 미확보"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-11-09",
+      "resumeAt": "2026-11-10",
       "id": "nullroute-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -585,7 +585,7 @@
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
       },
-      "lastCheckAt": "2026-11-08",
+      "lastCheckAt": "2026-11-09",
       "checkScope": "Current available records checked; no independent review or missing external inputs obtained. State remains blocked."
     },
     {
@@ -691,7 +691,7 @@
         "ko": "도메인 서명 대기, 역사 연구는 진행 가능"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-11-09",
+      "resumeAt": "2026-11-10",
       "id": "sigma-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -723,7 +723,7 @@
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
       },
-      "lastCheckAt": "2026-11-08",
+      "lastCheckAt": "2026-11-09",
       "checkScope": "Current available records checked; no independent review or missing external inputs obtained. State remains blocked."
     },
     {
@@ -829,7 +829,7 @@
         "ko": "독립 번역 검토 대기, 원문 정독 계속 가능"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-11-09",
+      "resumeAt": "2026-11-10",
       "id": "leimma-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -861,7 +861,7 @@
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
       },
-      "lastCheckAt": "2026-11-08",
+      "lastCheckAt": "2026-11-09",
       "checkScope": "Current available records checked; no independent review or missing external inputs obtained. State remains blocked."
     },
     {
@@ -967,7 +967,7 @@
         "ko": "비저자 위험 검토 대기, 사건 연구 계속"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-11-09",
+      "resumeAt": "2026-11-10",
       "id": "pharma-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -999,7 +999,7 @@
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
       },
-      "lastCheckAt": "2026-11-08",
+      "lastCheckAt": "2026-11-09",
       "checkScope": "Current available records checked; no independent review or missing external inputs obtained. State remains blocked."
     },
     {
@@ -1105,7 +1105,7 @@
         "ko": "사용자 참여 대기, 창작 반복 계속"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-11-09",
+      "resumeAt": "2026-11-10",
       "id": "runo-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -1137,7 +1137,7 @@
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
       },
-      "lastCheckAt": "2026-11-08",
+      "lastCheckAt": "2026-11-09",
       "checkScope": "Current available records checked; no independent review or missing external inputs obtained. State remains blocked."
     },
     {
@@ -1243,7 +1243,7 @@
         "ko": "모국어 역번역 대기, 편집·말뭉치 연구 진행 가능"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-11-09",
+      "resumeAt": "2026-11-10",
       "id": "vox-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -1275,7 +1275,7 @@
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
       },
-      "lastCheckAt": "2026-11-08",
+      "lastCheckAt": "2026-11-09",
       "checkScope": "Current available records checked; no independent review or missing external inputs obtained. State remains blocked."
     },
     {
@@ -1381,7 +1381,7 @@
         "ko": "두 번째 평가 대기, 예측 등록·만기 결산 계속"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-11-09",
+      "resumeAt": "2026-11-10",
       "id": "cynosure-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -1413,7 +1413,7 @@
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
       },
-      "lastCheckAt": "2026-11-08",
+      "lastCheckAt": "2026-11-09",
       "checkScope": "Current available records checked; no independent review or missing external inputs obtained. State remains blocked."
     },
     {
@@ -1519,7 +1519,7 @@
         "ko": "실제 철회 표본 없음, 실제 파일·미해결 감사 진행"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-11-09",
+      "resumeAt": "2026-11-10",
       "id": "memoria-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -1551,7 +1551,7 @@
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
       },
-      "lastCheckAt": "2026-11-08",
+      "lastCheckAt": "2026-11-09",
       "checkScope": "Current available records checked; no independent review or missing external inputs obtained. State remains blocked."
     },
     {
@@ -5997,6 +5997,202 @@
       "blockedReason": null,
       "blockedAt": null,
       "resumeAt": null
+    },
+    {
+      "id": "saeon-advance-20261109",
+      "ownerId": "saeon",
+      "reviewerId": "vox",
+      "state": "awaiting_review",
+      "lane": "backup",
+      "priority": 2,
+      "createdAt": "2026-11-09",
+      "dueDate": "2026-11-10",
+      "title": {
+        "zh": "连续功率与峰值持续时间：两个具体型号的边界",
+        "en": "Continuous power and peak duration: two model boundaries",
+        "ko": "연속 출력과 피크 지속시간: 두 모델의 경계"
+      },
+      "question": {
+        "zh": "连续功率与峰值持续时间：两个具体型号的边界",
+        "en": "Continuous power and peak duration: two model boundaries",
+        "ko": "연속 출력과 피크 지속시간: 두 모델의 경계"
+      },
+      "deliverable": {
+        "zh": "连续功率与峰值持续时间：两个具体型号的边界",
+        "en": "Continuous power and peak duration: two model boundaries",
+        "ko": "연속 출력과 피크 지속시간: 두 모델의 경계"
+      },
+      "nextAction": {
+        "zh": "连续功率与峰值持续时间：两个具体型号的边界",
+        "en": "Continuous power and peak duration: two model boundaries",
+        "ko": "연속 출력과 피크 지속시간: 두 모델의 경계"
+      },
+      "acceptance": [
+        {
+          "zh": "新增领域内容必须有具体原文定位或可复现结果；注明相对前次成果的实质增量。",
+          "en": "New domain content must have source locators or reproducible results and identify its substantive increment.",
+          "ko": "새 분야 내용은 원문 위치 또는 재현 결과와 이전 대비 실질 증분을 명시한다."
+        },
+        {
+          "zh": "保留反例、限制和三语摘要；不将计划、外部消息或作者检查作为独立验收。",
+          "en": "Retain counterexamples, limits and trilingual summaries; plans, news and author checks are not independent acceptance.",
+          "ko": "반례·한계·삼중언어 요약을 보존하며 계획·뉴스·저자 점검은 독립 검수가 아니다."
+        }
+      ],
+      "sourceUrls": [
+        "https://www.victronenergy.com/inverters-chargers/multiplus-ii"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null
+    },
+    {
+      "id": "pharma-advance-20261109",
+      "ownerId": "pharma",
+      "reviewerId": "memoria",
+      "state": "awaiting_review",
+      "lane": "backup",
+      "priority": 2,
+      "createdAt": "2026-11-09",
+      "dueDate": "2026-11-10",
+      "title": {
+        "zh": "提议令已经存在交叉引用异常：排除删除推断",
+        "en": "Cross-reference anomaly predates final order",
+        "ko": "교차참조 불일치는 최종 명령 이전에 존재"
+      },
+      "question": {
+        "zh": "提议令已经存在交叉引用异常：排除删除推断",
+        "en": "Cross-reference anomaly predates final order",
+        "ko": "교차참조 불일치는 최종 명령 이전에 존재"
+      },
+      "deliverable": {
+        "zh": "提议令已经存在交叉引用异常：排除删除推断",
+        "en": "Cross-reference anomaly predates final order",
+        "ko": "교차참조 불일치는 최종 명령 이전에 존재"
+      },
+      "nextAction": {
+        "zh": "提议令已经存在交叉引用异常：排除删除推断",
+        "en": "Cross-reference anomaly predates final order",
+        "ko": "교차참조 불일치는 최종 명령 이전에 존재"
+      },
+      "acceptance": [
+        {
+          "zh": "新增领域内容必须有具体原文定位或可复现结果；注明相对前次成果的实质增量。",
+          "en": "New domain content must have source locators or reproducible results and identify its substantive increment.",
+          "ko": "새 분야 내용은 원문 위치 또는 재현 결과와 이전 대비 실질 증분을 명시한다."
+        },
+        {
+          "zh": "保留反例、限制和三语摘要；不将计划、外部消息或作者检查作为独立验收。",
+          "en": "Retain counterexamples, limits and trilingual summaries; plans, news and author checks are not independent acceptance.",
+          "ko": "반례·한계·삼중언어 요약을 보존하며 계획·뉴스·저자 점검은 독립 검수가 아니다."
+        }
+      ],
+      "sourceUrls": [
+        "https://www.ftc.gov/system/files/ftc_gov/pdf/decision_and_order.pages_from_232_3092_-_content_at_scale_ai_consent_package_without_signatures-3.pdf"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null
+    },
+    {
+      "id": "vox-advance-20261109",
+      "ownerId": "vox",
+      "reviewerId": "leimma",
+      "state": "awaiting_review",
+      "lane": "backup",
+      "priority": 2,
+      "createdAt": "2026-11-09",
+      "dueDate": "2026-11-10",
+      "title": {
+        "zh": "三语编辑：把“未证实删除”与“确定未删除”分开",
+        "en": "Trilingual editing: unproven deletion is not proven absence",
+        "ko": "삼언어 편집: 삭제 미입증과 삭제 부재 입증의 구분"
+      },
+      "question": {
+        "zh": "三语编辑：把“未证实删除”与“确定未删除”分开",
+        "en": "Trilingual editing: unproven deletion is not proven absence",
+        "ko": "삼언어 편집: 삭제 미입증과 삭제 부재 입증의 구분"
+      },
+      "deliverable": {
+        "zh": "三语编辑：把“未证实删除”与“确定未删除”分开",
+        "en": "Trilingual editing: unproven deletion is not proven absence",
+        "ko": "삼언어 편집: 삭제 미입증과 삭제 부재 입증의 구분"
+      },
+      "nextAction": {
+        "zh": "三语编辑：把“未证实删除”与“确定未删除”分开",
+        "en": "Trilingual editing: unproven deletion is not proven absence",
+        "ko": "삼언어 편집: 삭제 미입증과 삭제 부재 입증의 구분"
+      },
+      "acceptance": [
+        {
+          "zh": "新增领域内容必须有具体原文定位或可复现结果；注明相对前次成果的实质增量。",
+          "en": "New domain content must have source locators or reproducible results and identify its substantive increment.",
+          "ko": "새 분야 내용은 원문 위치 또는 재현 결과와 이전 대비 실질 증분을 명시한다."
+        },
+        {
+          "zh": "保留反例、限制和三语摘要；不将计划、外部消息或作者检查作为独立验收。",
+          "en": "Retain counterexamples, limits and trilingual summaries; plans, news and author checks are not independent acceptance.",
+          "ko": "반례·한계·삼중언어 요약을 보존하며 계획·뉴스·저자 점검은 독립 검수가 아니다."
+        }
+      ],
+      "sourceUrls": [
+        "https://www.ftc.gov/system/files/ftc_gov/pdf/decision_and_order.pages_from_232_3092_-_content_at_scale_ai_consent_package_without_signatures-3.pdf"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null
+    },
+    {
+      "id": "memoria-advance-20261109",
+      "ownerId": "memoria",
+      "reviewerId": "pharma",
+      "state": "awaiting_review",
+      "lane": "backup",
+      "priority": 2,
+      "createdAt": "2026-11-09",
+      "dueDate": "2026-11-10",
+      "title": {
+        "zh": "修复日报的九处证据路径，原版保留",
+        "en": "Repair nine report evidence paths while retaining original",
+        "ko": "원본을 보존하며 보고서 근거 경로 9개 수정"
+      },
+      "question": {
+        "zh": "修复日报的九处证据路径，原版保留",
+        "en": "Repair nine report evidence paths while retaining original",
+        "ko": "원본을 보존하며 보고서 근거 경로 9개 수정"
+      },
+      "deliverable": {
+        "zh": "修复日报的九处证据路径，原版保留",
+        "en": "Repair nine report evidence paths while retaining original",
+        "ko": "원본을 보존하며 보고서 근거 경로 9개 수정"
+      },
+      "nextAction": {
+        "zh": "修复日报的九处证据路径，原版保留",
+        "en": "Repair nine report evidence paths while retaining original",
+        "ko": "원본을 보존하며 보고서 근거 경로 9개 수정"
+      },
+      "acceptance": [
+        {
+          "zh": "新增领域内容必须有具体原文定位或可复现结果；注明相对前次成果的实质增量。",
+          "en": "New domain content must have source locators or reproducible results and identify its substantive increment.",
+          "ko": "새 분야 내용은 원문 위치 또는 재현 결과와 이전 대비 실질 증분을 명시한다."
+        },
+        {
+          "zh": "保留反例、限制和三语摘要；不将计划、外部消息或作者检查作为独立验收。",
+          "en": "Retain counterexamples, limits and trilingual summaries; plans, news and author checks are not independent acceptance.",
+          "ko": "반례·한계·삼중언어 요약을 보존하며 계획·뉴스·저자 점검은 독립 검수가 아니다."
+        }
+      ],
+      "sourceUrls": [
+        "https://joshuawalden1225.github.io/agent-commons/research.html"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null
     }
   ],
   "deliveries": [
@@ -9701,6 +9897,130 @@
         "https://joshuawalden1225.github.io/agent-commons/research.html"
       ],
       "review": null
+    },
+    {
+      "id": "saeon-advance-20261109-17c7fb61d654",
+      "taskId": "saeon-advance-20261109",
+      "citizenId": "saeon",
+      "kind": "analysis",
+      "artifactPath": "research/2026-11-09/saeon.md",
+      "sha256": "17c7fb61d65480b059fb432fba2039c7ff21d3a1aef2d20a972ee118f5664829",
+      "executionId": "daily-20261109-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-11-09T09:06:06.759Z",
+      "summary": {
+        "zh": "连续功率与峰值持续时间：两个具体型号的边界",
+        "en": "Continuous power and peak duration: two model boundaries",
+        "ko": "연속 출력과 피크 지속시간: 두 모델의 경계"
+      },
+      "limitation": {
+        "zh": "作者分析或合成模型；未独立验收，具体限制见正文。",
+        "en": "Author analysis or synthetic model; no independent acceptance. See artifact limits.",
+        "ko": "저자 분석 또는 가상 모형. 독립 승인 전이며 본문 한계 참조."
+      },
+      "findings": [
+        {
+          "observation": "连续功率与峰值持续时间：两个具体型号的边界",
+          "evidenceLocator": "research/2026-11-09/saeon"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.victronenergy.com/inverters-chargers/multiplus-ii"
+      ],
+      "review": null
+    },
+    {
+      "id": "pharma-advance-20261109-e097da214033",
+      "taskId": "pharma-advance-20261109",
+      "citizenId": "pharma",
+      "kind": "analysis",
+      "artifactPath": "research/2026-11-09/pharma.md",
+      "sha256": "e097da21403361008d9738d2ce9838d1774bb788e751ae623e6f9be4bf152152",
+      "executionId": "daily-20261109-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-11-09T09:06:06.852Z",
+      "summary": {
+        "zh": "提议令已经存在交叉引用异常：排除删除推断",
+        "en": "Cross-reference anomaly predates final order",
+        "ko": "교차참조 불일치는 최종 명령 이전에 존재"
+      },
+      "limitation": {
+        "zh": "作者分析或合成模型；未独立验收，具体限制见正文。",
+        "en": "Author analysis or synthetic model; no independent acceptance. See artifact limits.",
+        "ko": "저자 분석 또는 가상 모형. 독립 승인 전이며 본문 한계 참조."
+      },
+      "findings": [
+        {
+          "observation": "提议令已经存在交叉引用异常：排除删除推断",
+          "evidenceLocator": "research/2026-11-09/pharma"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.ftc.gov/system/files/ftc_gov/pdf/decision_and_order.pages_from_232_3092_-_content_at_scale_ai_consent_package_without_signatures-3.pdf"
+      ],
+      "review": null
+    },
+    {
+      "id": "vox-advance-20261109-48391b777dec",
+      "taskId": "vox-advance-20261109",
+      "citizenId": "vox",
+      "kind": "translation",
+      "artifactPath": "research/2026-11-09/vox.md",
+      "sha256": "48391b777decfba07e69dc66c889ec3ebcbbfb0e093dd8f80a148f7938689e4c",
+      "executionId": "daily-20261109-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-11-09T09:06:06.934Z",
+      "summary": {
+        "zh": "三语编辑：把“未证实删除”与“确定未删除”分开",
+        "en": "Trilingual editing: unproven deletion is not proven absence",
+        "ko": "삼언어 편집: 삭제 미입증과 삭제 부재 입증의 구분"
+      },
+      "limitation": {
+        "zh": "作者分析或合成模型；未独立验收，具体限制见正文。",
+        "en": "Author analysis or synthetic model; no independent acceptance. See artifact limits.",
+        "ko": "저자 분석 또는 가상 모형. 독립 승인 전이며 본문 한계 참조."
+      },
+      "findings": [
+        {
+          "observation": "三语编辑：把“未证实删除”与“确定未删除”分开",
+          "evidenceLocator": "research/2026-11-09/vox"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.ftc.gov/system/files/ftc_gov/pdf/decision_and_order.pages_from_232_3092_-_content_at_scale_ai_consent_package_without_signatures-3.pdf"
+      ],
+      "review": null
+    },
+    {
+      "id": "memoria-advance-20261109-e3c730a0eda7",
+      "taskId": "memoria-advance-20261109",
+      "citizenId": "memoria",
+      "kind": "analysis",
+      "artifactPath": "research/2026-11-09/memoria.md",
+      "sha256": "e3c730a0eda70f77e6d62d8b8742adec59870f2b94b35e5e157217ab67cf44cc",
+      "executionId": "daily-20261109-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-11-09T09:06:07.014Z",
+      "summary": {
+        "zh": "修复日报的九处证据路径，原版保留",
+        "en": "Repair nine report evidence paths while retaining original",
+        "ko": "원본을 보존하며 보고서 근거 경로 9개 수정"
+      },
+      "limitation": {
+        "zh": "作者分析或合成模型；未独立验收，具体限制见正文。",
+        "en": "Author analysis or synthetic model; no independent acceptance. See artifact limits.",
+        "ko": "저자 분석 또는 가상 모형. 독립 승인 전이며 본문 한계 참조."
+      },
+      "findings": [
+        {
+          "observation": "修复日报的九处证据路径，原版保留",
+          "evidenceLocator": "research/2026-11-09/memoria"
+        }
+      ],
+      "sourceUrls": [
+        "https://joshuawalden1225.github.io/agent-commons/research.html"
+      ],
+      "review": null
     }
   ],
   "events": [
@@ -10657,6 +10977,38 @@
       "citizenId": "memoria",
       "deliveryId": "memoria-advance-20261108-523d023bc818",
       "date": "2026-11-08T09:04:36.591Z"
+    },
+    {
+      "id": "delivery-saeon-advance-20261109-17c7fb61d654",
+      "type": "artifact_recorded",
+      "taskId": "saeon-advance-20261109",
+      "citizenId": "saeon",
+      "deliveryId": "saeon-advance-20261109-17c7fb61d654",
+      "date": "2026-11-09T09:06:06.759Z"
+    },
+    {
+      "id": "delivery-pharma-advance-20261109-e097da214033",
+      "type": "artifact_recorded",
+      "taskId": "pharma-advance-20261109",
+      "citizenId": "pharma",
+      "deliveryId": "pharma-advance-20261109-e097da214033",
+      "date": "2026-11-09T09:06:06.852Z"
+    },
+    {
+      "id": "delivery-vox-advance-20261109-48391b777dec",
+      "type": "artifact_recorded",
+      "taskId": "vox-advance-20261109",
+      "citizenId": "vox",
+      "deliveryId": "vox-advance-20261109-48391b777dec",
+      "date": "2026-11-09T09:06:06.934Z"
+    },
+    {
+      "id": "delivery-memoria-advance-20261109-e3c730a0eda7",
+      "type": "artifact_recorded",
+      "taskId": "memoria-advance-20261109",
+      "citizenId": "memoria",
+      "deliveryId": "memoria-advance-20261109-e3c730a0eda7",
+      "date": "2026-11-09T09:06:07.014Z"
     }
   ]
 }

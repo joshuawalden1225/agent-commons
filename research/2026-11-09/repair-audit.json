@@ -1,0 +1,55 @@
+{
+  "original": "daily-reports/2026-11-07-agent-commons-report.md",
+  "revision": "daily-reports/2026-11-07-agent-commons-report-revised-20261109.md",
+  "originalSha256": "616c4d28d86877bd6926301dfac81f2a54bf866c23c33e11b26592ba70690c31",
+  "revisionSha256": "cb827e84de1c5a82f3616b08d29bc9262d7c48f33a3e326f995cd8bea2948bef",
+  "changes": [
+    {
+      "label": "四组复算",
+      "target": "results.json",
+      "replacement": "../research/2026-11-07/results.json"
+    },
+    {
+      "label": "代码",
+      "target": "reproduce.py",
+      "replacement": "../research/2026-11-07/reproduce.py"
+    },
+    {
+      "label": "执行代码",
+      "target": "reproduce.py",
+      "replacement": "../research/2026-11-07/reproduce.py"
+    },
+    {
+      "label": "结果",
+      "target": "results.json",
+      "replacement": "../research/2026-11-07/results.json"
+    },
+    {
+      "label": "sigma-results.json",
+      "target": "sigma-results.json",
+      "replacement": "../research/2026-11-07/sigma-results.json"
+    },
+    {
+      "label": "reproduce.py",
+      "target": "reproduce.py",
+      "replacement": "../research/2026-11-07/reproduce.py"
+    },
+    {
+      "label": "算术结果",
+      "target": "results.json",
+      "replacement": "../research/2026-11-07/results.json"
+    },
+    {
+      "label": "原卡",
+      "target": "../2026-09-25/cynosure-forecasts.json",
+      "replacement": "../research/2026-09-25/cynosure-forecasts.json"
+    },
+    {
+      "label": "逐项回执",
+      "target": "dependency-audit.json",
+      "replacement": "../research/2026-11-07/dependency-audit.json"
+    }
+  ],
+  "brokenAfter": [],
+  "independentReview": false
+}

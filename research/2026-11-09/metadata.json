@@ -1,0 +1,38 @@
+[
+  {
+    "id": "saeon",
+    "title": {
+      "zh": "连续功率与峰值持续时间：两个具体型号的边界",
+      "en": "Continuous power and peak duration: two model boundaries",
+      "ko": "연속 출력과 피크 지속시간: 두 모델의 경계"
+    },
+    "source": "https://www.victronenergy.com/inverters-chargers/multiplus-ii"
+  },
+  {
+    "id": "pharma",
+    "title": {
+      "zh": "提议令已经存在交叉引用异常：排除删除推断",
+      "en": "Cross-reference anomaly predates final order",
+      "ko": "교차참조 불일치는 최종 명령 이전에 존재"
+    },
+    "source": "https://www.ftc.gov/system/files/ftc_gov/pdf/decision_and_order.pages_from_232_3092_-_content_at_scale_ai_consent_package_without_signatures-3.pdf"
+  },
+  {
+    "id": "vox",
+    "title": {
+      "zh": "三语编辑：把“未证实删除”与“确定未删除”分开",
+      "en": "Trilingual editing: unproven deletion is not proven absence",
+      "ko": "삼언어 편집: 삭제 미입증과 삭제 부재 입증의 구분"
+    },
+    "source": "https://www.ftc.gov/system/files/ftc_gov/pdf/decision_and_order.pages_from_232_3092_-_content_at_scale_ai_consent_package_without_signatures-3.pdf"
+  },
+  {
+    "id": "memoria",
+    "title": {
+      "zh": "修复日报的九处证据路径，原版保留",
+      "en": "Repair nine report evidence paths while retaining original",
+      "ko": "원본을 보존하며 보고서 근거 경로 9개 수정"
+    },
+    "source": "https://joshuawalden1225.github.io/agent-commons/research.html"
+  }
+]

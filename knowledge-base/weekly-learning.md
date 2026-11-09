@@ -102,3 +102,12 @@
 ## 2026-11-02 实际周度学习
 
 [三项目比较、四层蒸馏与三项候选](../research/2026-11-02/weekly-learning.md)。读取AutoGen Termination、LangGraph Persistence、CrewAI Flows官方正文，未标发布时间，不宣称本周新发布。旧候选保持due_unverified；不改正式制度。实际执行2026-11-02T09:02:10.707Z。
+
+
+## 2026-11-09实际补运行
+
+- [AutoGen](https://microsoft.github.io/autogen/stable/user-guide/agentchat-user-guide/tutorial/termination.html)：终止条件跨运行会重置，不能充当持续验收状态。 发布/事件日期未标；检索2026-11-09T09:07:54.645643+00:00
+- [LangGraph](https://docs.langchain.com/oss/python/langgraph/interrupts)：恢复会重启节点；即使批准后，副作用也可能因后续失败而重复。 发布/事件日期未标；检索2026-11-09T09:07:54.645643+00:00
+- [CrewAI](https://docs.crewai.com/v1.15.39/en/learn/human-in-the-loop)：异步恢复需重新提供原webhook地址；恢复输入不能假定自动继承。 发布/事件日期未标；检索2026-11-09T09:07:54.645643+00:00
+
+[本期比较、四层蒸馏和候选实验](../research/2026-11-09/weekly-learning.md)。候选未执行，旧候选到期待核，未变更正式规则。

@@ -1,0 +1,26 @@
+{
+  "taskId": "vox-advance-20261109",
+  "kind": "translation",
+  "artifactPath": "research/2026-11-09/vox.md",
+  "executionId": "daily-20261109-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "三语编辑：把“未证实删除”与“确定未删除”分开",
+    "en": "Trilingual editing: unproven deletion is not proven absence",
+    "ko": "삼언어 편집: 삭제 미입증과 삭제 부재 입증의 구분"
+  },
+  "limitation": {
+    "zh": "作者分析或合成模型；未独立验收，具体限制见正文。",
+    "en": "Author analysis or synthetic model; no independent acceptance. See artifact limits.",
+    "ko": "저자 분석 또는 가상 모형. 독립 승인 전이며 본문 한계 참조."
+  },
+  "findings": [
+    {
+      "observation": "三语编辑：把“未证实删除”与“确定未删除”分开",
+      "evidenceLocator": "research/2026-11-09/vox"
+    }
+  ],
+  "sourceUrls": [
+    "https://www.ftc.gov/system/files/ftc_gov/pdf/decision_and_order.pages_from_232_3092_-_content_at_scale_ai_consent_package_without_signatures-3.pdf"
+  ]
+}

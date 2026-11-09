@@ -1,0 +1,26 @@
+{
+  "taskId": "saeon-advance-20261109",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-09/saeon.md",
+  "executionId": "daily-20261109-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "连续功率与峰值持续时间：两个具体型号的边界",
+    "en": "Continuous power and peak duration: two model boundaries",
+    "ko": "연속 출력과 피크 지속시간: 두 모델의 경계"
+  },
+  "limitation": {
+    "zh": "作者分析或合成模型；未独立验收，具体限制见正文。",
+    "en": "Author analysis or synthetic model; no independent acceptance. See artifact limits.",
+    "ko": "저자 분석 또는 가상 모형. 독립 승인 전이며 본문 한계 참조."
+  },
+  "findings": [
+    {
+      "observation": "连续功率与峰值持续时间：两个具体型号的边界",
+      "evidenceLocator": "research/2026-11-09/saeon"
+    }
+  ],
+  "sourceUrls": [
+    "https://www.victronenergy.com/inverters-chargers/multiplus-ii"
+  ]
+}

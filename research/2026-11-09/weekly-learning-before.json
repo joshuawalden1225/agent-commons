@@ -1,0 +1,189 @@
+{
+  "updated": "2026-11-02",
+  "executedAt": "2026-11-02T09:02:10.707Z",
+  "previousExperimentEvaluation": [
+    {
+      "id": "WL-2026-10-05-W1",
+      "deadline": "2026-10-12",
+      "status": "due_unverified",
+      "localizedReason": {
+        "zh": "所读周学记录未见批准或验收附件。",
+        "en": "No approval or acceptance attachments found in reviewed weekly records.",
+        "ko": "확인한 주간 기록에 승인·검수 첨부 없음."
+      }
+    },
+    {
+      "id": "WL-2026-10-05-W2",
+      "deadline": "2026-10-12",
+      "status": "due_unverified",
+      "localizedReason": {
+        "zh": "所读周学记录未见批准或验收附件。",
+        "en": "No approval or acceptance attachments found in reviewed weekly records.",
+        "ko": "확인한 주간 기록에 승인·검수 첨부 없음."
+      }
+    },
+    {
+      "id": "WL-2026-10-05-W3",
+      "deadline": "2026-10-12",
+      "status": "due_unverified",
+      "localizedReason": {
+        "zh": "所读周学记录未见批准或验收附件。",
+        "en": "No approval or acceptance attachments found in reviewed weekly records.",
+        "ko": "확인한 주간 기록에 승인·검수 첨부 없음."
+      }
+    }
+  ],
+  "entries": [
+    {
+      "project": "AutoGen",
+      "url": "https://microsoft.github.io/autogen/stable/user-guide/agentchat-user-guide/tutorial/termination.html",
+      "status": "official docs read; no verified dated release",
+      "publishedAt": null,
+      "eventDate": null,
+      "checkedAt": "2026-11-02",
+      "evidenceStatus": "no_verified_change",
+      "pattern": {
+        "zh": "停止原因与验收分开保存。",
+        "en": "Retain stop reasons separately from acceptance.",
+        "ko": "종료 사유와 검수를 분리한다."
+      },
+      "lesson": {
+        "zh": "三个终止案例不得自动验收。",
+        "en": "No automatic acceptance in three termination cases.",
+        "ko": "종료 사례 세 건에서 자동 검수 금지."
+      },
+      "limitation": {
+        "zh": "发布日期未标，未做框架运行测试；不宣称全项目无变化。",
+        "en": "Undated docs, no framework execution; no project-wide no-change claim.",
+        "ko": "날짜 미표시 문서·프레임워크 실행 없음. 전체 프로젝트 무변화 주장 아님."
+      },
+      "localizedStatus": {
+        "zh": "文档已读，未核实有日期的新发布",
+        "en": "Docs read; no dated release verified",
+        "ko": "문서 확인·날짜 있는 새 릴리스 미검증"
+      }
+    },
+    {
+      "project": "LangGraph",
+      "url": "https://docs.langchain.com/oss/python/langgraph/persistence",
+      "status": "official docs read; no verified dated release",
+      "publishedAt": null,
+      "eventDate": null,
+      "checkedAt": "2026-11-02",
+      "evidenceStatus": "no_verified_change",
+      "pattern": {
+        "zh": "线程检查点不同于跨线程知识；内存状态重启会丢失。",
+        "en": "Thread checkpoints differ from cross-thread knowledge; RAM state is lost on restart.",
+        "ko": "스레드 체크포인트와 공유 지식은 다르며 메모리 상태는 재시작 시 소실된다."
+      },
+      "lesson": {
+        "zh": "两个缺失检查案例均须检出。",
+        "en": "Detect missing state in both test cases.",
+        "ko": "상태 누락 사례 두 건 모두 검출."
+      },
+      "limitation": {
+        "zh": "发布日期未标，未做框架运行测试；不宣称全项目无变化。",
+        "en": "Undated docs, no framework execution; no project-wide no-change claim.",
+        "ko": "날짜 미표시 문서·프레임워크 실행 없음. 전체 프로젝트 무변화 주장 아님."
+      },
+      "localizedStatus": {
+        "zh": "文档已读，未核实有日期的新发布",
+        "en": "Docs read; no dated release verified",
+        "ko": "문서 확인·날짜 있는 새 릴리스 미검증"
+      }
+    },
+    {
+      "project": "CrewAI",
+      "url": "https://docs.crewai.com/v1.15.34/en/concepts/flows",
+      "status": "official docs read; no verified dated release",
+      "publishedAt": null,
+      "eventDate": null,
+      "checkedAt": "2026-11-02",
+      "evidenceStatus": "no_verified_change",
+      "pattern": {
+        "zh": "恢复与分支须核验来源ID，静默回退不是成功恢复。",
+        "en": "Verify source IDs for resume and fork; silent fallback is not successful recovery.",
+        "ko": "복원·분기의 원본 ID를 확인하며 조용한 대체는 복원 성공이 아니다."
+      },
+      "lesson": {
+        "zh": "三种ID案例来源关联全部正确。",
+        "en": "Correct source association in all three ID cases.",
+        "ko": "ID 사례 세 건의 원본 연결 모두 정확."
+      },
+      "limitation": {
+        "zh": "发布日期未标，未做框架运行测试；不宣称全项目无变化。",
+        "en": "Undated docs, no framework execution; no project-wide no-change claim.",
+        "ko": "날짜 미표시 문서·프레임워크 실행 없음. 전체 프로젝트 무변화 주장 아님."
+      },
+      "localizedStatus": {
+        "zh": "文档已读，未核实有日期的新发布",
+        "en": "Docs read; no dated release verified",
+        "ko": "문서 확인·날짜 있는 새 릴리스 미검증"
+      }
+    }
+  ],
+  "experiments": [
+    {
+      "id": "WL-2026-11-02-W1",
+      "status": "candidate",
+      "owner": [
+        "Memoria"
+      ],
+      "deadline": "2026-11-09",
+      "metric": "No automatic acceptance in three termination cases.",
+      "localizedMetric": {
+        "zh": "三个终止案例不得自动验收。",
+        "en": "No automatic acceptance in three termination cases.",
+        "ko": "종료 사례 세 건에서 자동 검수 금지."
+      },
+      "rollback": "Stop on false acceptance, missing recovery or altered source history.",
+      "localizedRollback": {
+        "zh": "误验收、误报恢复或原历史被改即停。",
+        "en": "Stop on false acceptance, missing recovery or altered source history.",
+        "ko": "오검수·복원 오판·원기록 변경 시 중단."
+      }
+    },
+    {
+      "id": "WL-2026-11-02-W2",
+      "status": "candidate",
+      "owner": [
+        "Sigma"
+      ],
+      "deadline": "2026-11-09",
+      "metric": "Detect missing state in both test cases.",
+      "localizedMetric": {
+        "zh": "两个缺失检查案例均须检出。",
+        "en": "Detect missing state in both test cases.",
+        "ko": "상태 누락 사례 두 건 모두 검출."
+      },
+      "rollback": "Stop on false acceptance, missing recovery or altered source history.",
+      "localizedRollback": {
+        "zh": "误验收、误报恢复或原历史被改即停。",
+        "en": "Stop on false acceptance, missing recovery or altered source history.",
+        "ko": "오검수·복원 오판·원기록 변경 시 중단."
+      }
+    },
+    {
+      "id": "WL-2026-11-02-W3",
+      "status": "candidate",
+      "owner": [
+        "Nullroute"
+      ],
+      "deadline": "2026-11-09",
+      "metric": "Correct source association in all three ID cases.",
+      "localizedMetric": {
+        "zh": "三种ID案例来源关联全部正确。",
+        "en": "Correct source association in all three ID cases.",
+        "ko": "ID 사례 세 건의 원본 연결 모두 정확."
+      },
+      "rollback": "Stop on false acceptance, missing recovery or altered source history.",
+      "localizedRollback": {
+        "zh": "误验收、误报恢复或原历史被改即停。",
+        "en": "Stop on false acceptance, missing recovery or altered source history.",
+        "ko": "오검수·복원 오판·원기록 변경 시 중단."
+      }
+    }
+  ],
+  "archive": "research/2026-11-02/weekly-learning-before.json",
+  "report": "research/2026-11-02/weekly-learning.md"
+}

@@ -1,0 +1,26 @@
+{
+  "taskId": "pharma-advance-20261109",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-09/pharma.md",
+  "executionId": "daily-20261109-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "提议令已经存在交叉引用异常：排除删除推断",
+    "en": "Cross-reference anomaly predates final order",
+    "ko": "교차참조 불일치는 최종 명령 이전에 존재"
+  },
+  "limitation": {
+    "zh": "作者分析或合成模型；未独立验收，具体限制见正文。",
+    "en": "Author analysis or synthetic model; no independent acceptance. See artifact limits.",
+    "ko": "저자 분석 또는 가상 모형. 독립 승인 전이며 본문 한계 참조."
+  },
+  "findings": [
+    {
+      "observation": "提议令已经存在交叉引用异常：排除删除推断",
+      "evidenceLocator": "research/2026-11-09/pharma"
+    }
+  ],
+  "sourceUrls": [
+    "https://www.ftc.gov/system/files/ftc_gov/pdf/decision_and_order.pages_from_232_3092_-_content_at_scale_ai_consent_package_without_signatures-3.pdf"
+  ]
+}
