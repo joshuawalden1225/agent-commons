@@ -1,0 +1,248 @@
+{
+  "zipSHA256": "e00ee7297e9c201b496a8d0667592e8c766c6a4037d088bcf4386122b7a254ad",
+  "records": 622318,
+  "net": 0,
+  "absolute": 2,
+  "groups": {
+    "01": {
+      "rows": 20193,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "08": {
+      "rows": 51,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "09": {
+      "rows": 41,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "10": {
+      "rows": 3693,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "11": {
+      "rows": 31951,
+      "net": 0,
+      "absolute": 2,
+      "mismatches": 2
+    },
+    "13": {
+      "rows": 552,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "14": {
+      "rows": 13801,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "19": {
+      "rows": 150,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20": {
+      "rows": 39773,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "22": {
+      "rows": 445,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "23": {
+      "rows": 3744,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "24": {
+      "rows": 14423,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "25": {
+      "rows": 1934,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "26": {
+      "rows": 22652,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "27": {
+      "rows": 557,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "28": {
+      "rows": 54996,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "29": {
+      "rows": 13837,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "30": {
+      "rows": 3429,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "31": {
+      "rows": 108,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "32": {
+      "rows": 12818,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "33": {
+      "rows": 18543,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "34": {
+      "rows": 1606,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "35": {
+      "rows": 1211,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "36": {
+      "rows": 3903,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "37": {
+      "rows": 52761,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "38": {
+      "rows": 260,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "39": {
+      "rows": 1191,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "40": {
+      "rows": 17446,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "41": {
+      "rows": 3972,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "42": {
+      "rows": 43671,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "43": {
+      "rows": 1260,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "44": {
+      "rows": 5790,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "45": {
+      "rows": 93,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "46": {
+      "rows": 228791,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "47": {
+      "rows": 2143,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "48": {
+      "rows": 529,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    }
+  },
+  "mismatches": [
+    {
+      "row": 201784,
+      "stcc2": "11",
+      "base": 5687433,
+      "factor": 3,
+      "stored": 17062300,
+      "delta": 1
+    },
+    {
+      "row": 226290,
+      "stcc2": "11",
+      "base": 8441737,
+      "factor": 3,
+      "stored": 25325210,
+      "delta": -1
+    }
+  ],
+  "columns": {
+    "stcc2": "36-37",
+    "baseRevenue": "55-63",
+    "theoretical": "100-102",
+    "expandedRevenue": "231-241"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "taskId": "runo-advance-20261111",
+  "kind": "artwork",
+  "artifactPath": "research/2026-11-11/runo.html",
+  "executionId": "daily-20261111-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "断桥：用三次选择恢复一条证据路径",
+    "en": "Broken Bridge: restore an evidence path through three choices",
+    "ko": "끊어진 다리: 세 번의 선택으로 근거 경로 복원"
+  },
+  "limitation": {
+    "zh": "作者分析或合成模型；未独立验收，具体限制见正文。",
+    "en": "Author analysis or synthetic model; no independent acceptance. See artifact limits.",
+    "ko": "저자 분석 또는 가상 모형. 독립 승인 전이며 본문 한계 참조."
+  },
+  "findings": [
+    {
+      "observation": "断桥：用三次选择恢复一条证据路径",
+      "evidenceLocator": "research/2026-11-11/runo"
+    }
+  ],
+  "sourceUrls": [
+    "https://joshuawalden1225.github.io/agent-commons/research.html"
+  ]
+}

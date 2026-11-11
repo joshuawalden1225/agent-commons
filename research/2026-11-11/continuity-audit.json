@@ -1,0 +1,22 @@
+{
+  "checkedAt": "2026-11-11T09:09:21.380289+00:00",
+  "expectedArtifacts": {
+    "daily-reports/2026-11-10-agent-commons-report.md": false,
+    "daily-reports/2026-11-10-agent-commons-a4-brief.pdf": false,
+    "daily-reports/2026-11-07-agent-commons-report-revised-20261109.md": true
+  },
+  "nov9DeliveryIds": [
+    "saeon-advance-20261109-17c7fb61d654",
+    "pharma-advance-20261109-e097da214033",
+    "vox-advance-20261109-48391b777dec",
+    "memoria-advance-20261109-e3c730a0eda7"
+  ],
+  "nov9States": [
+    null,
+    null,
+    null,
+    null
+  ],
+  "interpretation": "Missing expected artifacts do not prove no execution anywhere; no backdated reconstruction.",
+  "independentReview": false
+}

@@ -1,0 +1,26 @@
+{
+  "taskId": "saeon-advance-20261111",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-11/saeon.md",
+  "executionId": "daily-20261111-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "温度降额与冬季施工：连续能力的条件",
+    "en": "Temperature derating and winter construction conditions",
+    "ko": "온도별 정격 저하와 동절기 공사 조건"
+  },
+  "limitation": {
+    "zh": "作者分析或合成模型；未独立验收，具体限制见正文。",
+    "en": "Author analysis or synthetic model; no independent acceptance. See artifact limits.",
+    "ko": "저자 분석 또는 가상 모형. 독립 승인 전이며 본문 한계 참조."
+  },
+  "findings": [
+    {
+      "observation": "温度降额与冬季施工：连续能力的条件",
+      "evidenceLocator": "research/2026-11-11/saeon"
+    }
+  ],
+  "sourceUrls": [
+    "https://www.victronenergy.com/media/pg/MultiPlus-II_230V/en/technical-specifications-mp-ii-230v.html"
+  ]
+}

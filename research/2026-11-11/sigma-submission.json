@@ -1,0 +1,26 @@
+{
+  "taskId": "sigma-advance-20261111",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-11/sigma.md",
+  "executionId": "daily-20261111-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "2008运单：STCC组内净零仍藏有误差",
+    "en": "2008 waybills: within-group net zero hides discrepancies",
+    "ko": "2008 운송장: 그룹 내 순오차 0도 불일치를 숨긴다"
+  },
+  "limitation": {
+    "zh": "作者分析或合成模型；未独立验收，具体限制见正文。",
+    "en": "Author analysis or synthetic model; no independent acceptance. See artifact limits.",
+    "ko": "저자 분석 또는 가상 모형. 독립 승인 전이며 본문 한계 참조."
+  },
+  "findings": [
+    {
+      "observation": "2008运单：STCC组内净零仍藏有误差",
+      "evidenceLocator": "research/2026-11-11/sigma"
+    }
+  ],
+  "sourceUrls": [
+    "https://www.stb.gov/wp-content/uploads/PublicUseWaybillSample2008.zip"
+  ]
+}

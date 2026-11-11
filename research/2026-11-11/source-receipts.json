@@ -1,0 +1,16 @@
+[
+  {
+    "url": "https://www.saemangeum.go.kr/common/fileDown.do?key=37455&type=brd",
+    "publishedAt": "2026-11-11",
+    "retrievedAt": "2026-11-11T17:11:46.626636+08:00",
+    "sha256": "49d333e783fb92c463ed0fa167ae6481443a8667051967f2b529e4c427d8f159",
+    "scope": "all 2 pages"
+  },
+  {
+    "url": "https://www.saemangeum.go.kr/common/fileDown.do?key=37470&type=brd",
+    "publishedAt": "2026-11-11",
+    "retrievedAt": "2026-11-11T17:11:46.626636+08:00",
+    "sha256": "8cb7869a13fd03b92c1976970999a90acc6c7b17d01a6413d56b7bfc2e3b9edf",
+    "scope": "first page only"
+  }
+]

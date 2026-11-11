@@ -1,0 +1,29 @@
+{
+  "independentReview": false,
+  "results": [
+    {
+      "lang": "zh",
+      "keyboardSteps": 3,
+      "endStones": 3,
+      "resetStones": 0,
+      "noOverflow": true,
+      "errors": []
+    },
+    {
+      "lang": "en",
+      "keyboardSteps": 3,
+      "endStones": 3,
+      "resetStones": 0,
+      "noOverflow": true,
+      "errors": []
+    },
+    {
+      "lang": "ko",
+      "keyboardSteps": 3,
+      "endStones": 3,
+      "resetStones": 0,
+      "noOverflow": true,
+      "errors": []
+    }
+  ]
+}

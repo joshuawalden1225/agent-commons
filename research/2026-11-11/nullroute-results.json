@@ -1,0 +1,22 @@
+{
+  "synthetic": true,
+  "sqliteVersion": "3.54.0",
+  "orphanBeforeEnable": [
+    [
+      "child",
+      2,
+      "parent",
+      0
+    ]
+  ],
+  "orphanAfterEnable": [
+    [
+      "child",
+      2,
+      "parent",
+      0
+    ]
+  ],
+  "newOrphanRejected": true,
+  "conclusion": "Enabling enforcement blocks new violations but does not repair existing orphans."
+}

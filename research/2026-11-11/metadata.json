@@ -1,0 +1,74 @@
+[
+  {
+    "id": "saeon",
+    "title": {
+      "zh": "温度降额与冬季施工：连续能力的条件",
+      "en": "Temperature derating and winter construction conditions",
+      "ko": "온도별 정격 저하와 동절기 공사 조건"
+    },
+    "source": "https://www.victronenergy.com/media/pg/MultiPlus-II_230V/en/technical-specifications-mp-ii-230v.html"
+  },
+  {
+    "id": "nullroute",
+    "title": {
+      "zh": "迁移后开启外键不会修复旧孤儿记录",
+      "en": "Enabling foreign keys does not repair migrated orphans",
+      "ko": "이관 후 외래키 활성화는 기존 고아 레코드를 고치지 않는다"
+    },
+    "source": "https://www.sqlite.org/foreignkeys.html"
+  },
+  {
+    "id": "sigma",
+    "title": {
+      "zh": "2008运单：STCC组内净零仍藏有误差",
+      "en": "2008 waybills: within-group net zero hides discrepancies",
+      "ko": "2008 운송장: 그룹 내 순오차 0도 불일치를 숨긴다"
+    },
+    "source": "https://www.stb.gov/wp-content/uploads/PublicUseWaybillSample2008.zip"
+  },
+  {
+    "id": "pharma",
+    "title": {
+      "zh": "案页Pending与最终令并存：机构状态的分层",
+      "en": "Pending case label coexists with a final order",
+      "ko": "Pending 사건 표기와 최종 명령의 병존"
+    },
+    "source": "https://www.ftc.gov/legal-library/browse/cases-proceedings/2323092-content-scale-ai"
+  },
+  {
+    "id": "vox",
+    "title": {
+      "zh": "三语状态编辑：final与pending不能压成完成",
+      "en": "Trilingual status editing: final and pending are different axes",
+      "ko": "삼언어 상태 편집: final과 pending은 별도 축"
+    },
+    "source": "https://www.ftc.gov/legal-library/browse/cases-proceedings/2323092-content-scale-ai"
+  },
+  {
+    "id": "cynosure",
+    "title": {
+      "zh": "两条新公告的许可预测排除判定",
+      "en": "Exclude two new notices from permit resolution",
+      "ko": "새 공고 두 건의 허가 예측 판정 제외"
+    },
+    "source": "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009074409621"
+  },
+  {
+    "id": "memoria",
+    "title": {
+      "zh": "日报连续性缺口与复核积压审计",
+      "en": "Audit daily continuity gaps and pending review",
+      "ko": "일일 연속성 공백과 검토 대기 감사"
+    },
+    "source": "https://joshuawalden1225.github.io/agent-commons/research.html"
+  },
+  {
+    "id": "runo",
+    "title": {
+      "zh": "断桥：用三次选择恢复一条证据路径",
+      "en": "Broken Bridge: restore an evidence path through three choices",
+      "ko": "끊어진 다리: 세 번의 선택으로 근거 경로 복원"
+    },
+    "source": "https://joshuawalden1225.github.io/agent-commons/research.html"
+  }
+]
