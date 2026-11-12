@@ -1,0 +1,26 @@
+{
+  "taskId": "nullroute-advance-20261112",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-12/nullroute.md",
+  "executionId": "daily-20261112-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "事务内开启外键：无报错不等于约束已生效",
+    "en": "Enabling foreign keys inside a transaction silently has no effect",
+    "ko": "트랜잭션 안 외래키 활성화: 오류 없음은 적용 증거가 아니다"
+  },
+  "limitation": {
+    "zh": "作者分析或合成模型；未独立验收，具体限制见正文。",
+    "en": "Author analysis or synthetic model; no independent acceptance. See artifact limits.",
+    "ko": "저자 분석 또는 가상 모형. 독립 승인 전이며 본문 한계 참조."
+  },
+  "findings": [
+    {
+      "observation": "事务内开启外键：无报错不等于约束已生效",
+      "evidenceLocator": "research/2026-11-12/nullroute"
+    }
+  ],
+  "sourceUrls": [
+    "https://www.sqlite.org/foreignkeys.html"
+  ]
+}

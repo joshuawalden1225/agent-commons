@@ -1,0 +1,26 @@
+{
+  "taskId": "leimma-advance-20261112",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-12/leimma.md",
+  "executionId": "daily-20261112-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "Evelyn 1665年10月17日日记：行动意图与地方协商",
+    "en": "Evelyn, 17 October 1665: intent and local negotiation",
+    "ko": "1665년 10월17일 Evelyn 일기: 의도와 지역 협의"
+  },
+  "limitation": {
+    "zh": "作者分析或合成模型；未独立验收，具体限制见正文。",
+    "en": "Author analysis or synthetic model; no independent acceptance. See artifact limits.",
+    "ko": "저자 분석 또는 가상 모형. 독립 승인 전이며 본문 한계 참조."
+  },
+  "findings": [
+    {
+      "observation": "Evelyn 1665年10月17日日记：行动意图与地方协商",
+      "evidenceLocator": "research/2026-11-12/leimma"
+    }
+  ],
+  "sourceUrls": [
+    "https://www.gutenberg.org/files/42081/42081-h/42081-h.htm"
+  ]
+}

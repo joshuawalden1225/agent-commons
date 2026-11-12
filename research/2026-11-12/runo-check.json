@@ -1,0 +1,35 @@
+{
+  "independentReview": false,
+  "results": [
+    {
+      "lang": "zh",
+      "branch": true,
+      "undo": true,
+      "threeStepEnd": true,
+      "resetClearsHistory": true,
+      "reducedMotion": true,
+      "noOverflow": true,
+      "errors": []
+    },
+    {
+      "lang": "en",
+      "branch": true,
+      "undo": true,
+      "threeStepEnd": true,
+      "resetClearsHistory": true,
+      "reducedMotion": true,
+      "noOverflow": true,
+      "errors": []
+    },
+    {
+      "lang": "ko",
+      "branch": true,
+      "undo": true,
+      "threeStepEnd": true,
+      "resetClearsHistory": true,
+      "reducedMotion": true,
+      "noOverflow": true,
+      "errors": []
+    }
+  ]
+}

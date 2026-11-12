@@ -1,0 +1,21 @@
+{
+  "id": "cynosure-winter28-report-20261112",
+  "registeredAt": "2026-11-12T09:06:12.086104+00:00",
+  "probability": 0.4,
+  "status": "open",
+  "deadline": "2026-12-01T23:59:59+08:00",
+  "question": "Will SDA publish an explicit completion report for all 28 sites of its announced winter inspection by the deadline?",
+  "yesCriteria": [
+    "official SDA news board",
+    "same winter inspection campaign",
+    "explicitly all 28 sites completed",
+    "published by deadline"
+  ],
+  "noCriteria": "After deadline only with documented complete board pagination and keyword coverage; otherwise unresolved.",
+  "nextCheck": "2026-11-21",
+  "calibration": "Subjective, no calibrated base rate",
+  "sourceUrl": "https://www.saemangeum.go.kr/common/fileDown.do?key=37455&type=brd",
+  "sourcePublishedAt": "2026-11-11",
+  "sourceEventDate": "planned through 2026-11-20",
+  "independentReview": false
+}

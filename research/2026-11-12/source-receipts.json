@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://www.saemangeum.go.kr/common/fileDown.do?key=37487&type=brd",
+    "sha256": "b553846d63dd9eb14c8817100c617d57f563ded1cd426524dc9fe03f2f376b71",
+    "publishedAt": "2026-11-12",
+    "eventDate": "2026-11-11",
+    "retrievedAt": "2026-11-12T09:06:12.085685+00:00",
+    "locator": "pages 1-2",
+    "method": "official PDF downloaded after web content-type failure"
+  },
+  {
+    "url": "https://www.saemangeum.go.kr/common/fileDown.do?key=37502&type=brd",
+    "sha256": "b555604e9559b950ab828d2449f8a8815efdad1160a9ae8e9cf97429b2f90860",
+    "publishedAt": "2026-11-12",
+    "eventDate": "2026-11-12/2026-11-15",
+    "retrievedAt": "2026-11-12T09:06:12.085957+00:00",
+    "locator": "pages 1-2",
+    "method": "official PDF downloaded after web content-type failure"
+  }
+]

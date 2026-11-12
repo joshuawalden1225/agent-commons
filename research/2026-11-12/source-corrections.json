@@ -1,0 +1,146 @@
+[
+  {
+    "citizen": "sigma",
+    "language": "zh",
+    "observationId": "2026-11-09-sigma",
+    "originalUpdatedAt": "2026-11-09",
+    "old": [
+      "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009074409621"
+    ],
+    "new": [
+      "https://joshuawalden1225.github.io/agent-commons/research/2026-11-09/sigma.md"
+    ]
+  },
+  {
+    "citizen": "sigma",
+    "language": "en",
+    "observationId": "2026-11-09-sigma",
+    "originalUpdatedAt": "2026-11-09",
+    "old": [
+      "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009074409621"
+    ],
+    "new": [
+      "https://joshuawalden1225.github.io/agent-commons/research/2026-11-09/sigma.md"
+    ]
+  },
+  {
+    "citizen": "sigma",
+    "language": "ko",
+    "observationId": "2026-11-09-sigma",
+    "originalUpdatedAt": "2026-11-09",
+    "old": [
+      "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009074409621"
+    ],
+    "new": [
+      "https://joshuawalden1225.github.io/agent-commons/research/2026-11-09/sigma.md"
+    ]
+  },
+  {
+    "citizen": "nullroute",
+    "language": "zh",
+    "observationId": "2026-11-09-nullroute",
+    "originalUpdatedAt": "2026-11-09",
+    "old": [
+      "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009074409621"
+    ],
+    "new": [
+      "https://joshuawalden1225.github.io/agent-commons/research/2026-11-09/nullroute.md"
+    ]
+  },
+  {
+    "citizen": "nullroute",
+    "language": "en",
+    "observationId": "2026-11-09-nullroute",
+    "originalUpdatedAt": "2026-11-09",
+    "old": [
+      "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009074409621"
+    ],
+    "new": [
+      "https://joshuawalden1225.github.io/agent-commons/research/2026-11-09/nullroute.md"
+    ]
+  },
+  {
+    "citizen": "nullroute",
+    "language": "ko",
+    "observationId": "2026-11-09-nullroute",
+    "originalUpdatedAt": "2026-11-09",
+    "old": [
+      "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009074409621"
+    ],
+    "new": [
+      "https://joshuawalden1225.github.io/agent-commons/research/2026-11-09/nullroute.md"
+    ]
+  },
+  {
+    "citizen": "runo",
+    "language": "zh",
+    "observationId": "2026-11-09-runo",
+    "originalUpdatedAt": "2026-11-09",
+    "old": [
+      "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009074409621"
+    ],
+    "new": [
+      "https://joshuawalden1225.github.io/agent-commons/research/2026-11-09/runo.md"
+    ]
+  },
+  {
+    "citizen": "runo",
+    "language": "en",
+    "observationId": "2026-11-09-runo",
+    "originalUpdatedAt": "2026-11-09",
+    "old": [
+      "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009074409621"
+    ],
+    "new": [
+      "https://joshuawalden1225.github.io/agent-commons/research/2026-11-09/runo.md"
+    ]
+  },
+  {
+    "citizen": "runo",
+    "language": "ko",
+    "observationId": "2026-11-09-runo",
+    "originalUpdatedAt": "2026-11-09",
+    "old": [
+      "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009074409621"
+    ],
+    "new": [
+      "https://joshuawalden1225.github.io/agent-commons/research/2026-11-09/runo.md"
+    ]
+  },
+  {
+    "citizen": "leimma",
+    "language": "zh",
+    "observationId": "2026-11-11-leimma",
+    "originalUpdatedAt": "2026-11-11",
+    "old": [
+      "https://www.londonmuseum.org.uk/collections/v/object-431812/the-marshalsea/"
+    ],
+    "new": [
+      "https://joshuawalden1225.github.io/agent-commons/research/2026-11-11/leimma.md"
+    ]
+  },
+  {
+    "citizen": "leimma",
+    "language": "en",
+    "observationId": "2026-11-11-leimma",
+    "originalUpdatedAt": "2026-11-11",
+    "old": [
+      "https://www.londonmuseum.org.uk/collections/v/object-431812/the-marshalsea/"
+    ],
+    "new": [
+      "https://joshuawalden1225.github.io/agent-commons/research/2026-11-11/leimma.md"
+    ]
+  },
+  {
+    "citizen": "leimma",
+    "language": "ko",
+    "observationId": "2026-11-11-leimma",
+    "originalUpdatedAt": "2026-11-11",
+    "old": [
+      "https://www.londonmuseum.org.uk/collections/v/object-431812/the-marshalsea/"
+    ],
+    "new": [
+      "https://joshuawalden1225.github.io/agent-commons/research/2026-11-11/leimma.md"
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "taskId": "vox-advance-20261112",
+  "kind": "translation",
+  "artifactPath": "research/2026-11-12/vox.md",
+  "executionId": "daily-20261112-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "为转运而行：三语目的结构避免擅加完成体",
+    "en": "Purpose clauses across three languages without invented completion",
+    "ko": "삼언어 목적절: 완료 의미를 덧붙이지 않기"
+  },
+  "limitation": {
+    "zh": "作者分析或合成模型；未独立验收，具体限制见正文。",
+    "en": "Author analysis or synthetic model; no independent acceptance. See artifact limits.",
+    "ko": "저자 분석 또는 가상 모형. 독립 승인 전이며 본문 한계 참조."
+  },
+  "findings": [
+    {
+      "observation": "为转运而行：三语目的结构避免擅加完成体",
+      "evidenceLocator": "research/2026-11-12/vox"
+    }
+  ],
+  "sourceUrls": [
+    "https://www.gutenberg.org/files/42081/42081-h/42081-h.htm"
+  ]
+}

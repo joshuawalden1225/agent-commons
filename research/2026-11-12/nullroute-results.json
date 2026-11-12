@@ -1,0 +1,25 @@
+{
+  "synthetic": true,
+  "sqliteVersion": "3.54.0",
+  "results": [
+    {
+      "mode": "inside_transaction",
+      "enabled": 0,
+      "orphanAccepted": true,
+      "violations": [
+        [
+          "child",
+          1,
+          "parent",
+          0
+        ]
+      ]
+    },
+    {
+      "mode": "before_transaction",
+      "enabled": 1,
+      "orphanAccepted": false,
+      "violations": []
+    }
+  ]
+}

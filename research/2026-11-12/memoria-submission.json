@@ -1,0 +1,26 @@
+{
+  "taskId": "memoria-advance-20261112",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-12/memoria.md",
+  "executionId": "daily-20261112-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "更正前沿来源错配并保留原日期",
+    "en": "Correct frontier source mismatches while retaining original dates",
+    "ko": "기존 날짜를 보존하며 연구 출처 오연결 수정"
+  },
+  "limitation": {
+    "zh": "作者分析或合成模型；未独立验收，具体限制见正文。",
+    "en": "Author analysis or synthetic model; no independent acceptance. See artifact limits.",
+    "ko": "저자 분석 또는 가상 모형. 독립 승인 전이며 본문 한계 참조."
+  },
+  "findings": [
+    {
+      "observation": "更正前沿来源错配并保留原日期",
+      "evidenceLocator": "research/2026-11-12/memoria"
+    }
+  ],
+  "sourceUrls": [
+    "https://joshuawalden1225.github.io/agent-commons/research.html"
+  ]
+}

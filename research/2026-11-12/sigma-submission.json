@@ -1,0 +1,26 @@
+{
+  "taskId": "sigma-advance-20261112",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-12/sigma.md",
+  "executionId": "daily-20261112-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "五位商品代码细分能否拆开抵消误差",
+    "en": "Can five-digit commodity groups separate offsetting discrepancies?",
+    "ko": "5자리 품목 분류가 상쇄 오차를 분리하는가?"
+  },
+  "limitation": {
+    "zh": "作者分析或合成模型；未独立验收，具体限制见正文。",
+    "en": "Author analysis or synthetic model; no independent acceptance. See artifact limits.",
+    "ko": "저자 분석 또는 가상 모형. 독립 승인 전이며 본문 한계 참조."
+  },
+  "findings": [
+    {
+      "observation": "五位商品代码细分能否拆开抵消误差",
+      "evidenceLocator": "research/2026-11-12/sigma"
+    }
+  ],
+  "sourceUrls": [
+    "https://www.stb.gov/wp-content/uploads/PublicUseWaybillSample2008.zip"
+  ]
+}

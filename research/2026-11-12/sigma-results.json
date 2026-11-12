@@ -1,0 +1,4634 @@
+{
+  "zipSHA256": "e00ee7297e9c201b496a8d0667592e8c766c6a4037d088bcf4386122b7a254ad",
+  "records": 622318,
+  "net": 0,
+  "absolute": 2,
+  "groups": {
+    "01129": {
+      "rows": 463,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "01131": {
+      "rows": 832,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "01132": {
+      "rows": 5133,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "01133": {
+      "rows": 658,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "01134": {
+      "rows": 91,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "01135": {
+      "rows": 21,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "01136": {
+      "rows": 238,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "01137": {
+      "rows": 4644,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "01139": {
+      "rows": 2836,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "01141": {
+      "rows": 236,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "01142": {
+      "rows": 64,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "01143": {
+      "rows": 121,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "01144": {
+      "rows": 1435,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "01149": {
+      "rows": 454,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "01151": {
+      "rows": 38,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "01152": {
+      "rows": 12,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "01159": {
+      "rows": 300,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "01191": {
+      "rows": 116,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "01194": {
+      "rows": 2,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "01195": {
+      "rows": 128,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "01197": {
+      "rows": 14,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "01198": {
+      "rows": 2,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "01211": {
+      "rows": 8,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "01212": {
+      "rows": 35,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "01214": {
+      "rows": 103,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "01219": {
+      "rows": 63,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "01221": {
+      "rows": 61,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "01224": {
+      "rows": 35,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "01227": {
+      "rows": 11,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "01228": {
+      "rows": 2,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "01229": {
+      "rows": 20,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "01232": {
+      "rows": 17,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "01239": {
+      "rows": 3,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "01294": {
+      "rows": 61,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "01295": {
+      "rows": 62,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "01298": {
+      "rows": 36,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "01299": {
+      "rows": 7,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "01312": {
+      "rows": 52,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "01318": {
+      "rows": 95,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "01331": {
+      "rows": 27,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "01334": {
+      "rows": 78,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "01335": {
+      "rows": 23,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "01337": {
+      "rows": 3,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "01339": {
+      "rows": 43,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "01341": {
+      "rows": 682,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "01342": {
+      "rows": 124,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "01343": {
+      "rows": 65,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "01349": {
+      "rows": 3,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "01394": {
+      "rows": 3,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "01397": {
+      "rows": 4,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "01398": {
+      "rows": 47,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "01399": {
+      "rows": 523,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "01421": {
+      "rows": 2,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "01912": {
+      "rows": 24,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "01915": {
+      "rows": 16,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "01919": {
+      "rows": 8,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "01991": {
+      "rows": 9,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "08422": {
+      "rows": 2,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "08423": {
+      "rows": 28,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "08611": {
+      "rows": 21,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "09121": {
+      "rows": 24,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "09122": {
+      "rows": 17,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "10111": {
+      "rows": 45,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "10112": {
+      "rows": 19,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "10113": {
+      "rows": 2449,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "10212": {
+      "rows": 314,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "10311": {
+      "rows": 5,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "10312": {
+      "rows": 14,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "10322": {
+      "rows": 14,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "10332": {
+      "rows": 55,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "10511": {
+      "rows": 115,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "10513": {
+      "rows": 487,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "10514": {
+      "rows": 2,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "10929": {
+      "rows": 174,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "11112": {
+      "rows": 77,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "11211": {
+      "rows": 33,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "11212": {
+      "rows": 31581,
+      "net": 0,
+      "absolute": 2,
+      "mismatches": 2
+    },
+    "11221": {
+      "rows": 260,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "13111": {
+      "rows": 139,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "13211": {
+      "rows": 413,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "14111": {
+      "rows": 29,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "14211": {
+      "rows": 12,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "14212": {
+      "rows": 214,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "14219": {
+      "rows": 5571,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "14411": {
+      "rows": 236,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "14412": {
+      "rows": 422,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "14413": {
+      "rows": 3373,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "14511": {
+      "rows": 97,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "14514": {
+      "rows": 48,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "14519": {
+      "rows": 66,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "14711": {
+      "rows": 208,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "14712": {
+      "rows": 14,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "14713": {
+      "rows": 22,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "14714": {
+      "rows": 1085,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "14715": {
+      "rows": 375,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "14716": {
+      "rows": 1406,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "14911": {
+      "rows": 111,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "14913": {
+      "rows": 10,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "14914": {
+      "rows": 63,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "14915": {
+      "rows": 5,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "14916": {
+      "rows": 10,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "14917": {
+      "rows": 25,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "14918": {
+      "rows": 156,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "14919": {
+      "rows": 213,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "14922": {
+      "rows": 30,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "19000": {
+      "rows": 150,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20111": {
+      "rows": 33,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20121": {
+      "rows": 31,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20129": {
+      "rows": 333,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20131": {
+      "rows": 44,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20132": {
+      "rows": 3,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20134": {
+      "rows": 27,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20139": {
+      "rows": 261,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20141": {
+      "rows": 247,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20143": {
+      "rows": 612,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20144": {
+      "rows": 409,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20149": {
+      "rows": 33,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20158": {
+      "rows": 14,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20161": {
+      "rows": 260,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20211": {
+      "rows": 37,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20231": {
+      "rows": 85,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20233": {
+      "rows": 21,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20241": {
+      "rows": 14,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20251": {
+      "rows": 164,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20259": {
+      "rows": 49,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20311": {
+      "rows": 16,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20321": {
+      "rows": 20,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20322": {
+      "rows": 12,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20323": {
+      "rows": 40,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20329": {
+      "rows": 13,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20331": {
+      "rows": 87,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20332": {
+      "rows": 191,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20334": {
+      "rows": 252,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20336": {
+      "rows": 536,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20338": {
+      "rows": 28,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20339": {
+      "rows": 61,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20341": {
+      "rows": 102,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20342": {
+      "rows": 21,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20343": {
+      "rows": 51,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20352": {
+      "rows": 59,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20354": {
+      "rows": 61,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20359": {
+      "rows": 699,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20361": {
+      "rows": 17,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20362": {
+      "rows": 6,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20371": {
+      "rows": 27,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20372": {
+      "rows": 14,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20373": {
+      "rows": 596,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20379": {
+      "rows": 23,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20381": {
+      "rows": 608,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20391": {
+      "rows": 151,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20411": {
+      "rows": 1506,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20412": {
+      "rows": 260,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20413": {
+      "rows": 483,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20414": {
+      "rows": 3,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20416": {
+      "rows": 93,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20418": {
+      "rows": 59,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20419": {
+      "rows": 665,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20421": {
+      "rows": 1626,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20423": {
+      "rows": 10,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20431": {
+      "rows": 570,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20432": {
+      "rows": 88,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20441": {
+      "rows": 650,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20442": {
+      "rows": 55,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20443": {
+      "rows": 225,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20449": {
+      "rows": 10,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20452": {
+      "rows": 142,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20461": {
+      "rows": 2949,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20462": {
+      "rows": 617,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20463": {
+      "rows": 58,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20465": {
+      "rows": 254,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20466": {
+      "rows": 52,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20467": {
+      "rows": 408,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20469": {
+      "rows": 176,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20471": {
+      "rows": 136,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20472": {
+      "rows": 9,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20511": {
+      "rows": 67,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20521": {
+      "rows": 17,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20529": {
+      "rows": 93,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20616": {
+      "rows": 169,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20617": {
+      "rows": 241,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20619": {
+      "rows": 184,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20621": {
+      "rows": 1325,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20622": {
+      "rows": 17,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20625": {
+      "rows": 82,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20711": {
+      "rows": 262,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20712": {
+      "rows": 36,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20713": {
+      "rows": 309,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20714": {
+      "rows": 11,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20719": {
+      "rows": 76,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20821": {
+      "rows": 2064,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20823": {
+      "rows": 286,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20831": {
+      "rows": 1029,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20832": {
+      "rows": 10,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20839": {
+      "rows": 6,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20841": {
+      "rows": 1521,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20851": {
+      "rows": 554,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20859": {
+      "rows": 1101,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20861": {
+      "rows": 211,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20871": {
+      "rows": 630,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20911": {
+      "rows": 126,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20914": {
+      "rows": 97,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20915": {
+      "rows": 59,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20921": {
+      "rows": 1827,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20923": {
+      "rows": 4023,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20931": {
+      "rows": 25,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20933": {
+      "rows": 1187,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20939": {
+      "rows": 865,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20941": {
+      "rows": 2,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20942": {
+      "rows": 23,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20951": {
+      "rows": 114,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20961": {
+      "rows": 21,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20962": {
+      "rows": 4,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20981": {
+      "rows": 43,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20991": {
+      "rows": 4,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20992": {
+      "rows": 40,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20993": {
+      "rows": 29,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20994": {
+      "rows": 14,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20995": {
+      "rows": 2742,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20996": {
+      "rows": 3,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20997": {
+      "rows": 147,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20998": {
+      "rows": 20,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "20999": {
+      "rows": 585,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "22112": {
+      "rows": 3,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "22119": {
+      "rows": 73,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "22211": {
+      "rows": 25,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "22411": {
+      "rows": 15,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "22721": {
+      "rows": 4,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "22799": {
+      "rows": 131,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "22811": {
+      "rows": 5,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "22819": {
+      "rows": 8,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "22911": {
+      "rows": 5,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "22931": {
+      "rows": 99,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "22991": {
+      "rows": 10,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "22995": {
+      "rows": 11,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "22999": {
+      "rows": 56,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "23111": {
+      "rows": 346,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "23311": {
+      "rows": 42,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "23521": {
+      "rows": 2,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "23851": {
+      "rows": 10,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "23871": {
+      "rows": 2,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "23891": {
+      "rows": 2,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "23911": {
+      "rows": 2,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "23923": {
+      "rows": 4,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "23925": {
+      "rows": 8,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "23926": {
+      "rows": 3,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "23929": {
+      "rows": 11,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "23931": {
+      "rows": 5,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "23941": {
+      "rows": 2,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "23942": {
+      "rows": 16,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "23949": {
+      "rows": 6,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "23991": {
+      "rows": 2,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "23999": {
+      "rows": 3281,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "24111": {
+      "rows": 429,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "24112": {
+      "rows": 112,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "24113": {
+      "rows": 3,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "24114": {
+      "rows": 776,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "24115": {
+      "rows": 3143,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "24116": {
+      "rows": 17,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "24117": {
+      "rows": 68,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "24119": {
+      "rows": 44,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "24211": {
+      "rows": 5460,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "24214": {
+      "rows": 295,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "24215": {
+      "rows": 73,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "24219": {
+      "rows": 21,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "24291": {
+      "rows": 37,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "24293": {
+      "rows": 9,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "24299": {
+      "rows": 9,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "24313": {
+      "rows": 2,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "24314": {
+      "rows": 39,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "24316": {
+      "rows": 33,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "24319": {
+      "rows": 11,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "24321": {
+      "rows": 1026,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "24332": {
+      "rows": 4,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "24333": {
+      "rows": 16,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "24341": {
+      "rows": 8,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "24391": {
+      "rows": 142,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "24411": {
+      "rows": 8,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "24414": {
+      "rows": 2,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "24415": {
+      "rows": 2,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "24911": {
+      "rows": 125,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "24912": {
+      "rows": 78,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "24913": {
+      "rows": 5,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "24991": {
+      "rows": 1268,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "24992": {
+      "rows": 106,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "24993": {
+      "rows": 18,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "24996": {
+      "rows": 783,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "24997": {
+      "rows": 40,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "24999": {
+      "rows": 211,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "25111": {
+      "rows": 11,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "25121": {
+      "rows": 6,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "25161": {
+      "rows": 28,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "25173": {
+      "rows": 3,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "25179": {
+      "rows": 27,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "25181": {
+      "rows": 4,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "25199": {
+      "rows": 207,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "25314": {
+      "rows": 4,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "25319": {
+      "rows": 3,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "25411": {
+      "rows": 1225,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "25421": {
+      "rows": 82,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "25515": {
+      "rows": 33,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "25911": {
+      "rows": 2,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "25999": {
+      "rows": 299,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "26111": {
+      "rows": 3046,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "26112": {
+      "rows": 204,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "26211": {
+      "rows": 1350,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "26212": {
+      "rows": 1069,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "26213": {
+      "rows": 2878,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "26214": {
+      "rows": 183,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "26217": {
+      "rows": 887,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "26218": {
+      "rows": 58,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "26219": {
+      "rows": 946,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "26311": {
+      "rows": 8142,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "26421": {
+      "rows": 4,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "26431": {
+      "rows": 55,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "26451": {
+      "rows": 68,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "26453": {
+      "rows": 2,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "26459": {
+      "rows": 22,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "26462": {
+      "rows": 5,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "26469": {
+      "rows": 13,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "26471": {
+      "rows": 1935,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "26472": {
+      "rows": 2,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "26491": {
+      "rows": 23,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "26495": {
+      "rows": 2,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "26497": {
+      "rows": 12,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "26499": {
+      "rows": 254,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "26511": {
+      "rows": 54,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "26515": {
+      "rows": 2,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "26542": {
+      "rows": 14,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "26543": {
+      "rows": 582,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "26545": {
+      "rows": 5,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "26551": {
+      "rows": 741,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "26611": {
+      "rows": 14,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "26613": {
+      "rows": 7,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "26614": {
+      "rows": 73,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "27211": {
+      "rows": 37,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "27311": {
+      "rows": 87,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "27411": {
+      "rows": 125,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "27417": {
+      "rows": 8,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "27419": {
+      "rows": 291,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "27711": {
+      "rows": 3,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "27911": {
+      "rows": 6,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "28121": {
+      "rows": 50,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "28122": {
+      "rows": 1666,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "28123": {
+      "rows": 3384,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "28124": {
+      "rows": 215,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "28125": {
+      "rows": 2426,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "28126": {
+      "rows": 466,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "28128": {
+      "rows": 856,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "28133": {
+      "rows": 451,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "28134": {
+      "rows": 47,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "28139": {
+      "rows": 846,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "28141": {
+      "rows": 280,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "28151": {
+      "rows": 1216,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "28152": {
+      "rows": 89,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "28156": {
+      "rows": 10,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "28161": {
+      "rows": 123,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "28163": {
+      "rows": 10,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "28169": {
+      "rows": 19,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "28180": {
+      "rows": 191,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "28181": {
+      "rows": 1945,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "28182": {
+      "rows": 624,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "28183": {
+      "rows": 499,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "28184": {
+      "rows": 6525,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "28185": {
+      "rows": 992,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "28186": {
+      "rows": 1246,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "28187": {
+      "rows": 7,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "28188": {
+      "rows": 4,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "28189": {
+      "rows": 232,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "28190": {
+      "rows": 7,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "28191": {
+      "rows": 540,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "28192": {
+      "rows": 54,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "28193": {
+      "rows": 1799,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "28194": {
+      "rows": 944,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "28195": {
+      "rows": 207,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "28196": {
+      "rows": 34,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "28197": {
+      "rows": 54,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "28198": {
+      "rows": 1052,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "28199": {
+      "rows": 921,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "28211": {
+      "rows": 13786,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "28212": {
+      "rows": 257,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "28213": {
+      "rows": 41,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "28311": {
+      "rows": 210,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "28312": {
+      "rows": 5,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "28419": {
+      "rows": 1505,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "28422": {
+      "rows": 138,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "28423": {
+      "rows": 29,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "28431": {
+      "rows": 167,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "28441": {
+      "rows": 210,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "28511": {
+      "rows": 59,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "28512": {
+      "rows": 102,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "28519": {
+      "rows": 78,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "28612": {
+      "rows": 264,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "28712": {
+      "rows": 1323,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "28713": {
+      "rows": 1399,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "28714": {
+      "rows": 900,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "28719": {
+      "rows": 15,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "28799": {
+      "rows": 330,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "28911": {
+      "rows": 104,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "28921": {
+      "rows": 34,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "28931": {
+      "rows": 39,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "28991": {
+      "rows": 608,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "28993": {
+      "rows": 55,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "28994": {
+      "rows": 682,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "28995": {
+      "rows": 26,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "28996": {
+      "rows": 407,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "28997": {
+      "rows": 35,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "28998": {
+      "rows": 489,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "28999": {
+      "rows": 1668,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "29111": {
+      "rows": 546,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "29113": {
+      "rows": 546,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "29114": {
+      "rows": 1230,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "29116": {
+      "rows": 1791,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "29117": {
+      "rows": 1608,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "29119": {
+      "rows": 1151,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "29121": {
+      "rows": 4192,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "29521": {
+      "rows": 47,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "29522": {
+      "rows": 13,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "29523": {
+      "rows": 179,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "29529": {
+      "rows": 45,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "29911": {
+      "rows": 16,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "29912": {
+      "rows": 113,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "29913": {
+      "rows": 1479,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "29914": {
+      "rows": 827,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "29919": {
+      "rows": 54,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "30111": {
+      "rows": 663,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "30119": {
+      "rows": 529,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "30211": {
+      "rows": 30,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "30212": {
+      "rows": 2,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "30412": {
+      "rows": 13,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "30613": {
+      "rows": 5,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "30614": {
+      "rows": 8,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "30618": {
+      "rows": 10,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "30619": {
+      "rows": 16,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "30711": {
+      "rows": 1131,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "30712": {
+      "rows": 13,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "30713": {
+      "rows": 45,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "30714": {
+      "rows": 95,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "30715": {
+      "rows": 5,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "30716": {
+      "rows": 532,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "30718": {
+      "rows": 193,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "30719": {
+      "rows": 127,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "30729": {
+      "rows": 12,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "31111": {
+      "rows": 2,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "31311": {
+      "rows": 3,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "31411": {
+      "rows": 85,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "31611": {
+      "rows": 18,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "32112": {
+      "rows": 2,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "32113": {
+      "rows": 30,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "32119": {
+      "rows": 8,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "32211": {
+      "rows": 6,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "32212": {
+      "rows": 23,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "32219": {
+      "rows": 22,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "32291": {
+      "rows": 27,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "32292": {
+      "rows": 37,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "32293": {
+      "rows": 27,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "32295": {
+      "rows": 4,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "32299": {
+      "rows": 196,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "32411": {
+      "rows": 3827,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "32412": {
+      "rows": 102,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "32511": {
+      "rows": 180,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "32512": {
+      "rows": 5,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "32531": {
+      "rows": 108,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "32551": {
+      "rows": 9,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "32552": {
+      "rows": 23,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "32611": {
+      "rows": 4,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "32621": {
+      "rows": 5,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "32699": {
+      "rows": 9,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "32711": {
+      "rows": 2,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "32714": {
+      "rows": 2,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "32715": {
+      "rows": 10,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "32719": {
+      "rows": 110,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "32741": {
+      "rows": 1054,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "32752": {
+      "rows": 88,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "32754": {
+      "rows": 693,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "32811": {
+      "rows": 4,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "32819": {
+      "rows": 3,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "32911": {
+      "rows": 13,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "32912": {
+      "rows": 36,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "32914": {
+      "rows": 3,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "32929": {
+      "rows": 8,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "32931": {
+      "rows": 91,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "32932": {
+      "rows": 11,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "32951": {
+      "rows": 2,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "32952": {
+      "rows": 3308,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "32953": {
+      "rows": 23,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "32954": {
+      "rows": 65,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "32955": {
+      "rows": 25,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "32956": {
+      "rows": 43,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "32957": {
+      "rows": 11,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "32958": {
+      "rows": 4,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "32959": {
+      "rows": 2487,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "32961": {
+      "rows": 12,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "32996": {
+      "rows": 48,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "32999": {
+      "rows": 8,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "33111": {
+      "rows": 196,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "33112": {
+      "rows": 4,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "33119": {
+      "rows": 29,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "33121": {
+      "rows": 2627,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "33122": {
+      "rows": 1241,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "33123": {
+      "rows": 7889,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "33124": {
+      "rows": 1541,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "33125": {
+      "rows": 1082,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "33126": {
+      "rows": 1485,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "33127": {
+      "rows": 187,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "33128": {
+      "rows": 304,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "33129": {
+      "rows": 28,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "33131": {
+      "rows": 7,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "33132": {
+      "rows": 4,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "33133": {
+      "rows": 10,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "33134": {
+      "rows": 28,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "33135": {
+      "rows": 35,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "33151": {
+      "rows": 37,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "33152": {
+      "rows": 5,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "33155": {
+      "rows": 19,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "33211": {
+      "rows": 104,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "33219": {
+      "rows": 21,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "33311": {
+      "rows": 289,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "33312": {
+      "rows": 4,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "33321": {
+      "rows": 91,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "33331": {
+      "rows": 189,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "33332": {
+      "rows": 30,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "33341": {
+      "rows": 491,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "33342": {
+      "rows": 6,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "33398": {
+      "rows": 10,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "33399": {
+      "rows": 20,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "33511": {
+      "rows": 11,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "33521": {
+      "rows": 205,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "33523": {
+      "rows": 50,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "33529": {
+      "rows": 13,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "33562": {
+      "rows": 3,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "33563": {
+      "rows": 5,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "33569": {
+      "rows": 2,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "33571": {
+      "rows": 2,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "33572": {
+      "rows": 2,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "33573": {
+      "rows": 80,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "33574": {
+      "rows": 22,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "33911": {
+      "rows": 8,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "33991": {
+      "rows": 39,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "33992": {
+      "rows": 11,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "33999": {
+      "rows": 77,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "34111": {
+      "rows": 9,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "34215": {
+      "rows": 12,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "34239": {
+      "rows": 46,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "34281": {
+      "rows": 4,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "34285": {
+      "rows": 3,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "34291": {
+      "rows": 8,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "34294": {
+      "rows": 9,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "34298": {
+      "rows": 34,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "34299": {
+      "rows": 681,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "34311": {
+      "rows": 7,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "34312": {
+      "rows": 13,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "34321": {
+      "rows": 14,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "34331": {
+      "rows": 6,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "34332": {
+      "rows": 5,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "34333": {
+      "rows": 5,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "34334": {
+      "rows": 4,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "34339": {
+      "rows": 11,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "34411": {
+      "rows": 15,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "34421": {
+      "rows": 42,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "34422": {
+      "rows": 11,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "34431": {
+      "rows": 2,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "34432": {
+      "rows": 3,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "34433": {
+      "rows": 6,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "34434": {
+      "rows": 4,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "34435": {
+      "rows": 19,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "34439": {
+      "rows": 8,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "34441": {
+      "rows": 11,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "34444": {
+      "rows": 6,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "34446": {
+      "rows": 4,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "34449": {
+      "rows": 22,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "34462": {
+      "rows": 2,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "34499": {
+      "rows": 29,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "34521": {
+      "rows": 26,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "34529": {
+      "rows": 12,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "34611": {
+      "rows": 92,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "34612": {
+      "rows": 2,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "34614": {
+      "rows": 79,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "34615": {
+      "rows": 51,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "34616": {
+      "rows": 3,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "34619": {
+      "rows": 19,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "34813": {
+      "rows": 7,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "34815": {
+      "rows": 9,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "34816": {
+      "rows": 4,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "34819": {
+      "rows": 7,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "34912": {
+      "rows": 29,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "34919": {
+      "rows": 50,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "34921": {
+      "rows": 4,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "34941": {
+      "rows": 12,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "34942": {
+      "rows": 38,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "34994": {
+      "rows": 15,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "34997": {
+      "rows": 33,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "34998": {
+      "rows": 23,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "34999": {
+      "rows": 36,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "35112": {
+      "rows": 84,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "35199": {
+      "rows": 2,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "35222": {
+      "rows": 80,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "35223": {
+      "rows": 3,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "35225": {
+      "rows": 49,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "35229": {
+      "rows": 9,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "35241": {
+      "rows": 38,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "35311": {
+      "rows": 15,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "35314": {
+      "rows": 14,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "35318": {
+      "rows": 21,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "35319": {
+      "rows": 145,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "35322": {
+      "rows": 41,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "35339": {
+      "rows": 2,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "35341": {
+      "rows": 41,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "35351": {
+      "rows": 5,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "35361": {
+      "rows": 2,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "35371": {
+      "rows": 18,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "35373": {
+      "rows": 33,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "35412": {
+      "rows": 2,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "35484": {
+      "rows": 3,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "35489": {
+      "rows": 5,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "35515": {
+      "rows": 5,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "35516": {
+      "rows": 2,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "35519": {
+      "rows": 3,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "35522": {
+      "rows": 51,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "35531": {
+      "rows": 8,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "35541": {
+      "rows": 9,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "35552": {
+      "rows": 2,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "35599": {
+      "rows": 6,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "35611": {
+      "rows": 3,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "35614": {
+      "rows": 3,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "35619": {
+      "rows": 3,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "35641": {
+      "rows": 4,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "35642": {
+      "rows": 18,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "35661": {
+      "rows": 3,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "35669": {
+      "rows": 22,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "35691": {
+      "rows": 2,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "35741": {
+      "rows": 74,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "35791": {
+      "rows": 7,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "35799": {
+      "rows": 7,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "35811": {
+      "rows": 7,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "35821": {
+      "rows": 6,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "35853": {
+      "rows": 144,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "35855": {
+      "rows": 5,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "35856": {
+      "rows": 3,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "35857": {
+      "rows": 72,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "35891": {
+      "rows": 57,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "35892": {
+      "rows": 4,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "35999": {
+      "rows": 69,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "36113": {
+      "rows": 4,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "36129": {
+      "rows": 32,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "36211": {
+      "rows": 12,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "36212": {
+      "rows": 10,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "36219": {
+      "rows": 3,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "36221": {
+      "rows": 16,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "36232": {
+      "rows": 10,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "36311": {
+      "rows": 962,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "36321": {
+      "rows": 1429,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "36331": {
+      "rows": 89,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "36343": {
+      "rows": 764,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "36349": {
+      "rows": 2,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "36351": {
+      "rows": 2,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "36393": {
+      "rows": 38,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "36399": {
+      "rows": 13,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "36421": {
+      "rows": 48,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "36433": {
+      "rows": 2,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "36441": {
+      "rows": 2,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "36442": {
+      "rows": 2,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "36449": {
+      "rows": 4,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "36511": {
+      "rows": 24,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "36512": {
+      "rows": 139,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "36521": {
+      "rows": 3,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "36611": {
+      "rows": 4,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "36612": {
+      "rows": 7,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "36621": {
+      "rows": 6,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "36791": {
+      "rows": 12,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "36911": {
+      "rows": 212,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "36921": {
+      "rows": 13,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "36999": {
+      "rows": 39,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "37111": {
+      "rows": 20770,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "37112": {
+      "rows": 13429,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "37114": {
+      "rows": 11,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "37115": {
+      "rows": 14,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "37119": {
+      "rows": 141,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "37142": {
+      "rows": 485,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "37143": {
+      "rows": 358,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "37144": {
+      "rows": 218,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "37145": {
+      "rows": 31,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "37147": {
+      "rows": 3115,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "37148": {
+      "rows": 7,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "37149": {
+      "rows": 9269,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "37151": {
+      "rows": 20,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "37222": {
+      "rows": 11,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "37299": {
+      "rows": 51,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "37329": {
+      "rows": 3,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "37411": {
+      "rows": 62,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "37413": {
+      "rows": 32,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "37421": {
+      "rows": 13,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "37422": {
+      "rows": 4378,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "37426": {
+      "rows": 81,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "37428": {
+      "rows": 42,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "37429": {
+      "rows": 7,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "37511": {
+      "rows": 81,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "37512": {
+      "rows": 4,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "37513": {
+      "rows": 38,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "37691": {
+      "rows": 10,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "37999": {
+      "rows": 80,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "38119": {
+      "rows": 3,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "38411": {
+      "rows": 98,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "38421": {
+      "rows": 153,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "38612": {
+      "rows": 4,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "38615": {
+      "rows": 2,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "39411": {
+      "rows": 505,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "39421": {
+      "rows": 5,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "39494": {
+      "rows": 10,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "39497": {
+      "rows": 60,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "39499": {
+      "rows": 186,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "39521": {
+      "rows": 27,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "39522": {
+      "rows": 13,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "39531": {
+      "rows": 3,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "39621": {
+      "rows": 24,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "39911": {
+      "rows": 23,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "39921": {
+      "rows": 37,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "39932": {
+      "rows": 3,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "39991": {
+      "rows": 22,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "39995": {
+      "rows": 43,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "39996": {
+      "rows": 9,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "39998": {
+      "rows": 124,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "39999": {
+      "rows": 97,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "40112": {
+      "rows": 542,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "40211": {
+      "rows": 8202,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "40212": {
+      "rows": 64,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "40213": {
+      "rows": 8,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "40214": {
+      "rows": 73,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "40219": {
+      "rows": 1135,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "40221": {
+      "rows": 64,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "40241": {
+      "rows": 2101,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "40251": {
+      "rows": 381,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "40261": {
+      "rows": 36,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "40271": {
+      "rows": 13,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "40291": {
+      "rows": 4827,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "41111": {
+      "rows": 55,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "41112": {
+      "rows": 14,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "41114": {
+      "rows": 2296,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "41115": {
+      "rows": 19,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "41116": {
+      "rows": 510,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "41117": {
+      "rows": 68,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "41118": {
+      "rows": 967,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "41211": {
+      "rows": 43,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "42111": {
+      "rows": 5,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "42112": {
+      "rows": 15,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "42211": {
+      "rows": 43243,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "42311": {
+      "rows": 138,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "42312": {
+      "rows": 270,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "43111": {
+      "rows": 1257,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "43211": {
+      "rows": 3,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "44111": {
+      "rows": 5790,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "45111": {
+      "rows": 93,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "46111": {
+      "rows": 227707,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "46211": {
+      "rows": 1084,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "47111": {
+      "rows": 2143,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "48074": {
+      "rows": 2,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "48091": {
+      "rows": 5,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "48101": {
+      "rows": 7,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "48105": {
+      "rows": 42,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "48162": {
+      "rows": 3,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "48163": {
+      "rows": 89,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "48210": {
+      "rows": 5,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "48300": {
+      "rows": 23,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "48314": {
+      "rows": 3,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "48501": {
+      "rows": 34,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "48601": {
+      "rows": 178,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "48755": {
+      "rows": 27,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    },
+    "48756": {
+      "rows": 111,
+      "net": 0,
+      "absolute": 0,
+      "mismatches": 0
+    }
+  },
+  "mismatches": [
+    {
+      "row": 201784,
+      "stcc5": "11212",
+      "base": 5687433,
+      "factor": 3,
+      "stored": 17062300,
+      "delta": 1
+    },
+    {
+      "row": 226290,
+      "stcc5": "11212",
+      "base": 8441737,
+      "factor": 3,
+      "stored": 25325210,
+      "delta": -1
+    }
+  ],
+  "columns": {
+    "stcc5": "36-40",
+    "baseRevenue": "55-63",
+    "theoretical": "100-102",
+    "expandedRevenue": "231-241"
+  }
+}
