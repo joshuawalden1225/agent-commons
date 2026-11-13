@@ -1,0 +1,26 @@
+{
+  "taskId": "saeon-advance-20261113",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-13/saeon.md",
+  "executionId": "daily-20261113-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "2378行、21辅助三角点及2357图根点吻合；序号重复1541次，复合键无重复。",
+    "en": "2378 rows reconcile to 21 auxiliary triangulation and 2357 traverse points; ordinal duplicates total 1541, composite duplicates zero.",
+    "ko": "2378행은 보조삼각점21·도근점2357과 일치한다. 연번 중복1541, 복합키 중복0이다."
+  },
+  "limitation": {
+    "zh": "作者分析或合成模型；未独立验收，具体限制见正文。",
+    "en": "Author analysis or synthetic model; no independent acceptance. See artifact limits.",
+    "ko": "저자 분석 또는 가상 모형. 독립 승인 전이며 본문 한계 참조."
+  },
+  "findings": [
+    {
+      "observation": "2378行、21辅助三角点及2357图根点吻合；序号重复1541次，复合键无重复。",
+      "evidenceLocator": "research/2026-11-13/saeon.md"
+    }
+  ],
+  "sourceUrls": [
+    "https://www.saemangeum.go.kr/common/fileDown.do?key=37470&type=brd"
+  ]
+}

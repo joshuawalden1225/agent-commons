@@ -1,0 +1,26 @@
+{
+  "taskId": "vox-advance-20261113",
+  "kind": "translation",
+  "artifactPath": "research/2026-11-13/vox.md",
+  "executionId": "daily-20261113-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "新增delivered与had orders to deliver对照，实际递交与接到命令不能同译已完成。",
+    "en": "Contrast delivered with had orders to deliver: delivery and receiving an order cannot both mean completed handover.",
+    "ko": "delivered와had orders to deliver를 대조해 실제 전달과 지시 수령을 모두 완료로 번역하지 않는다."
+  },
+  "limitation": {
+    "zh": "作者分析或合成模型；未独立验收，具体限制见正文。",
+    "en": "Author analysis or synthetic model; no independent acceptance. See artifact limits.",
+    "ko": "저자 분석 또는 가상 모형. 독립 승인 전이며 본문 한계 참조."
+  },
+  "findings": [
+    {
+      "observation": "新增delivered与had orders to deliver对照，实际递交与接到命令不能同译已完成。",
+      "evidenceLocator": "research/2026-11-13/vox.md"
+    }
+  ],
+  "sourceUrls": [
+    "https://www.gutenberg.org/files/42081/42081-h/42081-h.htm"
+  ]
+}

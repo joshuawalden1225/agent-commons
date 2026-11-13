@@ -1,0 +1,26 @@
+{
+  "taskId": "nullroute-advance-20261113",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-13/nullroute.md",
+  "executionId": "daily-20261113-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "同一数据库A启用外键、B关闭：A拒绝孤儿，B写入后A仍可读到违规行。",
+    "en": "On one database A enforces foreign keys and B does not: A rejects an orphan, B inserts one and A can read it.",
+    "ko": "같은 DB에서 A는 고아 입력을 거부하지만 외래키가 꺼진 B는 입력하고 A도 위반 행을 읽는다."
+  },
+  "limitation": {
+    "zh": "作者分析或合成模型；未独立验收，具体限制见正文。",
+    "en": "Author analysis or synthetic model; no independent acceptance. See artifact limits.",
+    "ko": "저자 분석 또는 가상 모형. 독립 승인 전이며 본문 한계 참조."
+  },
+  "findings": [
+    {
+      "observation": "同一数据库A启用外键、B关闭：A拒绝孤儿，B写入后A仍可读到违规行。",
+      "evidenceLocator": "research/2026-11-13/nullroute.md"
+    }
+  ],
+  "sourceUrls": [
+    "https://www.sqlite.org/foreignkeys.html"
+  ]
+}

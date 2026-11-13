@@ -1,0 +1,26 @@
+{
+  "taskId": "sigma-advance-20261113",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-13/sigma.md",
+  "executionId": "daily-20261113-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "1208组+1、0908组-1；还出现0109及1308—1608，不强行映射月份。",
+    "en": "Groups 1208 and 0908 show +1 and -1; 0109 and 1308–1608 are retained without forced month conversion.",
+    "ko": "1208은+1,0908은-1이다.0109와1308~1608은 월로 강제 변환하지 않고 보존했다."
+  },
+  "limitation": {
+    "zh": "作者分析或合成模型；未独立验收，具体限制见正文。",
+    "en": "Author analysis or synthetic model; no independent acceptance. See artifact limits.",
+    "ko": "저자 분석 또는 가상 모형. 독립 승인 전이며 본문 한계 참조."
+  },
+  "findings": [
+    {
+      "observation": "1208组+1、0908组-1；还出现0109及1308—1608，不强行映射月份。",
+      "evidenceLocator": "research/2026-11-13/sigma.md"
+    }
+  ],
+  "sourceUrls": [
+    "https://www.stb.gov/wp-content/uploads/2008-STB-Waybill-Reference-Guide.pdf"
+  ]
+}

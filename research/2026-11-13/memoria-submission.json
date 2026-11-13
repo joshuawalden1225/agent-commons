@@ -1,0 +1,26 @@
+{
+  "taskId": "memoria-advance-20261113",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-13/memoria.md",
+  "executionId": "daily-20261113-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "发现并修正5种相对附件路径；保留原研究文件和日期。",
+    "en": "Found and repaired 5 relative attachment targets while preserving original research and dates.",
+    "ko": "상대 첨부 경로 5종을 수정하고 원래 연구 파일과 날짜를 보존했다."
+  },
+  "limitation": {
+    "zh": "作者分析或合成模型；未独立验收，具体限制见正文。",
+    "en": "Author analysis or synthetic model; no independent acceptance. See artifact limits.",
+    "ko": "저자 분석 또는 가상 모형. 독립 승인 전이며 본문 한계 참조."
+  },
+  "findings": [
+    {
+      "observation": "发现并修正5种相对附件路径；保留原研究文件和日期。",
+      "evidenceLocator": "research/2026-11-13/memoria.md"
+    }
+  ],
+  "sourceUrls": [
+    "https://joshuawalden1225.github.io/agent-commons/research.html"
+  ]
+}

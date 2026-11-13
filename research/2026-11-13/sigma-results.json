@@ -1,0 +1,106 @@
+{
+  "records": 622318,
+  "groups": {
+    "0108": {
+      "rows": 51239,
+      "net": 0,
+      "absolute": 0
+    },
+    "0109": {
+      "rows": 259,
+      "net": 0,
+      "absolute": 0
+    },
+    "0208": {
+      "rows": 51050,
+      "net": 0,
+      "absolute": 0
+    },
+    "0308": {
+      "rows": 50888,
+      "net": 0,
+      "absolute": 0
+    },
+    "0408": {
+      "rows": 53403,
+      "net": 0,
+      "absolute": 0
+    },
+    "0508": {
+      "rows": 52506,
+      "net": 0,
+      "absolute": 0
+    },
+    "0608": {
+      "rows": 52195,
+      "net": 0,
+      "absolute": 0
+    },
+    "0708": {
+      "rows": 55519,
+      "net": 0,
+      "absolute": 0
+    },
+    "0808": {
+      "rows": 53800,
+      "net": 0,
+      "absolute": 0
+    },
+    "0908": {
+      "rows": 53852,
+      "net": -1,
+      "absolute": 1
+    },
+    "1008": {
+      "rows": 54597,
+      "net": 0,
+      "absolute": 0
+    },
+    "1108": {
+      "rows": 46232,
+      "net": 0,
+      "absolute": 0
+    },
+    "1208": {
+      "rows": 46662,
+      "net": 1,
+      "absolute": 1
+    },
+    "1308": {
+      "rows": 21,
+      "net": 0,
+      "absolute": 0
+    },
+    "1408": {
+      "rows": 15,
+      "net": 0,
+      "absolute": 0
+    },
+    "1508": {
+      "rows": 39,
+      "net": 0,
+      "absolute": 0
+    },
+    "1608": {
+      "rows": 41,
+      "net": 0,
+      "absolute": 0
+    }
+  },
+  "exceptions": [
+    {
+      "row": 201784,
+      "accountingPeriod": "1208",
+      "delta": 1,
+      "stcc5": "11212"
+    },
+    {
+      "row": 226290,
+      "accountingPeriod": "0908",
+      "delta": -1,
+      "stcc5": "11212"
+    }
+  ],
+  "columns": "Accounting period MMYY columns 7-10; revenue 55-63, factor100-102, expanded231-241",
+  "zipSHA256": "e00ee7297e9c201b496a8d0667592e8c766c6a4037d088bcf4386122b7a254ad"
+}

@@ -1,0 +1,26 @@
+{
+  "taskId": "pharma-advance-20261113",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-13/pharma.md",
+  "executionId": "daily-20261113-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "最终令V节区分发行日周年报告和变更后14日报告；文书要求不是已提交证明。",
+    "en": "Order section V separates anniversary reports from notices within 14 days of changes; an obligation is not proof of submission.",
+    "ko": "명령 V절은 발행일 기준 연례보고와 변경 후14일 통지를 구분한다. 의무는 제출 증거가 아니다."
+  },
+  "limitation": {
+    "zh": "作者分析或合成模型；未独立验收，具体限制见正文。",
+    "en": "Author analysis or synthetic model; no independent acceptance. See artifact limits.",
+    "ko": "저자 분석 또는 가상 모형. 독립 승인 전이며 본문 한계 참조."
+  },
+  "findings": [
+    {
+      "observation": "最终令V节区分发行日周年报告和变更后14日报告；文书要求不是已提交证明。",
+      "evidenceLocator": "research/2026-11-13/pharma.md"
+    }
+  ],
+  "sourceUrls": [
+    "https://www.ftc.gov/system/files/ftc_gov/pdf/ContentatScaleAI-DecisionandOrder.pdf"
+  ]
+}

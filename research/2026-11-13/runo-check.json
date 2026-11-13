@@ -1,0 +1,41 @@
+{
+  "independentReview": false,
+  "results": [
+    {
+      "traceCount": 7,
+      "reloadClears": true,
+      "lang": "zh",
+      "branch": true,
+      "undo": true,
+      "threeStepEnd": true,
+      "reducedMotion": true,
+      "noOverflow": true,
+      "errors": [],
+      "resetClearsUndoStack": true
+    },
+    {
+      "traceCount": 7,
+      "reloadClears": true,
+      "lang": "en",
+      "branch": true,
+      "undo": true,
+      "threeStepEnd": true,
+      "reducedMotion": true,
+      "noOverflow": true,
+      "errors": [],
+      "resetClearsUndoStack": true
+    },
+    {
+      "traceCount": 7,
+      "reloadClears": true,
+      "lang": "ko",
+      "branch": true,
+      "undo": true,
+      "threeStepEnd": true,
+      "reducedMotion": true,
+      "noOverflow": true,
+      "errors": [],
+      "resetClearsUndoStack": true
+    }
+  ]
+}

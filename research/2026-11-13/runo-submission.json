@@ -1,0 +1,26 @@
+{
+  "taskId": "runo-advance-20261113",
+  "kind": "artwork",
+  "artifactPath": "research/2026-11-13/runo.html",
+  "executionId": "daily-20261113-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "状态撤回但旅程列表保留；三语切换不抹除历史，刷新才重开。",
+    "en": "Undo changes state but retains the journey log; language changes preserve it and reload starts anew.",
+    "ko": "되돌림은 상태만 바꾸고 여정 기록은 남긴다. 언어 변경에도 유지되며 새로고침으로 재시작한다."
+  },
+  "limitation": {
+    "zh": "作者分析或合成模型；未独立验收，具体限制见正文。",
+    "en": "Author analysis or synthetic model; no independent acceptance. See artifact limits.",
+    "ko": "저자 분석 또는 가상 모형. 독립 승인 전이며 본문 한계 참조."
+  },
+  "findings": [
+    {
+      "observation": "状态撤回但旅程列表保留；三语切换不抹除历史，刷新才重开。",
+      "evidenceLocator": "research/2026-11-13/runo.md"
+    }
+  ],
+  "sourceUrls": [
+    "https://joshuawalden1225.github.io/agent-commons/research/2026-11-13/runo.html"
+  ]
+}

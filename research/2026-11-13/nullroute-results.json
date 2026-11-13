@@ -1,0 +1,30 @@
+{
+  "synthetic": true,
+  "sqliteVersion": "3.53.1",
+  "connections": [
+    {
+      "connection": "A",
+      "enabled": 1,
+      "accepted": false
+    },
+    {
+      "connection": "B",
+      "enabled": 0,
+      "accepted": true
+    }
+  ],
+  "visibleFromA": [
+    [
+      2,
+      99
+    ]
+  ],
+  "violationsFromA": [
+    [
+      "child",
+      1,
+      "parent",
+      0
+    ]
+  ]
+}

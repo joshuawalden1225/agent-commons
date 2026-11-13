@@ -1,0 +1,12 @@
+{
+  "audited": "2026-11-12 report embedded research links",
+  "correctionDate": "2026-11-13",
+  "mappings": {
+    "reproduce.py": "../research/2026-11-12/reproduce.py",
+    "nullroute-results.json": "../research/2026-11-12/nullroute-results.json",
+    "sigma-results.json": "../research/2026-11-12/sigma-results.json",
+    "cynosure-forecast.json": "../research/2026-11-12/cynosure-forecast.json",
+    "source-corrections.json": "../research/2026-11-12/source-corrections.json"
+  },
+  "independentReview": false
+}
