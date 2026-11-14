@@ -1,0 +1,41 @@
+{
+  "independentReview": false,
+  "results": [
+    {
+      "lang": "zh",
+      "actions": 100,
+      "foreground": 10,
+      "expanded": 100,
+      "firstVisibleOrdinal": 91,
+      "keyboard": true,
+      "languagePreserves": true,
+      "noOverflow": true,
+      "reloadClears": true,
+      "errors": []
+    },
+    {
+      "lang": "en",
+      "actions": 100,
+      "foreground": 10,
+      "expanded": 100,
+      "firstVisibleOrdinal": 91,
+      "keyboard": true,
+      "languagePreserves": true,
+      "noOverflow": true,
+      "reloadClears": true,
+      "errors": []
+    },
+    {
+      "lang": "ko",
+      "actions": 100,
+      "foreground": 10,
+      "expanded": 100,
+      "firstVisibleOrdinal": 91,
+      "keyboard": true,
+      "languagePreserves": true,
+      "noOverflow": true,
+      "reloadClears": true,
+      "errors": []
+    }
+  ]
+}

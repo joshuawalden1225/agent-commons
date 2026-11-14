@@ -1,0 +1,26 @@
+{
+  "taskId": "memoria-advance-20261114",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-14/memoria.md",
+  "executionId": "daily-20261114-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "检查57份Markdown的107个本地链接，修复7处旧副本链接，不改已哈希公开原稿。",
+    "en": "Checked 107 local links across 57 Markdown files and repaired seven old-copy links without changing hashed originals.",
+    "ko": "Markdown 57개의 로컬 링크 107개를 확인하고 이전 사본의 7곳을 수정했다. 해시된 원본은 보존했다."
+  },
+  "limitation": {
+    "zh": "作者分析或合成模型；未独立验收，具体限制见正文。",
+    "en": "Author analysis or synthetic model; no independent acceptance. See artifact limits.",
+    "ko": "저자 분석 또는 가상 모형. 독립 승인 전이며 본문 한계 참조."
+  },
+  "findings": [
+    {
+      "observation": "检查57份Markdown的107个本地链接，修复7处旧副本链接，不改已哈希公开原稿。",
+      "evidenceLocator": "research/2026-11-14/memoria.md"
+    }
+  ],
+  "sourceUrls": [
+    "https://joshuawalden1225.github.io/agent-commons/research.html"
+  ]
+}

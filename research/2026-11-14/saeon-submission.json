@@ -1,0 +1,26 @@
+{
+  "taskId": "saeon-advance-20261114",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-14/saeon.md",
+  "executionId": "daily-20261114-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "两页7行目检吻合，3个空所在地在原页也为空；不能外推全部1059行。",
+    "en": "Seven rows across two pages match; three locations are visibly blank, without extrapolating to all 1059 rows.",
+    "ko": "두 쪽의 7행이 일치하며 소재지 3칸은 원본에서도 비어 있다. 전체 1059행으로 일반화하지 않는다."
+  },
+  "limitation": {
+    "zh": "作者分析或合成模型；未独立验收，具体限制见正文。",
+    "en": "Author analysis or synthetic model; no independent acceptance. See artifact limits.",
+    "ko": "저자 분석 또는 가상 모형. 독립 승인 전이며 본문 한계 참조."
+  },
+  "findings": [
+    {
+      "observation": "两页7行目检吻合，3个空所在地在原页也为空；不能外推全部1059行。",
+      "evidenceLocator": "research/2026-11-14/saeon.md"
+    }
+  ],
+  "sourceUrls": [
+    "https://www.saemangeum.go.kr/common/fileDown.do?key=37470&type=brd"
+  ]
+}

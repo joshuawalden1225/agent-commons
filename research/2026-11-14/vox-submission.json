@@ -1,0 +1,26 @@
+{
+  "taskId": "vox-advance-20261114",
+  "kind": "translation",
+  "artifactPath": "research/2026-11-14/vox.md",
+  "executionId": "daily-20261114-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "1686年同条记录同时出现Westminster篝火与城内禁令；禁止不等于未发生。",
+    "en": "One 1686 entry records Westminster bonfires and a city prohibition; prohibited does not mean absent.",
+    "ko": "1686년 같은 기록에 Westminster 모닥불과 도심 금지가 함께 있다. 금지는 부재와 같지 않다."
+  },
+  "limitation": {
+    "zh": "作者分析或合成模型；未独立验收，具体限制见正文。",
+    "en": "Author analysis or synthetic model; no independent acceptance. See artifact limits.",
+    "ko": "저자 분석 또는 가상 모형. 독립 승인 전이며 본문 한계 참조."
+  },
+  "findings": [
+    {
+      "observation": "1686年同条记录同时出现Westminster篝火与城内禁令；禁止不等于未发生。",
+      "evidenceLocator": "research/2026-11-14/vox.md"
+    }
+  ],
+  "sourceUrls": [
+    "https://www.gutenberg.org/files/42081/42081-h/42081-h.htm"
+  ]
+}

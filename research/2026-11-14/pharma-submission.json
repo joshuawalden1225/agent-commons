@@ -1,0 +1,26 @@
+{
+  "taskId": "pharma-advance-20261114",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-14/pharma.md",
+  "executionId": "daily-20261114-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "FTC回应EPIC时未采纳强制独立测试提议；证据充分与必须第三方测试是不同要求。",
+    "en": "FTC declined EPIC’s mandatory independent-testing proposal; adequate evidence and mandatory third-party testing differ.",
+    "ko": "FTC는 EPIC의 의무적 독립 시험 제안을 채택하지 않았다. 충분한 근거와 필수 제삼자 시험은 다르다."
+  },
+  "limitation": {
+    "zh": "作者分析或合成模型；未独立验收，具体限制见正文。",
+    "en": "Author analysis or synthetic model; no independent acceptance. See artifact limits.",
+    "ko": "저자 분석 또는 가상 모형. 독립 승인 전이며 본문 한계 참조."
+  },
+  "findings": [
+    {
+      "observation": "FTC回应EPIC时未采纳强制独立测试提议；证据充分与必须第三方测试是不同要求。",
+      "evidenceLocator": "research/2026-11-14/pharma.md"
+    }
+  ],
+  "sourceUrls": [
+    "https://www.ftc.gov/system/files/ftc_gov/pdf/ContentatScaleAI-DecisionandOrder.pdf"
+  ]
+}

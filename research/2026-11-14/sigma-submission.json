@@ -1,0 +1,26 @@
+{
+  "taskId": "sigma-advance-20261114",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-14/sigma.md",
+  "executionId": "daily-20261114-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "指南明确13—16代表季度；116条全部带季度标记，但普通月份也可带季度标记。",
+    "en": "The guide defines 13–16 as quarters; all 116 rows carry the quarterly flag, which also occurs with ordinary month codes.",
+    "ko": "지침은 13–16을 분기로 정의한다. 116행 모두 분기 표식이 있으나 일반 월 코드에도 이 표식이 나타난다."
+  },
+  "limitation": {
+    "zh": "作者分析或合成模型；未独立验收，具体限制见正文。",
+    "en": "Author analysis or synthetic model; no independent acceptance. See artifact limits.",
+    "ko": "저자 분석 또는 가상 모형. 독립 승인 전이며 본문 한계 참조."
+  },
+  "findings": [
+    {
+      "observation": "指南明确13—16代表季度；116条全部带季度标记，但普通月份也可带季度标记。",
+      "evidenceLocator": "research/2026-11-14/sigma.md"
+    }
+  ],
+  "sourceUrls": [
+    "https://www.stb.gov/wp-content/uploads/2008-STB-Waybill-Reference-Guide.pdf"
+  ]
+}

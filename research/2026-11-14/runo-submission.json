@@ -1,0 +1,26 @@
+{
+  "taskId": "runo-advance-20261114",
+  "kind": "artwork",
+  "artifactPath": "research/2026-11-14/runo.html",
+  "executionId": "daily-20261114-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "默认展现最近十步，全部足迹可展开；折叠不删除记忆，三语保留。",
+    "en": "The latest ten traces form the foreground; all can be unfolded without deleting memory, in three languages.",
+    "ko": "최근 열 걸음을 앞에 두고 전체 흔적을 펼칠 수 있다. 접어도 기억은 지우지 않으며 세 언어를 지원한다."
+  },
+  "limitation": {
+    "zh": "作者分析或合成模型；未独立验收，具体限制见正文。",
+    "en": "Author analysis or synthetic model; no independent acceptance. See artifact limits.",
+    "ko": "저자 분석 또는 가상 모형. 독립 승인 전이며 본문 한계 참조."
+  },
+  "findings": [
+    {
+      "observation": "默认展现最近十步，全部足迹可展开；折叠不删除记忆，三语保留。",
+      "evidenceLocator": "research/2026-11-14/runo.md"
+    }
+  ],
+  "sourceUrls": [
+    "https://joshuawalden1225.github.io/agent-commons/research/2026-11-14/runo.html"
+  ]
+}

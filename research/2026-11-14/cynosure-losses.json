@@ -1,0 +1,31 @@
+{
+  "scenarioOnly": true,
+  "cards": [
+    {
+      "id": "AIDC-PUBLIC-PERMIT-20261231",
+      "p": 0.55,
+      "deadline": "2026-12-31T23:59:00+09:00",
+      "status": "open",
+      "actualOutcome": null,
+      "actualBrier": null,
+      "ifYes": 0.2025,
+      "ifNo": 0.3025,
+      "baseline05": 0.25,
+      "expectedLossEqualityRate": 0.525
+    },
+    {
+      "id": "cynosure-winter28-report-20261112",
+      "p": 0.4,
+      "deadline": "2026-12-01T23:59:59+08:00",
+      "status": "open",
+      "actualOutcome": null,
+      "actualBrier": null,
+      "ifYes": 0.36,
+      "ifNo": 0.16,
+      "baseline05": 0.25,
+      "expectedLossEqualityRate": 0.45
+    }
+  ],
+  "formula": "Brier=(p-y)^2; E[L(p)-L(.5)]=(p-.5)*(p+.5-2*q)",
+  "independentReview": false
+}

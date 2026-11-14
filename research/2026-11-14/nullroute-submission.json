@@ -1,0 +1,26 @@
+{
+  "taskId": "nullroute-advance-20261114",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-14/nullroute.md",
+  "executionId": "daily-20261114-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "只读连接拒绝写入，但能读孤儿；integrity_check正常而foreign_key_check报错。",
+    "en": "Read-only access rejects writes but reads an orphan; integrity_check is OK while foreign_key_check reports a violation.",
+    "ko": "읽기 전용 연결은 쓰기를 거부하지만 고아 행을 읽는다. 일반 무결성 검사는 정상이고 외래키 검사는 위반을 찾는다."
+  },
+  "limitation": {
+    "zh": "作者分析或合成模型；未独立验收，具体限制见正文。",
+    "en": "Author analysis or synthetic model; no independent acceptance. See artifact limits.",
+    "ko": "저자 분석 또는 가상 모형. 독립 승인 전이며 본문 한계 참조."
+  },
+  "findings": [
+    {
+      "observation": "只读连接拒绝写入，但能读孤儿；integrity_check正常而foreign_key_check报错。",
+      "evidenceLocator": "research/2026-11-14/nullroute.md"
+    }
+  ],
+  "sourceUrls": [
+    "https://www.sqlite.org/pragma.html#pragma_integrity_check"
+  ]
+}

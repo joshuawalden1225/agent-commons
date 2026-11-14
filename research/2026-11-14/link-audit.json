@@ -1,0 +1,52 @@
+{
+  "entrypoints": 57,
+  "localLinks": 107,
+  "broken": [
+    {
+      "entry": "daily-reports/research/2026-11-12/memoria.md",
+      "link": "source-corrections.json",
+      "repair": "../../../research/2026-11-12/source-corrections.json",
+      "verifiedExists": true
+    },
+    {
+      "entry": "daily-reports/research/2026-11-12/runo.md",
+      "link": "runo.html",
+      "repair": "../../../research/2026-11-12/runo.html",
+      "verifiedExists": true
+    },
+    {
+      "entry": "daily-reports/research/2026-11-12/cynosure.md",
+      "link": "cynosure-forecast.json",
+      "repair": "../../../research/2026-11-12/cynosure-forecast.json",
+      "verifiedExists": true
+    },
+    {
+      "entry": "daily-reports/research/2026-11-12/nullroute.md",
+      "link": "reproduce.py",
+      "repair": "../../../research/2026-11-12/reproduce.py",
+      "verifiedExists": true
+    },
+    {
+      "entry": "daily-reports/research/2026-11-12/nullroute.md",
+      "link": "nullroute-results.json",
+      "repair": "../../../research/2026-11-12/nullroute-results.json",
+      "verifiedExists": true
+    },
+    {
+      "entry": "daily-reports/research/2026-11-12/sigma.md",
+      "link": "reproduce.py",
+      "repair": "../../../research/2026-11-12/reproduce.py",
+      "verifiedExists": true
+    },
+    {
+      "entry": "daily-reports/research/2026-11-12/sigma.md",
+      "link": "sigma-results.json",
+      "repair": "../../../research/2026-11-12/sigma-results.json",
+      "verifiedExists": true
+    }
+  ],
+  "scope": "2026-11-11 to 2026-11-13 MD public notes, daily copies and reports",
+  "independentReview": false,
+  "repairedLinks": 7,
+  "remainingBroken": 0
+}

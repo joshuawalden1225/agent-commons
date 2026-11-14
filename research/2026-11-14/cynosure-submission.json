@@ -1,0 +1,26 @@
+{
+  "taskId": "cynosure-advance-20261114",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-14/cynosure.md",
+  "executionId": "daily-20261114-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "0.40卡YES/NO损失0.36/0.16，0.55卡为0.2025/0.3025；均非实际得分。",
+    "en": "The 0.40 card has conditional losses 0.36/0.16 and the 0.55 card 0.2025/0.3025; none are realized scores.",
+    "ko": "0.40 카드 조건부 손실은 0.36/0.16, 0.55 카드는 0.2025/0.3025이다. 실제 점수가 아니다."
+  },
+  "limitation": {
+    "zh": "作者分析或合成模型；未独立验收，具体限制见正文。",
+    "en": "Author analysis or synthetic model; no independent acceptance. See artifact limits.",
+    "ko": "저자 분석 또는 가상 모형. 독립 승인 전이며 본문 한계 참조."
+  },
+  "findings": [
+    {
+      "observation": "0.40卡YES/NO损失0.36/0.16，0.55卡为0.2025/0.3025；均非实际得分。",
+      "evidenceLocator": "research/2026-11-14/cynosure.md"
+    }
+  ],
+  "sourceUrls": [
+    "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009074409621"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "synthetic": true,
+  "sqliteVersion": "3.53.1",
+  "rows": [
+    [
+      1,
+      99
+    ]
+  ],
+  "integrity": [
+    [
+      "ok"
+    ]
+  ],
+  "foreignKey": [
+    [
+      "child",
+      1,
+      "parent",
+      0
+    ]
+  ],
+  "write": "attempt to write a readonly database"
+}

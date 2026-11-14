@@ -1,0 +1,153 @@
+{
+  "rows": 622318,
+  "groups": [
+    {
+      "period": "0108",
+      "length": "1",
+      "rows": 38716
+    },
+    {
+      "period": "0108",
+      "length": "2",
+      "rows": 12523
+    },
+    {
+      "period": "0109",
+      "length": "1",
+      "rows": 259
+    },
+    {
+      "period": "0208",
+      "length": "1",
+      "rows": 39295
+    },
+    {
+      "period": "0208",
+      "length": "2",
+      "rows": 11755
+    },
+    {
+      "period": "0308",
+      "length": "1",
+      "rows": 38759
+    },
+    {
+      "period": "0308",
+      "length": "2",
+      "rows": 12129
+    },
+    {
+      "period": "0408",
+      "length": "1",
+      "rows": 37048
+    },
+    {
+      "period": "0408",
+      "length": "2",
+      "rows": 16355
+    },
+    {
+      "period": "0508",
+      "length": "1",
+      "rows": 36568
+    },
+    {
+      "period": "0508",
+      "length": "2",
+      "rows": 15938
+    },
+    {
+      "period": "0608",
+      "length": "1",
+      "rows": 36533
+    },
+    {
+      "period": "0608",
+      "length": "2",
+      "rows": 15662
+    },
+    {
+      "period": "0708",
+      "length": "1",
+      "rows": 39411
+    },
+    {
+      "period": "0708",
+      "length": "2",
+      "rows": 16108
+    },
+    {
+      "period": "0808",
+      "length": "1",
+      "rows": 38539
+    },
+    {
+      "period": "0808",
+      "length": "2",
+      "rows": 15261
+    },
+    {
+      "period": "0908",
+      "length": "1",
+      "rows": 37934
+    },
+    {
+      "period": "0908",
+      "length": "2",
+      "rows": 15918
+    },
+    {
+      "period": "1008",
+      "length": "1",
+      "rows": 48784
+    },
+    {
+      "period": "1008",
+      "length": "2",
+      "rows": 5813
+    },
+    {
+      "period": "1108",
+      "length": "1",
+      "rows": 41496
+    },
+    {
+      "period": "1108",
+      "length": "2",
+      "rows": 4736
+    },
+    {
+      "period": "1208",
+      "length": "1",
+      "rows": 42315
+    },
+    {
+      "period": "1208",
+      "length": "2",
+      "rows": 4347
+    },
+    {
+      "period": "1308",
+      "length": "2",
+      "rows": 21
+    },
+    {
+      "period": "1408",
+      "length": "2",
+      "rows": 15
+    },
+    {
+      "period": "1508",
+      "length": "2",
+      "rows": 39
+    },
+    {
+      "period": "1608",
+      "length": "2",
+      "rows": 41
+    }
+  ],
+  "quarterRows": 116,
+  "quarterFlagMismatches": [],
+  "sourceSHA256": "e00ee7297e9c201b496a8d0667592e8c766c6a4037d088bcf4386122b7a254ad"
+}
