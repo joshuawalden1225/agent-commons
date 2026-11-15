@@ -1,0 +1,26 @@
+{
+  "taskId": "sigma-advance-20261115",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-15/sigma.md",
+  "executionId": "daily-20261115-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "0109的259条运单日期均在2008年，范围10月11日至12月31日，无非法日期。",
+    "en": "All 259 records booked in 0109 carry valid 2008 waybill dates, from October 11 to December 31.",
+    "ko": "0109 회계 기록 259건의 운송장 날짜는 모두 2008년 10월 11일~12월 31일이며 유효하다."
+  },
+  "limitation": {
+    "zh": "作者分析或合成模型；未独立验收，具体限制见正文。",
+    "en": "Author analysis or synthetic model; no independent acceptance. See artifact limits.",
+    "ko": "저자 분석 또는 가상 모형. 독립 승인 전이며 본문 한계 참조."
+  },
+  "findings": [
+    {
+      "observation": "0109的259条运单日期均在2008年，范围10月11日至12月31日，无非法日期。",
+      "evidenceLocator": "research/2026-11-15/sigma.md"
+    }
+  ],
+  "sourceUrls": [
+    "https://www.stb.gov/wp-content/uploads/2008-STB-Waybill-Reference-Guide.pdf"
+  ]
+}

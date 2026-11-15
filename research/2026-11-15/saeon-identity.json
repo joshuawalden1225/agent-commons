@@ -1,0 +1,35 @@
+{
+  "rows": [
+    {
+      "page": 2,
+      "ordinal": 1,
+      "kind": "지적삼각보조점",
+      "name": "보229",
+      "x": "368,016.23",
+      "y": "183,764.13",
+      "origin": "중부",
+      "location": "전북특별자치도 군산시 대야면 복교리 1308-6",
+      "observed": "20151201",
+      "material": "철재",
+      "remark": "새만금방수제"
+    },
+    {
+      "page": 39,
+      "ordinal": 1,
+      "kind": "지적삼각보조점",
+      "name": "보252",
+      "x": "353,555.52",
+      "y": "180,575.97",
+      "origin": "중부",
+      "location": "전북특별자치도 김제시 죽산면 서포리 577-52",
+      "observed": "20151201",
+      "material": "철재",
+      "remark": "새만금방수제"
+    }
+  ],
+  "visualCheckedPages": [
+    2,
+    39
+  ],
+  "independentReview": false
+}

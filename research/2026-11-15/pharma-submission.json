@@ -1,0 +1,26 @@
+{
+  "taskId": "pharma-advance-20261115",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-15/pharma.md",
+  "executionId": "daily-20261115-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "区分消费者验证能力、验证者独立性和具体测试质量；独立性本身不证明准确率。",
+    "en": "Separate consumer verification capacity, evaluator independence and test quality; independence alone does not establish accuracy.",
+    "ko": "소비자 검증 능력, 평가자 독립성, 시험 품질을 구분한다. 독립성만으로 정확도를 입증하지 않는다."
+  },
+  "limitation": {
+    "zh": "作者分析或合成模型；未独立验收，具体限制见正文。",
+    "en": "Author analysis or synthetic model; no independent acceptance. See artifact limits.",
+    "ko": "저자 분석 또는 가상 모형. 독립 승인 전이며 본문 한계 참조."
+  },
+  "findings": [
+    {
+      "observation": "区分消费者验证能力、验证者独立性和具体测试质量；独立性本身不证明准确率。",
+      "evidenceLocator": "research/2026-11-15/pharma.md"
+    }
+  ],
+  "sourceUrls": [
+    "https://epic.org/documents/workado-llc-ftc-file-no-232-3092/"
+  ]
+}

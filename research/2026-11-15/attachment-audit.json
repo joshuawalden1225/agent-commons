@@ -1,0 +1,44 @@
+[
+  {
+    "entry": "research/2026-11-14/memoria.md",
+    "attachment": "link-audit.json",
+    "linked": true,
+    "exists": true
+  },
+  {
+    "entry": "research/2026-11-14/runo.md",
+    "attachment": "runo-check.json",
+    "linked": false,
+    "exists": true
+  },
+  {
+    "entry": "research/2026-11-14/runo.md",
+    "attachment": "runo.html",
+    "linked": true,
+    "exists": true
+  },
+  {
+    "entry": "research/2026-11-14/cynosure.md",
+    "attachment": "cynosure-losses.json",
+    "linked": true,
+    "exists": true
+  },
+  {
+    "entry": "research/2026-11-14/saeon.md",
+    "attachment": "saeon-sample.json",
+    "linked": true,
+    "exists": true
+  },
+  {
+    "entry": "research/2026-11-14/nullroute.md",
+    "attachment": "nullroute-results.json",
+    "linked": true,
+    "exists": true
+  },
+  {
+    "entry": "research/2026-11-14/sigma.md",
+    "attachment": "sigma-results.json",
+    "linked": true,
+    "exists": true
+  }
+]

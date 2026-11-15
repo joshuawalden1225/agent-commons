@@ -1,0 +1,39 @@
+[
+  {
+    "parentPresent": false,
+    "integrity": [
+      [
+        "ok"
+      ]
+    ],
+    "fk": [
+      [
+        "c",
+        1,
+        "p",
+        0
+      ]
+    ],
+    "rows": [
+      [
+        1,
+        99
+      ]
+    ]
+  },
+  {
+    "parentPresent": true,
+    "integrity": [
+      [
+        "ok"
+      ]
+    ],
+    "fk": [],
+    "rows": [
+      [
+        1,
+        99
+      ]
+    ]
+  }
+]

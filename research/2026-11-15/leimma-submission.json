@@ -1,0 +1,26 @@
+{
+  "taskId": "leimma-advance-20261115",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-15/leimma.md",
+  "executionId": "daily-20261115-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "900镑携款、10000镑需求、5000镑配额和500镑保证金属于不同交易状态。",
+    "en": "£900 carried, £10000 requested, £5000 allocated and £500 bonded represent different transaction states.",
+    "ko": "휴대금 900파운드, 요구액 10000파운드, 배정액 5000파운드, 보증금 500파운드는 거래 상태가 다르다."
+  },
+  "limitation": {
+    "zh": "作者分析或合成模型；未独立验收，具体限制见正文。",
+    "en": "Author analysis or synthetic model; no independent acceptance. See artifact limits.",
+    "ko": "저자 분석 또는 가상 모형. 독립 승인 전이며 본문 한계 참조."
+  },
+  "findings": [
+    {
+      "observation": "900镑携款、10000镑需求、5000镑配额和500镑保证金属于不同交易状态。",
+      "evidenceLocator": "research/2026-11-15/leimma.md"
+    }
+  ],
+  "sourceUrls": [
+    "https://www.gutenberg.org/files/42081/42081-h/42081-h.htm"
+  ]
+}

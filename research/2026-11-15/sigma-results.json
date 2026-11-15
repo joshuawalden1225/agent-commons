@@ -1,0 +1,1593 @@
+{
+  "rows": [
+    {
+      "row": 74896,
+      "waybillDate": "122608",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 190059,
+      "waybillDate": "110308",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 190060,
+      "waybillDate": "110308",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 190080,
+      "waybillDate": "122208",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 190087,
+      "waybillDate": "112508",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 190091,
+      "waybillDate": "122008",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 190092,
+      "waybillDate": "122508",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 190118,
+      "waybillDate": "122208",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 190128,
+      "waybillDate": "121808",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 190263,
+      "waybillDate": "122708",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 190289,
+      "waybillDate": "121808",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 190290,
+      "waybillDate": "121808",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 190427,
+      "waybillDate": "101608",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 190437,
+      "waybillDate": "121508",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 190438,
+      "waybillDate": "121608",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 190466,
+      "waybillDate": "122208",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 190469,
+      "waybillDate": "122208",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 190658,
+      "waybillDate": "121808",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 190713,
+      "waybillDate": "121908",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 190760,
+      "waybillDate": "122208",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 190979,
+      "waybillDate": "123008",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 190980,
+      "waybillDate": "123008",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 191001,
+      "waybillDate": "121808",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 191019,
+      "waybillDate": "122208",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 191045,
+      "waybillDate": "122908",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 191093,
+      "waybillDate": "121508",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 191096,
+      "waybillDate": "121508",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 191100,
+      "waybillDate": "121908",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 191104,
+      "waybillDate": "121608",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 191163,
+      "waybillDate": "122808",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 191239,
+      "waybillDate": "122108",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 191245,
+      "waybillDate": "122308",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 191253,
+      "waybillDate": "122908",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 191254,
+      "waybillDate": "121808",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 191255,
+      "waybillDate": "122008",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 191272,
+      "waybillDate": "122408",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 191313,
+      "waybillDate": "121208",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 191314,
+      "waybillDate": "120908",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 191341,
+      "waybillDate": "121008",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 191357,
+      "waybillDate": "121808",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 191359,
+      "waybillDate": "122308",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 191420,
+      "waybillDate": "121808",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 191424,
+      "waybillDate": "122008",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 191450,
+      "waybillDate": "121108",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 191470,
+      "waybillDate": "122008",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 191499,
+      "waybillDate": "121208",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 191512,
+      "waybillDate": "120808",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 191565,
+      "waybillDate": "121908",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 191568,
+      "waybillDate": "121208",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 191569,
+      "waybillDate": "122208",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 191576,
+      "waybillDate": "121208",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 191581,
+      "waybillDate": "121208",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 191591,
+      "waybillDate": "121408",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 191635,
+      "waybillDate": "122508",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 191707,
+      "waybillDate": "121508",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 191708,
+      "waybillDate": "121508",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 191755,
+      "waybillDate": "121608",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 191761,
+      "waybillDate": "121608",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 191772,
+      "waybillDate": "121708",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 191773,
+      "waybillDate": "121708",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 191776,
+      "waybillDate": "121708",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 191777,
+      "waybillDate": "121708",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 191805,
+      "waybillDate": "121808",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 191806,
+      "waybillDate": "121808",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 191838,
+      "waybillDate": "121808",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 191840,
+      "waybillDate": "121908",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 191844,
+      "waybillDate": "121908",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 191845,
+      "waybillDate": "121908",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 191855,
+      "waybillDate": "121908",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 191856,
+      "waybillDate": "121908",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 191879,
+      "waybillDate": "121908",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 191887,
+      "waybillDate": "122008",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 191920,
+      "waybillDate": "122508",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 191921,
+      "waybillDate": "122508",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 191928,
+      "waybillDate": "122908",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 191929,
+      "waybillDate": "122908",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 191932,
+      "waybillDate": "123008",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 191933,
+      "waybillDate": "123008",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 191941,
+      "waybillDate": "122308",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 191960,
+      "waybillDate": "121508",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 192061,
+      "waybillDate": "121908",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 192125,
+      "waybillDate": "122208",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 192165,
+      "waybillDate": "122308",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 192167,
+      "waybillDate": "122608",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 192179,
+      "waybillDate": "122508",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 192181,
+      "waybillDate": "122908",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 192289,
+      "waybillDate": "122608",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 192368,
+      "waybillDate": "122608",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 192370,
+      "waybillDate": "122708",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 192535,
+      "waybillDate": "121208",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 192538,
+      "waybillDate": "122908",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 192540,
+      "waybillDate": "123008",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 192541,
+      "waybillDate": "121608",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 192549,
+      "waybillDate": "122208",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 192637,
+      "waybillDate": "121708",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 192638,
+      "waybillDate": "121708",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 192685,
+      "waybillDate": "121808",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 192688,
+      "waybillDate": "122408",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 192709,
+      "waybillDate": "122408",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 192726,
+      "waybillDate": "121808",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 192727,
+      "waybillDate": "121908",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 192808,
+      "waybillDate": "121208",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 192817,
+      "waybillDate": "121808",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 192833,
+      "waybillDate": "122108",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 192914,
+      "waybillDate": "121608",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 192954,
+      "waybillDate": "121608",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 193062,
+      "waybillDate": "121808",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 193073,
+      "waybillDate": "121008",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 193169,
+      "waybillDate": "121808",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 193214,
+      "waybillDate": "121708",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 193222,
+      "waybillDate": "121708",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 193242,
+      "waybillDate": "121908",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 193243,
+      "waybillDate": "121908",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 193251,
+      "waybillDate": "122108",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 193253,
+      "waybillDate": "122308",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 193262,
+      "waybillDate": "122208",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 193264,
+      "waybillDate": "122208",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 193268,
+      "waybillDate": "122208",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 193269,
+      "waybillDate": "122208",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 193317,
+      "waybillDate": "122408",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 193318,
+      "waybillDate": "122408",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 193321,
+      "waybillDate": "122708",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 193334,
+      "waybillDate": "122608",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 193420,
+      "waybillDate": "122208",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 193448,
+      "waybillDate": "122608",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 193452,
+      "waybillDate": "122208",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 193512,
+      "waybillDate": "122308",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 193709,
+      "waybillDate": "122608",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 193792,
+      "waybillDate": "122608",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 193927,
+      "waybillDate": "122208",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 194002,
+      "waybillDate": "122708",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 194095,
+      "waybillDate": "122708",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 194102,
+      "waybillDate": "122608",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 194297,
+      "waybillDate": "122608",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 194394,
+      "waybillDate": "122608",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 194540,
+      "waybillDate": "122608",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 194672,
+      "waybillDate": "122808",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 194811,
+      "waybillDate": "122708",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 194814,
+      "waybillDate": "122708",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 194846,
+      "waybillDate": "121808",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 194852,
+      "waybillDate": "122808",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 194910,
+      "waybillDate": "120908",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 194914,
+      "waybillDate": "122008",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 194920,
+      "waybillDate": "122708",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 194935,
+      "waybillDate": "121408",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 194940,
+      "waybillDate": "122308",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 195177,
+      "waybillDate": "122308",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 195204,
+      "waybillDate": "122308",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 195205,
+      "waybillDate": "122308",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 195448,
+      "waybillDate": "121908",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 195450,
+      "waybillDate": "121708",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 195476,
+      "waybillDate": "123108",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 195504,
+      "waybillDate": "122608",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 195556,
+      "waybillDate": "122608",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 195645,
+      "waybillDate": "123008",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 195667,
+      "waybillDate": "122608",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 195772,
+      "waybillDate": "122608",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 195853,
+      "waybillDate": "122608",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 195855,
+      "waybillDate": "122008",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 195985,
+      "waybillDate": "121108",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 196003,
+      "waybillDate": "121108",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 196010,
+      "waybillDate": "121608",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 196047,
+      "waybillDate": "120908",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 196102,
+      "waybillDate": "121508",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 196105,
+      "waybillDate": "121008",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 196123,
+      "waybillDate": "121708",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 196226,
+      "waybillDate": "122708",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 196235,
+      "waybillDate": "120908",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 196243,
+      "waybillDate": "120908",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 196244,
+      "waybillDate": "121708",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 196247,
+      "waybillDate": "121008",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 196262,
+      "waybillDate": "121808",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 196278,
+      "waybillDate": "122408",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 196284,
+      "waybillDate": "121708",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 196287,
+      "waybillDate": "121708",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 196298,
+      "waybillDate": "121608",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 196326,
+      "waybillDate": "121808",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 196354,
+      "waybillDate": "122708",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 196426,
+      "waybillDate": "122608",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 196453,
+      "waybillDate": "122708",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 196458,
+      "waybillDate": "122708",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 196476,
+      "waybillDate": "122708",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 196480,
+      "waybillDate": "122608",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 196506,
+      "waybillDate": "121508",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 196513,
+      "waybillDate": "121008",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 196519,
+      "waybillDate": "121008",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 196521,
+      "waybillDate": "121208",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 196526,
+      "waybillDate": "122208",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 196540,
+      "waybillDate": "122308",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 196542,
+      "waybillDate": "121008",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 196635,
+      "waybillDate": "122308",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 196664,
+      "waybillDate": "120908",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 196706,
+      "waybillDate": "121608",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 196722,
+      "waybillDate": "121908",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 196759,
+      "waybillDate": "122408",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 196786,
+      "waybillDate": "122408",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 196828,
+      "waybillDate": "122408",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 196831,
+      "waybillDate": "121508",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 196860,
+      "waybillDate": "122208",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 196887,
+      "waybillDate": "120908",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 196897,
+      "waybillDate": "120908",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 196902,
+      "waybillDate": "120908",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 196909,
+      "waybillDate": "120908",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 196918,
+      "waybillDate": "121608",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 196928,
+      "waybillDate": "121208",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 196938,
+      "waybillDate": "121208",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 197004,
+      "waybillDate": "121608",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 197041,
+      "waybillDate": "122608",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 197045,
+      "waybillDate": "121008",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 197088,
+      "waybillDate": "121808",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 197113,
+      "waybillDate": "121908",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 197125,
+      "waybillDate": "121008",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 197134,
+      "waybillDate": "121908",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 197179,
+      "waybillDate": "122608",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 197197,
+      "waybillDate": "122708",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 197210,
+      "waybillDate": "122008",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 197322,
+      "waybillDate": "122608",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 197413,
+      "waybillDate": "122308",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 197440,
+      "waybillDate": "122208",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 197441,
+      "waybillDate": "122208",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 197442,
+      "waybillDate": "122208",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 197616,
+      "waybillDate": "121908",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 197713,
+      "waybillDate": "122608",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 198061,
+      "waybillDate": "122708",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 198065,
+      "waybillDate": "122708",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 198093,
+      "waybillDate": "121908",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 198178,
+      "waybillDate": "122408",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 198179,
+      "waybillDate": "122408",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 198232,
+      "waybillDate": "122408",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 198252,
+      "waybillDate": "121508",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 198254,
+      "waybillDate": "121508",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 198354,
+      "waybillDate": "122508",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 198443,
+      "waybillDate": "122408",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 198508,
+      "waybillDate": "122608",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 198625,
+      "waybillDate": "121108",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 198657,
+      "waybillDate": "121608",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 198682,
+      "waybillDate": "121608",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 198697,
+      "waybillDate": "122408",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 198702,
+      "waybillDate": "122408",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 198719,
+      "waybillDate": "122408",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 198721,
+      "waybillDate": "122408",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 198725,
+      "waybillDate": "121908",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 198729,
+      "waybillDate": "122608",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 198741,
+      "waybillDate": "122408",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 198821,
+      "waybillDate": "122608",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 198838,
+      "waybillDate": "121808",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 198864,
+      "waybillDate": "101508",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 198865,
+      "waybillDate": "101108",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 198887,
+      "waybillDate": "121508",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 198902,
+      "waybillDate": "121508",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 198907,
+      "waybillDate": "121608",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 198909,
+      "waybillDate": "121608",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 198914,
+      "waybillDate": "121608",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 198953,
+      "waybillDate": "120808",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 198964,
+      "waybillDate": "122408",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 198996,
+      "waybillDate": "121808",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 199010,
+      "waybillDate": "122408",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 199062,
+      "waybillDate": "121108",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    },
+    {
+      "row": 199063,
+      "waybillDate": "122608",
+      "accountingPeriod": "0109",
+      "reportingLength": "1"
+    }
+  ],
+  "count": 259,
+  "dateCounts": {
+    "2008-10-11": 1,
+    "2008-10-15": 1,
+    "2008-10-16": 1,
+    "2008-11-03": 2,
+    "2008-11-25": 1,
+    "2008-12-08": 2,
+    "2008-12-09": 10,
+    "2008-12-10": 9,
+    "2008-12-11": 5,
+    "2008-12-12": 10,
+    "2008-12-14": 2,
+    "2008-12-15": 13,
+    "2008-12-16": 17,
+    "2008-12-17": 13,
+    "2008-12-18": 22,
+    "2008-12-19": 20,
+    "2008-12-20": 8,
+    "2008-12-21": 3,
+    "2008-12-22": 21,
+    "2008-12-23": 13,
+    "2008-12-24": 20,
+    "2008-12-25": 6,
+    "2008-12-26": 27,
+    "2008-12-27": 16,
+    "2008-12-28": 3,
+    "2008-12-29": 6,
+    "2008-12-30": 6,
+    "2008-12-31": 1
+  },
+  "minimum": "2008-10-11",
+  "maximum": "2008-12-31",
+  "invalidDates": 0,
+  "afterAccountingMonth": 0
+}

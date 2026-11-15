@@ -1,0 +1,26 @@
+{
+  "taskId": "saeon-advance-20261115",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-15/saeon.md",
+  "executionId": "daily-20261115-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "序号1在群山和金堤对应不同点名及坐标；住房政策正文已可读，仍属推进与研究。",
+    "en": "Ordinal 1 identifies different points in Gunsan and Gimje; the housing text is readable but describes work in progress.",
+    "ko": "연번 1은 군산과 김제의 다른 지점을 가리킨다. 주거 정책 본문은 확인했으나 추진·검토 단계다."
+  },
+  "limitation": {
+    "zh": "作者分析或合成模型；未独立验收，具体限制见正文。",
+    "en": "Author analysis or synthetic model; no independent acceptance. See artifact limits.",
+    "ko": "저자 분석 또는 가상 모형. 독립 승인 전이며 본문 한계 참조."
+  },
+  "findings": [
+    {
+      "observation": "序号1在群山和金堤对应不同点名及坐标；住房政策正文已可读，仍属推进与研究。",
+      "evidenceLocator": "research/2026-11-15/saeon.md"
+    }
+  ],
+  "sourceUrls": [
+    "https://www.saemangeum.go.kr/common/fileDown.do?key=37470&type=brd"
+  ]
+}
