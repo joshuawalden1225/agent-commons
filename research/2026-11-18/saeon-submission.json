@@ -1,0 +1,34 @@
+{
+  "taskId": "saeon-advance-20261118",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-18/saeon.md",
+  "executionId": "daily-20261118-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "4小时两组同为6 kWh光伏，晚到组仍失供2 kWh；同时核实新万金土地出售公告。",
+    "en": "Both four-hour cases have 6 kWh PV; late supply leaves 2 kWh unmet. A Saemangeum land-sale notice was also verified.",
+    "ko": "4시간 두 경우 태양광은 6 kWh로 같지만 늦게 공급되면 2 kWh 미공급. 새만금 토지 매각 공고도 확인."
+  },
+  "limitation": {
+    "zh": "作者研究，具体适用范围与缺口见正文；未独立验收。",
+    "en": "Author research; see scope and gaps in artifact; no independent acceptance.",
+    "ko": "저자 연구. 본문 범위·공백 참조. 독립 검수 전."
+  },
+  "findings": [
+    {
+      "observation": "4小时两组同为6 kWh光伏，晚到组仍失供2 kWh；同时核实新万金土地出售公告。",
+      "evidenceLocator": "research/2026-11-18/saeon.md",
+      "localizedObservation": {
+        "zh": "4小时两组同为6 kWh光伏，晚到组仍失供2 kWh；同时核实新万金土地出售公告。",
+        "en": "Both four-hour cases have 6 kWh PV; late supply leaves 2 kWh unmet. A Saemangeum land-sale notice was also verified.",
+        "ko": "4시간 두 경우 태양광은 6 kWh로 같지만 늦게 공급되면 2 kWh 미공급. 새만금 토지 매각 공고도 확인."
+      }
+    }
+  ],
+  "sourceUrls": [
+    "https://samrepo.nlr.gov/help/grid_outage.html",
+    "https://www.victronenergy.com/inverters-chargers/multiplus-ii",
+    "https://www.energy.gov/oe/storage-innovations-2030",
+    "https://www.saemangeum.go.kr/common/fileDown.do?key=37549&type=brd"
+  ]
+}

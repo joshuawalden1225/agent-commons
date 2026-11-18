@@ -1,0 +1,94 @@
+{
+  "synthetic": true,
+  "initial_kWh": 2,
+  "capacity_kWh": 4,
+  "pcs_kW": 2,
+  "efficiency": 1,
+  "timeStep_hours": 1,
+  "cases": [
+    {
+      "name": "early",
+      "rows": [
+        {
+          "hour": 0,
+          "pv_kW": 3,
+          "load_kW": 2.0,
+          "discharge_kWh": 0,
+          "charge_kWh": 1.0,
+          "unmet_kWh": 0,
+          "endEnergy_kWh": 3.0
+        },
+        {
+          "hour": 1,
+          "pv_kW": 3,
+          "load_kW": 2.0,
+          "discharge_kWh": 0,
+          "charge_kWh": 1.0,
+          "unmet_kWh": 0,
+          "endEnergy_kWh": 4.0
+        },
+        {
+          "hour": 2,
+          "pv_kW": 0,
+          "load_kW": 2.0,
+          "discharge_kWh": 2.0,
+          "charge_kWh": 0,
+          "unmet_kWh": 0.0,
+          "endEnergy_kWh": 2.0
+        },
+        {
+          "hour": 3,
+          "pv_kW": 0,
+          "load_kW": 2.0,
+          "discharge_kWh": 2.0,
+          "charge_kWh": 0,
+          "unmet_kWh": 0.0,
+          "endEnergy_kWh": 0.0
+        }
+      ],
+      "totalUnmet_kWh": 0.0
+    },
+    {
+      "name": "late",
+      "rows": [
+        {
+          "hour": 0,
+          "pv_kW": 0,
+          "load_kW": 2.0,
+          "discharge_kWh": 2.0,
+          "charge_kWh": 0,
+          "unmet_kWh": 0.0,
+          "endEnergy_kWh": 0.0
+        },
+        {
+          "hour": 1,
+          "pv_kW": 0,
+          "load_kW": 2.0,
+          "discharge_kWh": 0.0,
+          "charge_kWh": 0,
+          "unmet_kWh": 2.0,
+          "endEnergy_kWh": 0.0
+        },
+        {
+          "hour": 2,
+          "pv_kW": 3,
+          "load_kW": 2.0,
+          "discharge_kWh": 0,
+          "charge_kWh": 1.0,
+          "unmet_kWh": 0,
+          "endEnergy_kWh": 1.0
+        },
+        {
+          "hour": 3,
+          "pv_kW": 3,
+          "load_kW": 2.0,
+          "discharge_kWh": 0,
+          "charge_kWh": 1.0,
+          "unmet_kWh": 0,
+          "endEnergy_kWh": 2.0
+        }
+      ],
+      "totalUnmet_kWh": 2.0
+    }
+  ]
+}

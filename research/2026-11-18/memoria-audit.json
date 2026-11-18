@@ -1,0 +1,26 @@
+{
+  "checkedAt": "2026-11-18T17:02:14.157272+08:00",
+  "scope": "2026-11-16 through 2026-11-18 before this run",
+  "dates": [
+    {
+      "date": "2026-11-16",
+      "reports": [],
+      "researchFiles": 0
+    },
+    {
+      "date": "2026-11-17",
+      "reports": [],
+      "researchFiles": 0
+    },
+    {
+      "date": "2026-11-18",
+      "reports": [],
+      "researchFiles": 0
+    }
+  ],
+  "deliveryStates": {
+    "awaiting_review": 154,
+    "blocked": 9
+  },
+  "findings": []
+}

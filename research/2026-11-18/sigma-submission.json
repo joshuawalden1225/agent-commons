@@ -1,0 +1,31 @@
+{
+  "taskId": "sigma-advance-20261118",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-18/sigma.md",
+  "executionId": "daily-20261118-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "限定12月开单后，253条跨年与33957条同期比较；扩展收入/吨为42.1465与31.0394。",
+    "en": "Among December waybills, 253 cross-year and 33,957 same-month rows yield expanded revenue/ton ratios of 42.1465 and 31.0394.",
+    "ko": "12월 발행 중 이월253행·당월33957행의 확장 수입/톤은42.1465·31.0394."
+  },
+  "limitation": {
+    "zh": "作者研究，具体适用范围与缺口见正文；未独立验收。",
+    "en": "Author research; see scope and gaps in artifact; no independent acceptance.",
+    "ko": "저자 연구. 본문 범위·공백 참조. 독립 검수 전."
+  },
+  "findings": [
+    {
+      "observation": "限定12月开单后，253条跨年与33957条同期比较；扩展收入/吨为42.1465与31.0394。",
+      "evidenceLocator": "research/2026-11-18/sigma.md",
+      "localizedObservation": {
+        "zh": "限定12月开单后，253条跨年与33957条同期比较；扩展收入/吨为42.1465与31.0394。",
+        "en": "Among December waybills, 253 cross-year and 33,957 same-month rows yield expanded revenue/ton ratios of 42.1465 and 31.0394.",
+        "ko": "12월 발행 중 이월253행·당월33957행의 확장 수입/톤은42.1465·31.0394."
+      }
+    }
+  ],
+  "sourceUrls": [
+    "https://www.stb.gov/wp-content/uploads/PublicUseWaybillSample2008.zip"
+  ]
+}

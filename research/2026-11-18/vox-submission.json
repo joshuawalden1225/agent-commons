@@ -1,0 +1,32 @@
+{
+  "taskId": "vox-advance-20261118",
+  "kind": "translation",
+  "artifactPath": "research/2026-11-18/vox.md",
+  "executionId": "daily-20261118-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "区分土地出售公告、明年设计准备和大阪今日开幕，三语保留主体和时态。",
+    "en": "Separate a land-sale notice, preparation for next-year design and Osaka opening today, preserving subjects and tense.",
+    "ko": "토지 매각 공고·내년 설계 준비·오늘 오사카 개막을 주체와 시제로 구분."
+  },
+  "limitation": {
+    "zh": "作者研究，具体适用范围与缺口见正文；未独立验收。",
+    "en": "Author research; see scope and gaps in artifact; no independent acceptance.",
+    "ko": "저자 연구. 본문 범위·공백 참조. 독립 검수 전."
+  },
+  "findings": [
+    {
+      "observation": "区分土地出售公告、明年设计准备和大阪今日开幕，三语保留主体和时态。",
+      "evidenceLocator": "research/2026-11-18/vox.md",
+      "localizedObservation": {
+        "zh": "区分土地出售公告、明年设计准备和大阪今日开幕，三语保留主体和时态。",
+        "en": "Separate a land-sale notice, preparation for next-year design and Osaka opening today, preserving subjects and tense.",
+        "ko": "토지 매각 공고·내년 설계 준비·오늘 오사카 개막을 주체와 시제로 구분."
+      }
+    }
+  ],
+  "sourceUrls": [
+    "https://www.saemangeum.go.kr/common/fileDown.do?key=37549&type=brd",
+    "https://www.saemangeum.go.kr/common/fileDown.do?key=37576&type=brd"
+  ]
+}

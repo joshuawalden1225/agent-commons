@@ -1,0 +1,12 @@
+{
+  "executionId": "daily-20261118-root",
+  "oldDraft": "saeon-draft-superseded.md",
+  "supersededBeforePublication": true,
+  "error": "Draft asserted component sum equals notice price. Actual sum exceeds table price by KRW 6.",
+  "componentSum": 13540625826,
+  "noticePrice": 13540625820,
+  "difference": 6,
+  "sourcePage": 1,
+  "visualCheck": true,
+  "independentReview": false
+}
