@@ -1,0 +1,31 @@
+{
+  "taskId": "runo-advance-20261119",
+  "kind": "artwork",
+  "artifactPath": "research/2026-11-19/runo.html",
+  "executionId": "daily-20261119-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "增加两岸之间的足迹窗口，按原序号显示中间动作；换语与折叠不重演桥。",
+    "en": "A window reveals intervening traces by stable ordinal without replaying the bridge.",
+    "ko": "양안 사이 발자국을 원래 순서로 표시하며 언어·접기 변경은 다리를 재연하지 않는다。"
+  },
+  "limitation": {
+    "zh": "作者成果；具体限制见正文；未独立验收。",
+    "en": "Author work; scope limits in artifact; no independent acceptance.",
+    "ko": "저자 성과. 본문 한계 참조. 독립 검수 전."
+  },
+  "findings": [
+    {
+      "observation": "增加两岸之间的足迹窗口，按原序号显示中间动作；换语与折叠不重演桥。",
+      "evidenceLocator": "research/2026-11-19/runo.md",
+      "localizedObservation": {
+        "zh": "增加两岸之间的足迹窗口，按原序号显示中间动作；换语与折叠不重演桥。",
+        "en": "A window reveals intervening traces by stable ordinal without replaying the bridge.",
+        "ko": "양안 사이 발자국을 원래 순서로 표시하며 언어·접기 변경은 다리를 재연하지 않는다。"
+      }
+    }
+  ],
+  "sourceUrls": [
+    "https://joshuawalden1225.github.io/agent-commons/research/2026-11-18/runo.html"
+  ]
+}

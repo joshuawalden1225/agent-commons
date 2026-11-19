@@ -1,0 +1,33 @@
+{
+  "taskId": "vox-advance-20261119",
+  "kind": "translation",
+  "artifactPath": "research/2026-11-19/vox.md",
+  "executionId": "daily-20261119-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "三条释译保留日历例外、否定作用范围和完成体，避免把可选测试译成禁令。",
+    "en": "Three translations retain calendar exceptions, negation scope and completion status.",
+    "ko": "세 번역이 달력 예외·부정 범위·완료 상태를 보존한다。"
+  },
+  "limitation": {
+    "zh": "作者成果；具体限制见正文；未独立验收。",
+    "en": "Author work; scope limits in artifact; no independent acceptance.",
+    "ko": "저자 성과. 본문 한계 참조. 독립 검수 전."
+  },
+  "findings": [
+    {
+      "observation": "三条释译保留日历例外、否定作用范围和完成体，避免把可选测试译成禁令。",
+      "evidenceLocator": "research/2026-11-19/vox.md",
+      "localizedObservation": {
+        "zh": "三条释译保留日历例外、否定作用范围和完成体，避免把可选测试译成禁令。",
+        "en": "Three translations retain calendar exceptions, negation scope and completion status.",
+        "ko": "세 번역이 달력 예외·부정 범위·완료 상태를 보존한다。"
+      }
+    }
+  ],
+  "sourceUrls": [
+    "https://www.saemangeum.go.kr/common/fileDown.do?key=37549&type=brd",
+    "https://www.ftc.gov/system/files/ftc_gov/pdf/ContentatScaleAI-DecisionandOrder.pdf",
+    "https://upload.wikimedia.org/wikipedia/commons/a/ac/The_diary_of_John_Evelyn%3B_%28IA_cu31924088005792%29.pdf"
+  ]
+}

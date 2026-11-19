@@ -1,0 +1,97 @@
+{
+  "checkedAt": "2026-11-19T09:01:34.359074+00:00",
+  "commit": "c92219a93685f1ac05fce0e1a7c6ff7e189f6bff",
+  "rows": [
+    {
+      "path": "assets/citizen-work.json",
+      "http": 200,
+      "localSha256": "c547373f0bb509baf382f9078470b986d432a33f32ed9ebe7ba9098a4ba26be4",
+      "remoteSha256": "c547373f0bb509baf382f9078470b986d432a33f32ed9ebe7ba9098a4ba26be4",
+      "equal": true
+    },
+    {
+      "path": "assets/energy-observatory.json",
+      "http": 200,
+      "localSha256": "6d099e9d403bad6cb12a06355cde32fe25f7a64e5eecf9f8731ddc3eca3b5f33",
+      "remoteSha256": "6d099e9d403bad6cb12a06355cde32fe25f7a64e5eecf9f8731ddc3eca3b5f33",
+      "equal": true
+    },
+    {
+      "path": "research/2026-11-18/saeon.md",
+      "http": 200,
+      "localSha256": "3f295a9df13ac79d2a2d1544d45d8a5711a7af5329075a2f919bb426264f43e1",
+      "remoteSha256": "3f295a9df13ac79d2a2d1544d45d8a5711a7af5329075a2f919bb426264f43e1",
+      "equal": true
+    },
+    {
+      "path": "research/2026-11-18/nullroute.md",
+      "http": 200,
+      "localSha256": "3b78c0ff6bfd1f9fa323d1ed4d548645d6d922b0a8b38474519a9bc003b0d709",
+      "remoteSha256": "3b78c0ff6bfd1f9fa323d1ed4d548645d6d922b0a8b38474519a9bc003b0d709",
+      "equal": true
+    },
+    {
+      "path": "research/2026-11-18/sigma.md",
+      "http": 200,
+      "localSha256": "86f1fd6697ab997dd3951e55c82703a28c9a61451aac6420fe29f0cb1f3f87d3",
+      "remoteSha256": "86f1fd6697ab997dd3951e55c82703a28c9a61451aac6420fe29f0cb1f3f87d3",
+      "equal": true
+    },
+    {
+      "path": "research/2026-11-18/leimma.md",
+      "http": 200,
+      "localSha256": "fc4d6eec238bda70ca11424e42193be4a21ca37a611654af205bafa1e5e7a511",
+      "remoteSha256": "fc4d6eec238bda70ca11424e42193be4a21ca37a611654af205bafa1e5e7a511",
+      "equal": true
+    },
+    {
+      "path": "research/2026-11-18/pharma.md",
+      "http": 200,
+      "localSha256": "79c1622f4afcbe1c7675a08dfd232312ab54243f0188f5e19c1bdc3114774f43",
+      "remoteSha256": "79c1622f4afcbe1c7675a08dfd232312ab54243f0188f5e19c1bdc3114774f43",
+      "equal": true
+    },
+    {
+      "path": "research/2026-11-18/runo.md",
+      "http": 200,
+      "localSha256": "3dc5de782f723821f1c0d101bee17ece542e410b5979c69e13cc2ae77178a02c",
+      "remoteSha256": "3dc5de782f723821f1c0d101bee17ece542e410b5979c69e13cc2ae77178a02c",
+      "equal": true
+    },
+    {
+      "path": "research/2026-11-18/vox.md",
+      "http": 200,
+      "localSha256": "f5aee04fcf85f0a6fd72fba4a6cef32bfdde7862709665b47c2fd5b9ab91ca7e",
+      "remoteSha256": "f5aee04fcf85f0a6fd72fba4a6cef32bfdde7862709665b47c2fd5b9ab91ca7e",
+      "equal": true
+    },
+    {
+      "path": "research/2026-11-18/cynosure.md",
+      "http": 200,
+      "localSha256": "6a0bec2fb51cfa2aa41192451386f539af634545963ac5791c5266ad624b8698",
+      "remoteSha256": "6a0bec2fb51cfa2aa41192451386f539af634545963ac5791c5266ad624b8698",
+      "equal": true
+    },
+    {
+      "path": "research/2026-11-18/memoria.md",
+      "http": 200,
+      "localSha256": "fdcf76619d6c3b34cddaafbcc1a9a8f7272e94b59f7ca796127ed52a3423ff4e",
+      "remoteSha256": "fdcf76619d6c3b34cddaafbcc1a9a8f7272e94b59f7ca796127ed52a3423ff4e",
+      "equal": true
+    },
+    {
+      "path": "research/2026-11-18/runo.html",
+      "http": 200,
+      "localSha256": "97998fdc4ebab2a623bec56baf062824c4665e5a69aa12758ae8124c9df9f3e4",
+      "remoteSha256": "97998fdc4ebab2a623bec56baf062824c4665e5a69aa12758ae8124c9df9f3e4",
+      "equal": true
+    },
+    {
+      "path": "research/2026-11-18/correction-log.json",
+      "http": 200,
+      "localSha256": "87b6077cd686ec23ad8f5e76110c0f14ae71ea1406c506365745ba4d30b6de09",
+      "remoteSha256": "87b6077cd686ec23ad8f5e76110c0f14ae71ea1406c506365745ba4d30b6de09",
+      "equal": true
+    }
+  ]
+}

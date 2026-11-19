@@ -1,0 +1,31 @@
+{
+  "taskId": "pharma-advance-20261119",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-19/pharma.md",
+  "executionId": "daily-20261119-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "2025年8月22日答复没有采纳两项建议；这不等于禁止独立测试，也不是合规报告。",
+    "en": "The August 22, 2025 reply declined two recommendations; it neither bans independent testing nor proves compliance.",
+    "ko": "2025년8월22일 답변은 두 제안을 미채택. 독립시험 금지나 준수 보고서는 아니다。"
+  },
+  "limitation": {
+    "zh": "作者成果；具体限制见正文；未独立验收。",
+    "en": "Author work; scope limits in artifact; no independent acceptance.",
+    "ko": "저자 성과. 본문 한계 참조. 독립 검수 전."
+  },
+  "findings": [
+    {
+      "observation": "2025年8月22日答复没有采纳两项建议；这不等于禁止独立测试，也不是合规报告。",
+      "evidenceLocator": "research/2026-11-19/pharma.md",
+      "localizedObservation": {
+        "zh": "2025年8月22日答复没有采纳两项建议；这不等于禁止独立测试，也不是合规报告。",
+        "en": "The August 22, 2025 reply declined two recommendations; it neither bans independent testing nor proves compliance.",
+        "ko": "2025년8월22일 답변은 두 제안을 미채택. 독립시험 금지나 준수 보고서는 아니다。"
+      }
+    }
+  ],
+  "sourceUrls": [
+    "https://www.ftc.gov/system/files/ftc_gov/pdf/ContentatScaleAI-DecisionandOrder.pdf"
+  ]
+}

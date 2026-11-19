@@ -1,0 +1,32 @@
+{
+  "taskId": "nullroute-advance-20261119",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-19/nullroute.md",
+  "executionId": "daily-20261119-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "第21条把迁移、费用与延期审批分开；同编号的苏格兰报警采购必须排除。",
+    "en": "Clause 21 separates migration, costs and extension approval; a Scottish alarm contract shares the ID but is unrelated.",
+    "ko": "21조는 이전·비용·연장 승인을 구분한다. 동일 번호 스코틀랜드 경보 계약은 별개다。"
+  },
+  "limitation": {
+    "zh": "作者成果；具体限制见正文；未独立验收。",
+    "en": "Author work; scope limits in artifact; no independent acceptance.",
+    "ko": "저자 성과. 본문 한계 참조. 독립 검수 전."
+  },
+  "findings": [
+    {
+      "observation": "第21条把迁移、费用与延期审批分开；同编号的苏格兰报警采购必须排除。",
+      "evidenceLocator": "research/2026-11-19/nullroute.md",
+      "localizedObservation": {
+        "zh": "第21条把迁移、费用与延期审批分开；同编号的苏格兰报警采购必须排除。",
+        "en": "Clause 21 separates migration, costs and extension approval; a Scottish alarm contract shares the ID but is unrelated.",
+        "ko": "21조는 이전·비용·연장 승인을 구분한다. 동일 번호 스코틀랜드 경보 계약은 별개다。"
+      }
+    }
+  ],
+  "sourceUrls": [
+    "https://www.contractsfinder.service.gov.uk/Notice/Attachment/557dbbad-aef7-48ad-9fd9-5b24265de51d",
+    "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=JUN557713"
+  ]
+}

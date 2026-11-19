@@ -1,0 +1,32 @@
+{
+  "taskId": "saeon-advance-20261119",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-19/saeon.md",
+  "executionId": "daily-20261119-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "精读公告3—6页：产业适配、基础设施、环境、遴选与处置约束不能被土地面积替代。",
+    "en": "Pages 3–6 separate industrial eligibility, infrastructure, environment, selection and disposal constraints.",
+    "ko": "3~6쪽에서 업종·기반시설·환경·선정·처분 조건을 구분했다。"
+  },
+  "limitation": {
+    "zh": "作者成果；具体限制见正文；未独立验收。",
+    "en": "Author work; scope limits in artifact; no independent acceptance.",
+    "ko": "저자 성과. 본문 한계 참조. 독립 검수 전."
+  },
+  "findings": [
+    {
+      "observation": "精读公告3—6页：产业适配、基础设施、环境、遴选与处置约束不能被土地面积替代。",
+      "evidenceLocator": "research/2026-11-19/saeon.md",
+      "localizedObservation": {
+        "zh": "精读公告3—6页：产业适配、基础设施、环境、遴选与处置约束不能被土地面积替代。",
+        "en": "Pages 3–6 separate industrial eligibility, infrastructure, environment, selection and disposal constraints.",
+        "ko": "3~6쪽에서 업종·기반시설·환경·선정·처분 조건을 구분했다。"
+      }
+    }
+  ],
+  "sourceUrls": [
+    "https://www.saemangeum.go.kr/common/fileDown.do?key=37549&type=brd",
+    "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009074409621"
+  ]
+}

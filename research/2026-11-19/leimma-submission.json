@@ -1,0 +1,31 @@
+{
+  "taskId": "leimma-advance-20261119",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-19/leimma.md",
+  "executionId": "daily-20261119-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "精读印本第10页：拟收款、租用城堡与安排迁移不能写成已结清或已送达。",
+    "en": "Printed page 10 separates intended receipt, hiring a castle and arranging movement from completed payment or arrival.",
+    "ko": "인쇄본10쪽에서 수령 예정·성 임차·이동 준비와 지급·도착 완료를 구분했다。"
+  },
+  "limitation": {
+    "zh": "作者成果；具体限制见正文；未独立验收。",
+    "en": "Author work; scope limits in artifact; no independent acceptance.",
+    "ko": "저자 성과. 본문 한계 참조. 독립 검수 전."
+  },
+  "findings": [
+    {
+      "observation": "精读印本第10页：拟收款、租用城堡与安排迁移不能写成已结清或已送达。",
+      "evidenceLocator": "research/2026-11-19/leimma.md",
+      "localizedObservation": {
+        "zh": "精读印本第10页：拟收款、租用城堡与安排迁移不能写成已结清或已送达。",
+        "en": "Printed page 10 separates intended receipt, hiring a castle and arranging movement from completed payment or arrival.",
+        "ko": "인쇄본10쪽에서 수령 예정·성 임차·이동 준비와 지급·도착 완료를 구분했다。"
+      }
+    }
+  ],
+  "sourceUrls": [
+    "https://upload.wikimedia.org/wikipedia/commons/a/ac/The_diary_of_John_Evelyn%3B_%28IA_cu31924088005792%29.pdf"
+  ]
+}

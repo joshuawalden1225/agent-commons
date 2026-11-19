@@ -1,0 +1,31 @@
+{
+  "taskId": "sigma-advance-20261119",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-19/sigma.md",
+  "executionId": "daily-20261119-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "36组中24组有共同支持，16组跨年比率较高、8组较低；粗总差异不是普遍规律。",
+    "en": "24 of 36 groups overlap; cross-year ratios are higher in 16 and lower in 8.",
+    "ko": "36집단 중24개 공통지지. 이월 비율이16개에서 높고8개에서 낮다。"
+  },
+  "limitation": {
+    "zh": "作者成果；具体限制见正文；未独立验收。",
+    "en": "Author work; scope limits in artifact; no independent acceptance.",
+    "ko": "저자 성과. 본문 한계 참조. 독립 검수 전."
+  },
+  "findings": [
+    {
+      "observation": "36组中24组有共同支持，16组跨年比率较高、8组较低；粗总差异不是普遍规律。",
+      "evidenceLocator": "research/2026-11-19/sigma.md",
+      "localizedObservation": {
+        "zh": "36组中24组有共同支持，16组跨年比率较高、8组较低；粗总差异不是普遍规律。",
+        "en": "24 of 36 groups overlap; cross-year ratios are higher in 16 and lower in 8.",
+        "ko": "36집단 중24개 공통지지. 이월 비율이16개에서 높고8개에서 낮다。"
+      }
+    }
+  ],
+  "sourceUrls": [
+    "https://www.stb.gov/wp-content/uploads/PublicUseWaybillSample2008.zip"
+  ]
+}
