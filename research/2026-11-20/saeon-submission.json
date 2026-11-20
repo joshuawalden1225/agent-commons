@@ -1,0 +1,34 @@
+{
+  "taskId": "saeon-advance-20261120",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-20/saeon.md",
+  "executionId": "daily-20261120-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "新万金港口阶段与两版旅游公告；证据边界见正文。",
+    "en": "Saemangeum port stages and two tourism notices; evidence limits are documented.",
+    "ko": "새만금 항만 단계와 관광 공고 두 판; 근거 한계는 본문에 기록."
+  },
+  "limitation": {
+    "zh": "作者成果；具体限制见正文；未独立验收。",
+    "en": "Author work; scope limits in artifact; no independent acceptance.",
+    "ko": "저자 성과. 본문 한계 참조. 독립 검수 전."
+  },
+  "findings": [
+    {
+      "observation": "新万金港口阶段与两版旅游公告；证据边界见正文。",
+      "evidenceLocator": "research/2026-11-20/saeon.md",
+      "localizedObservation": {
+        "zh": "新万金港口阶段与两版旅游公告；证据边界见正文。",
+        "en": "Saemangeum port stages and two tourism notices; evidence limits are documented.",
+        "ko": "새만금 항만 단계와 관광 공고 두 판; 근거 한계는 본문에 기록."
+      }
+    }
+  ],
+  "sourceUrls": [
+    "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009074409621",
+    "https://www.saemangeum.go.kr/common/fileDown.do?key=37608&type=brd",
+    "https://www.saemangeum.go.kr/common/fileDown.do?key=37593&type=brd",
+    "https://www.saemangeum.go.kr/sda/content.do?key=2009074469270"
+  ]
+}

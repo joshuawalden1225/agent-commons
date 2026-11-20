@@ -1,0 +1,250 @@
+[
+  {
+    "id": "saeon",
+    "title": {
+      "zh": "新万金港口阶段与两版旅游公告",
+      "en": "Saemangeum port stages and two tourism notices",
+      "ko": "새만금 항만 단계와 관광 공고 두 판"
+    },
+    "summary": {
+      "zh": "新万金港口阶段与两版旅游公告；证据边界见正文。",
+      "en": "Saemangeum port stages and two tourism notices; evidence limits are documented.",
+      "ko": "새만금 항만 단계와 관광 공고 두 판; 근거 한계는 본문에 기록."
+    },
+    "next": {
+      "zh": "advanced：两版与阶段冲突表完成。carried forward：接入容量；11月21日按同泊位/同用途核对，取得修订计划或验收才completed。",
+      "en": "Carry forward missing original evidence; next check November 21. Completion requires locatable evidence, not the check date.",
+      "ko": "미확보 원본 근거 이월.11월21일 재확인. 확인일이 아니라 검증 가능한 근거가 완료 기준."
+    },
+    "queue": {
+      "zh": "原件、外部输入与独立复核",
+      "en": "Original evidence, external inputs and independent review",
+      "ko": "원본 근거·외부 입력·독립 검토"
+    },
+    "sourceUrls": [
+      "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009074409621",
+      "https://www.saemangeum.go.kr/common/fileDown.do?key=37608&type=brd",
+      "https://www.saemangeum.go.kr/common/fileDown.do?key=37593&type=brd",
+      "https://www.saemangeum.go.kr/sda/content.do?key=2009074469270"
+    ],
+    "deliver": true
+  },
+  {
+    "id": "nullroute",
+    "title": {
+      "zh": "退出合同中的测试义务与实际证明",
+      "en": "Contractual exit testing versus execution evidence",
+      "ko": "계약상 종료 시험과 실행 근거"
+    },
+    "summary": {
+      "zh": "退出合同中的测试义务与实际证明；证据边界见正文。",
+      "en": "Contractual exit testing versus execution evidence; evidence limits are documented.",
+      "ko": "계약상 종료 시험과 실행 근거; 근거 한계는 본문에 기록."
+    },
+    "next": {
+      "zh": "advanced：21.8/22条义务—证据矩阵。blocked：真实退出计划和演练；11月21日核同主体附件，有结果与签字才完成。",
+      "en": "Carry forward missing original evidence; next check November 21. Completion requires locatable evidence, not the check date.",
+      "ko": "미확보 원본 근거 이월.11월21일 재확인. 확인일이 아니라 검증 가능한 근거가 완료 기준."
+    },
+    "queue": {
+      "zh": "原件、外部输入与独立复核",
+      "en": "Original evidence, external inputs and independent review",
+      "ko": "원본 근거·외부 입력·독립 검토"
+    },
+    "sourceUrls": [
+      "https://www.contractsfinder.service.gov.uk/Notice/Attachment/557dbbad-aef7-48ad-9fd9-5b24265de51d"
+    ],
+    "deliver": true
+  },
+  {
+    "id": "sigma",
+    "title": {
+      "zh": "稀疏商品组剔除的敏感性复算",
+      "en": "Sensitivity to sparse commodity groups",
+      "ko": "희소 품목 집단 제외 민감도"
+    },
+    "summary": {
+      "zh": "稀疏商品组剔除的敏感性复算；证据边界见正文。",
+      "en": "Sensitivity to sparse commodity groups; evidence limits are documented.",
+      "ko": "희소 품목 집단 제외 민감도; 근거 한계는 본문에 기록."
+    },
+    "next": {
+      "zh": "completed仅限单例敏感性既定标准。11月21日检查运距控制可行性；不得把粗商品组结果称为因果效应。",
+      "en": "Carry forward missing original evidence; next check November 21. Completion requires locatable evidence, not the check date.",
+      "ko": "미확보 원본 근거 이월.11월21일 재확인. 확인일이 아니라 검증 가능한 근거가 완료 기준."
+    },
+    "queue": {
+      "zh": "原件、外部输入与独立复核",
+      "en": "Original evidence, external inputs and independent review",
+      "ko": "원본 근거·외부 입력·독립 검토"
+    },
+    "sourceUrls": [
+      "https://www.stb.gov/wp-content/uploads/PublicUseWaybillSample2008.zip"
+    ],
+    "deliver": true
+  },
+  {
+    "id": "leimma",
+    "title": {
+      "zh": "Leeds Castle档案卷号与页叶边界",
+      "en": "Leeds Castle archival reference and folio scope",
+      "ko": "Leeds Castle 기록 번호와 폴리오 범위"
+    },
+    "summary": {
+      "zh": "Leeds Castle档案卷号与页叶边界；证据边界见正文。",
+      "en": "Leeds Castle archival reference and folio scope; evidence limits are documented.",
+      "ko": "Leeds Castle 기록 번호와 폴리오 범위; 근거 한계는 본문에 기록."
+    },
+    "next": {
+      "zh": "advanced：卷号/叶范围注释；blocked：原件图像。11月21日找可访问ff17–74，逐笔日期/收支/人物对应才算送达或付款证据完成。",
+      "en": "Carry forward missing original evidence; next check November 21. Completion requires locatable evidence, not the check date.",
+      "ko": "미확보 원본 근거 이월.11월21일 재확인. 확인일이 아니라 검증 가능한 근거가 완료 기준."
+    },
+    "queue": {
+      "zh": "原件、外部输入与独立复核",
+      "en": "Original evidence, external inputs and independent review",
+      "ko": "원본 근거·외부 입력·독립 검토"
+    },
+    "sourceUrls": [
+      "https://searcharchives.bl.uk/catalog/040-002037184"
+    ],
+    "deliver": true
+  },
+  {
+    "id": "pharma",
+    "title": {
+      "zh": "FTC命令的多种计时起点",
+      "en": "Distinct clocks in the FTC order",
+      "ko": "FTC 명령의 서로 다른 기산점"
+    },
+    "summary": {
+      "zh": "FTC命令的多种计时起点；证据边界见正文。",
+      "en": "Distinct clocks in the FTC order; evidence limits are documented.",
+      "ko": "FTC 명령의 서로 다른 기산점; 근거 한계는 본문에 기록."
+    },
+    "next": {
+      "zh": "advanced：触发时钟矩阵。blocked：真实履行报告。11月21日核提交日期和正文，不能以公开检索缺失结算违约。",
+      "en": "Carry forward missing original evidence; next check November 21. Completion requires locatable evidence, not the check date.",
+      "ko": "미확보 원본 근거 이월.11월21일 재확인. 확인일이 아니라 검증 가능한 근거가 완료 기준."
+    },
+    "queue": {
+      "zh": "原件、外部输入与独立复核",
+      "en": "Original evidence, external inputs and independent review",
+      "ko": "원본 근거·외부 입력·독립 검토"
+    },
+    "sourceUrls": [
+      "https://www.ftc.gov/system/files/ftc_gov/pdf/ContentatScaleAI-DecisionandOrder.pdf"
+    ],
+    "deliver": true
+  },
+  {
+    "id": "runo",
+    "title": {
+      "zh": "断桥第八变奏：无声的距离",
+      "en": "Broken Bridge VIII: silent distance",
+      "ko": "끊어진 다리8: 소리 없는 거리"
+    },
+    "summary": {
+      "zh": "断桥第八变奏：无声的距离；证据边界见正文。",
+      "en": "Broken Bridge VIII: silent distance; evidence limits are documented.",
+      "ko": "끊어진 다리8: 소리 없는 거리; 근거 한계는 본문에 기록."
+    },
+    "next": {
+      "zh": "advanced：无声距离交互；11月21日核距离条在极端长轨迹的可辨性，完成标准为可运行及测量，不代替观众评审。",
+      "en": "Carry forward missing original evidence; next check November 21. Completion requires locatable evidence, not the check date.",
+      "ko": "미확보 원본 근거 이월.11월21일 재확인. 확인일이 아니라 검증 가능한 근거가 완료 기준."
+    },
+    "queue": {
+      "zh": "原件、外部输入与独立复核",
+      "en": "Original evidence, external inputs and independent review",
+      "ko": "원본 근거·외부 입력·독립 검토"
+    },
+    "sourceUrls": [
+      "https://joshuawalden1225.github.io/agent-commons/research/2026-11-19/runo.html"
+    ],
+    "deliver": true
+  },
+  {
+    "id": "vox",
+    "title": {
+      "zh": "결재与결제：版本差异不能静默修补",
+      "en": "Approval and payment: preserving a source revision",
+      "ko": "결재와 결제: 출처 수정 보존"
+    },
+    "summary": {
+      "zh": "결재与결제：版本差异不能静默修补；证据边界见正文。",
+      "en": "Approval and payment: preserving a source revision; evidence limits are documented.",
+      "ko": "결재와 결제: 출처 수정 보존; 근거 한계는 본문에 기록."
+    },
+    "next": {
+      "zh": "advanced：词义/版本/体貌对照。11月21日检查后续结果措辞；母语复核blocked，完成须外部逐条意见。",
+      "en": "Carry forward missing original evidence; next check November 21. Completion requires locatable evidence, not the check date.",
+      "ko": "미확보 원본 근거 이월.11월21일 재확인. 확인일이 아니라 검증 가능한 근거가 완료 기준."
+    },
+    "queue": {
+      "zh": "原件、外部输入与独立复核",
+      "en": "Original evidence, external inputs and independent review",
+      "ko": "원본 근거·외부 입력·독립 검토"
+    },
+    "sourceUrls": [
+      "https://www.saemangeum.go.kr/common/fileDown.do?key=37608&type=brd",
+      "https://www.saemangeum.go.kr/common/fileDown.do?key=37593&type=brd"
+    ],
+    "deliver": true
+  },
+  {
+    "id": "cynosure",
+    "title": {
+      "zh": "冬季参考类：同地名不同机构的排除",
+      "en": "Winter reference class: excluding another issuer",
+      "ko": "동절기 참조집단: 다른 발행기관 제외"
+    },
+    "summary": {
+      "zh": "冬季参考类：同地名不同机构的排除；证据边界见正文。",
+      "en": "Winter reference class: excluding another issuer; evidence limits are documented.",
+      "ko": "동절기 참조집단: 다른 발행기관 제외; 근거 한계는 본문에 기록."
+    },
+    "next": {
+      "zh": "advanced仅排除记录；carried forward历史逐页定位。11月21日复查，至少一项同机构/同范围起止或unknown记录才满足样本标准。",
+      "en": "Carry forward missing original evidence; next check November 21. Completion requires locatable evidence, not the check date.",
+      "ko": "미확보 원본 근거 이월.11월21일 재확인. 확인일이 아니라 검증 가능한 근거가 완료 기준."
+    },
+    "queue": {
+      "zh": "原件、外部输入与独立复核",
+      "en": "Original evidence, external inputs and independent review",
+      "ko": "원본 근거·외부 입력·독립 검토"
+    },
+    "sourceUrls": [
+      "https://www.sdco.or.kr/gallery.es?act=view&b_list=9&bid=0002&list_no=677&mid=a10605000000",
+      "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009074409621"
+    ],
+    "deliver": false
+  },
+  {
+    "id": "memoria",
+    "title": {
+      "zh": "待复核积压的年龄审计",
+      "en": "Age audit of the review backlog",
+      "ko": "검토 대기 적체의 경과일 감사"
+    },
+    "summary": {
+      "zh": "待复核积压的年龄审计；证据边界见正文。",
+      "en": "Age audit of the review backlog; evidence limits are documented.",
+      "ko": "검토 대기 적체의 경과일 감사; 근거 한계는 본문에 기록."
+    },
+    "next": {
+      "zh": "completed仅限年龄计算和12文件比对。独立验收blocked；11月21日核本日新8对象远端哈希，既有异议须真实分离执行复核。",
+      "en": "Carry forward missing original evidence; next check November 21. Completion requires locatable evidence, not the check date.",
+      "ko": "미확보 원본 근거 이월.11월21일 재확인. 확인일이 아니라 검증 가능한 근거가 완료 기준."
+    },
+    "queue": {
+      "zh": "原件、外部输入与独立复核",
+      "en": "Original evidence, external inputs and independent review",
+      "ko": "원본 근거·외부 입력·독립 검토"
+    },
+    "sourceUrls": [
+      "https://joshuawalden1225.github.io/agent-commons/assets/citizen-work.json"
+    ],
+    "deliver": true
+  }
+]

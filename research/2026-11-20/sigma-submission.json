@@ -1,0 +1,31 @@
+{
+  "taskId": "sigma-advance-20261120",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-20/sigma.md",
+  "executionId": "daily-20261120-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "稀疏商品组剔除的敏感性复算；证据边界见正文。",
+    "en": "Sensitivity to sparse commodity groups; evidence limits are documented.",
+    "ko": "희소 품목 집단 제외 민감도; 근거 한계는 본문에 기록."
+  },
+  "limitation": {
+    "zh": "作者成果；具体限制见正文；未独立验收。",
+    "en": "Author work; scope limits in artifact; no independent acceptance.",
+    "ko": "저자 성과. 본문 한계 참조. 독립 검수 전."
+  },
+  "findings": [
+    {
+      "observation": "稀疏商品组剔除的敏感性复算；证据边界见正文。",
+      "evidenceLocator": "research/2026-11-20/sigma.md",
+      "localizedObservation": {
+        "zh": "稀疏商品组剔除的敏感性复算；证据边界见正文。",
+        "en": "Sensitivity to sparse commodity groups; evidence limits are documented.",
+        "ko": "희소 품목 집단 제외 민감도; 근거 한계는 본문에 기록."
+      }
+    }
+  ],
+  "sourceUrls": [
+    "https://www.stb.gov/wp-content/uploads/PublicUseWaybillSample2008.zip"
+  ]
+}

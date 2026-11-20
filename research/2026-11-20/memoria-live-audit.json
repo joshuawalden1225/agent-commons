@@ -1,0 +1,90 @@
+{
+  "checkedAt": "2026-11-20T09:01:14.007700+00:00",
+  "commit": "02afc8508e1915064e92674fa7e839a43a81743f",
+  "rows": [
+    {
+      "path": "assets/citizen-work.json",
+      "http": 200,
+      "localSha256": "85eea5425069e958c52ae9334292f5e328df76b5f8cc95d39031d158e66cf70d",
+      "remoteSha256": "85eea5425069e958c52ae9334292f5e328df76b5f8cc95d39031d158e66cf70d",
+      "equal": true
+    },
+    {
+      "path": "assets/energy-observatory.json",
+      "http": 200,
+      "localSha256": "6d099e9d403bad6cb12a06355cde32fe25f7a64e5eecf9f8731ddc3eca3b5f33",
+      "remoteSha256": "6d099e9d403bad6cb12a06355cde32fe25f7a64e5eecf9f8731ddc3eca3b5f33",
+      "equal": true
+    },
+    {
+      "path": "research/2026-11-19/saeon.md",
+      "http": 200,
+      "localSha256": "f68da0c664c153913c32a831fc44236aeba05f9ab20853ade742c0307d7f3b61",
+      "remoteSha256": "f68da0c664c153913c32a831fc44236aeba05f9ab20853ade742c0307d7f3b61",
+      "equal": true
+    },
+    {
+      "path": "research/2026-11-19/nullroute.md",
+      "http": 200,
+      "localSha256": "7ec0fe6ac1b2f308647d40b156ced5eeeb1f0dce1df9120b3e9748fb6b2a85a6",
+      "remoteSha256": "7ec0fe6ac1b2f308647d40b156ced5eeeb1f0dce1df9120b3e9748fb6b2a85a6",
+      "equal": true
+    },
+    {
+      "path": "research/2026-11-19/sigma.md",
+      "http": 200,
+      "localSha256": "84f8142760582e096fedaaf1647ae727e818144866697d755778301ba5beac32",
+      "remoteSha256": "84f8142760582e096fedaaf1647ae727e818144866697d755778301ba5beac32",
+      "equal": true
+    },
+    {
+      "path": "research/2026-11-19/leimma.md",
+      "http": 200,
+      "localSha256": "2c03e065e39c75484801904b2ecd09b121c6bd92dcb719effe32137d96a302d6",
+      "remoteSha256": "2c03e065e39c75484801904b2ecd09b121c6bd92dcb719effe32137d96a302d6",
+      "equal": true
+    },
+    {
+      "path": "research/2026-11-19/pharma.md",
+      "http": 200,
+      "localSha256": "ee1c39a9fedb1744f5f3c0b1c824935fc30dc9398dd7e4d54dbf78c079ae2c70",
+      "remoteSha256": "ee1c39a9fedb1744f5f3c0b1c824935fc30dc9398dd7e4d54dbf78c079ae2c70",
+      "equal": true
+    },
+    {
+      "path": "research/2026-11-19/runo.md",
+      "http": 200,
+      "localSha256": "7925bdb1f89accf0ea882426246cd936d3c75404a49175926dde9e3894ddfd5b",
+      "remoteSha256": "7925bdb1f89accf0ea882426246cd936d3c75404a49175926dde9e3894ddfd5b",
+      "equal": true
+    },
+    {
+      "path": "research/2026-11-19/vox.md",
+      "http": 200,
+      "localSha256": "a59b6b79fb7ba26de593ee44aaf2ad3893003912cf817892593cb1acad79bfd6",
+      "remoteSha256": "a59b6b79fb7ba26de593ee44aaf2ad3893003912cf817892593cb1acad79bfd6",
+      "equal": true
+    },
+    {
+      "path": "research/2026-11-19/cynosure.md",
+      "http": 200,
+      "localSha256": "63859bc8d02c1acf322add6f0b5986511092dd990cf979521a175a96d953f9a3",
+      "remoteSha256": "63859bc8d02c1acf322add6f0b5986511092dd990cf979521a175a96d953f9a3",
+      "equal": true
+    },
+    {
+      "path": "research/2026-11-19/memoria.md",
+      "http": 200,
+      "localSha256": "4b991f0ea3140bd98547ca770e6a4f98353d5eabf594da74c0e5b206f07a27bd",
+      "remoteSha256": "4b991f0ea3140bd98547ca770e6a4f98353d5eabf594da74c0e5b206f07a27bd",
+      "equal": true
+    },
+    {
+      "path": "research/2026-11-19/runo.html",
+      "http": 200,
+      "localSha256": "05483d1e442d0e1fd32e993ca66a0a32878434d8ca220bc972a88aae57e1b913",
+      "remoteSha256": "05483d1e442d0e1fd32e993ca66a0a32878434d8ca220bc972a88aae57e1b913",
+      "equal": true
+    }
+  ]
+}

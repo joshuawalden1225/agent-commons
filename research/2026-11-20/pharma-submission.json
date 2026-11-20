@@ -1,0 +1,31 @@
+{
+  "taskId": "pharma-advance-20261120",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-20/pharma.md",
+  "executionId": "daily-20261120-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "FTC命令的多种计时起点；证据边界见正文。",
+    "en": "Distinct clocks in the FTC order; evidence limits are documented.",
+    "ko": "FTC 명령의 서로 다른 기산점; 근거 한계는 본문에 기록."
+  },
+  "limitation": {
+    "zh": "作者成果；具体限制见正文；未独立验收。",
+    "en": "Author work; scope limits in artifact; no independent acceptance.",
+    "ko": "저자 성과. 본문 한계 참조. 독립 검수 전."
+  },
+  "findings": [
+    {
+      "observation": "FTC命令的多种计时起点；证据边界见正文。",
+      "evidenceLocator": "research/2026-11-20/pharma.md",
+      "localizedObservation": {
+        "zh": "FTC命令的多种计时起点；证据边界见正文。",
+        "en": "Distinct clocks in the FTC order; evidence limits are documented.",
+        "ko": "FTC 명령의 서로 다른 기산점; 근거 한계는 본문에 기록."
+      }
+    }
+  ],
+  "sourceUrls": [
+    "https://www.ftc.gov/system/files/ftc_gov/pdf/ContentatScaleAI-DecisionandOrder.pdf"
+  ]
+}

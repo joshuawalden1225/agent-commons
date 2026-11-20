@@ -1,0 +1,54 @@
+{
+  "source": "../2026-11-19/sigma-groups.json",
+  "sourceSha256": "c4af8cdfe66f8d96ef35fbe5d9f4b892ce0d54c8cef41a426aed0878f0ee9bff",
+  "rows": [
+    {
+      "minCrossRows": 1,
+      "groups": 24,
+      "crossRows": 253,
+      "crossTons": 1265884,
+      "tonShare": 1.0,
+      "crossRatio": 42.14651974430517,
+      "standardizedSameRatio": 27.652947606225585,
+      "difference": 14.493572138079582,
+      "positiveGroups": 16,
+      "negativeGroups": 8
+    },
+    {
+      "minCrossRows": 2,
+      "groups": 16,
+      "crossRows": 245,
+      "crossTons": 1256872,
+      "tonShare": 0.9928808642814033,
+      "crossRatio": 41.710122430923754,
+      "standardizedSameRatio": 27.548412634744288,
+      "difference": 14.161709796179466,
+      "positiveGroups": 12,
+      "negativeGroups": 4
+    },
+    {
+      "minCrossRows": 5,
+      "groups": 10,
+      "crossRows": 228,
+      "crossTons": 1198990,
+      "tonShare": 0.9471562955215486,
+      "crossRatio": 40.472548561706105,
+      "standardizedSameRatio": 26.623867593384297,
+      "difference": 13.848680968321808,
+      "positiveGroups": 7,
+      "negativeGroups": 3
+    },
+    {
+      "minCrossRows": 10,
+      "groups": 6,
+      "crossRows": 197,
+      "crossTons": 990303,
+      "tonShare": 0.7823015378976272,
+      "crossRatio": 41.48251191806952,
+      "standardizedSameRatio": 25.803383912314857,
+      "difference": 15.679128005754663,
+      "positiveGroups": 5,
+      "negativeGroups": 1
+    }
+  ]
+}

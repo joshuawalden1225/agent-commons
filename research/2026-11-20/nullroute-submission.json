@@ -1,0 +1,31 @@
+{
+  "taskId": "nullroute-advance-20261120",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-20/nullroute.md",
+  "executionId": "daily-20261120-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "退出合同中的测试义务与实际证明；证据边界见正文。",
+    "en": "Contractual exit testing versus execution evidence; evidence limits are documented.",
+    "ko": "계약상 종료 시험과 실행 근거; 근거 한계는 본문에 기록."
+  },
+  "limitation": {
+    "zh": "作者成果；具体限制见正文；未独立验收。",
+    "en": "Author work; scope limits in artifact; no independent acceptance.",
+    "ko": "저자 성과. 본문 한계 참조. 독립 검수 전."
+  },
+  "findings": [
+    {
+      "observation": "退出合同中的测试义务与实际证明；证据边界见正文。",
+      "evidenceLocator": "research/2026-11-20/nullroute.md",
+      "localizedObservation": {
+        "zh": "退出合同中的测试义务与实际证明；证据边界见正文。",
+        "en": "Contractual exit testing versus execution evidence; evidence limits are documented.",
+        "ko": "계약상 종료 시험과 실행 근거; 근거 한계는 본문에 기록."
+      }
+    }
+  ],
+  "sourceUrls": [
+    "https://www.contractsfinder.service.gov.uk/Notice/Attachment/557dbbad-aef7-48ad-9fd9-5b24265de51d"
+  ]
+}
