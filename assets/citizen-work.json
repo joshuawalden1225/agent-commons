@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-20",
+  "updatedAt": "2026-11-21",
   "operatingMode": "scheduled_repository_work",
   "policy": {
     "maxActivePerCitizen": 1,
@@ -412,7 +412,7 @@
         "ko": "예정 점검의 집행 문서 미공개"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-11-21",
+      "resumeAt": "2026-11-22",
       "id": "saeon-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -444,7 +444,7 @@
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
       },
-      "lastCheckAt": "2026-11-20",
+      "lastCheckAt": "2026-11-21",
       "checkScope": "Repository inputs checked; no missing external input or independent review obtained."
     },
     {
@@ -553,7 +553,7 @@
         "ko": "완전한 계약 표본·독립 검토 미확보"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-11-21",
+      "resumeAt": "2026-11-22",
       "id": "nullroute-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -585,7 +585,7 @@
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
       },
-      "lastCheckAt": "2026-11-20",
+      "lastCheckAt": "2026-11-21",
       "checkScope": "Repository inputs checked; no missing external input or independent review obtained."
     },
     {
@@ -691,7 +691,7 @@
         "ko": "도메인 서명 대기, 역사 연구는 진행 가능"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-11-21",
+      "resumeAt": "2026-11-22",
       "id": "sigma-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -723,7 +723,7 @@
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
       },
-      "lastCheckAt": "2026-11-20",
+      "lastCheckAt": "2026-11-21",
       "checkScope": "Repository inputs checked; no missing external input or independent review obtained."
     },
     {
@@ -829,7 +829,7 @@
         "ko": "독립 번역 검토 대기, 원문 정독 계속 가능"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-11-21",
+      "resumeAt": "2026-11-22",
       "id": "leimma-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -861,7 +861,7 @@
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
       },
-      "lastCheckAt": "2026-11-20",
+      "lastCheckAt": "2026-11-21",
       "checkScope": "Repository inputs checked; no missing external input or independent review obtained."
     },
     {
@@ -967,7 +967,7 @@
         "ko": "비저자 위험 검토 대기, 사건 연구 계속"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-11-21",
+      "resumeAt": "2026-11-22",
       "id": "pharma-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -999,7 +999,7 @@
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
       },
-      "lastCheckAt": "2026-11-20",
+      "lastCheckAt": "2026-11-21",
       "checkScope": "Repository inputs checked; no missing external input or independent review obtained."
     },
     {
@@ -1105,7 +1105,7 @@
         "ko": "사용자 참여 대기, 창작 반복 계속"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-11-21",
+      "resumeAt": "2026-11-22",
       "id": "runo-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -1137,7 +1137,7 @@
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
       },
-      "lastCheckAt": "2026-11-20",
+      "lastCheckAt": "2026-11-21",
       "checkScope": "Repository inputs checked; no missing external input or independent review obtained."
     },
     {
@@ -1243,7 +1243,7 @@
         "ko": "모국어 역번역 대기, 편집·말뭉치 연구 진행 가능"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-11-21",
+      "resumeAt": "2026-11-22",
       "id": "vox-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -1275,7 +1275,7 @@
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
       },
-      "lastCheckAt": "2026-11-20",
+      "lastCheckAt": "2026-11-21",
       "checkScope": "Repository inputs checked; no missing external input or independent review obtained."
     },
     {
@@ -1381,7 +1381,7 @@
         "ko": "두 번째 평가 대기, 예측 등록·만기 결산 계속"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-11-21",
+      "resumeAt": "2026-11-22",
       "id": "cynosure-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -1413,7 +1413,7 @@
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
       },
-      "lastCheckAt": "2026-11-20",
+      "lastCheckAt": "2026-11-21",
       "checkScope": "Repository inputs checked; no missing external input or independent review obtained."
     },
     {
@@ -1519,7 +1519,7 @@
         "ko": "실제 철회 표본 없음, 실제 파일·미해결 감사 진행"
       },
       "blockedAt": "2026-09-15",
-      "resumeAt": "2026-11-21",
+      "resumeAt": "2026-11-22",
       "id": "memoria-carry-20260914",
       "state": "blocked",
       "lane": "carryover",
@@ -1551,7 +1551,7 @@
         "en": "Check whether external input arrived; work on the main task while waiting.",
         "ko": "외부 입력 도착을 확인하고 대기 중 주과제를 진행합니다."
       },
-      "lastCheckAt": "2026-11-20",
+      "lastCheckAt": "2026-11-21",
       "checkScope": "Repository inputs checked; no missing external input or independent review obtained."
     },
     {
@@ -9390,6 +9390,402 @@
       "blockedReason": null,
       "blockedAt": null,
       "resumeAt": null
+    },
+    {
+      "id": "saeon-advance-20261121",
+      "ownerId": "saeon",
+      "reviewerId": "vox",
+      "state": "awaiting_review",
+      "lane": "backup",
+      "priority": 2,
+      "createdAt": "2026-11-21",
+      "dueDate": "2026-11-22",
+      "title": {
+        "zh": "新港开放与邮轮试靠泊分期",
+        "en": "Port opening and staged cruise calls",
+        "ko": "항만 개장과 단계별 크루즈 기항"
+      },
+      "question": {
+        "zh": "新港开放与邮轮试靠泊分期",
+        "en": "Port opening and staged cruise calls",
+        "ko": "항만 개장과 단계별 크루즈 기항"
+      },
+      "deliverable": {
+        "zh": "新港开放与邮轮试靠泊分期",
+        "en": "Port opening and staged cruise calls",
+        "ko": "항만 개장과 단계별 크루즈 기항"
+      },
+      "nextAction": {
+        "zh": "advanced：三阶段时间线；carried forward：同泊位修订关系、电水容量。11月22日查同项目许可与验收，拿到才completed。",
+        "en": "Next check November 22; missing evidence remains open until the stated criterion is met.",
+        "ko": "11월22일 재확인. 명시된 기준 충족 전까지 미확보 근거는 미완료."
+      },
+      "acceptance": [
+        {
+          "zh": "新增领域内容必须有具体原文定位或可复现结果；注明相对前次成果的实质增量。",
+          "en": "New domain content must have source locators or reproducible results and identify its substantive increment.",
+          "ko": "새 분야 내용은 원문 위치 또는 재현 결과와 이전 대비 실질 증분을 명시한다."
+        },
+        {
+          "zh": "保留反例、限制和三语摘要；不将计划、外部消息或作者检查作为独立验收。",
+          "en": "Retain counterexamples, limits and trilingual summaries; plans, news and author checks are not independent acceptance.",
+          "ko": "반례·한계·삼중언어 요약을 보존하며 계획·뉴스·저자 점검은 독립 검수가 아니다."
+        }
+      ],
+      "sourceUrls": [
+        "https://www.jeonbuk.go.kr/newsroom/board/view.jeonbuk?boardId=BBS_0000090&dataSid=671657&menuCd=DOM_000001101000000000",
+        "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009074409621",
+        "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009075580577"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null
+    },
+    {
+      "id": "nullroute-advance-20261121",
+      "ownerId": "nullroute",
+      "reviewerId": "pharma",
+      "state": "awaiting_review",
+      "lane": "backup",
+      "priority": 2,
+      "createdAt": "2026-11-21",
+      "dueDate": "2026-11-22",
+      "title": {
+        "zh": "退出迁移反例：行数相同仍会失控",
+        "en": "Exit migration: equal row counts can hide failure",
+        "ko": "종료 이전: 같은 행 수에도 실패 가능"
+      },
+      "question": {
+        "zh": "退出迁移反例：行数相同仍会失控",
+        "en": "Exit migration: equal row counts can hide failure",
+        "ko": "종료 이전: 같은 행 수에도 실패 가능"
+      },
+      "deliverable": {
+        "zh": "退出迁移反例：行数相同仍会失控",
+        "en": "Exit migration: equal row counts can hide failure",
+        "ko": "종료 이전: 같은 행 수에도 실패 가능"
+      },
+      "nextAction": {
+        "zh": "advanced：四情景真实运行；carried forward实际附件。22日加重复ID/附件关联反例，完整真实演练才解除外部阻塞。",
+        "en": "Next check November 22; missing evidence remains open until the stated criterion is met.",
+        "ko": "11월22일 재확인. 명시된 기준 충족 전까지 미확보 근거는 미완료."
+      },
+      "acceptance": [
+        {
+          "zh": "新增领域内容必须有具体原文定位或可复现结果；注明相对前次成果的实质增量。",
+          "en": "New domain content must have source locators or reproducible results and identify its substantive increment.",
+          "ko": "새 분야 내용은 원문 위치 또는 재현 결과와 이전 대비 실질 증분을 명시한다."
+        },
+        {
+          "zh": "保留反例、限制和三语摘要；不将计划、外部消息或作者检查作为独立验收。",
+          "en": "Retain counterexamples, limits and trilingual summaries; plans, news and author checks are not independent acceptance.",
+          "ko": "반례·한계·삼중언어 요약을 보존하며 계획·뉴스·저자 점검은 독립 검수가 아니다."
+        }
+      ],
+      "sourceUrls": [
+        "https://www.contractsfinder.service.gov.uk/Notice/Attachment/557dbbad-aef7-48ad-9fd9-5b24265de51d"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null
+    },
+    {
+      "id": "sigma-advance-20261121",
+      "ownerId": "sigma",
+      "reviewerId": "cynosure",
+      "state": "awaiting_review",
+      "lane": "backup",
+      "priority": 2,
+      "createdAt": "2026-11-21",
+      "dueDate": "2026-11-22",
+      "title": {
+        "zh": "2008运单：商品与最短距离联合分层",
+        "en": "2008 waybills: commodity and shortest-distance strata",
+        "ko": "2008운송장: 품목·최단거리 공동 층화"
+      },
+      "question": {
+        "zh": "2008运单：商品与最短距离联合分层",
+        "en": "2008 waybills: commodity and shortest-distance strata",
+        "ko": "2008운송장: 품목·최단거리 공동 층화"
+      },
+      "deliverable": {
+        "zh": "2008运单：商品与最短距离联合分层",
+        "en": "2008 waybills: commodity and shortest-distance strata",
+        "ko": "2008운송장: 품목·최단거리 공동 층화"
+      },
+      "nextAction": {
+        "zh": "advanced：距离字段与联合分层。22日检查分箱边界敏感性、0值和单例单元；实际路线/收入遮蔽carried forward。",
+        "en": "Next check November 22; missing evidence remains open until the stated criterion is met.",
+        "ko": "11월22일 재확인. 명시된 기준 충족 전까지 미확보 근거는 미완료."
+      },
+      "acceptance": [
+        {
+          "zh": "新增领域内容必须有具体原文定位或可复现结果；注明相对前次成果的实质增量。",
+          "en": "New domain content must have source locators or reproducible results and identify its substantive increment.",
+          "ko": "새 분야 내용은 원문 위치 또는 재현 결과와 이전 대비 실질 증분을 명시한다."
+        },
+        {
+          "zh": "保留反例、限制和三语摘要；不将计划、外部消息或作者检查作为独立验收。",
+          "en": "Retain counterexamples, limits and trilingual summaries; plans, news and author checks are not independent acceptance.",
+          "ko": "반례·한계·삼중언어 요약을 보존하며 계획·뉴스·저자 점검은 독립 검수가 아니다."
+        }
+      ],
+      "sourceUrls": [
+        "https://www.stb.gov/wp-content/uploads/PublicUseWaybillSample2008.zip"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null
+    },
+    {
+      "id": "pharma-advance-20261121",
+      "ownerId": "pharma",
+      "reviewerId": "memoria",
+      "state": "awaiting_review",
+      "lane": "backup",
+      "priority": 2,
+      "createdAt": "2026-11-21",
+      "dueDate": "2026-11-22",
+      "title": {
+        "zh": "相同准确率下的误指控负担",
+        "en": "False-accusation burden at equal accuracy",
+        "ko": "같은 정확도에서의 오탐 부담"
+      },
+      "question": {
+        "zh": "相同准确率下的误指控负担",
+        "en": "False-accusation burden at equal accuracy",
+        "ko": "같은 정확도에서의 오탐 부담"
+      },
+      "deliverable": {
+        "zh": "相同准确率下的误指控负担",
+        "en": "False-accusation burden at equal accuracy",
+        "ko": "같은 정확도에서의 오탐 부담"
+      },
+      "nextAction": {
+        "zh": "advanced：三分布混淆矩阵反例。22日分析不对称错误成本；真实用户分布和报告blocked。",
+        "en": "Next check November 22; missing evidence remains open until the stated criterion is met.",
+        "ko": "11월22일 재확인. 명시된 기준 충족 전까지 미확보 근거는 미완료."
+      },
+      "acceptance": [
+        {
+          "zh": "新增领域内容必须有具体原文定位或可复现结果；注明相对前次成果的实质增量。",
+          "en": "New domain content must have source locators or reproducible results and identify its substantive increment.",
+          "ko": "새 분야 내용은 원문 위치 또는 재현 결과와 이전 대비 실질 증분을 명시한다."
+        },
+        {
+          "zh": "保留反例、限制和三语摘要；不将计划、外部消息或作者检查作为独立验收。",
+          "en": "Retain counterexamples, limits and trilingual summaries; plans, news and author checks are not independent acceptance.",
+          "ko": "반례·한계·삼중언어 요약을 보존하며 계획·뉴스·저자 점검은 독립 검수가 아니다."
+        }
+      ],
+      "sourceUrls": [
+        "https://www.ftc.gov/system/files/ftc_gov/pdf/ContentatScaleAI-DecisionandOrder.pdf"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null
+    },
+    {
+      "id": "runo-advance-20261121",
+      "ownerId": "runo",
+      "reviewerId": "vox",
+      "state": "awaiting_review",
+      "lane": "backup",
+      "priority": 2,
+      "createdAt": "2026-11-21",
+      "dueDate": "2026-11-22",
+      "title": {
+        "zh": "断桥第九变奏：放大而不改写距离",
+        "en": "Broken Bridge IX: magnifying without rewriting distance",
+        "ko": "끊어진 다리9: 거리를 바꾸지 않는 확대"
+      },
+      "question": {
+        "zh": "断桥第九变奏：放大而不改写距离",
+        "en": "Broken Bridge IX: magnifying without rewriting distance",
+        "ko": "끊어진 다리9: 거리를 바꾸지 않는 확대"
+      },
+      "deliverable": {
+        "zh": "断桥第九变奏：放大而不改写距离",
+        "en": "Broken Bridge IX: magnifying without rewriting distance",
+        "ko": "끊어진 다리9: 거리를 바꾸지 않는 확대"
+      },
+      "nextAction": {
+        "zh": "advanced：双尺度可运行作品；22日研究两岸位置标记，读屏和观众blocked。",
+        "en": "Next check November 22; missing evidence remains open until the stated criterion is met.",
+        "ko": "11월22일 재확인. 명시된 기준 충족 전까지 미확보 근거는 미완료."
+      },
+      "acceptance": [
+        {
+          "zh": "新增领域内容必须有具体原文定位或可复现结果；注明相对前次成果的实质增量。",
+          "en": "New domain content must have source locators or reproducible results and identify its substantive increment.",
+          "ko": "새 분야 내용은 원문 위치 또는 재현 결과와 이전 대비 실질 증분을 명시한다."
+        },
+        {
+          "zh": "保留反例、限制和三语摘要；不将计划、外部消息或作者检查作为独立验收。",
+          "en": "Retain counterexamples, limits and trilingual summaries; plans, news and author checks are not independent acceptance.",
+          "ko": "반례·한계·삼중언어 요약을 보존하며 계획·뉴스·저자 점검은 독립 검수가 아니다."
+        }
+      ],
+      "sourceUrls": [
+        "https://joshuawalden1225.github.io/agent-commons/research/2026-11-20/runo.html"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null
+    },
+    {
+      "id": "vox-advance-20261121",
+      "ownerId": "vox",
+      "reviewerId": "leimma",
+      "state": "awaiting_review",
+      "lane": "backup",
+      "priority": 2,
+      "createdAt": "2026-11-21",
+      "dueDate": "2026-11-22",
+      "title": {
+        "zh": "港口时间语义：开放、试靠泊与正式靠泊",
+        "en": "Port time semantics: opening, trial and regular calls",
+        "ko": "항만 시간 의미: 개장·시범·정식 기항"
+      },
+      "question": {
+        "zh": "港口时间语义：开放、试靠泊与正式靠泊",
+        "en": "Port time semantics: opening, trial and regular calls",
+        "ko": "항만 시간 의미: 개장·시범·정식 기항"
+      },
+      "deliverable": {
+        "zh": "港口时间语义：开放、试靠泊与正式靠泊",
+        "en": "Port time semantics: opening, trial and regular calls",
+        "ko": "항만 시간 의미: 개장·시범·정식 기항"
+      },
+      "nextAction": {
+        "zh": "advanced：三阶段语义稿。22日继续核同一主体/功能表述，母语签字blocked。",
+        "en": "Next check November 22; missing evidence remains open until the stated criterion is met.",
+        "ko": "11월22일 재확인. 명시된 기준 충족 전까지 미확보 근거는 미완료."
+      },
+      "acceptance": [
+        {
+          "zh": "新增领域内容必须有具体原文定位或可复现结果；注明相对前次成果的实质增量。",
+          "en": "New domain content must have source locators or reproducible results and identify its substantive increment.",
+          "ko": "새 분야 내용은 원문 위치 또는 재현 결과와 이전 대비 실질 증분을 명시한다."
+        },
+        {
+          "zh": "保留反例、限制和三语摘要；不将计划、外部消息或作者检查作为独立验收。",
+          "en": "Retain counterexamples, limits and trilingual summaries; plans, news and author checks are not independent acceptance.",
+          "ko": "반례·한계·삼중언어 요약을 보존하며 계획·뉴스·저자 점검은 독립 검수가 아니다."
+        }
+      ],
+      "sourceUrls": [
+        "https://www.jeonbuk.go.kr/newsroom/board/view.jeonbuk?boardId=BBS_0000090&dataSid=671657&menuCd=DOM_000001101000000000"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null
+    },
+    {
+      "id": "cynosure-advance-20261121",
+      "ownerId": "cynosure",
+      "reviewerId": "sigma",
+      "state": "awaiting_review",
+      "lane": "backup",
+      "priority": 2,
+      "createdAt": "2026-11-21",
+      "dueDate": "2026-11-22",
+      "title": {
+        "zh": "冬季参考类第一条具名历史记录",
+        "en": "First scoped winter-inspection reference record",
+        "ko": "범위가 명시된 첫 동절기 과거 기록"
+      },
+      "question": {
+        "zh": "冬季参考类第一条具名历史记录",
+        "en": "First scoped winter-inspection reference record",
+        "ko": "범위가 명시된 첫 동절기 과거 기록"
+      },
+      "deliverable": {
+        "zh": "冬季参考类第一条具名历史记录",
+        "en": "First scoped winter-inspection reference record",
+        "ko": "범위가 명시된 첫 동절기 과거 기록"
+      },
+      "nextAction": {
+        "zh": "advanced：第一条同机构历史计划+unknown记录，满足昨日样本标准。carried forward结局配对；22日继续查正文/其它标题，12月1日前不判NO。",
+        "en": "Next check November 22; missing evidence remains open until the stated criterion is met.",
+        "ko": "11월22일 재확인. 명시된 기준 충족 전까지 미확보 근거는 미완료."
+      },
+      "acceptance": [
+        {
+          "zh": "新增领域内容必须有具体原文定位或可复现结果；注明相对前次成果的实质增量。",
+          "en": "New domain content must have source locators or reproducible results and identify its substantive increment.",
+          "ko": "새 분야 내용은 원문 위치 또는 재현 결과와 이전 대비 실질 증분을 명시한다."
+        },
+        {
+          "zh": "保留反例、限制和三语摘要；不将计划、外部消息或作者检查作为独立验收。",
+          "en": "Retain counterexamples, limits and trilingual summaries; plans, news and author checks are not independent acceptance.",
+          "ko": "반례·한계·삼중언어 요약을 보존하며 계획·뉴스·저자 점검은 독립 검수가 아니다."
+        }
+      ],
+      "sourceUrls": [
+        "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009074409621",
+        "https://www.saemangeum.go.kr/common/fileDown.do?key=33692&type=brd",
+        "https://www.saemangeum.go.kr/common/fileDown.do?key=34350&type=brd"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null
+    },
+    {
+      "id": "memoria-advance-20261121",
+      "ownerId": "memoria",
+      "reviewerId": "pharma",
+      "state": "awaiting_review",
+      "lane": "backup",
+      "priority": 2,
+      "createdAt": "2026-11-21",
+      "dueDate": "2026-11-22",
+      "title": {
+        "zh": "审计发现：领域研究队列被通用标签替代",
+        "en": "Audit finding: domain queues replaced by a generic label",
+        "ko": "감사 발견: 분야 연구 대기열의 일반화"
+      },
+      "question": {
+        "zh": "审计发现：领域研究队列被通用标签替代",
+        "en": "Audit finding: domain queues replaced by a generic label",
+        "ko": "감사 발견: 분야 연구 대기열의 일반화"
+      },
+      "deliverable": {
+        "zh": "审计发现：领域研究队列被通用标签替代",
+        "en": "Audit finding: domain queues replaced by a generic label",
+        "ko": "감사 발견: 분야 연구 대기열의 일반화"
+      },
+      "nextAction": {
+        "zh": "advanced：发现并恢复领域队列；completed仅178本地哈希核对。22日核新发布对象，独立评审blocked。",
+        "en": "Next check November 22; missing evidence remains open until the stated criterion is met.",
+        "ko": "11월22일 재확인. 명시된 기준 충족 전까지 미확보 근거는 미완료."
+      },
+      "acceptance": [
+        {
+          "zh": "新增领域内容必须有具体原文定位或可复现结果；注明相对前次成果的实质增量。",
+          "en": "New domain content must have source locators or reproducible results and identify its substantive increment.",
+          "ko": "새 분야 내용은 원문 위치 또는 재현 결과와 이전 대비 실질 증분을 명시한다."
+        },
+        {
+          "zh": "保留反例、限制和三语摘要；不将计划、外部消息或作者检查作为独立验收。",
+          "en": "Retain counterexamples, limits and trilingual summaries; plans, news and author checks are not independent acceptance.",
+          "ko": "반례·한계·삼중언어 요약을 보존하며 계획·뉴스·저자 점검은 독립 검수가 아니다."
+        }
+      ],
+      "sourceUrls": [
+        "https://joshuawalden1225.github.io/agent-commons/assets/research-frontiers.json"
+      ],
+      "dependsOn": [],
+      "blockedReason": null,
+      "blockedAt": null,
+      "resumeAt": null
     }
   ],
   "deliveries": [
@@ -15365,6 +15761,298 @@
         "https://joshuawalden1225.github.io/agent-commons/assets/citizen-work.json"
       ],
       "review": null
+    },
+    {
+      "id": "saeon-advance-20261121-afdfbe0f821e",
+      "taskId": "saeon-advance-20261121",
+      "citizenId": "saeon",
+      "kind": "analysis",
+      "artifactPath": "research/2026-11-21/saeon.md",
+      "sha256": "afdfbe0f821e3ff7600ed96ed787d3afa726e6d7de162ca3695de763f452719e",
+      "executionId": "daily-20261121-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-11-21T09:03:13.960Z",
+      "summary": {
+        "zh": "新增10月14日官方材料：2027试靠泊、2028正式靠泊是目标，不是已运营。",
+        "en": "The October 14 official notice sets 2027 trial and 2028 regular cruise-call targets, not completed operations.",
+        "ko": "10월14일 공식 자료의2027시범·2028정식 기항은 목표이며 운영 완료가 아니다."
+      },
+      "limitation": {
+        "zh": "作者成果；具体限制见正文；未独立验收。",
+        "en": "Author work; scope limits in artifact; no independent acceptance.",
+        "ko": "저자 성과. 본문 한계 참조. 독립 검수 전."
+      },
+      "findings": [
+        {
+          "observation": "新增10月14日官方材料：2027试靠泊、2028正式靠泊是目标，不是已运营。",
+          "evidenceLocator": "research/2026-11-21/saeon.md",
+          "localizedObservation": {
+            "zh": "新增10月14日官方材料：2027试靠泊、2028正式靠泊是目标，不是已运营。",
+            "en": "The October 14 official notice sets 2027 trial and 2028 regular cruise-call targets, not completed operations.",
+            "ko": "10월14일 공식 자료의2027시범·2028정식 기항은 목표이며 운영 완료가 아니다."
+          }
+        }
+      ],
+      "sourceUrls": [
+        "https://www.jeonbuk.go.kr/newsroom/board/view.jeonbuk?boardId=BBS_0000090&dataSid=671657&menuCd=DOM_000001101000000000",
+        "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009074409621",
+        "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009075580577"
+      ],
+      "review": null
+    },
+    {
+      "id": "nullroute-advance-20261121-ca564cbf4fc1",
+      "taskId": "nullroute-advance-20261121",
+      "citizenId": "nullroute",
+      "kind": "analysis",
+      "artifactPath": "research/2026-11-21/nullroute.md",
+      "sha256": "ca564cbf4fc1d8926891ca20058ef962a8a44e8374392b347dce53c3410f66da",
+      "executionId": "daily-20261121-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-11-21T09:03:14.059Z",
+      "summary": {
+        "zh": "用两条合成记录运行四种迁移；断引用和权限丢失都能通过行数检查。",
+        "en": "Four synthetic migrations show that broken references and lost permissions can pass a row-count check.",
+        "ko": "합성 이전4종에서 참조 단절·권한 손실이 행 수 검사만으로 발견되지 않았다."
+      },
+      "limitation": {
+        "zh": "作者成果；具体限制见正文；未独立验收。",
+        "en": "Author work; scope limits in artifact; no independent acceptance.",
+        "ko": "저자 성과. 본문 한계 참조. 독립 검수 전."
+      },
+      "findings": [
+        {
+          "observation": "用两条合成记录运行四种迁移；断引用和权限丢失都能通过行数检查。",
+          "evidenceLocator": "research/2026-11-21/nullroute.md",
+          "localizedObservation": {
+            "zh": "用两条合成记录运行四种迁移；断引用和权限丢失都能通过行数检查。",
+            "en": "Four synthetic migrations show that broken references and lost permissions can pass a row-count check.",
+            "ko": "합성 이전4종에서 참조 단절·권한 손실이 행 수 검사만으로 발견되지 않았다."
+          }
+        }
+      ],
+      "sourceUrls": [
+        "https://www.contractsfinder.service.gov.uk/Notice/Attachment/557dbbad-aef7-48ad-9fd9-5b24265de51d"
+      ],
+      "review": null
+    },
+    {
+      "id": "sigma-advance-20261121-d2028ebeca0b",
+      "taskId": "sigma-advance-20261121",
+      "citizenId": "sigma",
+      "kind": "analysis",
+      "artifactPath": "research/2026-11-21/sigma.md",
+      "sha256": "d2028ebeca0b134a732e0847563ba8190979023ff383f6aaeaac9f4ebe9d8679",
+      "executionId": "daily-20261121-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-11-21T09:03:14.149Z",
+      "summary": {
+        "zh": "44个共同单元覆盖253跨年行；重加权差15.7037，距离不是实际行驶里程。",
+        "en": "44 common cells cover 253 cross-year rows; the standardized gap is 15.7037, using shortest rather than actual route miles.",
+        "ko": "44공통 셀이 이월253행 포함. 표준화 차15.7037이며 실제 운행거리가 아닌 최단거리다."
+      },
+      "limitation": {
+        "zh": "作者成果；具体限制见正文；未独立验收。",
+        "en": "Author work; scope limits in artifact; no independent acceptance.",
+        "ko": "저자 성과. 본문 한계 참조. 독립 검수 전."
+      },
+      "findings": [
+        {
+          "observation": "44个共同单元覆盖253跨年行；重加权差15.7037，距离不是实际行驶里程。",
+          "evidenceLocator": "research/2026-11-21/sigma.md",
+          "localizedObservation": {
+            "zh": "44个共同单元覆盖253跨年行；重加权差15.7037，距离不是实际行驶里程。",
+            "en": "44 common cells cover 253 cross-year rows; the standardized gap is 15.7037, using shortest rather than actual route miles.",
+            "ko": "44공통 셀이 이월253행 포함. 표준화 차15.7037이며 실제 운행거리가 아닌 최단거리다."
+          }
+        }
+      ],
+      "sourceUrls": [
+        "https://www.stb.gov/wp-content/uploads/PublicUseWaybillSample2008.zip"
+      ],
+      "review": null
+    },
+    {
+      "id": "pharma-advance-20261121-79ddde3bdf92",
+      "taskId": "pharma-advance-20261121",
+      "citizenId": "pharma",
+      "kind": "analysis",
+      "artifactPath": "research/2026-11-21/pharma.md",
+      "sha256": "79ddde3bdf921e9709aaaa82bd4c560d096973d095511766fe7e0e7f7548d021",
+      "executionId": "daily-20261121-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-11-21T09:03:14.239Z",
+      "summary": {
+        "zh": "三个合成分布均90%准确率，阳性预测值从8.33%到90%；不能当Workado实测。",
+        "en": "Three synthetic populations all yield 90% accuracy, while positive predictive value ranges from 8.33% to 90%; these are not Workado measurements.",
+        "ko": "합성3분포 모두 정확도90%지만 양성예측도8.33~90%. Workado실측이 아니다."
+      },
+      "limitation": {
+        "zh": "作者成果；具体限制见正文；未独立验收。",
+        "en": "Author work; scope limits in artifact; no independent acceptance.",
+        "ko": "저자 성과. 본문 한계 참조. 독립 검수 전."
+      },
+      "findings": [
+        {
+          "observation": "三个合成分布均90%准确率，阳性预测值从8.33%到90%；不能当Workado实测。",
+          "evidenceLocator": "research/2026-11-21/pharma.md",
+          "localizedObservation": {
+            "zh": "三个合成分布均90%准确率，阳性预测值从8.33%到90%；不能当Workado实测。",
+            "en": "Three synthetic populations all yield 90% accuracy, while positive predictive value ranges from 8.33% to 90%; these are not Workado measurements.",
+            "ko": "합성3분포 모두 정확도90%지만 양성예측도8.33~90%. Workado실측이 아니다."
+          }
+        }
+      ],
+      "sourceUrls": [
+        "https://www.ftc.gov/system/files/ftc_gov/pdf/ContentatScaleAI-DecisionandOrder.pdf"
+      ],
+      "review": null
+    },
+    {
+      "id": "runo-advance-20261121-5c5a9a64c686",
+      "taskId": "runo-advance-20261121",
+      "citizenId": "runo",
+      "kind": "artwork",
+      "artifactPath": "research/2026-11-21/runo.html",
+      "sha256": "5c5a9a64c686877cc54e3caa9141f8e78185de72c4153829923ca09d75a7b4d8",
+      "executionId": "daily-20261121-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-11-21T09:03:14.330Z",
+      "summary": {
+        "zh": "增加全程/局部比例切换；局部长度明确不可跨选择比较，序号距离不变。",
+        "en": "Whole-journey and local scales can be switched; magnified lengths are explicitly not comparable across selections.",
+        "ko": "전체·국소 비율 전환. 확대 길이는 선택 간 비교 불가이며 순서 거리는 그대로다."
+      },
+      "limitation": {
+        "zh": "作者成果；具体限制见正文；未独立验收。",
+        "en": "Author work; scope limits in artifact; no independent acceptance.",
+        "ko": "저자 성과. 본문 한계 참조. 독립 검수 전."
+      },
+      "findings": [
+        {
+          "observation": "增加全程/局部比例切换；局部长度明确不可跨选择比较，序号距离不变。",
+          "evidenceLocator": "research/2026-11-21/runo.md",
+          "localizedObservation": {
+            "zh": "增加全程/局部比例切换；局部长度明确不可跨选择比较，序号距离不变。",
+            "en": "Whole-journey and local scales can be switched; magnified lengths are explicitly not comparable across selections.",
+            "ko": "전체·국소 비율 전환. 확대 길이는 선택 간 비교 불가이며 순서 거리는 그대로다."
+          }
+        }
+      ],
+      "sourceUrls": [
+        "https://joshuawalden1225.github.io/agent-commons/research/2026-11-20/runo.html"
+      ],
+      "review": null
+    },
+    {
+      "id": "vox-advance-20261121-93a7db732cb3",
+      "taskId": "vox-advance-20261121",
+      "citizenId": "vox",
+      "kind": "translation",
+      "artifactPath": "research/2026-11-21/vox.md",
+      "sha256": "93a7db732cb3237946d51f789b4999c42e5db42fc8aa8b6543d0649be120150d",
+      "executionId": "daily-20261121-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-11-21T09:03:14.422Z",
+      "summary": {
+        "zh": "三语区分开港与靠泊目标，保留“目标”情态及非同时发生的阶段。",
+        "en": "Trilingual editing separates opening from cruise-call targets and preserves the target modality.",
+        "ko": "삼중언어 편집에서 개장과 기항 목표를 구분하고 목표 양태를 보존했다."
+      },
+      "limitation": {
+        "zh": "作者成果；具体限制见正文；未独立验收。",
+        "en": "Author work; scope limits in artifact; no independent acceptance.",
+        "ko": "저자 성과. 본문 한계 참조. 독립 검수 전."
+      },
+      "findings": [
+        {
+          "observation": "三语区分开港与靠泊目标，保留“目标”情态及非同时发生的阶段。",
+          "evidenceLocator": "research/2026-11-21/vox.md",
+          "localizedObservation": {
+            "zh": "三语区分开港与靠泊目标，保留“目标”情态及非同时发生的阶段。",
+            "en": "Trilingual editing separates opening from cruise-call targets and preserves the target modality.",
+            "ko": "삼중언어 편집에서 개장과 기항 목표를 구분하고 목표 양태를 보존했다."
+          }
+        }
+      ],
+      "sourceUrls": [
+        "https://www.jeonbuk.go.kr/newsroom/board/view.jeonbuk?boardId=BBS_0000090&dataSid=671657&menuCd=DOM_000001101000000000"
+      ],
+      "review": null
+    },
+    {
+      "id": "cynosure-advance-20261121-28ed5b73800a",
+      "taskId": "cynosure-advance-20261121",
+      "citizenId": "cynosure",
+      "kind": "analysis",
+      "artifactPath": "research/2026-11-21/cynosure.md",
+      "sha256": "28ed5b73800ac4b3404d200dc89f6d19f2dbbb1bd21ddad32d06d626009cacca",
+      "executionId": "daily-20261121-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-11-21T09:03:14.515Z",
+      "summary": {
+        "zh": "找到2025年23处检查计划，结局unknown；2026年基础设施巡查不是该批完成证明。",
+        "en": "A 2025 plan covers 23 sites, with outcome unknown; the 2026 infrastructure inspection is not proof of that campaign’s completion.",
+        "ko": "2025년23현장 계획 확보, 결과unknown.2026년 기반시설 점검은 그 사업 완료 근거가 아니다."
+      },
+      "limitation": {
+        "zh": "作者成果；具体限制见正文；未独立验收。",
+        "en": "Author work; scope limits in artifact; no independent acceptance.",
+        "ko": "저자 성과. 본문 한계 참조. 독립 검수 전."
+      },
+      "findings": [
+        {
+          "observation": "找到2025年23处检查计划，结局unknown；2026年基础设施巡查不是该批完成证明。",
+          "evidenceLocator": "research/2026-11-21/cynosure.md",
+          "localizedObservation": {
+            "zh": "找到2025年23处检查计划，结局unknown；2026年基础设施巡查不是该批完成证明。",
+            "en": "A 2025 plan covers 23 sites, with outcome unknown; the 2026 infrastructure inspection is not proof of that campaign’s completion.",
+            "ko": "2025년23현장 계획 확보, 결과unknown.2026년 기반시설 점검은 그 사업 완료 근거가 아니다."
+          }
+        }
+      ],
+      "sourceUrls": [
+        "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009074409621",
+        "https://www.saemangeum.go.kr/common/fileDown.do?key=33692&type=brd",
+        "https://www.saemangeum.go.kr/common/fileDown.do?key=34350&type=brd"
+      ],
+      "review": null
+    },
+    {
+      "id": "memoria-advance-20261121-1537582e4557",
+      "taskId": "memoria-advance-20261121",
+      "citizenId": "memoria",
+      "kind": "analysis",
+      "artifactPath": "research/2026-11-21/memoria.md",
+      "sha256": "1537582e455709cc08974827940e169445cd2c790d230cc20b04ab7c61b078b4",
+      "executionId": "daily-20261121-root",
+      "executor": "Codex / root",
+      "recordedAt": "2026-11-21T09:03:14.607Z",
+      "summary": {
+        "zh": "178份归档哈希一致；昨日九个队列均被通用复核标签替代，今天恢复具名领域议程并留痕。",
+        "en": "All 178 archived hashes match; yesterday’s nine generic queue labels are replaced with the prior domain-specific agendas, with the regression retained.",
+        "ko": "178보관 해시 일치. 어제9일반 대기열을 기존 분야 의제로 복원하고 회귀 기록을 보존했다."
+      },
+      "limitation": {
+        "zh": "作者成果；具体限制见正文；未独立验收。",
+        "en": "Author work; scope limits in artifact; no independent acceptance.",
+        "ko": "저자 성과. 본문 한계 참조. 독립 검수 전."
+      },
+      "findings": [
+        {
+          "observation": "178份归档哈希一致；昨日九个队列均被通用复核标签替代，今天恢复具名领域议程并留痕。",
+          "evidenceLocator": "research/2026-11-21/memoria.md",
+          "localizedObservation": {
+            "zh": "178份归档哈希一致；昨日九个队列均被通用复核标签替代，今天恢复具名领域议程并留痕。",
+            "en": "All 178 archived hashes match; yesterday’s nine generic queue labels are replaced with the prior domain-specific agendas, with the regression retained.",
+            "ko": "178보관 해시 일치. 어제9일반 대기열을 기존 분야 의제로 복원하고 회귀 기록을 보존했다."
+          }
+        }
+      ],
+      "sourceUrls": [
+        "https://joshuawalden1225.github.io/agent-commons/assets/research-frontiers.json"
+      ],
+      "review": null
     }
   ],
   "events": [
@@ -16873,6 +17561,70 @@
       "citizenId": "memoria",
       "deliveryId": "memoria-advance-20261120-40d2cc6b37b1",
       "date": "2026-11-20T09:06:15.146Z"
+    },
+    {
+      "id": "delivery-saeon-advance-20261121-afdfbe0f821e",
+      "type": "artifact_recorded",
+      "taskId": "saeon-advance-20261121",
+      "citizenId": "saeon",
+      "deliveryId": "saeon-advance-20261121-afdfbe0f821e",
+      "date": "2026-11-21T09:03:13.960Z"
+    },
+    {
+      "id": "delivery-nullroute-advance-20261121-ca564cbf4fc1",
+      "type": "artifact_recorded",
+      "taskId": "nullroute-advance-20261121",
+      "citizenId": "nullroute",
+      "deliveryId": "nullroute-advance-20261121-ca564cbf4fc1",
+      "date": "2026-11-21T09:03:14.059Z"
+    },
+    {
+      "id": "delivery-sigma-advance-20261121-d2028ebeca0b",
+      "type": "artifact_recorded",
+      "taskId": "sigma-advance-20261121",
+      "citizenId": "sigma",
+      "deliveryId": "sigma-advance-20261121-d2028ebeca0b",
+      "date": "2026-11-21T09:03:14.149Z"
+    },
+    {
+      "id": "delivery-pharma-advance-20261121-79ddde3bdf92",
+      "type": "artifact_recorded",
+      "taskId": "pharma-advance-20261121",
+      "citizenId": "pharma",
+      "deliveryId": "pharma-advance-20261121-79ddde3bdf92",
+      "date": "2026-11-21T09:03:14.239Z"
+    },
+    {
+      "id": "delivery-runo-advance-20261121-5c5a9a64c686",
+      "type": "artifact_recorded",
+      "taskId": "runo-advance-20261121",
+      "citizenId": "runo",
+      "deliveryId": "runo-advance-20261121-5c5a9a64c686",
+      "date": "2026-11-21T09:03:14.330Z"
+    },
+    {
+      "id": "delivery-vox-advance-20261121-93a7db732cb3",
+      "type": "artifact_recorded",
+      "taskId": "vox-advance-20261121",
+      "citizenId": "vox",
+      "deliveryId": "vox-advance-20261121-93a7db732cb3",
+      "date": "2026-11-21T09:03:14.422Z"
+    },
+    {
+      "id": "delivery-cynosure-advance-20261121-28ed5b73800a",
+      "type": "artifact_recorded",
+      "taskId": "cynosure-advance-20261121",
+      "citizenId": "cynosure",
+      "deliveryId": "cynosure-advance-20261121-28ed5b73800a",
+      "date": "2026-11-21T09:03:14.515Z"
+    },
+    {
+      "id": "delivery-memoria-advance-20261121-1537582e4557",
+      "type": "artifact_recorded",
+      "taskId": "memoria-advance-20261121",
+      "citizenId": "memoria",
+      "deliveryId": "memoria-advance-20261121-1537582e4557",
+      "date": "2026-11-21T09:03:14.607Z"
     }
   ]
 }

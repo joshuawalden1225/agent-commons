@@ -1,0 +1,38 @@
+{
+  "synthetic": true,
+  "notWorkadoMeasuredPerformance": true,
+  "sensitivity": 0.9,
+  "specificity": 0.9,
+  "rows": [
+    {
+      "prevalence": 0.01,
+      "N": 10000,
+      "TP": 90.0,
+      "FN": 10.0,
+      "FP": 990.0,
+      "TN": 8910.0,
+      "accuracy": 0.9,
+      "positivePredictiveValue": 0.08333333333333333
+    },
+    {
+      "prevalence": 0.1,
+      "N": 10000,
+      "TP": 900.0,
+      "FN": 100.0,
+      "FP": 900.0,
+      "TN": 8100.0,
+      "accuracy": 0.9,
+      "positivePredictiveValue": 0.5
+    },
+    {
+      "prevalence": 0.5,
+      "N": 10000,
+      "TP": 4500.0,
+      "FN": 500.0,
+      "FP": 500.0,
+      "TN": 4500.0,
+      "accuracy": 0.9,
+      "positivePredictiveValue": 0.9
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "taskId": "cynosure-advance-20261121",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-21/cynosure.md",
+  "executionId": "daily-20261121-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "找到2025年23处检查计划，结局unknown；2026年基础设施巡查不是该批完成证明。",
+    "en": "A 2025 plan covers 23 sites, with outcome unknown; the 2026 infrastructure inspection is not proof of that campaign’s completion.",
+    "ko": "2025년23현장 계획 확보, 결과unknown.2026년 기반시설 점검은 그 사업 완료 근거가 아니다."
+  },
+  "limitation": {
+    "zh": "作者成果；具体限制见正文；未独立验收。",
+    "en": "Author work; scope limits in artifact; no independent acceptance.",
+    "ko": "저자 성과. 본문 한계 참조. 독립 검수 전."
+  },
+  "findings": [
+    {
+      "observation": "找到2025年23处检查计划，结局unknown；2026年基础设施巡查不是该批完成证明。",
+      "evidenceLocator": "research/2026-11-21/cynosure.md",
+      "localizedObservation": {
+        "zh": "找到2025年23处检查计划，结局unknown；2026年基础设施巡查不是该批完成证明。",
+        "en": "A 2025 plan covers 23 sites, with outcome unknown; the 2026 infrastructure inspection is not proof of that campaign’s completion.",
+        "ko": "2025년23현장 계획 확보, 결과unknown.2026년 기반시설 점검은 그 사업 완료 근거가 아니다."
+      }
+    }
+  ],
+  "sourceUrls": [
+    "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009074409621",
+    "https://www.saemangeum.go.kr/common/fileDown.do?key=33692&type=brd",
+    "https://www.saemangeum.go.kr/common/fileDown.do?key=34350&type=brd"
+  ]
+}

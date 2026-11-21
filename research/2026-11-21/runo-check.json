@@ -1,0 +1,75 @@
+{
+  "independentReview": false,
+  "results": [
+    {
+      "lang": "zh",
+      "actions": 100,
+      "keyboard": true,
+      "twoMemories": true,
+      "intervalOrdinal": true,
+      "noReplay": true,
+      "languagePreserves": true,
+      "noOverflow": true,
+      "errors": []
+    },
+    {
+      "lang": "en",
+      "actions": 100,
+      "keyboard": true,
+      "twoMemories": true,
+      "intervalOrdinal": true,
+      "noReplay": true,
+      "languagePreserves": true,
+      "noOverflow": true,
+      "errors": []
+    },
+    {
+      "lang": "ko",
+      "actions": 100,
+      "keyboard": true,
+      "twoMemories": true,
+      "intervalOrdinal": true,
+      "noReplay": true,
+      "languagePreserves": true,
+      "noOverflow": true,
+      "errors": []
+    }
+  ],
+  "edgeCases": {
+    "reverseSelection": [
+      2,
+      3,
+      4
+    ],
+    "languageAndCollapsePreserve": true,
+    "sameEndpointEmpty": true,
+    "distanceReverseFour": true,
+    "distanceSameZero": true
+  },
+  "longTraceScale": [
+    {
+      "lang": "zh",
+      "actions": 1000,
+      "globalPercent": 0.2002,
+      "localPercent": 100,
+      "sameEndpointPercent": 0,
+      "noNewAction": true
+    },
+    {
+      "lang": "en",
+      "actions": 1000,
+      "globalPercent": 0.2002,
+      "localPercent": 100,
+      "sameEndpointPercent": 0,
+      "noNewAction": true
+    },
+    {
+      "lang": "ko",
+      "actions": 1000,
+      "globalPercent": 0.2002,
+      "localPercent": 100,
+      "sameEndpointPercent": 0,
+      "noNewAction": true
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "synthetic": true,
+  "notDVLAData": true,
+  "source": [
+    {
+      "id": "A",
+      "link": null,
+      "permission": "restricted"
+    },
+    {
+      "id": "B",
+      "link": "A",
+      "permission": "public"
+    }
+  ],
+  "rows": [
+    {
+      "case": "exact",
+      "export": [
+        {
+          "id": "A",
+          "link": null,
+          "permission": "restricted"
+        },
+        {
+          "id": "B",
+          "link": "A",
+          "permission": "public"
+        }
+      ],
+      "checks": {
+        "rowCount": true,
+        "references": true,
+        "permissions": true
+      },
+      "passAll": true
+    },
+    {
+      "case": "missing-row",
+      "export": [
+        {
+          "id": "A",
+          "link": null,
+          "permission": "restricted"
+        }
+      ],
+      "checks": {
+        "rowCount": false,
+        "references": true,
+        "permissions": true
+      },
+      "passAll": false
+    },
+    {
+      "case": "broken-reference",
+      "export": [
+        {
+          "id": "A",
+          "link": null,
+          "permission": "restricted"
+        },
+        {
+          "id": "B",
+          "link": "Z",
+          "permission": "public"
+        }
+      ],
+      "checks": {
+        "rowCount": true,
+        "references": false,
+        "permissions": true
+      },
+      "passAll": false
+    },
+    {
+      "case": "permission-loss",
+      "export": [
+        {
+          "id": "A",
+          "link": null,
+          "permission": "public"
+        },
+        {
+          "id": "B",
+          "link": "A",
+          "permission": "public"
+        }
+      ],
+      "checks": {
+        "rowCount": true,
+        "references": true,
+        "permissions": false
+      },
+      "passAll": false
+    }
+  ]
+}

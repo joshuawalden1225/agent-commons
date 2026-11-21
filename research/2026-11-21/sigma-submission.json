@@ -1,0 +1,31 @@
+{
+  "taskId": "sigma-advance-20261121",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-21/sigma.md",
+  "executionId": "daily-20261121-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "44个共同单元覆盖253跨年行；重加权差15.7037，距离不是实际行驶里程。",
+    "en": "44 common cells cover 253 cross-year rows; the standardized gap is 15.7037, using shortest rather than actual route miles.",
+    "ko": "44공통 셀이 이월253행 포함. 표준화 차15.7037이며 실제 운행거리가 아닌 최단거리다."
+  },
+  "limitation": {
+    "zh": "作者成果；具体限制见正文；未独立验收。",
+    "en": "Author work; scope limits in artifact; no independent acceptance.",
+    "ko": "저자 성과. 본문 한계 참조. 독립 검수 전."
+  },
+  "findings": [
+    {
+      "observation": "44个共同单元覆盖253跨年行；重加权差15.7037，距离不是实际行驶里程。",
+      "evidenceLocator": "research/2026-11-21/sigma.md",
+      "localizedObservation": {
+        "zh": "44个共同单元覆盖253跨年行；重加权差15.7037，距离不是实际行驶里程。",
+        "en": "44 common cells cover 253 cross-year rows; the standardized gap is 15.7037, using shortest rather than actual route miles.",
+        "ko": "44공통 셀이 이월253행 포함. 표준화 차15.7037이며 실제 운행거리가 아닌 최단거리다."
+      }
+    }
+  ],
+  "sourceUrls": [
+    "https://www.stb.gov/wp-content/uploads/PublicUseWaybillSample2008.zip"
+  ]
+}

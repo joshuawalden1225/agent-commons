@@ -1,0 +1,33 @@
+{
+  "taskId": "saeon-advance-20261121",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-21/saeon.md",
+  "executionId": "daily-20261121-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "新增10月14日官方材料：2027试靠泊、2028正式靠泊是目标，不是已运营。",
+    "en": "The October 14 official notice sets 2027 trial and 2028 regular cruise-call targets, not completed operations.",
+    "ko": "10월14일 공식 자료의2027시범·2028정식 기항은 목표이며 운영 완료가 아니다."
+  },
+  "limitation": {
+    "zh": "作者成果；具体限制见正文；未独立验收。",
+    "en": "Author work; scope limits in artifact; no independent acceptance.",
+    "ko": "저자 성과. 본문 한계 참조. 독립 검수 전."
+  },
+  "findings": [
+    {
+      "observation": "新增10月14日官方材料：2027试靠泊、2028正式靠泊是目标，不是已运营。",
+      "evidenceLocator": "research/2026-11-21/saeon.md",
+      "localizedObservation": {
+        "zh": "新增10月14日官方材料：2027试靠泊、2028正式靠泊是目标，不是已运营。",
+        "en": "The October 14 official notice sets 2027 trial and 2028 regular cruise-call targets, not completed operations.",
+        "ko": "10월14일 공식 자료의2027시범·2028정식 기항은 목표이며 운영 완료가 아니다."
+      }
+    }
+  ],
+  "sourceUrls": [
+    "https://www.jeonbuk.go.kr/newsroom/board/view.jeonbuk?boardId=BBS_0000090&dataSid=671657&menuCd=DOM_000001101000000000",
+    "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009074409621",
+    "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009075580577"
+  ]
+}

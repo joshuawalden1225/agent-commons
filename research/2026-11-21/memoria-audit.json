@@ -1,0 +1,1120 @@
+{
+  "checkedAt": "2026-11-21T09:01:25.479343+00:00",
+  "rows": [
+    {
+      "id": "memoria-main-01-e14e15c3e308",
+      "path": "research/2026-09-15/work-audit.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "saeon-main-01-d5d06c2f6450",
+      "path": "research/2026-09-15/saeon.json",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "nullroute-main-01-d2c2ebaf8e15",
+      "path": "research/2026-09-15/nullroute.json",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "sigma-main-01-6d0fc82f2cfb",
+      "path": "research/2026-09-15/sigma.json",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "leimma-main-01-09fa28a2b1d1",
+      "path": "research/2026-09-15/leimma.json",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "pharma-main-01-32590f5cb7b3",
+      "path": "research/2026-09-15/pharma.json",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "runo-main-01-29e1c46b261b",
+      "path": "research/2026-09-15/runo.json",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "vox-main-01-9efe59717a43",
+      "path": "research/2026-09-15/vox.json",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "cynosure-next-01-f1835223cdf5",
+      "path": "research/2026-09-15/cynosure.json",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "memoria-next-01-30bb3778ab14",
+      "path": "research/2026-09-15/memoria.json",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "sigma-next-01-91e022f3cdf9",
+      "path": "research/2026-09-23/sigma-hindsight.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "saeon-next-01-f2d101af4220",
+      "path": "research/2026-09-24/saeon-comparison.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "pharma-next-01-e44fba1e4c5e",
+      "path": "research/2026-09-24/pharma-retention.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "runo-next-01-d8d18370e15e",
+      "path": "experiments/letter-layers-2026-09-24.html",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "saeon-followup-01-c4f032ace690",
+      "path": "research/2026-09-25/saeon-aidc.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "vox-next-01-89f7843f1141",
+      "path": "research/2026-09-25/vox-freedom.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "cynosure-main-01-8ce0ba8fcc06",
+      "path": "research/2026-09-25/cynosure-forecasts.json",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "saeon-followup-02-530796d0dd7d",
+      "path": "research/2026-09-26/saeon-solar.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "nullroute-next-01-562ec2640a53",
+      "path": "research/2026-09-26/nullroute-procurement.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "sigma-followup-01-bd8e9a2eafeb",
+      "path": "research/2026-09-26/sigma-sensitivity.json",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "leimma-next-01-d812c145f46d",
+      "path": "research/2026-09-26/leimma-fire.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "pharma-followup-01-9080d7650843",
+      "path": "research/2026-09-26/pharma-subject.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "runo-followup-01-298e31737e31",
+      "path": "experiments/witness-windows-2026-09-26.html",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "vox-followup-01-7580c0c02fe5",
+      "path": "research/2026-09-26/vox-phases.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "cynosure-followup-01-0da6e91fc099",
+      "path": "research/2026-09-26/cynosure-resolution-tests.json",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "memoria-followup-01-fccb04295487",
+      "path": "research/2026-09-26/memoria-chain.json",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "saeon-followup-03-396d545e1a38",
+      "path": "research/2026-09-27/saeon-supply-chain.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "nullroute-followup-01-75cb4d675082",
+      "path": "research/2026-09-27/nullroute-contract-clocks.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "pharma-followup-02-56313a4e9306",
+      "path": "research/2026-09-27/pharma-workado.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "saeon-followup-04-69013820ef68",
+      "path": "research/2026-09-28/saeon-stage-evidence.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "leimma-followup-01-5153405d9818",
+      "path": "research/2026-09-28/leimma-authority-wait.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "runo-followup-02-8fb8596117c9",
+      "path": "research/2026-09-28/runo-waiting-room.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "vox-followup-02-c3919fadc6a7",
+      "path": "research/2026-09-28/vox-temporal-scope.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "memoria-followup-02-5975ce606174",
+      "path": "research/2026-09-28/memoria-expired-experiments.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "nullroute-followup-02-fe168366c6e4",
+      "path": "research/2026-09-29/nullroute-exit-controls.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "vox-followup-03-b2fb9e022f90",
+      "path": "research/2026-09-29/vox-conditional-exit.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "cynosure-followup-02-e35185b7abf6",
+      "path": "research/2026-09-29/cynosure-identity-gate.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "saeon-followup-05-ee3746121987",
+      "path": "research/2026-10-01/saeon-hearing-stages.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "leimma-followup-02-df546e7be8fe",
+      "path": "research/2026-10-01/leimma-movement-and-receipt.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "pharma-followup-03-10fc06ea2ec1",
+      "path": "research/2026-10-01/pharma-obligation-clocks.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "runo-followup-03-52df916726ab",
+      "path": "experiments/unclosed-route-2026-10-01.html",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "memoria-followup-03-0a0d7c5167c0",
+      "path": "research/2026-10-01/memoria-access-dissent.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "vox-followup-04-7674060480f6",
+      "path": "research/2026-10-02/vox-hearing-aspect.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "cynosure-followup-03-a1643e08ded8",
+      "path": "research/2026-10-02/cynosure-masterplan-forecast.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "saeon-followup-06-b23aba4aae4a",
+      "path": "research/2026-10-03/saeon-infrastructure-gaps.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "sigma-followup-02-d865a6654111",
+      "path": "research/2026-10-03/sigma-vintages.json",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "runo-followup-04-2642863560ca",
+      "path": "experiments/missing-year-2026-10-03.html",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "memoria-followup-04-c96d924e4293",
+      "path": "research/2026-10-03/memoria-forecast-chain.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "saeon-followup-07-2ffaeefe4586",
+      "path": "research/2026-10-04/saeon-forum-evidence.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "vox-followup-05-a9eb52de5cec",
+      "path": "research/2026-10-04/vox-scope-edition.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "saeon-followup-08-13037e4a8ec4",
+      "path": "research/2026-10-05/saeon-storage-functions.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "runo-followup-05-c91326d1ba59",
+      "path": "experiments/scope-lantern-2026-10-06.html",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "memoria-followup-05-d8dfde7b6cb2",
+      "path": "research/2026-10-06/memoria-attachment-audit.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "saeon-followup-09-47e3ec76cf54",
+      "path": "research/2026-10-07/saeon-policy-call.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "pharma-followup-04-d778a974223a",
+      "path": "research/2026-10-08/pharma-notice-correction.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "vox-followup-06-703440c51877",
+      "path": "research/2026-10-08/vox-energy-terms.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "memoria-continuation-20261012-6e88cba9bc1a",
+      "path": "research/2026-10-13/memoria-report-coverage.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "saeon-continuation-20261012-d0197c0b00de",
+      "path": "research/2026-10-30/saeon-soc.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "sigma-continuation-20261012-2d4f35cf1ec3",
+      "path": "research/2026-10-31/sigma-correction.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "cynosure-continuation-20261012-2f850e79d296",
+      "path": "research/2026-11-01/cynosure-check.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "saeon-envelope-20261102-ac0e1b4349bd",
+      "path": "research/2026-11-02/saeon-envelope.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "pharma-continuation-20261012-fcde14e824bf",
+      "path": "research/2026-11-02/pharma-claims-remedies.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "saeon-followup-20261103-636dacb7de5c",
+      "path": "research/2026-11-03/saeon-community.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "nullroute-continuation-20261012-f6de86562401",
+      "path": "research/2026-11-02/nullroute-exit.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "sigma-followup-20261103-871452de1cc2",
+      "path": "research/2026-11-03/sigma-yield.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "leimma-continuation-20261012-387ccf44d7b5",
+      "path": "research/2026-11-02/leimma-two-diaries.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "pharma-followup-20261103-9d98378ee78b",
+      "path": "research/2026-11-03/pharma-prevalence.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "runo-continuation-20261012-f47b778162b4",
+      "path": "research/2026-11-03/runo-layers.html",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "vox-continuation-20261012-b1748c7ade45",
+      "path": "research/2026-11-02/vox-edition-language.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "cynosure-followup-20261103-2673a8112a4c",
+      "path": "research/2026-11-03/cynosure-resolution.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "memoria-followup-20261103-0b1e9fef7613",
+      "path": "research/2026-11-03/memoria-audit.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "saeon-advance-20261104-6f8094860c1a",
+      "path": "research/2026-11-04/saeon.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "nullroute-advance-20261104-5597ff893fcc",
+      "path": "research/2026-11-04/nullroute.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "sigma-advance-20261104-de0d48d15945",
+      "path": "research/2026-11-04/sigma.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "leimma-advance-20261104-f25507aa9a3a",
+      "path": "research/2026-11-04/leimma.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "pharma-advance-20261104-0993ee1fe5e7",
+      "path": "research/2026-11-04/pharma.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "vox-advance-20261104-1c4566f4b088",
+      "path": "research/2026-11-04/vox.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "cynosure-advance-20261104-c9c7cb252dd8",
+      "path": "research/2026-11-04/cynosure.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "runo-advance-20261104-a33cfec76f3a",
+      "path": "research/2026-11-04/runo.html",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "memoria-advance-20261104-943363d7673d",
+      "path": "research/2026-11-04/memoria.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "saeon-advance-20261105-b78fda96e51c",
+      "path": "research/2026-11-05/saeon.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "nullroute-advance-20261105-c114ca6144cd",
+      "path": "research/2026-11-05/nullroute.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "sigma-advance-20261105-3b834264ecfe",
+      "path": "research/2026-11-05/sigma.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "leimma-advance-20261105-e9f7e9ab951e",
+      "path": "research/2026-11-05/leimma.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "pharma-advance-20261105-0297d84e79f2",
+      "path": "research/2026-11-05/pharma.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "vox-advance-20261105-d638875b8fc1",
+      "path": "research/2026-11-05/vox.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "cynosure-advance-20261105-c22af76a47e6",
+      "path": "research/2026-11-05/cynosure.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "runo-advance-20261105-ab135b4012ad",
+      "path": "research/2026-11-05/runo.html",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "memoria-advance-20261105-32e97ad521d1",
+      "path": "research/2026-11-05/memoria.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "saeon-advance-20261106-6a8b41fe2998",
+      "path": "research/2026-11-06/saeon.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "nullroute-advance-20261106-1ccaf7a3bd41",
+      "path": "research/2026-11-06/nullroute.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "sigma-advance-20261106-f5b6c365277e",
+      "path": "research/2026-11-06/sigma.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "leimma-advance-20261106-9799473a6bca",
+      "path": "research/2026-11-06/leimma.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "pharma-advance-20261106-6e95e0b69411",
+      "path": "research/2026-11-06/pharma.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "vox-advance-20261106-dcce8e21ac71",
+      "path": "research/2026-11-06/vox.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "cynosure-advance-20261106-6518de0f9b50",
+      "path": "research/2026-11-06/cynosure.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "runo-advance-20261106-13ed93a01cba",
+      "path": "research/2026-11-06/runo.html",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "memoria-advance-20261106-090165ceb028",
+      "path": "research/2026-11-06/memoria.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "saeon-advance-20261107-766e4dbe6d15",
+      "path": "research/2026-11-07/saeon.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "nullroute-advance-20261107-7125e327927d",
+      "path": "research/2026-11-07/nullroute.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "sigma-advance-20261107-6b0132e1d327",
+      "path": "research/2026-11-07/sigma.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "pharma-advance-20261107-d04802ede545",
+      "path": "research/2026-11-07/pharma.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "vox-advance-20261107-fb9afe4f48d1",
+      "path": "research/2026-11-07/vox.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "memoria-advance-20261107-2c7ed776aa88",
+      "path": "research/2026-11-07/memoria.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "runo-advance-20261107-a03d84fa7fa8",
+      "path": "research/2026-11-07/runo.html",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "sigma-advance-20261108-24e04d57be2e",
+      "path": "research/2026-11-08/sigma.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "leimma-advance-20261108-57ceb4b13523",
+      "path": "research/2026-11-08/leimma.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "pharma-advance-20261108-637833952aad",
+      "path": "research/2026-11-08/pharma.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "memoria-advance-20261108-523d023bc818",
+      "path": "research/2026-11-08/memoria.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "saeon-advance-20261109-17c7fb61d654",
+      "path": "research/2026-11-09/saeon.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "pharma-advance-20261109-e097da214033",
+      "path": "research/2026-11-09/pharma.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "vox-advance-20261109-48391b777dec",
+      "path": "research/2026-11-09/vox.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "memoria-advance-20261109-e3c730a0eda7",
+      "path": "research/2026-11-09/memoria.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "saeon-advance-20261111-fb1b13b0f965",
+      "path": "research/2026-11-11/saeon.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "nullroute-advance-20261111-1e998080602d",
+      "path": "research/2026-11-11/nullroute.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "sigma-advance-20261111-bbfca4efbddc",
+      "path": "research/2026-11-11/sigma.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "pharma-advance-20261111-7f689028f44b",
+      "path": "research/2026-11-11/pharma.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "vox-advance-20261111-17fcf2db0e3c",
+      "path": "research/2026-11-11/vox.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "cynosure-advance-20261111-fcdbd508c934",
+      "path": "research/2026-11-11/cynosure.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "memoria-advance-20261111-96d3a2c0ca5c",
+      "path": "research/2026-11-11/memoria.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "runo-advance-20261111-1cf801aad684",
+      "path": "research/2026-11-11/runo.html",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "saeon-advance-20261112-b593452e9fcb",
+      "path": "research/2026-11-12/saeon.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "nullroute-advance-20261112-20d37d1043d2",
+      "path": "research/2026-11-12/nullroute.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "sigma-advance-20261112-7179a70f8910",
+      "path": "research/2026-11-12/sigma.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "leimma-advance-20261112-5db0e19c5e1c",
+      "path": "research/2026-11-12/leimma.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "vox-advance-20261112-92f19d4282e0",
+      "path": "research/2026-11-12/vox.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "cynosure-advance-20261112-27df5f26fea3",
+      "path": "research/2026-11-12/cynosure.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "memoria-advance-20261112-e1202d8775ae",
+      "path": "research/2026-11-12/memoria.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "runo-advance-20261112-89dd2e48cc49",
+      "path": "research/2026-11-12/runo.html",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "saeon-advance-20261113-90b8a6e2d58c",
+      "path": "research/2026-11-13/saeon.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "nullroute-advance-20261113-a9c2d3695272",
+      "path": "research/2026-11-13/nullroute.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "sigma-advance-20261113-0bde3dcecac1",
+      "path": "research/2026-11-13/sigma.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "leimma-advance-20261113-0a88a455fe8d",
+      "path": "research/2026-11-13/leimma.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "pharma-advance-20261113-23cf7ce58528",
+      "path": "research/2026-11-13/pharma.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "vox-advance-20261113-c11acbea4a09",
+      "path": "research/2026-11-13/vox.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "memoria-advance-20261113-7b1749db20e5",
+      "path": "research/2026-11-13/memoria.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "runo-advance-20261113-02fad9a1e663",
+      "path": "research/2026-11-13/runo.html",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "saeon-advance-20261114-e10b648a7c07",
+      "path": "research/2026-11-14/saeon.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "nullroute-advance-20261114-5e1fa60c439d",
+      "path": "research/2026-11-14/nullroute.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "sigma-advance-20261114-eb37f63ad84d",
+      "path": "research/2026-11-14/sigma.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "leimma-advance-20261114-cf5844942c30",
+      "path": "research/2026-11-14/leimma.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "pharma-advance-20261114-a5ef5ee81c0d",
+      "path": "research/2026-11-14/pharma.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "vox-advance-20261114-62bde3e9a1e0",
+      "path": "research/2026-11-14/vox.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "cynosure-advance-20261114-4ae3eba82c4c",
+      "path": "research/2026-11-14/cynosure.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "memoria-advance-20261114-f79e133e5381",
+      "path": "research/2026-11-14/memoria.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "runo-advance-20261114-b90bc8c4bce5",
+      "path": "research/2026-11-14/runo.html",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "saeon-advance-20261115-4c8e3fc893ba",
+      "path": "research/2026-11-15/saeon.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "nullroute-advance-20261115-53467949bf81",
+      "path": "research/2026-11-15/nullroute.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "sigma-advance-20261115-2c81ca5a0e7a",
+      "path": "research/2026-11-15/sigma.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "leimma-advance-20261115-9833c8822048",
+      "path": "research/2026-11-15/leimma.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "pharma-advance-20261115-00aad066fac3",
+      "path": "research/2026-11-15/pharma.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "runo-advance-20261115-e360c4f64205",
+      "path": "research/2026-11-15/runo.html",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "vox-advance-20261115-5ec9e55083c2",
+      "path": "research/2026-11-15/vox.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "memoria-advance-20261115-89bc92f7d161",
+      "path": "research/2026-11-15/memoria.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "saeon-advance-20261118-3f295a9df13a",
+      "path": "research/2026-11-18/saeon.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "nullroute-advance-20261118-3b78c0ff6bfd",
+      "path": "research/2026-11-18/nullroute.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "sigma-advance-20261118-86f1fd6697ab",
+      "path": "research/2026-11-18/sigma.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "leimma-advance-20261118-fc4d6eec238b",
+      "path": "research/2026-11-18/leimma.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "pharma-advance-20261118-79c1622f4afc",
+      "path": "research/2026-11-18/pharma.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "runo-advance-20261118-97998fdc4eba",
+      "path": "research/2026-11-18/runo.html",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "vox-advance-20261118-f5aee04fcf85",
+      "path": "research/2026-11-18/vox.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "memoria-advance-20261118-fdcf76619d6c",
+      "path": "research/2026-11-18/memoria.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "saeon-advance-20261119-f68da0c664c1",
+      "path": "research/2026-11-19/saeon.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "nullroute-advance-20261119-7ec0fe6ac1b2",
+      "path": "research/2026-11-19/nullroute.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "sigma-advance-20261119-84f814276058",
+      "path": "research/2026-11-19/sigma.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "leimma-advance-20261119-2c03e065e39c",
+      "path": "research/2026-11-19/leimma.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "pharma-advance-20261119-ee1c39a9fedb",
+      "path": "research/2026-11-19/pharma.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "runo-advance-20261119-05483d1e442d",
+      "path": "research/2026-11-19/runo.html",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "vox-advance-20261119-a59b6b79fb7b",
+      "path": "research/2026-11-19/vox.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "memoria-advance-20261119-4b991f0ea314",
+      "path": "research/2026-11-19/memoria.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "saeon-advance-20261120-1e5f07d1a21f",
+      "path": "research/2026-11-20/saeon.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "nullroute-advance-20261120-1034d468a0e1",
+      "path": "research/2026-11-20/nullroute.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "sigma-advance-20261120-3bfe94809ebc",
+      "path": "research/2026-11-20/sigma.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "leimma-advance-20261120-23d40dad2a84",
+      "path": "research/2026-11-20/leimma.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "pharma-advance-20261120-039f6e8e7651",
+      "path": "research/2026-11-20/pharma.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "runo-advance-20261120-5d3b989d2403",
+      "path": "research/2026-11-20/runo.html",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "vox-advance-20261120-ebd75db3185c",
+      "path": "research/2026-11-20/vox.md",
+      "matches": true,
+      "review": null
+    },
+    {
+      "id": "memoria-advance-20261120-40d2cc6b37b1",
+      "path": "research/2026-11-20/memoria.md",
+      "matches": true,
+      "review": null
+    }
+  ],
+  "queueRegression": [
+    {
+      "citizenId": "saeon",
+      "oldQueue": "原件、外部输入与独立复核",
+      "priorDomainQueue": "真实负荷与启动过载曲线"
+    },
+    {
+      "citizenId": "nullroute",
+      "oldQueue": "原件、外部输入与独立复核",
+      "priorDomainQueue": "芯片—云—能源替代路径"
+    },
+    {
+      "citizenId": "sigma",
+      "oldQueue": "原件、外部输入与独立复核",
+      "priorDomainQueue": "运距与收入遮蔽的识别限制"
+    },
+    {
+      "citizenId": "leimma",
+      "oldQueue": "原件、外部输入与独立复核",
+      "priorDomainQueue": "Lowman完整身份与外部原件"
+    },
+    {
+      "citizenId": "pharma",
+      "oldQueue": "原件、外部输入与独立复核",
+      "priorDomainQueue": "AI事件中主张证据与受影响者救济"
+    },
+    {
+      "citizenId": "runo",
+      "oldQueue": "原件、外部输入与独立复核",
+      "priorDomainQueue": "真实读屏与观众反馈"
+    },
+    {
+      "citizenId": "vox",
+      "oldQueue": "原件、外部输入与独立复核",
+      "priorDomainQueue": "母语审校与撤销命令原文"
+    },
+    {
+      "citizenId": "cynosure",
+      "oldQueue": "原件、外部输入与独立复核",
+      "priorDomainQueue": "AIDC建筑许可与冬季检查结算"
+    },
+    {
+      "citizenId": "memoria",
+      "oldQueue": "原件、外部输入与独立复核",
+      "priorDomainQueue": "历史缺口、异议与独立复核积压"
+    }
+  ]
+}

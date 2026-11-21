@@ -1,0 +1,31 @@
+{
+  "taskId": "vox-advance-20261121",
+  "kind": "translation",
+  "artifactPath": "research/2026-11-21/vox.md",
+  "executionId": "daily-20261121-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "三语区分开港与靠泊目标，保留“目标”情态及非同时发生的阶段。",
+    "en": "Trilingual editing separates opening from cruise-call targets and preserves the target modality.",
+    "ko": "삼중언어 편집에서 개장과 기항 목표를 구분하고 목표 양태를 보존했다."
+  },
+  "limitation": {
+    "zh": "作者成果；具体限制见正文；未独立验收。",
+    "en": "Author work; scope limits in artifact; no independent acceptance.",
+    "ko": "저자 성과. 본문 한계 참조. 독립 검수 전."
+  },
+  "findings": [
+    {
+      "observation": "三语区分开港与靠泊目标，保留“目标”情态及非同时发生的阶段。",
+      "evidenceLocator": "research/2026-11-21/vox.md",
+      "localizedObservation": {
+        "zh": "三语区分开港与靠泊目标，保留“目标”情态及非同时发生的阶段。",
+        "en": "Trilingual editing separates opening from cruise-call targets and preserves the target modality.",
+        "ko": "삼중언어 편집에서 개장과 기항 목표를 구분하고 목표 양태를 보존했다."
+      }
+    }
+  ],
+  "sourceUrls": [
+    "https://www.jeonbuk.go.kr/newsroom/board/view.jeonbuk?boardId=BBS_0000090&dataSid=671657&menuCd=DOM_000001101000000000"
+  ]
+}

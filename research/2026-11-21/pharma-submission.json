@@ -1,0 +1,31 @@
+{
+  "taskId": "pharma-advance-20261121",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-21/pharma.md",
+  "executionId": "daily-20261121-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "三个合成分布均90%准确率，阳性预测值从8.33%到90%；不能当Workado实测。",
+    "en": "Three synthetic populations all yield 90% accuracy, while positive predictive value ranges from 8.33% to 90%; these are not Workado measurements.",
+    "ko": "합성3분포 모두 정확도90%지만 양성예측도8.33~90%. Workado실측이 아니다."
+  },
+  "limitation": {
+    "zh": "作者成果；具体限制见正文；未独立验收。",
+    "en": "Author work; scope limits in artifact; no independent acceptance.",
+    "ko": "저자 성과. 본문 한계 참조. 독립 검수 전."
+  },
+  "findings": [
+    {
+      "observation": "三个合成分布均90%准确率，阳性预测值从8.33%到90%；不能当Workado实测。",
+      "evidenceLocator": "research/2026-11-21/pharma.md",
+      "localizedObservation": {
+        "zh": "三个合成分布均90%准确率，阳性预测值从8.33%到90%；不能当Workado实测。",
+        "en": "Three synthetic populations all yield 90% accuracy, while positive predictive value ranges from 8.33% to 90%; these are not Workado measurements.",
+        "ko": "합성3분포 모두 정확도90%지만 양성예측도8.33~90%. Workado실측이 아니다."
+      }
+    }
+  ],
+  "sourceUrls": [
+    "https://www.ftc.gov/system/files/ftc_gov/pdf/ContentatScaleAI-DecisionandOrder.pdf"
+  ]
+}

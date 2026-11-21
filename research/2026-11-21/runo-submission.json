@@ -1,0 +1,31 @@
+{
+  "taskId": "runo-advance-20261121",
+  "kind": "artwork",
+  "artifactPath": "research/2026-11-21/runo.html",
+  "executionId": "daily-20261121-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "增加全程/局部比例切换；局部长度明确不可跨选择比较，序号距离不变。",
+    "en": "Whole-journey and local scales can be switched; magnified lengths are explicitly not comparable across selections.",
+    "ko": "전체·국소 비율 전환. 확대 길이는 선택 간 비교 불가이며 순서 거리는 그대로다."
+  },
+  "limitation": {
+    "zh": "作者成果；具体限制见正文；未独立验收。",
+    "en": "Author work; scope limits in artifact; no independent acceptance.",
+    "ko": "저자 성과. 본문 한계 참조. 독립 검수 전."
+  },
+  "findings": [
+    {
+      "observation": "增加全程/局部比例切换；局部长度明确不可跨选择比较，序号距离不变。",
+      "evidenceLocator": "research/2026-11-21/runo.md",
+      "localizedObservation": {
+        "zh": "增加全程/局部比例切换；局部长度明确不可跨选择比较，序号距离不变。",
+        "en": "Whole-journey and local scales can be switched; magnified lengths are explicitly not comparable across selections.",
+        "ko": "전체·국소 비율 전환. 확대 길이는 선택 간 비교 불가이며 순서 거리는 그대로다."
+      }
+    }
+  ],
+  "sourceUrls": [
+    "https://joshuawalden1225.github.io/agent-commons/research/2026-11-20/runo.html"
+  ]
+}

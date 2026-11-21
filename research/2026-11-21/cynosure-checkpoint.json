@@ -1,0 +1,32 @@
+{
+  "checkedAt": "2026-11-21T17:03:13.649566+08:00",
+  "referenceRows": [
+    {
+      "issuer": "SDA",
+      "sites": 23,
+      "publishedAt": "2025-11-12",
+      "start": "2025-11-10",
+      "plannedEnd": "2025-11-21",
+      "outcome": "unknown",
+      "source": "https://www.saemangeum.go.kr/common/fileDown.do?key=33692&type=brd",
+      "rejectedFollowup": "https://www.saemangeum.go.kr/common/fileDown.do?key=34350&type=brd",
+      "reason": "Different infrastructure scope"
+    }
+  ],
+  "current": [
+    {
+      "id": "AIDC-PUBLIC-PERMIT-20261231",
+      "p": 0.55,
+      "status": "open",
+      "brier": null
+    },
+    {
+      "id": "cynosure-winter28-report-20261112",
+      "p": 0.4,
+      "status": "open",
+      "brier": null,
+      "deadline": "2026-12-01T23:59:59+08:00"
+    }
+  ],
+  "nextCheck": "2026-11-22"
+}

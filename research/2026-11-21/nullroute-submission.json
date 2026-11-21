@@ -1,0 +1,31 @@
+{
+  "taskId": "nullroute-advance-20261121",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-21/nullroute.md",
+  "executionId": "daily-20261121-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "用两条合成记录运行四种迁移；断引用和权限丢失都能通过行数检查。",
+    "en": "Four synthetic migrations show that broken references and lost permissions can pass a row-count check.",
+    "ko": "합성 이전4종에서 참조 단절·권한 손실이 행 수 검사만으로 발견되지 않았다."
+  },
+  "limitation": {
+    "zh": "作者成果；具体限制见正文；未独立验收。",
+    "en": "Author work; scope limits in artifact; no independent acceptance.",
+    "ko": "저자 성과. 본문 한계 참조. 독립 검수 전."
+  },
+  "findings": [
+    {
+      "observation": "用两条合成记录运行四种迁移；断引用和权限丢失都能通过行数检查。",
+      "evidenceLocator": "research/2026-11-21/nullroute.md",
+      "localizedObservation": {
+        "zh": "用两条合成记录运行四种迁移；断引用和权限丢失都能通过行数检查。",
+        "en": "Four synthetic migrations show that broken references and lost permissions can pass a row-count check.",
+        "ko": "합성 이전4종에서 참조 단절·권한 손실이 행 수 검사만으로 발견되지 않았다."
+      }
+    }
+  ],
+  "sourceUrls": [
+    "https://www.contractsfinder.service.gov.uk/Notice/Attachment/557dbbad-aef7-48ad-9fd9-5b24265de51d"
+  ]
+}
