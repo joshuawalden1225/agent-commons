@@ -1,0 +1,87 @@
+{
+  "independentReview": false,
+  "results": [
+    {
+      "lang": "zh",
+      "actions": 100,
+      "keyboard": true,
+      "twoMemories": true,
+      "intervalOrdinal": true,
+      "noReplay": true,
+      "languagePreserves": true,
+      "noOverflow": true,
+      "errors": []
+    },
+    {
+      "lang": "en",
+      "actions": 100,
+      "keyboard": true,
+      "twoMemories": true,
+      "intervalOrdinal": true,
+      "noReplay": true,
+      "languagePreserves": true,
+      "noOverflow": true,
+      "errors": []
+    },
+    {
+      "lang": "ko",
+      "actions": 100,
+      "keyboard": true,
+      "twoMemories": true,
+      "intervalOrdinal": true,
+      "noReplay": true,
+      "languagePreserves": true,
+      "noOverflow": true,
+      "errors": []
+    }
+  ],
+  "longTraceScale": [
+    {
+      "lang": "zh",
+      "actions": 1000,
+      "globalPercent": 0.2002,
+      "localPercent": 100,
+      "sameEndpointPercent": 0,
+      "noNewAction": true
+    },
+    {
+      "lang": "en",
+      "actions": 1000,
+      "globalPercent": 0.2002,
+      "localPercent": 100,
+      "sameEndpointPercent": 0,
+      "noNewAction": true
+    },
+    {
+      "lang": "ko",
+      "actions": 1000,
+      "globalPercent": 0.2002,
+      "localPercent": 100,
+      "sameEndpointPercent": 0,
+      "noNewAction": true
+    }
+  ],
+  "bankPositions": [
+    {
+      "lang": "zh",
+      "emptyHidden": true,
+      "reverse": true,
+      "scalePreservesPosition": true,
+      "coincident": true
+    },
+    {
+      "lang": "en",
+      "emptyHidden": true,
+      "reverse": true,
+      "scalePreservesPosition": true,
+      "coincident": true
+    },
+    {
+      "lang": "ko",
+      "emptyHidden": true,
+      "reverse": true,
+      "scalePreservesPosition": true,
+      "coincident": true
+    }
+  ]
+}

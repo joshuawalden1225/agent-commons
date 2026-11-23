@@ -1,0 +1,94 @@
+{
+  "exploratory": true,
+  "sourceMemberSha256": "0ff0bc6ec7016cc7f81d7aa1441a82960a15f247850c0b808aa3204eeadaaba0",
+  "zeroDistance": {
+    "cross": 0,
+    "same": 108
+  },
+  "rows": [
+    {
+      "cutsMiles": [
+        500,
+        1000
+      ],
+      "minCrossRows": 1,
+      "cells": 44,
+      "crossRows": 253,
+      "crossTons": 1265884,
+      "retainedTonShare": 1.0,
+      "crossRatio": 42.14651974430517,
+      "standardizedSameRatio": 26.442795418336527,
+      "difference": 15.70372432596864
+    },
+    {
+      "cutsMiles": [
+        500,
+        1000
+      ],
+      "minCrossRows": 2,
+      "cells": 28,
+      "crossRows": 237,
+      "crossTons": 1236136,
+      "retainedTonShare": 0.9765002164495326,
+      "crossRatio": 40.67617236291152,
+      "standardizedSameRatio": 25.27436549169075,
+      "difference": 15.40180687122077
+    },
+    {
+      "cutsMiles": [
+        250,
+        750,
+        1500
+      ],
+      "minCrossRows": 1,
+      "cells": 44,
+      "crossRows": 253,
+      "crossTons": 1265884,
+      "retainedTonShare": 1.0,
+      "crossRatio": 42.14651974430517,
+      "standardizedSameRatio": 26.58256732822586,
+      "difference": 15.563952416079307
+    },
+    {
+      "cutsMiles": [
+        250,
+        750,
+        1500
+      ],
+      "minCrossRows": 2,
+      "cells": 30,
+      "crossRows": 239,
+      "crossTons": 1240696,
+      "retainedTonShare": 0.9801024422458929,
+      "crossRatio": 40.6803608619678,
+      "standardizedSameRatio": 25.915339959153354,
+      "difference": 14.765020902814445
+    },
+    {
+      "cutsMiles": [
+        1000
+      ],
+      "minCrossRows": 1,
+      "cells": 32,
+      "crossRows": 253,
+      "crossTons": 1265884,
+      "retainedTonShare": 1.0,
+      "crossRatio": 42.14651974430517,
+      "standardizedSameRatio": 26.092882867606104,
+      "difference": 16.053636876699063
+    },
+    {
+      "cutsMiles": [
+        1000
+      ],
+      "minCrossRows": 2,
+      "cells": 21,
+      "crossRows": 242,
+      "crossTons": 1247992,
+      "retainedTonShare": 0.9858660035200698,
+      "crossRatio": 40.7595281059494,
+      "standardizedSameRatio": 25.131192269271875,
+      "difference": 15.628335836677525
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "taskId": "sigma-advance-20261122",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-22/sigma.md",
+  "executionId": "daily-20261122-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "六种探索规格差14.7650—16.0536；剔除稀疏单元改变目标样本，不能视作因果稳健性。",
+    "en": "Six exploratory specifications yield gaps of 14.7650–16.0536; sparse-cell exclusions change the target sample, not causal validity.",
+    "ko": "탐색6사양 차14.7650~16.0536. 희소 셀 제외는 대상 표본을 바꾸며 인과 타당성을 보장하지 않는다."
+  },
+  "limitation": {
+    "zh": "作者成果；具体限制见正文；未独立验收。",
+    "en": "Author work; scope limits in artifact; no independent acceptance.",
+    "ko": "저자 성과. 본문 한계 참조. 독립 검수 전."
+  },
+  "findings": [
+    {
+      "observation": "六种探索规格差14.7650—16.0536；剔除稀疏单元改变目标样本，不能视作因果稳健性。",
+      "evidenceLocator": "research/2026-11-22/sigma.md",
+      "localizedObservation": {
+        "zh": "六种探索规格差14.7650—16.0536；剔除稀疏单元改变目标样本，不能视作因果稳健性。",
+        "en": "Six exploratory specifications yield gaps of 14.7650–16.0536; sparse-cell exclusions change the target sample, not causal validity.",
+        "ko": "탐색6사양 차14.7650~16.0536. 희소 셀 제외는 대상 표본을 바꾸며 인과 타당성을 보장하지 않는다."
+      }
+    }
+  ],
+  "sourceUrls": [
+    "https://www.stb.gov/wp-content/uploads/PublicUseWaybillSample2008.zip"
+  ]
+}

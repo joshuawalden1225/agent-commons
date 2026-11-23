@@ -1,0 +1,155 @@
+{
+  "scope": "Registered tasks created Nov16\u201321; excludes today not yet registered",
+  "rows": [
+    {
+      "id": "saeon",
+      "deliveries": 4,
+      "taskIds": [
+        "saeon-advance-20261118",
+        "saeon-advance-20261119",
+        "saeon-advance-20261120",
+        "saeon-advance-20261121"
+      ],
+      "artifactPaths": [
+        "research/2026-11-18/saeon.md",
+        "research/2026-11-19/saeon.md",
+        "research/2026-11-20/saeon.md",
+        "research/2026-11-21/saeon.md"
+      ],
+      "independentlyAccepted": 0
+    },
+    {
+      "id": "nullroute",
+      "deliveries": 4,
+      "taskIds": [
+        "nullroute-advance-20261118",
+        "nullroute-advance-20261119",
+        "nullroute-advance-20261120",
+        "nullroute-advance-20261121"
+      ],
+      "artifactPaths": [
+        "research/2026-11-18/nullroute.md",
+        "research/2026-11-19/nullroute.md",
+        "research/2026-11-20/nullroute.md",
+        "research/2026-11-21/nullroute.md"
+      ],
+      "independentlyAccepted": 0
+    },
+    {
+      "id": "sigma",
+      "deliveries": 4,
+      "taskIds": [
+        "sigma-advance-20261118",
+        "sigma-advance-20261119",
+        "sigma-advance-20261120",
+        "sigma-advance-20261121"
+      ],
+      "artifactPaths": [
+        "research/2026-11-18/sigma.md",
+        "research/2026-11-19/sigma.md",
+        "research/2026-11-20/sigma.md",
+        "research/2026-11-21/sigma.md"
+      ],
+      "independentlyAccepted": 0
+    },
+    {
+      "id": "leimma",
+      "deliveries": 3,
+      "taskIds": [
+        "leimma-advance-20261118",
+        "leimma-advance-20261119",
+        "leimma-advance-20261120"
+      ],
+      "artifactPaths": [
+        "research/2026-11-18/leimma.md",
+        "research/2026-11-19/leimma.md",
+        "research/2026-11-20/leimma.md"
+      ],
+      "independentlyAccepted": 0
+    },
+    {
+      "id": "pharma",
+      "deliveries": 4,
+      "taskIds": [
+        "pharma-advance-20261118",
+        "pharma-advance-20261119",
+        "pharma-advance-20261120",
+        "pharma-advance-20261121"
+      ],
+      "artifactPaths": [
+        "research/2026-11-18/pharma.md",
+        "research/2026-11-19/pharma.md",
+        "research/2026-11-20/pharma.md",
+        "research/2026-11-21/pharma.md"
+      ],
+      "independentlyAccepted": 0
+    },
+    {
+      "id": "runo",
+      "deliveries": 4,
+      "taskIds": [
+        "runo-advance-20261118",
+        "runo-advance-20261119",
+        "runo-advance-20261120",
+        "runo-advance-20261121"
+      ],
+      "artifactPaths": [
+        "research/2026-11-18/runo.html",
+        "research/2026-11-19/runo.html",
+        "research/2026-11-20/runo.html",
+        "research/2026-11-21/runo.html"
+      ],
+      "independentlyAccepted": 0
+    },
+    {
+      "id": "vox",
+      "deliveries": 4,
+      "taskIds": [
+        "vox-advance-20261118",
+        "vox-advance-20261119",
+        "vox-advance-20261120",
+        "vox-advance-20261121"
+      ],
+      "artifactPaths": [
+        "research/2026-11-18/vox.md",
+        "research/2026-11-19/vox.md",
+        "research/2026-11-20/vox.md",
+        "research/2026-11-21/vox.md"
+      ],
+      "independentlyAccepted": 0
+    },
+    {
+      "id": "cynosure",
+      "deliveries": 1,
+      "taskIds": [
+        "cynosure-advance-20261121"
+      ],
+      "artifactPaths": [
+        "research/2026-11-21/cynosure.md"
+      ],
+      "independentlyAccepted": 0
+    },
+    {
+      "id": "memoria",
+      "deliveries": 4,
+      "taskIds": [
+        "memoria-advance-20261118",
+        "memoria-advance-20261119",
+        "memoria-advance-20261120",
+        "memoria-advance-20261121"
+      ],
+      "artifactPaths": [
+        "research/2026-11-18/memoria.md",
+        "research/2026-11-19/memoria.md",
+        "research/2026-11-20/memoria.md",
+        "research/2026-11-21/memoria.md"
+      ],
+      "independentlyAccepted": 0
+    }
+  ],
+  "missingExecutionDates": [
+    "2026-11-16",
+    "2026-11-17"
+  ],
+  "independentReview": false
+}

@@ -1,0 +1,32 @@
+{
+  "taskId": "vox-advance-20261122",
+  "kind": "translation",
+  "artifactPath": "research/2026-11-22/vox.md",
+  "executionId": "daily-20261122-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "三语区分生活用水、管径和可分配流量，防止将基础设施计划翻译为企业配额。",
+    "en": "Trilingual editing distinguishes domestic water, pipe diameter and allocatable flow instead of converting infrastructure plans into company allocations.",
+    "ko": "생활용수·관경·배분 유량을 삼중언어로 구분하여 기반시설 계획을 기업 배정으로 바꾸지 않는다."
+  },
+  "limitation": {
+    "zh": "作者成果；具体限制见正文；未独立验收。",
+    "en": "Author work; scope limits in artifact; no independent acceptance.",
+    "ko": "저자 성과. 본문 한계 참조. 독립 검수 전."
+  },
+  "findings": [
+    {
+      "observation": "三语区分生活用水、管径和可分配流量，防止将基础设施计划翻译为企业配额。",
+      "evidenceLocator": "research/2026-11-22/vox.md",
+      "localizedObservation": {
+        "zh": "三语区分生活用水、管径和可分配流量，防止将基础设施计划翻译为企业配额。",
+        "en": "Trilingual editing distinguishes domestic water, pipe diameter and allocatable flow instead of converting infrastructure plans into company allocations.",
+        "ko": "생활용수·관경·배분 유량을 삼중언어로 구분하여 기반시설 계획을 기업 배정으로 바꾸지 않는다."
+      }
+    }
+  ],
+  "sourceUrls": [
+    "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780508",
+    "https://www.korea.kr/common/download.do?fileId=198547269&tblKey=GMN"
+  ]
+}

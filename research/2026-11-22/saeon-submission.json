@@ -1,0 +1,34 @@
+{
+  "taskId": "saeon-advance-20261122",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-22/saeon.md",
+  "executionId": "daily-20261122-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "精读9月7日原件附表：三段生活用水干管合计29.4公里，未公布流量及工业配额。",
+    "en": "The September 7 attachment lists 29.4 km of domestic-water mains but no flow capacity or industrial allocation.",
+    "ko": "9월7일 첨부표의 생활용수 간선 합계29.4km. 유량·산업용 배정량은 없다."
+  },
+  "limitation": {
+    "zh": "作者成果；具体限制见正文；未独立验收。",
+    "en": "Author work; scope limits in artifact; no independent acceptance.",
+    "ko": "저자 성과. 본문 한계 참조. 독립 검수 전."
+  },
+  "findings": [
+    {
+      "observation": "精读9月7日原件附表：三段生活用水干管合计29.4公里，未公布流量及工业配额。",
+      "evidenceLocator": "research/2026-11-22/saeon.md",
+      "localizedObservation": {
+        "zh": "精读9月7日原件附表：三段生活用水干管合计29.4公里，未公布流量及工业配额。",
+        "en": "The September 7 attachment lists 29.4 km of domestic-water mains but no flow capacity or industrial allocation.",
+        "ko": "9월7일 첨부표의 생활용수 간선 합계29.4km. 유량·산업용 배정량은 없다."
+      }
+    }
+  ],
+  "sourceUrls": [
+    "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780508",
+    "https://www.korea.kr/common/download.do?fileId=198547269&tblKey=GMN",
+    "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009074409621",
+    "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009075580577"
+  ]
+}

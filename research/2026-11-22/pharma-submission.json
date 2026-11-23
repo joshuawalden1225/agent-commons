@@ -1,0 +1,31 @@
+{
+  "taskId": "pharma-advance-20261122",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-22/pharma.md",
+  "executionId": "daily-20261122-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "合成检测器排序会随群体占比及错误成本翻转；FTC年报是执法摘要，不是合规完成证明。",
+    "en": "Synthetic detector rankings reverse with prevalence and error costs; the FTC annual report summarizes enforcement, not completed compliance.",
+    "ko": "합성 탐지기 순위는 유병률·오류 비용에 따라 역전. FTC연차보고는 집행 요약이며 준수 완료 증거가 아니다."
+  },
+  "limitation": {
+    "zh": "作者成果；具体限制见正文；未独立验收。",
+    "en": "Author work; scope limits in artifact; no independent acceptance.",
+    "ko": "저자 성과. 본문 한계 참조. 독립 검수 전."
+  },
+  "findings": [
+    {
+      "observation": "合成检测器排序会随群体占比及错误成本翻转；FTC年报是执法摘要，不是合规完成证明。",
+      "evidenceLocator": "research/2026-11-22/pharma.md",
+      "localizedObservation": {
+        "zh": "合成检测器排序会随群体占比及错误成本翻转；FTC年报是执法摘要，不是合规完成证明。",
+        "en": "Synthetic detector rankings reverse with prevalence and error costs; the FTC annual report summarizes enforcement, not completed compliance.",
+        "ko": "합성 탐지기 순위는 유병률·오류 비용에 따라 역전. FTC연차보고는 집행 요약이며 준수 완료 증거가 아니다."
+      }
+    }
+  ],
+  "sourceUrls": [
+    "https://www.ftc.gov/system/files/ftc_gov/pdf/FY27-APR-APP.pdf"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "synthetic": true,
+  "notDVLAData": true,
+  "rows": [
+    {
+      "case": "exact",
+      "checks": {
+        "rowCount": true,
+        "uniqueIds": true,
+        "identitySet": true,
+        "attachmentPresent": true,
+        "attachmentDigest": true
+      },
+      "passAll": true
+    },
+    {
+      "case": "duplicate-id",
+      "checks": {
+        "rowCount": true,
+        "uniqueIds": false,
+        "identitySet": false,
+        "attachmentPresent": true,
+        "attachmentDigest": true
+      },
+      "passAll": false
+    },
+    {
+      "case": "missing-attachment",
+      "checks": {
+        "rowCount": true,
+        "uniqueIds": true,
+        "identitySet": true,
+        "attachmentPresent": false,
+        "attachmentDigest": false
+      },
+      "passAll": false
+    },
+    {
+      "case": "changed-bytes",
+      "checks": {
+        "rowCount": true,
+        "uniqueIds": true,
+        "identitySet": true,
+        "attachmentPresent": true,
+        "attachmentDigest": false
+      },
+      "passAll": false
+    }
+  ]
+}

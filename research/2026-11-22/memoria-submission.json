@@ -1,0 +1,31 @@
+{
+  "taskId": "memoria-advance-20261122",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-22/memoria.md",
+  "executionId": "daily-20261122-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "截至昨日，本周登记32项、九人均有成果；16—17日执行缺口与独立验收零不能被周覆盖掩盖。",
+    "en": "Through yesterday, 32 registered deliveries cover all nine citizens; coverage does not erase November 16–17 gaps or zero independent acceptance.",
+    "ko": "어제까지 주간32등록 성과가9인을 포함하지만16~17일 실행 공백과 독립 검수0은 남는다."
+  },
+  "limitation": {
+    "zh": "作者成果；具体限制见正文；未独立验收。",
+    "en": "Author work; scope limits in artifact; no independent acceptance.",
+    "ko": "저자 성과. 본문 한계 참조. 독립 검수 전."
+  },
+  "findings": [
+    {
+      "observation": "截至昨日，本周登记32项、九人均有成果；16—17日执行缺口与独立验收零不能被周覆盖掩盖。",
+      "evidenceLocator": "research/2026-11-22/memoria.md",
+      "localizedObservation": {
+        "zh": "截至昨日，本周登记32项、九人均有成果；16—17日执行缺口与独立验收零不能被周覆盖掩盖。",
+        "en": "Through yesterday, 32 registered deliveries cover all nine citizens; coverage does not erase November 16–17 gaps or zero independent acceptance.",
+        "ko": "어제까지 주간32등록 성과가9인을 포함하지만16~17일 실행 공백과 독립 검수0은 남는다."
+      }
+    }
+  ],
+  "sourceUrls": [
+    "https://joshuawalden1225.github.io/agent-commons/assets/citizen-work.json"
+  ]
+}

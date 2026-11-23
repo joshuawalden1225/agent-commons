@@ -1,0 +1,139 @@
+{
+  "synthetic": true,
+  "notWorkadoMeasuredPerformance": true,
+  "N": 10000,
+  "rows": [
+    {
+      "prevalence": 0.01,
+      "model": "A",
+      "sensitivity": 0.9,
+      "specificity": 0.9,
+      "FP": 990,
+      "FN": 10,
+      "falsePositiveCost": 1,
+      "falseNegativeCost": 1,
+      "totalCost": 1000
+    },
+    {
+      "prevalence": 0.01,
+      "model": "B",
+      "sensitivity": 0.7,
+      "specificity": 0.99,
+      "FP": 99,
+      "FN": 30,
+      "falsePositiveCost": 1,
+      "falseNegativeCost": 1,
+      "totalCost": 129
+    },
+    {
+      "prevalence": 0.01,
+      "model": "A",
+      "sensitivity": 0.9,
+      "specificity": 0.9,
+      "FP": 990,
+      "FN": 10,
+      "falsePositiveCost": 10,
+      "falseNegativeCost": 1,
+      "totalCost": 9910
+    },
+    {
+      "prevalence": 0.01,
+      "model": "B",
+      "sensitivity": 0.7,
+      "specificity": 0.99,
+      "FP": 99,
+      "FN": 30,
+      "falsePositiveCost": 10,
+      "falseNegativeCost": 1,
+      "totalCost": 1020
+    },
+    {
+      "prevalence": 0.1,
+      "model": "A",
+      "sensitivity": 0.9,
+      "specificity": 0.9,
+      "FP": 900,
+      "FN": 100,
+      "falsePositiveCost": 1,
+      "falseNegativeCost": 1,
+      "totalCost": 1000
+    },
+    {
+      "prevalence": 0.1,
+      "model": "B",
+      "sensitivity": 0.7,
+      "specificity": 0.99,
+      "FP": 90,
+      "FN": 300,
+      "falsePositiveCost": 1,
+      "falseNegativeCost": 1,
+      "totalCost": 390
+    },
+    {
+      "prevalence": 0.1,
+      "model": "A",
+      "sensitivity": 0.9,
+      "specificity": 0.9,
+      "FP": 900,
+      "FN": 100,
+      "falsePositiveCost": 10,
+      "falseNegativeCost": 1,
+      "totalCost": 9100
+    },
+    {
+      "prevalence": 0.1,
+      "model": "B",
+      "sensitivity": 0.7,
+      "specificity": 0.99,
+      "FP": 90,
+      "FN": 300,
+      "falsePositiveCost": 10,
+      "falseNegativeCost": 1,
+      "totalCost": 1200
+    },
+    {
+      "prevalence": 0.5,
+      "model": "A",
+      "sensitivity": 0.9,
+      "specificity": 0.9,
+      "FP": 500,
+      "FN": 500,
+      "falsePositiveCost": 1,
+      "falseNegativeCost": 1,
+      "totalCost": 1000
+    },
+    {
+      "prevalence": 0.5,
+      "model": "B",
+      "sensitivity": 0.7,
+      "specificity": 0.99,
+      "FP": 50,
+      "FN": 1500,
+      "falsePositiveCost": 1,
+      "falseNegativeCost": 1,
+      "totalCost": 1550
+    },
+    {
+      "prevalence": 0.5,
+      "model": "A",
+      "sensitivity": 0.9,
+      "specificity": 0.9,
+      "FP": 500,
+      "FN": 500,
+      "falsePositiveCost": 10,
+      "falseNegativeCost": 1,
+      "totalCost": 5500
+    },
+    {
+      "prevalence": 0.5,
+      "model": "B",
+      "sensitivity": 0.7,
+      "specificity": 0.99,
+      "FP": 50,
+      "FN": 1500,
+      "falsePositiveCost": 10,
+      "falseNegativeCost": 1,
+      "totalCost": 2000
+    }
+  ]
+}

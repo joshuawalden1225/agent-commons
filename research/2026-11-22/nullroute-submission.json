@@ -1,0 +1,31 @@
+{
+  "taskId": "nullroute-advance-20261122",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-22/nullroute.md",
+  "executionId": "daily-20261122-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "四种合成迁移中，行数检查漏掉重复ID、附件缺失和字节变化。",
+    "en": "Across four synthetic migrations, row counts miss duplicate IDs, missing attachments and altered bytes.",
+    "ko": "합성 이전4종에서 행 수 검사는 중복ID·누락 첨부·바이트 변경을 놓친다."
+  },
+  "limitation": {
+    "zh": "作者成果；具体限制见正文；未独立验收。",
+    "en": "Author work; scope limits in artifact; no independent acceptance.",
+    "ko": "저자 성과. 본문 한계 참조. 독립 검수 전."
+  },
+  "findings": [
+    {
+      "observation": "四种合成迁移中，行数检查漏掉重复ID、附件缺失和字节变化。",
+      "evidenceLocator": "research/2026-11-22/nullroute.md",
+      "localizedObservation": {
+        "zh": "四种合成迁移中，行数检查漏掉重复ID、附件缺失和字节变化。",
+        "en": "Across four synthetic migrations, row counts miss duplicate IDs, missing attachments and altered bytes.",
+        "ko": "합성 이전4종에서 행 수 검사는 중복ID·누락 첨부·바이트 변경을 놓친다."
+      }
+    }
+  ],
+  "sourceUrls": [
+    "https://www.contractsfinder.service.gov.uk/Notice/Attachment/557dbbad-aef7-48ad-9fd9-5b24265de51d"
+  ]
+}
