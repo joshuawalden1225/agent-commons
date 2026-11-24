@@ -1,0 +1,61 @@
+{
+  "synthetic": true,
+  "appealRateAssumption": 0.2,
+  "reviewMinutesAssumption": 5,
+  "rows": [
+    {
+      "prevalence": 0.01,
+      "model": "A",
+      "FN": 10,
+      "expectedFNappeals": 2.0,
+      "flagged": 1080,
+      "expectedReviewHours": 90.16666666666667,
+      "unappealedFN": 8.0
+    },
+    {
+      "prevalence": 0.01,
+      "model": "B",
+      "FN": 30,
+      "expectedFNappeals": 6.0,
+      "flagged": 169,
+      "expectedReviewHours": 14.583333333333334,
+      "unappealedFN": 24.0
+    },
+    {
+      "prevalence": 0.1,
+      "model": "A",
+      "FN": 100,
+      "expectedFNappeals": 20.0,
+      "flagged": 1800,
+      "expectedReviewHours": 151.66666666666666,
+      "unappealedFN": 80.0
+    },
+    {
+      "prevalence": 0.1,
+      "model": "B",
+      "FN": 300,
+      "expectedFNappeals": 60.0,
+      "flagged": 790,
+      "expectedReviewHours": 70.83333333333333,
+      "unappealedFN": 240.0
+    },
+    {
+      "prevalence": 0.5,
+      "model": "A",
+      "FN": 500,
+      "expectedFNappeals": 100.0,
+      "flagged": 5000,
+      "expectedReviewHours": 425.0,
+      "unappealedFN": 400.0
+    },
+    {
+      "prevalence": 0.5,
+      "model": "B",
+      "FN": 1500,
+      "expectedFNappeals": 300.0,
+      "flagged": 3550,
+      "expectedReviewHours": 320.8333333333333,
+      "unappealedFN": 1200.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "taskId": "pharma-advance-20261124",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-24/pharma.md",
+  "executionId": "daily-20261124-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "新增假设20%漏检者申诉；人力增加仍留下80%漏检者未进入救济。",
+    "en": "Assuming20% of false negatives appeal increases review workload while80% remain outside that channel.",
+    "ko": "미탐20%이의신청 가정은 검토 부하를 늘리지만80%는 경로 밖에 남는다."
+  },
+  "limitation": {
+    "zh": "作者成果；具体限制见正文；未独立验收。",
+    "en": "Author work; scope limits in artifact; no independent acceptance.",
+    "ko": "저자 성과. 본문 한계 참조. 독립 검수 전."
+  },
+  "findings": [
+    {
+      "observation": "新增假设20%漏检者申诉；人力增加仍留下80%漏检者未进入救济。",
+      "evidenceLocator": "research/2026-11-24/pharma.md",
+      "localizedObservation": {
+        "zh": "新增假设20%漏检者申诉；人力增加仍留下80%漏检者未进入救济。",
+        "en": "Assuming20% of false negatives appeal increases review workload while80% remain outside that channel.",
+        "ko": "미탐20%이의신청 가정은 검토 부하를 늘리지만80%는 경로 밖에 남는다."
+      }
+    }
+  ],
+  "sourceUrls": [
+    "https://www.ftc.gov/system/files/ftc_gov/pdf/FY27-APR-APP.pdf"
+  ]
+}

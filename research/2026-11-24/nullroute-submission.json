@@ -1,0 +1,31 @@
+{
+  "taskId": "nullroute-advance-20261124",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-24/nullroute.md",
+  "executionId": "daily-20261124-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "权限数量相同也会失控：A/B附件和权限同时交换，三类集合检查均漏报。",
+    "en": "Swapping both attachments and permissions preserves three global sets while corrupting per-object control.",
+    "ko": "첨부·권한 동시 교환은 세 전역 집합을 보존하지만 객체 통제를 훼손한다。"
+  },
+  "limitation": {
+    "zh": "作者成果；具体限制见正文；未独立验收。",
+    "en": "Author work; scope limits in artifact; no independent acceptance.",
+    "ko": "저자 성과. 본문 한계 참조. 독립 검수 전."
+  },
+  "findings": [
+    {
+      "observation": "权限数量相同也会失控：A/B附件和权限同时交换，三类集合检查均漏报。",
+      "evidenceLocator": "research/2026-11-24/nullroute.md",
+      "localizedObservation": {
+        "zh": "权限数量相同也会失控：A/B附件和权限同时交换，三类集合检查均漏报。",
+        "en": "Swapping both attachments and permissions preserves three global sets while corrupting per-object control.",
+        "ko": "첨부·권한 동시 교환은 세 전역 집합을 보존하지만 객체 통제를 훼손한다。"
+      }
+    }
+  ],
+  "sourceUrls": [
+    "https://www.contractsfinder.service.gov.uk/Notice/Attachment/557dbbad-aef7-48ad-9fd9-5b24265de51d"
+  ]
+}

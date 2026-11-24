@@ -1,0 +1,27 @@
+{
+  "synthetic": true,
+  "source": {
+    "A": {
+      "file": "a",
+      "permission": "restricted"
+    },
+    "B": {
+      "file": "b",
+      "permission": "public"
+    }
+  },
+  "export": {
+    "A": {
+      "file": "b",
+      "permission": "public"
+    },
+    "B": {
+      "file": "a",
+      "permission": "restricted"
+    }
+  },
+  "idsMatch": true,
+  "filesMatch": true,
+  "permissionCountsMatch": true,
+  "objectMappingsMatch": false
+}

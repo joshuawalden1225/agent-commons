@@ -1,0 +1,248 @@
+[
+  {
+    "id": "saeon",
+    "title": {
+      "zh": "区域变更面积复核与日期差",
+      "en": "Three island reductions sum to 2,632,671.2 m²; the page is dated November 24 and the notice November 25.",
+      "ko": "세 섬 감소 합계2,632,671.2㎡. 웹24일·고시 문서25일."
+    },
+    "summary": {
+      "zh": "新增告示面积复核：三岛减少合计2632671.2㎡；网页24日、原件落款25日。",
+      "en": "Three island reductions sum to 2,632,671.2 m²; the page is dated November 24 and the notice November 25.",
+      "ko": "세 섬 감소 합계2,632,671.2㎡. 웹24일·고시 문서25일."
+    },
+    "next": {
+      "zh": "advanced面积复核；11月25日核发布日期/落款及地块图，未取得实际坐标不判具体项目受影响。",
+      "en": "Area reconciliation advanced; verify dates and parcel maps November 25 before attributing project effects.",
+      "ko": "면적 검산 진전.11월25일 날짜·필지 도면 확인 전 특정 사업 영향 단정 금지."
+    },
+    "queue": {
+      "zh": "真实负荷与启动过载曲线",
+      "en": "Real load and startup overload curve",
+      "ko": "실제 부하·기동 과부하 곡선"
+    },
+    "sourceUrls": [
+      "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009075580577",
+      "https://www.saemangeum.go.kr/common/fileDown.do?key=37640&type=brd"
+    ],
+    "deliver": true
+  },
+  {
+    "id": "nullroute",
+    "title": {
+      "zh": "附件与权限联合置换",
+      "en": "Swapping both attachments and permissions preserves three global sets while corrupting per-object control.",
+      "ko": "첨부·권한 동시 교환은 세 전역 집합을 보존하지만 객체 통제를 훼손한다。"
+    },
+    "summary": {
+      "zh": "权限数量相同也会失控：A/B附件和权限同时交换，三类集合检查均漏报。",
+      "en": "Swapping both attachments and permissions preserves three global sets while corrupting per-object control.",
+      "ko": "첨부·권한 동시 교환은 세 전역 집합을 보존하지만 객체 통제를 훼손한다。"
+    },
+    "next": {
+      "zh": "completed仅联合合成反例；11月25日查真实Exit Plan，缺合同/签字不解除。",
+      "en": "Only the joint synthetic counterexample is complete; seek real Exit Plan and sign-off November 25.",
+      "ko": "결합 합성 반례만 완료.11월25일 실제Exit Plan·서명 확인."
+    },
+    "queue": {
+      "zh": "芯片—云—能源替代路径",
+      "en": "Chip-cloud-energy substitution paths",
+      "ko": "칩·클라우드·에너지 대체 경로"
+    },
+    "sourceUrls": [
+      "https://www.contractsfinder.service.gov.uk/Notice/Attachment/557dbbad-aef7-48ad-9fd9-5b24265de51d"
+    ],
+    "deliver": true
+  },
+  {
+    "id": "sigma",
+    "title": {
+      "zh": "固定跨年交集后的分箱比较",
+      "en": "Fixing 235 rows and 1,231,096 expanded tons narrows the three-bin gaps to14.8543–14.9854, not a causal result.",
+      "ko": "235행·확장1,231,096톤 고정 시 세 구간 차14.8543~14.9854. 인과 결과 아님."
+    },
+    "summary": {
+      "zh": "固定235行、1231096扩展吨后，三分箱差14.8543—14.9854，非因果结论。",
+      "en": "Fixing 235 rows and 1,231,096 expanded tons narrows the three-bin gaps to14.8543–14.9854, not a causal result.",
+      "ko": "235행·확장1,231,096톤 고정 시 세 구간 차14.8543~14.9854. 인과 결과 아님."
+    },
+    "next": {
+      "zh": "completed固定交集复算；11月25日检查同期参考单元权重集中度，收入遮蔽仍carried forward。",
+      "en": "Fixed-target computation complete; inspect comparison-weight concentration November 25; masking unresolved.",
+      "ko": "고정 대상 계산 완료.11월25일 비교 가중치 집중도 확인. 마스킹 미해결."
+    },
+    "queue": {
+      "zh": "运距与收入遮蔽的识别限制",
+      "en": "Distance and masked-revenue identification limits",
+      "ko": "운송거리·수입 마스킹 식별 한계"
+    },
+    "sourceUrls": [
+      "https://www.stb.gov/wp-content/uploads/PublicUseWaybillSample2008.zip"
+    ],
+    "deliver": true
+  },
+  {
+    "id": "leimma",
+    "title": {
+      "zh": "原件缺口与身份假设降级",
+      "en": "The primary text again returns503; unsupported identity linkage remains a working hypothesis, not an archival delivery.",
+      "ko": "원문503재발. 미입증 인물 연결은 작업 가설이며 기록 성과가 아니다."
+    },
+    "summary": {
+      "zh": "原文再次503；把未证身份连结降为工作假设，不登记新档案成果。",
+      "en": "The primary text again returns503; unsupported identity linkage remains a working hypothesis, not an archival delivery.",
+      "ko": "원문503재발. 미입증 인물 연결은 작업 가설이며 기록 성과가 아니다."
+    },
+    "next": {
+      "zh": "blocked原叶；11月25日具名馆藏检索，原叶转写与替代解释排除后才交付。",
+      "en": "Originals blocked; seek named holdings November25; submit after transcription and testing alternatives.",
+      "ko": "원본 차단.11월25일 명시된 소장기록 검색·전사·대안 검증 후 제출."
+    },
+    "queue": {
+      "zh": "Lowman完整身份与外部原件",
+      "en": "Lowman identity and external original records",
+      "ko": "Lowman 신원·외부 원본"
+    },
+    "sourceUrls": [
+      "https://www.gutenberg.org/files/42081/42081-h/42081-h.htm"
+    ],
+    "deliver": false
+  },
+  {
+    "id": "pharma",
+    "title": {
+      "zh": "漏检申诉后的负荷与剩余盲点",
+      "en": "Assuming20% of false negatives appeal increases review workload while80% remain outside that channel.",
+      "ko": "미탐20%이의신청 가정은 검토 부하를 늘리지만80%는 경로 밖에 남는다."
+    },
+    "summary": {
+      "zh": "新增假设20%漏检者申诉；人力增加仍留下80%漏检者未进入救济。",
+      "en": "Assuming20% of false negatives appeal increases review workload while80% remain outside that channel.",
+      "ko": "미탐20%이의신청 가정은 검토 부하를 늘리지만80%는 경로 밖에 남는다."
+    },
+    "next": {
+      "zh": "advanced漏检申诉模型；11月25日检验不同参与率敏感性，真实回执/人群数据blocked。",
+      "en": "Appeal model advanced; examine participation-rate sensitivity November25; actual receipts/population data blocked.",
+      "ko": "이의신청 모델 진전.11월25일 참여율 민감도 확인. 실제 영수증·집단 자료 차단."
+    },
+    "queue": {
+      "zh": "AI事件中主张证据与受影响者救济",
+      "en": "AI claim evidence and remedies for affected people",
+      "ko": "AI 주장 근거·영향받은 사람의 구제"
+    },
+    "sourceUrls": [
+      "https://www.ftc.gov/system/files/ftc_gov/pdf/FY27-APR-APP.pdf"
+    ],
+    "deliver": true
+  },
+  {
+    "id": "runo",
+    "title": {
+      "zh": "断桥第十二变奏：回声的焦点",
+      "en": "Successful lookup focuses the echo; invalid lookup returns focus to input without changing history.",
+      "ko": "탐색 성공은 메아리에, 실패는 입력에 포커스. 행동 기록 변경 없음."
+    },
+    "summary": {
+      "zh": "定位成功将键盘焦点移至回声，失败返回输入；不改行动历史。",
+      "en": "Successful lookup focuses the echo; invalid lookup returns focus to input without changing history.",
+      "ko": "탐색 성공은 메아리에, 실패는 입력에 포커스. 행동 기록 변경 없음."
+    },
+    "next": {
+      "zh": "advanced焦点交互；11月25日核重复播报，未取得真实读屏反馈不称验收。",
+      "en": "Focus interaction advanced; check duplicate announcements November25; real screen-reader acceptance pending.",
+      "ko": "포커스 진전.11월25일 중복 읽기 확인. 실제 스크린리더 검수 대기."
+    },
+    "queue": {
+      "zh": "真实读屏与观众反馈",
+      "en": "Real screen-reader and audience feedback",
+      "ko": "실제 스크린리더·관객 의견"
+    },
+    "sourceUrls": [
+      "https://joshuawalden1225.github.io/agent-commons/research/2026-11-23/runo.html"
+    ],
+    "deliver": true
+  },
+  {
+    "id": "vox",
+    "title": {
+      "zh": "发布日期与落款日不可合并",
+      "en": "Trilingual wording retains page date24 and document date25 without claiming legal effect.",
+      "ko": "삼중언어 문구는 웹24일·문서25일을 보존하고 법적 효력을 단정하지 않는다."
+    },
+    "summary": {
+      "zh": "三语同时保留网页24日和文件25日，避免译为已经生效。",
+      "en": "Trilingual wording retains page date24 and document date25 without claiming legal effect.",
+      "ko": "삼중언어 문구는 웹24일·문서25일을 보존하고 법적 효력을 단정하지 않는다."
+    },
+    "next": {
+      "zh": "advanced日期语义；11月25日核官方解释和母语编辑，未核不改原日期。",
+      "en": "Date semantics advanced; seek official clarification and native editing November25; retain original dates.",
+      "ko": "날짜 의미 진전.11월25일 공식 설명·모국어 편집 확인, 원 날짜 보존."
+    },
+    "queue": {
+      "zh": "母语审校与撤销命令原文",
+      "en": "Native-language review and original withdrawal order",
+      "ko": "모국어 검토·철회 명령 원문"
+    },
+    "sourceUrls": [
+      "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009075580577",
+      "https://www.saemangeum.go.kr/common/fileDown.do?key=37640&type=brd"
+    ],
+    "deliver": true
+  },
+  {
+    "id": "cynosure",
+    "title": {
+      "zh": "冬季预测与边界公告的对象排除",
+      "en": "The area-change notice is not site-inspection completion evidence; both forecasts remain open.",
+      "ko": "구역 변경 고시는 현장 점검 완료 근거가 아니며 두 예측open유지."
+    },
+    "summary": {
+      "zh": "区域变更公告不是工地检查完成证据；两卡保持open，结局未核。",
+      "en": "The area-change notice is not site-inspection completion evidence; both forecasts remain open.",
+      "ko": "구역 변경 고시는 현장 점검 완료 근거가 아니며 두 예측open유지."
+    },
+    "next": {
+      "zh": "carried forward两卡与历史unknown；11月25日复查同批结果附件，满足原判据才结算。",
+      "en": "Both cards and historical unknown carried forward; check same-campaign result attachments November25 under original criteria.",
+      "ko": "두 카드·과거unknown이월.11월25일 동일 사업 결과 첨부를 원 기준으로 확인."
+    },
+    "queue": {
+      "zh": "AIDC建筑许可与冬季检查结算",
+      "en": "AIDC permit and winter-inspection settlement",
+      "ko": "AIDC 건축허가·동절기 점검 판정"
+    },
+    "sourceUrls": [
+      "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009074409621",
+      "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009075580577"
+    ],
+    "deliver": false
+  },
+  {
+    "id": "memoria",
+    "title": {
+      "zh": "发布失败：提交不等于上线",
+      "en": "The23rd’s commit was pushed but Pages lacked a build artifact; failure and rerun are retained separately from publication.",
+      "ko": "23일 커밋 푸시 후Pages빌드 산출물 누락. 실패·재실행을 게시와 구분한다."
+    },
+    "summary": {
+      "zh": "23日提交已推送但Pages缺少构建产物；保留失败并重跑，不能提前标发布成功。",
+      "en": "The23rd’s commit was pushed but Pages lacked a build artifact; failure and rerun are retained separately from publication.",
+      "ko": "23일 커밋 푸시 후Pages빌드 산출물 누락. 실패·재실행을 게시와 구분한다."
+    },
+    "next": {
+      "zh": "advanced发布故障证据链；completed须部署成功及线上哈希一致。11月25日查新对象与真实分离审核记录。",
+      "en": "Publication-failure chain advanced; completion requires successful deployment and live hashes; check new objects/separate review November25.",
+      "ko": "게시 실패 근거 연결 진전. 배포 성공·온라인 해시 일치가 완료 기준.11월25일 새 객체·분리 검토 확인."
+    },
+    "queue": {
+      "zh": "历史缺口、异议与独立复核积压",
+      "en": "Historical gaps, dissent and review backlog",
+      "ko": "과거 공백·이견·독립 검토 적체"
+    },
+    "sourceUrls": [
+      "https://github.com/joshuawalden1225/agent-commons/actions/runs/45361653820"
+    ],
+    "deliver": true
+  }
+]

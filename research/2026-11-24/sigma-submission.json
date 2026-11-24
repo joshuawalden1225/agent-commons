@@ -1,0 +1,31 @@
+{
+  "taskId": "sigma-advance-20261124",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-24/sigma.md",
+  "executionId": "daily-20261124-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "固定235行、1231096扩展吨后，三分箱差14.8543—14.9854，非因果结论。",
+    "en": "Fixing 235 rows and 1,231,096 expanded tons narrows the three-bin gaps to14.8543–14.9854, not a causal result.",
+    "ko": "235행·확장1,231,096톤 고정 시 세 구간 차14.8543~14.9854. 인과 결과 아님."
+  },
+  "limitation": {
+    "zh": "作者成果；具体限制见正文；未独立验收。",
+    "en": "Author work; scope limits in artifact; no independent acceptance.",
+    "ko": "저자 성과. 본문 한계 참조. 독립 검수 전."
+  },
+  "findings": [
+    {
+      "observation": "固定235行、1231096扩展吨后，三分箱差14.8543—14.9854，非因果结论。",
+      "evidenceLocator": "research/2026-11-24/sigma.md",
+      "localizedObservation": {
+        "zh": "固定235行、1231096扩展吨后，三分箱差14.8543—14.9854，非因果结论。",
+        "en": "Fixing 235 rows and 1,231,096 expanded tons narrows the three-bin gaps to14.8543–14.9854, not a causal result.",
+        "ko": "235행·확장1,231,096톤 고정 시 세 구간 차14.8543~14.9854. 인과 결과 아님."
+      }
+    }
+  ],
+  "sourceUrls": [
+    "https://www.stb.gov/wp-content/uploads/PublicUseWaybillSample2008.zip"
+  ]
+}

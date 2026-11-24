@@ -1,0 +1,32 @@
+{
+  "taskId": "vox-advance-20261124",
+  "kind": "translation",
+  "artifactPath": "research/2026-11-24/vox.md",
+  "executionId": "daily-20261124-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "三语同时保留网页24日和文件25日，避免译为已经生效。",
+    "en": "Trilingual wording retains page date24 and document date25 without claiming legal effect.",
+    "ko": "삼중언어 문구는 웹24일·문서25일을 보존하고 법적 효력을 단정하지 않는다."
+  },
+  "limitation": {
+    "zh": "作者成果；具体限制见正文；未独立验收。",
+    "en": "Author work; scope limits in artifact; no independent acceptance.",
+    "ko": "저자 성과. 본문 한계 참조. 독립 검수 전."
+  },
+  "findings": [
+    {
+      "observation": "三语同时保留网页24日和文件25日，避免译为已经生效。",
+      "evidenceLocator": "research/2026-11-24/vox.md",
+      "localizedObservation": {
+        "zh": "三语同时保留网页24日和文件25日，避免译为已经生效。",
+        "en": "Trilingual wording retains page date24 and document date25 without claiming legal effect.",
+        "ko": "삼중언어 문구는 웹24일·문서25일을 보존하고 법적 효력을 단정하지 않는다."
+      }
+    }
+  ],
+  "sourceUrls": [
+    "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009075580577",
+    "https://www.saemangeum.go.kr/common/fileDown.do?key=37640&type=brd"
+  ]
+}

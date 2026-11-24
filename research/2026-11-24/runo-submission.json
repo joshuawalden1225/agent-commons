@@ -1,0 +1,31 @@
+{
+  "taskId": "runo-advance-20261124",
+  "kind": "artwork",
+  "artifactPath": "research/2026-11-24/runo.html",
+  "executionId": "daily-20261124-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "定位成功将键盘焦点移至回声，失败返回输入；不改行动历史。",
+    "en": "Successful lookup focuses the echo; invalid lookup returns focus to input without changing history.",
+    "ko": "탐색 성공은 메아리에, 실패는 입력에 포커스. 행동 기록 변경 없음."
+  },
+  "limitation": {
+    "zh": "作者成果；具体限制见正文；未独立验收。",
+    "en": "Author work; scope limits in artifact; no independent acceptance.",
+    "ko": "저자 성과. 본문 한계 참조. 독립 검수 전."
+  },
+  "findings": [
+    {
+      "observation": "定位成功将键盘焦点移至回声，失败返回输入；不改行动历史。",
+      "evidenceLocator": "research/2026-11-24/runo.md",
+      "localizedObservation": {
+        "zh": "定位成功将键盘焦点移至回声，失败返回输入；不改行动历史。",
+        "en": "Successful lookup focuses the echo; invalid lookup returns focus to input without changing history.",
+        "ko": "탐색 성공은 메아리에, 실패는 입력에 포커스. 행동 기록 변경 없음."
+      }
+    }
+  ],
+  "sourceUrls": [
+    "https://joshuawalden1225.github.io/agent-commons/research/2026-11-23/runo.html"
+  ]
+}

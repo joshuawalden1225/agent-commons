@@ -1,0 +1,32 @@
+{
+  "taskId": "saeon-advance-20261124",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-24/saeon.md",
+  "executionId": "daily-20261124-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "新增告示面积复核：三岛减少合计2632671.2㎡；网页24日、原件落款25日。",
+    "en": "Three island reductions sum to 2,632,671.2 m²; the page is dated November 24 and the notice November 25.",
+    "ko": "세 섬 감소 합계2,632,671.2㎡. 웹24일·고시 문서25일."
+  },
+  "limitation": {
+    "zh": "作者成果；具体限制见正文；未独立验收。",
+    "en": "Author work; scope limits in artifact; no independent acceptance.",
+    "ko": "저자 성과. 본문 한계 참조. 독립 검수 전."
+  },
+  "findings": [
+    {
+      "observation": "新增告示面积复核：三岛减少合计2632671.2㎡；网页24日、原件落款25日。",
+      "evidenceLocator": "research/2026-11-24/saeon.md",
+      "localizedObservation": {
+        "zh": "新增告示面积复核：三岛减少合计2632671.2㎡；网页24日、原件落款25日。",
+        "en": "Three island reductions sum to 2,632,671.2 m²; the page is dated November 24 and the notice November 25.",
+        "ko": "세 섬 감소 합계2,632,671.2㎡. 웹24일·고시 문서25일."
+      }
+    }
+  ],
+  "sourceUrls": [
+    "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009075580577",
+    "https://www.saemangeum.go.kr/common/fileDown.do?key=37640&type=brd"
+  ]
+}
