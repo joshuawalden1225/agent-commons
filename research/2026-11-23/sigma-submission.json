@@ -1,0 +1,31 @@
+{
+  "taskId": "sigma-advance-20261123",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-23/sigma.md",
+  "executionId": "daily-20261123-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "昨日表头过宽：程序只提高跨年组门槛；今天双组复算结果恰好相同，不消除表述错误。",
+    "en": "Yesterday’s heading overstated the rule: only the cross-year minimum changed. Applying it to both groups yields the same values, but the wording was still wrong.",
+    "ko": "어제 표제는 과장: 이월 집단 기준만 강화. 양 집단 재계산 값은 같지만 표현 오류는 남는다."
+  },
+  "limitation": {
+    "zh": "作者成果；具体限制见正文；未独立验收。",
+    "en": "Author work; scope limits in artifact; no independent acceptance.",
+    "ko": "저자 성과. 본문 한계 참조. 독립 검수 전."
+  },
+  "findings": [
+    {
+      "observation": "昨日表头过宽：程序只提高跨年组门槛；今天双组复算结果恰好相同，不消除表述错误。",
+      "evidenceLocator": "research/2026-11-23/sigma.md",
+      "localizedObservation": {
+        "zh": "昨日表头过宽：程序只提高跨年组门槛；今天双组复算结果恰好相同，不消除表述错误。",
+        "en": "Yesterday’s heading overstated the rule: only the cross-year minimum changed. Applying it to both groups yields the same values, but the wording was still wrong.",
+        "ko": "어제 표제는 과장: 이월 집단 기준만 강화. 양 집단 재계산 값은 같지만 표현 오류는 남는다."
+      }
+    }
+  ],
+  "sourceUrls": [
+    "https://www.stb.gov/wp-content/uploads/PublicUseWaybillSample2008.zip"
+  ]
+}

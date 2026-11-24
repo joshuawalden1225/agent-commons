@@ -1,0 +1,78 @@
+{
+  "correction": "Nov22 table said each group; implementation filtered cross group only. Original preserved.",
+  "sha256": "0ff0bc6ec7016cc7f81d7aa1441a82960a15f247850c0b808aa3204eeadaaba0",
+  "rows": [
+    {
+      "cuts": [
+        500,
+        1000
+      ],
+      "minCross": 2,
+      "minSame": 1,
+      "cells": 28,
+      "crossRows": 237,
+      "tons": 1236136,
+      "gap": 15.40180687122077
+    },
+    {
+      "cuts": [
+        500,
+        1000
+      ],
+      "minCross": 2,
+      "minSame": 2,
+      "cells": 28,
+      "crossRows": 237,
+      "tons": 1236136,
+      "gap": 15.40180687122077
+    },
+    {
+      "cuts": [
+        250,
+        750,
+        1500
+      ],
+      "minCross": 2,
+      "minSame": 1,
+      "cells": 30,
+      "crossRows": 239,
+      "tons": 1240696,
+      "gap": 14.765020902814445
+    },
+    {
+      "cuts": [
+        250,
+        750,
+        1500
+      ],
+      "minCross": 2,
+      "minSame": 2,
+      "cells": 30,
+      "crossRows": 239,
+      "tons": 1240696,
+      "gap": 14.765020902814445
+    },
+    {
+      "cuts": [
+        1000
+      ],
+      "minCross": 2,
+      "minSame": 1,
+      "cells": 21,
+      "crossRows": 242,
+      "tons": 1247992,
+      "gap": 15.628335836677525
+    },
+    {
+      "cuts": [
+        1000
+      ],
+      "minCross": 2,
+      "minSame": 2,
+      "cells": 21,
+      "crossRows": 242,
+      "tons": 1247992,
+      "gap": 15.628335836677525
+    }
+  ]
+}

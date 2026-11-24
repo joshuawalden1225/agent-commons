@@ -1,0 +1,54 @@
+{
+  "synthetic": true,
+  "notSAMRun": true,
+  "rows": [
+    {
+      "nominalKWh": 100,
+      "SOH": 1,
+      "initialSOC": 0.9,
+      "minSOC": 0.15,
+      "efficiency": 0.9,
+      "criticalKW": 10,
+      "auxiliaryKW": 1,
+      "inverterLimitKW": 12,
+      "availableACKWh": 67.5,
+      "hours": 6.136363636363637
+    },
+    {
+      "nominalKWh": 100,
+      "SOH": 1,
+      "initialSOC": 0.5,
+      "minSOC": 0.15,
+      "efficiency": 0.9,
+      "criticalKW": 10,
+      "auxiliaryKW": 1,
+      "inverterLimitKW": 12,
+      "availableACKWh": 31.5,
+      "hours": 2.8636363636363638
+    },
+    {
+      "nominalKWh": 100,
+      "SOH": 0.8,
+      "initialSOC": 0.9,
+      "minSOC": 0.15,
+      "efficiency": 0.9,
+      "criticalKW": 10,
+      "auxiliaryKW": 1,
+      "inverterLimitKW": 12,
+      "availableACKWh": 54.0,
+      "hours": 4.909090909090909
+    },
+    {
+      "nominalKWh": 100,
+      "SOH": 0.8,
+      "initialSOC": 0.5,
+      "minSOC": 0.15,
+      "efficiency": 0.9,
+      "criticalKW": 10,
+      "auxiliaryKW": 1,
+      "inverterLimitKW": 12,
+      "availableACKWh": 25.2,
+      "hours": 2.290909090909091
+    }
+  ]
+}

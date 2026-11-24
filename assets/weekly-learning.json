@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-18",
-  "executedAt": "2026-11-18T17:03:20.858585+08:00",
+  "updated": "2026-11-23",
+  "executedAt": "2026-11-23T17:06:08.805357+08:00",
   "previousExperimentEvaluation": [
     {
       "id": "WL-2026-10-05-W1",
@@ -97,95 +97,159 @@
     {
       "project": "AutoGen",
       "url": "https://microsoft.github.io/autogen/stable/user-guide/agentchat-user-guide/tutorial/termination.html",
-      "status": "official docs read; no verified dated release",
       "publishedAt": null,
       "eventDate": null,
-      "checkedAt": "2026-11-18",
-      "retrievedAt": "2026-11-18T17:03:20.858585+08:00",
+      "checkedAt": "2026-11-23",
+      "retrievedAt": "2026-11-23T17:06:08.805357+08:00",
       "evidenceStatus": "no_verified_change",
+      "status": "Official page read; no dated release verified",
+      "localizedStatus": {
+        "zh": "官方文档已读，未核有日期的新发布",
+        "en": "Official docs read; no dated release verified",
+        "ko": "공식 문서 확인, 날짜 있는 새 릴리스 미검증"
+      },
       "pattern": {
-        "zh": "ExternalTermination可由外部触发停止；停止不等于验收。",
-        "en": "ExternalTermination lets an external controller stop a run; stopping is not acceptance.",
-        "ko": "ExternalTermination은 외부에서 실행을 중지하지만 중지는 검수가 아니다."
+        "zh": "终止条件按回应后的消息增量调用；消息数不等于公民发言数。",
+        "en": "Termination observes response deltas; message counts are not citizen speaking turns.",
+        "ko": "종료 조건은 응답 후 증분 메시지 처리. 메시지 수는 시민 발언 수와 다르다."
       },
       "lesson": {
-        "zh": "先保留运行与验收的不同证据；本次不启动候选实验。",
-        "en": "Preserve separate execution and acceptance evidence; no experiment launched.",
-        "ko": "실행·검수 근거를 분리 보존. 이번 실험 시작 없음."
+        "zh": "保留原始事件、对象身份和证据状态；不把框架内部状态当验收。",
+        "en": "Retain raw events, identity and evidence status; framework state is not acceptance.",
+        "ko": "원시 이벤트·객체 식별·근거 상태 보존. 프레임워크 상태는 검수 아님."
       },
       "limitation": {
-        "zh": "仅本页范围；未运行框架，不声称本周发布或全项目无变化。",
-        "en": "Page scope only; frameworks not executed; no weekly-release or project-wide no-change claim.",
-        "ko": "해당 페이지 범위만 확인. 프레임워크 미실행, 주간 릴리스·전체 무변화 주장 아님."
-      },
-      "localizedStatus": {
-        "zh": "文档已读，未核有日期的新发布",
-        "en": "Docs read; no dated release verified",
-        "ko": "문서 확인, 날짜 있는 새 릴리스 미검증"
+        "zh": "未运行框架；无发布日期；不称本周新增功能。",
+        "en": "Framework not run; publication date absent; not claimed as a new weekly feature.",
+        "ko": "프레임워크 미실행·게시일 미표시. 이번 주 신기능 주장 아님."
       }
     },
     {
       "project": "LangGraph",
-      "url": "https://docs.langchain.com/oss/python/langgraph/interrupts",
-      "status": "official docs read; no verified dated release",
+      "url": "https://docs.langchain.com/oss/python/langgraph/persistence",
       "publishedAt": null,
       "eventDate": null,
-      "checkedAt": "2026-11-18",
-      "retrievedAt": "2026-11-18T17:03:20.858585+08:00",
+      "checkedAt": "2026-11-23",
+      "retrievedAt": "2026-11-23T17:06:08.805357+08:00",
       "evidenceStatus": "no_verified_change",
+      "status": "Official page read; no dated release verified",
+      "localizedStatus": {
+        "zh": "官方文档已读，未核有日期的新发布",
+        "en": "Official docs read; no dated release verified",
+        "ko": "공식 문서 확인, 날짜 있는 새 릴리스 미검증"
+      },
       "pattern": {
-        "zh": "批准后的副作用也可因后续失败重放；拆节点不自动保证一次执行。",
-        "en": "Post-approval effects can replay after failure; separate nodes do not automatically ensure exactly-once execution.",
-        "ko": "승인 후 효과도 장애로 재실행될 수 있어 노드 분리만으로 정확히1회 실행을 보장하지 않는다."
+        "zh": "线程检查点与跨线程store分工，恢复状态不证明事实被验证。",
+        "en": "Thread checkpoints and cross-thread stores differ; restored state is not verified truth.",
+        "ko": "스레드 체크포인트와 교차 스레드store역할 구분. 복원 상태는 검증된 사실이 아니다."
       },
       "lesson": {
-        "zh": "先保留运行与验收的不同证据；本次不启动候选实验。",
-        "en": "Preserve separate execution and acceptance evidence; no experiment launched.",
-        "ko": "실행·검수 근거를 분리 보존. 이번 실험 시작 없음."
+        "zh": "保留原始事件、对象身份和证据状态；不把框架内部状态当验收。",
+        "en": "Retain raw events, identity and evidence status; framework state is not acceptance.",
+        "ko": "원시 이벤트·객체 식별·근거 상태 보존. 프레임워크 상태는 검수 아님."
       },
       "limitation": {
-        "zh": "仅本页范围；未运行框架，不声称本周发布或全项目无变化。",
-        "en": "Page scope only; frameworks not executed; no weekly-release or project-wide no-change claim.",
-        "ko": "해당 페이지 범위만 확인. 프레임워크 미실행, 주간 릴리스·전체 무변화 주장 아님."
-      },
-      "localizedStatus": {
-        "zh": "文档已读，未核有日期的新发布",
-        "en": "Docs read; no dated release verified",
-        "ko": "문서 확인, 날짜 있는 새 릴리스 미검증"
+        "zh": "未运行框架；无发布日期；不称本周新增功能。",
+        "en": "Framework not run; publication date absent; not claimed as a new weekly feature.",
+        "ko": "프레임워크 미실행·게시일 미표시. 이번 주 신기능 주장 아님."
       }
     },
     {
       "project": "CrewAI",
-      "url": "https://docs.crewai.com/v1.15.41/en/learn/human-in-the-loop",
-      "status": "official docs read; no verified dated release",
+      "url": "https://docs.crewai.com/v1.15.44/en/concepts/memory",
       "publishedAt": null,
       "eventDate": null,
-      "checkedAt": "2026-11-18",
-      "retrievedAt": "2026-11-18T17:03:20.858585+08:00",
+      "checkedAt": "2026-11-23",
+      "retrievedAt": "2026-11-23T17:06:08.805357+08:00",
       "evidenceStatus": "no_verified_change",
+      "status": "Official page read; no dated release verified",
+      "localizedStatus": {
+        "zh": "官方文档已读，未核有日期的新发布",
+        "en": "Official docs read; no dated release verified",
+        "ko": "공식 문서 확인, 날짜 있는 새 릴리스 미검증"
+      },
       "pattern": {
-        "zh": "回调包含执行ID、任务ID、任务输出；恢复仍需显式回传回调配置。",
-        "en": "Callbacks carry execution ID, task ID and output; resume still needs explicit callback configuration.",
-        "ko": "콜백은 실행ID·과제ID·출력을 포함하며 재개에 콜백 설정을 명시해야 한다."
+        "zh": "统一Memory的召回排序综合相似度、新近性和重要性，不是证据真实性分数。",
+        "en": "Unified Memory ranks by similarity, recency and importance, not evidentiary truth.",
+        "ko": "통합Memory순위는 유사성·최신성·중요성이지 근거 진실성 점수가 아니다."
       },
       "lesson": {
-        "zh": "先保留运行与验收的不同证据；本次不启动候选实验。",
-        "en": "Preserve separate execution and acceptance evidence; no experiment launched.",
-        "ko": "실행·검수 근거를 분리 보존. 이번 실험 시작 없음."
+        "zh": "保留原始事件、对象身份和证据状态；不把框架内部状态当验收。",
+        "en": "Retain raw events, identity and evidence status; framework state is not acceptance.",
+        "ko": "원시 이벤트·객체 식별·근거 상태 보존. 프레임워크 상태는 검수 아님."
       },
       "limitation": {
-        "zh": "仅本页范围；未运行框架，不声称本周发布或全项目无变化。",
-        "en": "Page scope only; frameworks not executed; no weekly-release or project-wide no-change claim.",
-        "ko": "해당 페이지 범위만 확인. 프레임워크 미실행, 주간 릴리스·전체 무변화 주장 아님."
-      },
-      "localizedStatus": {
-        "zh": "文档已读，未核有日期的新发布",
-        "en": "Docs read; no dated release verified",
-        "ko": "문서 확인, 날짜 있는 새 릴리스 미검증"
+        "zh": "未运行框架；无发布日期；不称本周新增功能。",
+        "en": "Framework not run; publication date absent; not claimed as a new weekly feature.",
+        "ko": "프레임워크 미실행·게시일 미표시. 이번 주 신기능 주장 아님."
       }
     }
   ],
-  "experiments": [],
-  "archive": "research/2026-11-18/weekly-learning-before.json",
-  "report": "research/2026-11-18/weekly-learning.md"
+  "experiments": [
+    {
+      "id": "WL-2026-11-23-W1",
+      "ownerId": "memoria",
+      "title": {
+        "zh": "事件与发言计数分离",
+        "en": "Separate events from speaking turns",
+        "ko": "이벤트·발언 집계 분리"
+      },
+      "metric": {
+        "zh": "20条合成事件，发言次数误计0",
+        "en": "20 synthetic events, zero turn miscounts",
+        "ko": "합성20이벤트, 발언 오집계0"
+      },
+      "deadline": "2026-11-30",
+      "status": "candidate_not_started",
+      "rollback": {
+        "zh": "出现误合并、错误验收或不可复现即停止候选测试并保留现行规则。",
+        "en": "Stop on false merges, false acceptance or irreproducibility; retain current rules.",
+        "ko": "오병합·오검수·재현 불가 시 중단하고 현행 규칙 유지."
+      }
+    },
+    {
+      "id": "WL-2026-11-23-W2",
+      "ownerId": "nullroute",
+      "title": {
+        "zh": "线程身份隔离",
+        "en": "Isolate thread identity",
+        "ko": "스레드 식별 격리"
+      },
+      "metric": {
+        "zh": "10组跨线程同名对象，误合并0",
+        "en": "10 cross-thread homonym pairs, zero false merges",
+        "ko": "교차 스레드 동명10쌍, 오병합0"
+      },
+      "deadline": "2026-11-30",
+      "status": "candidate_not_started",
+      "rollback": {
+        "zh": "出现误合并、错误验收或不可复现即停止候选测试并保留现行规则。",
+        "en": "Stop on false merges, false acceptance or irreproducibility; retain current rules.",
+        "ko": "오병합·오검수·재현 불가 시 중단하고 현행 규칙 유지."
+      }
+    },
+    {
+      "id": "WL-2026-11-23-W3",
+      "ownerId": "vox",
+      "title": {
+        "zh": "召回与证据状态分离",
+        "en": "Separate recall and evidence status",
+        "ko": "검색 순위·근거 상태 분리"
+      },
+      "metric": {
+        "zh": "10组新错旧对记录，状态保持率100%",
+        "en": "10 recent-false/old-true pairs, 100% evidence-state retention",
+        "ko": "최신 오류·과거 정답10쌍, 상태 보존100%"
+      },
+      "deadline": "2026-11-30",
+      "status": "candidate_not_started",
+      "rollback": {
+        "zh": "出现误合并、错误验收或不可复现即停止候选测试并保留现行规则。",
+        "en": "Stop on false merges, false acceptance or irreproducibility; retain current rules.",
+        "ko": "오병합·오검수·재현 불가 시 중단하고 현행 규칙 유지."
+      }
+    }
+  ],
+  "archive": "research/2026-11-23/weekly-learning-before.json",
+  "report": "research/2026-11-23/weekly-learning.md"
 }

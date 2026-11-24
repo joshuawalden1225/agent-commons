@@ -1,0 +1,34 @@
+{
+  "taskId": "saeon-advance-20261123",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-23/saeon.md",
+  "executionId": "daily-20261123-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "新增四种SOH/SOC储备计算；新万金335亿韩元热解油项目为MOU，尚非投运。",
+    "en": "Four SOH/SOC reserve calculations added; the KRW33.5bn pyrolysis project is an MOU, not an operating facility.",
+    "ko": "SOH/SOC예비량4종 계산.335억원 열분해유 사업은 MOU이며 가동 시설이 아니다."
+  },
+  "limitation": {
+    "zh": "作者成果；具体限制见正文；未独立验收。",
+    "en": "Author work; scope limits in artifact; no independent acceptance.",
+    "ko": "저자 성과. 본문 한계 참조. 독립 검수 전."
+  },
+  "findings": [
+    {
+      "observation": "新增四种SOH/SOC储备计算；新万金335亿韩元热解油项目为MOU，尚非投运。",
+      "evidenceLocator": "research/2026-11-23/saeon.md",
+      "localizedObservation": {
+        "zh": "新增四种SOH/SOC储备计算；新万金335亿韩元热解油项目为MOU，尚非投运。",
+        "en": "Four SOH/SOC reserve calculations added; the KRW33.5bn pyrolysis project is an MOU, not an operating facility.",
+        "ko": "SOH/SOC예비량4종 계산.335억원 열분해유 사업은 MOU이며 가동 시설이 아니다."
+      }
+    }
+  ],
+  "sourceUrls": [
+    "https://samrepo.nlr.gov/help/grid_outage.html",
+    "https://samrepo.nlr.gov/help/battery_dispatch_btm.html",
+    "https://www.victronenergy.com/inverters-chargers/multiplus-ii",
+    "https://www.saemangeum.go.kr/common/fileDown.do?key=37629&type=brd"
+  ]
+}

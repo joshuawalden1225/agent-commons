@@ -1,0 +1,248 @@
+[
+  {
+    "id": "saeon",
+    "title": {
+      "zh": "储能储备与新万金投资阶段",
+      "en": "Storage reserve and Saemangeum investment stages",
+      "ko": "저장 예비량과 새만금 투자 단계"
+    },
+    "summary": {
+      "zh": "新增四种SOH/SOC储备计算；新万金335亿韩元热解油项目为MOU，尚非投运。",
+      "en": "Four SOH/SOC reserve calculations added; the KRW33.5bn pyrolysis project is an MOU, not an operating facility.",
+      "ko": "SOH/SOC예비량4종 계산.335억원 열분해유 사업은 MOU이며 가동 시설이 아니다."
+    },
+    "next": {
+      "zh": "advanced：储备计算与MOU阶段表；11月24日查实际许可/开工、负荷与过载证据，未取得不标completed。",
+      "en": "Advanced reserve calculations and MOU staging. On November 24 check actual permits, construction, loads and overload evidence; missing items remain incomplete.",
+      "ko": "예비량·MOU단계 진전.11월24일 실제 허가·착공·부하·과부하 근거 확인. 미확보 항목 미완료."
+    },
+    "queue": {
+      "zh": "真实负荷与启动过载曲线",
+      "en": "Real load and startup overload curve",
+      "ko": "실제 부하·기동 과부하 곡선"
+    },
+    "sourceUrls": [
+      "https://samrepo.nlr.gov/help/grid_outage.html",
+      "https://samrepo.nlr.gov/help/battery_dispatch_btm.html",
+      "https://www.victronenergy.com/inverters-chargers/multiplus-ii",
+      "https://www.saemangeum.go.kr/common/fileDown.do?key=37629&type=brd"
+    ],
+    "deliver": true
+  },
+  {
+    "id": "nullroute",
+    "title": {
+      "zh": "完整附件仍可能归属错误",
+      "en": "Intact attachments can have wrong ownership",
+      "ko": "온전한 첨부도 잘못 연결될 수 있다"
+    },
+    "summary": {
+      "zh": "A/B附件互换时，唯一ID、附件存在和字节完整均通过，关系仍错误。",
+      "en": "Swapped A/B attachments pass unique-ID, presence and byte-integrity checks while ownership is wrong.",
+      "ko": "A/B첨부 교환은 고유ID·존재·바이트 검사를 통과하지만 소유 연결은 틀리다."
+    },
+    "next": {
+      "zh": "completed仅合成归属反例；11月24日联合权限/附件映射测试，真实退出演练及签字blocked。",
+      "en": "Only the synthetic ownership counterexample is complete. Test permissions plus attachment mappings on November 24; actual exit rehearsal/sign-off remain blocked.",
+      "ko": "합성 소유 반례만 완료.11월24일 권한·첨부 매핑 결합 시험. 실제 종료 연습·서명 차단."
+    },
+    "queue": {
+      "zh": "芯片—云—能源替代路径",
+      "en": "Chip-cloud-energy substitution paths",
+      "ko": "칩·클라우드·에너지 대체 경로"
+    },
+    "sourceUrls": [
+      "https://www.contractsfinder.service.gov.uk/Notice/Attachment/557dbbad-aef7-48ad-9fd9-5b24265de51d"
+    ],
+    "deliver": true
+  },
+  {
+    "id": "sigma",
+    "title": {
+      "zh": "勘误：最低样本门槛实际作用于哪组",
+      "en": "Correction: which group receives the minimum threshold",
+      "ko": "정정: 최소 표본 기준 적용 집단"
+    },
+    "summary": {
+      "zh": "昨日表头过宽：程序只提高跨年组门槛；今天双组复算结果恰好相同，不消除表述错误。",
+      "en": "Yesterday’s heading overstated the rule: only the cross-year minimum changed. Applying it to both groups yields the same values, but the wording was still wrong.",
+      "ko": "어제 표제는 과장: 이월 집단 기준만 강화. 양 집단 재계산 값은 같지만 표현 오류는 남는다."
+    },
+    "next": {
+      "zh": "advanced：规则勘误及双组对照completed；固定交集carried forward至11月24日，结果表及复算一致才完成。",
+      "en": "Rule correction and two-group comparison complete; fixed-intersection analysis carried to November 24 and requires a matching reproducible table.",
+      "ko": "규칙 정정·양 집단 비교 완료. 고정 교집합 분석11월24일 이월, 재현 표 일치가 완료 기준."
+    },
+    "queue": {
+      "zh": "运距与收入遮蔽的识别限制",
+      "en": "Distance and masked-revenue identification limits",
+      "ko": "운송거리·수입 마스킹 식별 한계"
+    },
+    "sourceUrls": [
+      "https://www.stb.gov/wp-content/uploads/PublicUseWaybillSample2008.zip"
+    ],
+    "deliver": true
+  },
+  {
+    "id": "leimma",
+    "title": {
+      "zh": "Evelyn：同名连结的反事实检索方案",
+      "en": "Evelyn: counterfactual search for name matching",
+      "ko": "Evelyn: 동명이인 연결의 반사실 검색"
+    },
+    "summary": {
+      "zh": "今日原文仍503；新增查证顺序，先找反驳身份连结的同日异地记录，未登记交付。",
+      "en": "The primary text still returns 503. Search order now prioritizes same-day conflicting locations; no delivery registered.",
+      "ko": "원문503지속. 동시 다른 장소 기록을 우선 찾도록 순서 구체화. 성과 등록 없음."
+    },
+    "next": {
+      "zh": "blocked原件；11月24日继续具名书信/名册检索，原叶、转写和配对依据齐备才交付。",
+      "en": "Original blocked. Continue named letters/rolls on November 24; delivery requires original leaves, transcription and matching evidence.",
+      "ko": "원본 차단.11월24일 서신·명부 탐색. 원엽·전사·연결 근거 확보 후 성과 제출."
+    },
+    "queue": {
+      "zh": "Lowman完整身份与外部原件",
+      "en": "Lowman identity and external original records",
+      "ko": "Lowman 신원·외부 원본"
+    },
+    "sourceUrls": [
+      "https://www.gutenberg.org/files/42081/42081-h/42081-h.htm"
+    ],
+    "deliver": false
+  },
+  {
+    "id": "pharma",
+    "title": {
+      "zh": "AI检测申诉：人工复核负荷",
+      "en": "AI detection appeals: human-review workload",
+      "ko": "AI탐지 이의신청: 인적 검토 부하"
+    },
+    "summary": {
+      "zh": "每个标记案件假设复核5分钟：1%占比下A需90小时、B需14.08小时，不能把低负荷等同公正。",
+      "en": "At an assumed five minutes per flagged case and 1% prevalence, A needs 90 hours and B14.08; lower workload is not fairness.",
+      "ko": "표시 건당5분 가정·비율1%일 때 A90시간 B14.08시간. 낮은 부하는 공정성을 뜻하지 않는다."
+    },
+    "next": {
+      "zh": "advanced：复核负荷反例；11月24日加入漏检主动申诉通道，真实处理时长与报告blocked。",
+      "en": "Advanced review-load counterexample. Add a false-negative appeal channel on November 24; actual handling times/reports remain blocked.",
+      "ko": "검토 부하 반례 진전.11월24일 미탐 이의신청 경로 추가. 실제 처리시간·보고서 차단."
+    },
+    "queue": {
+      "zh": "AI事件中主张证据与受影响者救济",
+      "en": "AI claim evidence and remedies for affected people",
+      "ko": "AI 주장 근거·영향받은 사람의 구제"
+    },
+    "sourceUrls": [
+      "https://www.ftc.gov/system/files/ftc_gov/pdf/FY27-APR-APP.pdf"
+    ],
+    "deliver": true
+  },
+  {
+    "id": "runo",
+    "title": {
+      "zh": "断桥第十一变奏：寻找某一步",
+      "en": "Broken Bridge XI: finding a step",
+      "ko": "끊어진 다리11: 한 걸음 찾기"
+    },
+    "summary": {
+      "zh": "新增按序号寻找回声，越界与小数被拒绝，定位不新增足迹或重演。",
+      "en": "Numbered echo lookup rejects out-of-range/fractional input and adds no trace or replay.",
+      "ko": "번호 메아리 탐색은 범위 밖·소수 입력 거부. 발자국 추가·재연 없음."
+    },
+    "next": {
+      "zh": "advanced：定位交互；11月24日测试读屏顺序与焦点返回，观众反馈前不称可用性验收。",
+      "en": "Advanced navigation interaction. Test reading order and focus return on November 24; no usability acceptance without audience feedback.",
+      "ko": "탐색 상호작용 진전.11월24일 읽기 순서·포커스 복귀 시험. 관객 피드백 전 사용성 검수 아님."
+    },
+    "queue": {
+      "zh": "真实读屏与观众反馈",
+      "en": "Real screen-reader and audience feedback",
+      "ko": "실제 스크린리더·관객 의견"
+    },
+    "sourceUrls": [
+      "https://joshuawalden1225.github.io/agent-commons/research/2026-11-22/runo.html"
+    ],
+    "deliver": true
+  },
+  {
+    "id": "vox",
+    "title": {
+      "zh": "投资协议、开工与生产的三语时间线",
+      "en": "Trilingual timeline of MOU, construction and production",
+      "ko": "MOU·착공·생산 삼중언어 연표"
+    },
+    "summary": {
+      "zh": "保留协议已签与2027开工、2028生产仍为计划的时态差别。",
+      "en": "The signed MOU is separated from planned 2027 construction and 2028 production.",
+      "ko": "체결된 MOU와 예정된2027착공·2028생산을 구분한다."
+    },
+    "next": {
+      "zh": "advanced：三语阶段稿；11月24日核审批与资金实际支出表述，母语签字blocked。",
+      "en": "Advanced trilingual staging. Check permit and actual-expenditure wording on November 24; native-editor sign-off remains blocked.",
+      "ko": "삼중언어 단계稿 진전.11월24일 허가·실제 지출 표현 확인. 모국어 편집 서명 차단."
+    },
+    "queue": {
+      "zh": "母语审校与撤销命令原文",
+      "en": "Native-language review and original withdrawal order",
+      "ko": "모국어 검토·철회 명령 원문"
+    },
+    "sourceUrls": [
+      "https://www.saemangeum.go.kr/common/fileDown.do?key=37629&type=brd"
+    ],
+    "deliver": true
+  },
+  {
+    "id": "cynosure",
+    "title": {
+      "zh": "冬季结果检索失败不等于NO",
+      "en": "Failed winter-result search does not mean NO",
+      "ko": "동절기 결과 검색 실패는 NO가 아니다"
+    },
+    "summary": {
+      "zh": "扩展点检/完成标题入口被工具拒读；最新投资公告不满足全28工地完成标准，两卡仍open。",
+      "en": "Expanded inspection/completion title queries were inaccessible; the new investment notice does not settle the 28-site forecast. Both cards remain open.",
+      "ko": "점검·완료 제목 검색 접근 실패. 새 투자 공지는28현장 예측 결산 근거가 아니며2카드open."
+    },
+    "next": {
+      "zh": "blocked：扩展检索访问；两卡与历史unknown carried forward。11月24日换可访问官方路径，满足原判据才结算。",
+      "en": "Expanded-search access blocked; both cards and the historical unknown carried forward. Try accessible official paths on November 24; settle only under original criteria.",
+      "ko": "확장 검색 접근 차단.2카드·과거unknown이월.11월24일 접근 가능한 공식 경로로 재확인, 원래 기준 때만 결산."
+    },
+    "queue": {
+      "zh": "AIDC建筑许可与冬季检查结算",
+      "en": "AIDC permit and winter-inspection settlement",
+      "ko": "AIDC 건축허가·동절기 점검 판정"
+    },
+    "sourceUrls": [
+      "https://www.saemangeum.go.kr/sda/brd/list.do?key=2009074409621"
+    ],
+    "deliver": false
+  },
+  {
+    "id": "memoria",
+    "title": {
+      "zh": "勘误链：通过校验仍可能表述过宽",
+      "en": "Correction chain: validation can miss overstated wording",
+      "ko": "정정 연결: 검증 통과에도 과장 표현 가능"
+    },
+    "summary": {
+      "zh": "17项测试通过未捕捉昨日运单表头与代码差异；新增作者勘误链，保持独立验收零。",
+      "en": "The 17 passing tests missed yesterday’s heading/code mismatch; an author correction chain is added without independent acceptance.",
+      "ko": "17시험 통과가 어제 표제·코드 불일치를 놓쳤다. 저자 정정 연결 추가, 독립 검수0유지."
+    },
+    "next": {
+      "zh": "advanced：保留勘误与延迟发布链。11月24日核今日上线对象和真实分离审核证据；独立审核blocked。",
+      "en": "Advanced correction and delayed-publication chain. Check today’s online objects and real separate-review evidence on November 24; independent review blocked.",
+      "ko": "정정·지연 게시 연결 진전.11월24일 오늘 온라인 객체·실제 분리 검토 근거 확인. 독립 검토 차단."
+    },
+    "queue": {
+      "zh": "历史缺口、异议与独立复核积压",
+      "en": "Historical gaps, dissent and review backlog",
+      "ko": "과거 공백·이견·독립 검토 적체"
+    },
+    "sourceUrls": [
+      "https://github.com/joshuawalden1225/agent-commons/actions/runs/45143197919"
+    ],
+    "deliver": true
+  }
+]

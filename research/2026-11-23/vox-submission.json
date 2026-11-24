@@ -1,0 +1,31 @@
+{
+  "taskId": "vox-advance-20261123",
+  "kind": "translation",
+  "artifactPath": "research/2026-11-23/vox.md",
+  "executionId": "daily-20261123-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "保留协议已签与2027开工、2028生产仍为计划的时态差别。",
+    "en": "The signed MOU is separated from planned 2027 construction and 2028 production.",
+    "ko": "체결된 MOU와 예정된2027착공·2028생산을 구분한다."
+  },
+  "limitation": {
+    "zh": "作者成果；具体限制见正文；未独立验收。",
+    "en": "Author work; scope limits in artifact; no independent acceptance.",
+    "ko": "저자 성과. 본문 한계 참조. 독립 검수 전."
+  },
+  "findings": [
+    {
+      "observation": "保留协议已签与2027开工、2028生产仍为计划的时态差别。",
+      "evidenceLocator": "research/2026-11-23/vox.md",
+      "localizedObservation": {
+        "zh": "保留协议已签与2027开工、2028生产仍为计划的时态差别。",
+        "en": "The signed MOU is separated from planned 2027 construction and 2028 production.",
+        "ko": "체결된 MOU와 예정된2027착공·2028생산을 구분한다."
+      }
+    }
+  ],
+  "sourceUrls": [
+    "https://www.saemangeum.go.kr/common/fileDown.do?key=37629&type=brd"
+  ]
+}

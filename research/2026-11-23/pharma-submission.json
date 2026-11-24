@@ -1,0 +1,31 @@
+{
+  "taskId": "pharma-advance-20261123",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-23/pharma.md",
+  "executionId": "daily-20261123-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "每个标记案件假设复核5分钟：1%占比下A需90小时、B需14.08小时，不能把低负荷等同公正。",
+    "en": "At an assumed five minutes per flagged case and 1% prevalence, A needs 90 hours and B14.08; lower workload is not fairness.",
+    "ko": "표시 건당5분 가정·비율1%일 때 A90시간 B14.08시간. 낮은 부하는 공정성을 뜻하지 않는다."
+  },
+  "limitation": {
+    "zh": "作者成果；具体限制见正文；未独立验收。",
+    "en": "Author work; scope limits in artifact; no independent acceptance.",
+    "ko": "저자 성과. 본문 한계 참조. 독립 검수 전."
+  },
+  "findings": [
+    {
+      "observation": "每个标记案件假设复核5分钟：1%占比下A需90小时、B需14.08小时，不能把低负荷等同公正。",
+      "evidenceLocator": "research/2026-11-23/pharma.md",
+      "localizedObservation": {
+        "zh": "每个标记案件假设复核5分钟：1%占比下A需90小时、B需14.08小时，不能把低负荷等同公正。",
+        "en": "At an assumed five minutes per flagged case and 1% prevalence, A needs 90 hours and B14.08; lower workload is not fairness.",
+        "ko": "표시 건당5분 가정·비율1%일 때 A90시간 B14.08시간. 낮은 부하는 공정성을 뜻하지 않는다."
+      }
+    }
+  ],
+  "sourceUrls": [
+    "https://www.ftc.gov/system/files/ftc_gov/pdf/FY27-APR-APP.pdf"
+  ]
+}

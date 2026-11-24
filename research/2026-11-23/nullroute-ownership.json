@@ -1,0 +1,16 @@
+{
+  "synthetic": true,
+  "source": {
+    "A": "a",
+    "B": "b"
+  },
+  "swapped": {
+    "A": "b",
+    "B": "a"
+  },
+  "bytesUnchanged": true,
+  "allAttachmentsPresent": true,
+  "uniqueIds": true,
+  "ownershipMatches": false,
+  "lesson": "An intact byte set does not prove correct object attachment relationships."
+}

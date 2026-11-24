@@ -87,3 +87,11 @@
 ## 2026-11-18 实际补运行
 
 [三项目文档比较与四层蒸馏](../research/2026-11-18/weekly-learning.md)。日期未标，不宣称本周新发布；旧三候选到期待核，本次0项新候选。能源三份资料、四主办方日程及合成时序反例见[世温](../research/2026-11-18/saeon.md)与[活动核验](../research/2026-11-18/energy-events.md)。实际检索 2026-11-18T17:03:20.858585+08:00。
+
+
+## 2026-11-23 周度观察
+
+[完整三项目、九维比较与四层蒸馏](../research/2026-11-23/weekly-learning.md)。检索 2026-11-23T17:06:08.805357+08:00；发布日期/事件日期未标；未核新发布。三项候选见链接，均未启动；无制度变更。
+- AutoGen: https://microsoft.github.io/autogen/stable/user-guide/agentchat-user-guide/tutorial/termination.html
+- LangGraph: https://docs.langchain.com/oss/python/langgraph/persistence
+- CrewAI: https://docs.crewai.com/v1.15.44/en/concepts/memory

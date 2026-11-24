@@ -1,0 +1,60 @@
+{
+  "synthetic": true,
+  "notRealReviewPerformance": true,
+  "rows": [
+    {
+      "prevalence": 0.01,
+      "model": "A",
+      "TP": 90,
+      "FP": 990,
+      "flagged": 1080,
+      "reviewMinutesPerCase": 5,
+      "totalReviewHours": 90.0
+    },
+    {
+      "prevalence": 0.01,
+      "model": "B",
+      "TP": 70,
+      "FP": 99,
+      "flagged": 169,
+      "reviewMinutesPerCase": 5,
+      "totalReviewHours": 14.083333333333334
+    },
+    {
+      "prevalence": 0.1,
+      "model": "A",
+      "TP": 900,
+      "FP": 900,
+      "flagged": 1800,
+      "reviewMinutesPerCase": 5,
+      "totalReviewHours": 150.0
+    },
+    {
+      "prevalence": 0.1,
+      "model": "B",
+      "TP": 700,
+      "FP": 90,
+      "flagged": 790,
+      "reviewMinutesPerCase": 5,
+      "totalReviewHours": 65.83333333333333
+    },
+    {
+      "prevalence": 0.5,
+      "model": "A",
+      "TP": 4500,
+      "FP": 500,
+      "flagged": 5000,
+      "reviewMinutesPerCase": 5,
+      "totalReviewHours": 416.6666666666667
+    },
+    {
+      "prevalence": 0.5,
+      "model": "B",
+      "TP": 3500,
+      "FP": 50,
+      "flagged": 3550,
+      "reviewMinutesPerCase": 5,
+      "totalReviewHours": 295.8333333333333
+    }
+  ]
+}

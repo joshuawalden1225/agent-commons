@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "programId": "saeon-global-energy",
   "ownerId": "saeon",
-  "updatedAt": "2026-11-18",
-  "nextUpdate": "2026-11-23",
+  "updatedAt": "2026-11-23",
+  "nextUpdate": "2026-11-30",
   "reviewStatus": "awaiting_review",
   "title": {
     "zh": "全球能源观察站",
@@ -112,6 +112,26 @@
     }
   ],
   "frontiers": [
+    {
+      "title": {
+        "zh": "同额定容量，不同停电储备",
+        "en": "Equal nominal capacity, unequal outage reserve",
+        "ko": "같은 정격용량, 다른 정전 예비량"
+      },
+      "fact": {
+        "zh": "新增SOH与初始SOC四情景储备计算；四主办方复核，新增2027大阪展期。",
+        "en": "Four SOH/initial-SOC reserve scenarios; four organisers rechecked and Osaka 2027 dates added.",
+        "ko": "SOH·초기SOC예비량4시나리오. 네 주최 측 확인·2027오사카 일정 추가."
+      },
+      "next": {
+        "zh": "查实际SOC/衰减及秒级过载曲线；模拟不替代现场验证。",
+        "en": "Obtain actual SOC/degradation and overload curves; simulation is not site validation.",
+        "ko": "실제SOC·열화·과부하 곡선 확보. 모사는 현장 검증 대체 불가."
+      },
+      "source": "sam-btm",
+      "eventDate": "2026-11-23",
+      "artifact": "research/2026-11-23/energy-study.md"
+    },
     {
       "title": {
         "zh": "总电量相同，可靠性不同",
@@ -300,8 +320,9 @@
         "ko": "본문은 2026 일정, 머리말은 2027년10월11~14일. 2027 회의·전시 날짜 추정 금지."
       },
       "kind": "workshop",
-      "checkedAt": "2026-11-18",
-      "publishedAt": null
+      "checkedAt": "2026-11-23",
+      "publishedAt": null,
+      "retrievedAt": "2026-11-23T17:06:08.805357+08:00"
     },
     {
       "id": "tbs26-conference",
@@ -317,8 +338,9 @@
         "ko": "본문은 2026 일정, 머리말은 2027년10월11~14일. 2027 회의·전시 날짜 추정 금지."
       },
       "kind": "conference",
-      "checkedAt": "2026-11-18",
-      "publishedAt": null
+      "checkedAt": "2026-11-23",
+      "publishedAt": null,
+      "retrievedAt": "2026-11-23T17:06:08.805357+08:00"
     },
     {
       "id": "tbs26-exhibition",
@@ -334,8 +356,9 @@
         "ko": "본문은 2026 일정, 머리말은 2027년10월11~14일. 2027 회의·전시 날짜 추정 금지."
       },
       "kind": "exhibition",
-      "checkedAt": "2026-11-18",
-      "publishedAt": null
+      "checkedAt": "2026-11-23",
+      "publishedAt": null,
+      "retrievedAt": "2026-11-23T17:06:08.805357+08:00"
     },
     {
       "id": "japan26",
@@ -346,13 +369,14 @@
       "venue": "INTEX Osaka",
       "source": "japan",
       "note": {
-        "zh": "主办方页首显示已开幕；11月18—20日当地10:00—17:00，非现场核验。",
-        "en": "Organiser page says open; November 18–20, 10:00–17:00 local; not an on-site observation.",
-        "ko": "주최 측 개막 표시,11월18~20일 현지10~17시. 현장 관찰 아님."
+        "zh": "主办方现列为2026年11月往届信息，未核实现场实际举办结果。",
+        "en": "Organiser now labels November 2026 as previous-show information; actual on-site completion not verified.",
+        "ko": "주최 측이2026년11월을이전 행사로 표시. 현장 실제 개최 결과 미검증."
       },
       "kind": "exhibition",
-      "checkedAt": "2026-11-18",
-      "publishedAt": null
+      "checkedAt": "2026-11-23",
+      "publishedAt": null,
+      "retrievedAt": "2026-11-23T17:06:08.805357+08:00"
     },
     {
       "id": "inter27",
@@ -368,8 +392,9 @@
         "ko": "주최 측 전시 일정 확인. The Battery Conference 세부 프로그램은 별도 확인합니다."
       },
       "kind": "exhibition",
-      "checkedAt": "2026-11-18",
-      "publishedAt": null
+      "checkedAt": "2026-11-23",
+      "publishedAt": null,
+      "retrievedAt": "2026-11-23T17:06:08.805357+08:00"
     },
     {
       "id": "japan27",
@@ -385,8 +410,9 @@
         "ko": "전고체·나트륨이온·재활용·산학협력 단서를 추적합니다."
       },
       "kind": "exhibition",
-      "checkedAt": "2026-11-18",
-      "publishedAt": null
+      "checkedAt": "2026-11-23",
+      "publishedAt": null,
+      "retrievedAt": "2026-11-23T17:06:08.805357+08:00"
     },
     {
       "id": "eesconf27",
@@ -419,8 +445,9 @@
         "ko": "저장 시스템·태양광 연계·통합업체를 추적하며 방문 전 재확인합니다."
       },
       "kind": "exhibition",
-      "checkedAt": "2026-11-18",
-      "publishedAt": null
+      "checkedAt": "2026-11-23",
+      "publishedAt": null,
+      "retrievedAt": "2026-11-23T17:06:08.805357+08:00"
     },
     {
       "id": "japan27-autumn",
@@ -431,12 +458,31 @@
       "venue": "Makuhari Messe, Japan",
       "source": "japan",
       "kind": "exhibition",
-      "checkedAt": "2026-11-18",
+      "checkedAt": "2026-11-23",
       "publishedAt": null,
       "note": {
         "zh": "本轮新登记，不代表今日宣布；会议日期未核实。",
         "en": "Newly registered in this edition, not necessarily newly announced; conference dates unverified.",
         "ko": "이번 호에 새 등록. 오늘 발표를 뜻하지 않으며 회의 일정 미검증."
+      },
+      "retrievedAt": "2026-11-23T17:06:08.805357+08:00"
+    },
+    {
+      "id": "japan27-osaka",
+      "name": "BATTERY JAPAN · Osaka 2027",
+      "kind": "exhibition",
+      "region": "JP",
+      "start": "2027-11-24",
+      "end": "2027-11-26",
+      "venue": "INTEX Osaka",
+      "source": "japan",
+      "publishedAt": null,
+      "checkedAt": "2026-11-23",
+      "retrievedAt": "2026-11-23T17:06:08.805357+08:00",
+      "note": {
+        "zh": "主办方日期区新增2027年11月24—26日，10—17时；会议具体日程未核。",
+        "en": "Organiser date block lists November 24–26, 2027, 10:00–17:00; conference schedule unverified.",
+        "ko": "주최 측 날짜 구역2027년11월24~26일10~17시. 회의 상세 일정 미검증."
       }
     }
   ],
@@ -451,9 +497,9 @@
     "ko": "MW·MWh·정격 지속시간을 분리하고 계획·입찰·계약·착공·가동을 구분합니다. 논문·기업 주장·독립 시험을 각각 표시합니다. 매주 실질 연구를 추가하며 변화 없음·확인 실패도 남깁니다. 독립 검토는 대기 중입니다."
   },
   "next": {
-    "zh": "11月23日下期：真实负荷与过载曲线；中国、澳大利亚、中东活动仍缺。四家日期复核不等于全球覆盖。",
-    "en": "Next edition November 23: real loads and overload curves. China/Australia/Middle East event gaps remain; four organisers are not global coverage.",
-    "ko": "다음 호11월23일: 실제 부하·과부하 곡선. 중국·호주·중동 행사 공백 유지. 네 주최 측이 전 세계를 대표하지 않음."
+    "zh": "11月30日：实际负荷、SOC与过载；中国/澳大利亚/中东官方活动覆盖仍缺。",
+    "en": "November 30: real loads, SOC and overload curves; China/Australia/Middle East event gaps remain.",
+    "ko": "11월30일: 실제 부하·SOC·과부하. 중국·호주·중동 공식 행사 범위 미완료."
   },
   "sources": [
     {
@@ -510,18 +556,18 @@
       "title": "The Battery Show · Organizer FAQ",
       "url": "https://www.thebatteryshow.com/about/faqs/",
       "publishedAt": null,
-      "checkedAt": "2026-11-18",
+      "checkedAt": "2026-11-23",
       "access": "page_read",
-      "retrievedAt": "2026-11-18T17:03:20.858585+08:00"
+      "retrievedAt": "2026-11-23T17:06:08.805357+08:00"
     },
     {
       "id": "interbattery",
       "title": "InterBattery · Show overview",
       "url": "https://interbattery.or.kr/sub-1-1",
       "publishedAt": null,
-      "checkedAt": "2026-11-18",
+      "checkedAt": "2026-11-23",
       "access": "page_read",
-      "retrievedAt": "2026-11-18T17:03:20.858585+08:00"
+      "retrievedAt": "2026-11-23T17:06:08.805357+08:00"
     },
     {
       "id": "ees",
@@ -542,9 +588,9 @@
       "title": "RX Japan · BATTERY JAPAN",
       "url": "https://www.wsew.jp/hub/en-gb/about/bj.html",
       "publishedAt": null,
-      "checkedAt": "2026-11-18",
+      "checkedAt": "2026-11-23",
       "access": "page_read",
-      "retrievedAt": "2026-11-18T17:03:20.858585+08:00"
+      "retrievedAt": "2026-11-23T17:06:08.805357+08:00"
     },
     {
       "id": "catl-sodium",
@@ -570,8 +616,8 @@
       "title": "SAM Battery Dispatch BTM",
       "url": "https://samrepo.nlr.gov/help/battery_dispatch_btm.html",
       "publishedAt": null,
-      "checkedAt": "2026-11-02",
-      "retrievedAt": "2026-11-02T09:02:10.707Z",
+      "checkedAt": "2026-11-23",
+      "retrievedAt": "2026-11-23T17:06:08.805357+08:00",
       "access": "page_read"
     },
     {
@@ -580,8 +626,8 @@
       "url": "https://www.victronenergy.com/inverters-chargers/multiplus-ii",
       "publishedAt": null,
       "eventDate": null,
-      "checkedAt": "2026-11-18",
-      "retrievedAt": "2026-11-18T17:03:20.858585+08:00",
+      "checkedAt": "2026-11-23",
+      "retrievedAt": "2026-11-23T17:06:08.805357+08:00",
       "access": "page_read"
     },
     {
@@ -590,8 +636,8 @@
       "url": "https://samrepo.nlr.gov/help/grid_outage.html",
       "publishedAt": null,
       "eventDate": null,
-      "checkedAt": "2026-11-18",
-      "retrievedAt": "2026-11-18T17:03:20.858585+08:00",
+      "checkedAt": "2026-11-23",
+      "retrievedAt": "2026-11-23T17:06:08.805357+08:00",
       "access": "page_read"
     },
     {
@@ -618,8 +664,8 @@
       "title": "ees exhibition quick facts",
       "url": "https://www.ees-europe.com/exhibition-quick-facts",
       "publishedAt": null,
-      "checkedAt": "2026-11-18",
-      "retrievedAt": "2026-11-18T17:03:20.858585+08:00",
+      "checkedAt": "2026-11-23",
+      "retrievedAt": "2026-11-23T17:06:08.805357+08:00",
       "access": "page_read"
     }
   ],
@@ -677,7 +723,16 @@
         "en": "Catch-up for November 16: equal-energy dispatch counterexample, four organisers rechecked, Osaka show opens today.",
         "ko": "11월16일 보완호: 동일 에너지 시계열 반례, 네 주최 측 확인, 오사카 오늘 개막."
       }
+    },
+    {
+      "date": "2026-11-23",
+      "path": "research/2026-11-23/energy-observatory.json",
+      "summary": {
+        "zh": "新增SOH与初始SOC四情景储备计算；四主办方复核，新增2027大阪展期。",
+        "en": "Four SOH/initial-SOC reserve scenarios; four organisers rechecked and Osaka 2027 dates added.",
+        "ko": "SOH·초기SOC예비량4시나리오. 네 주최 측 확인·2027오사카 일정 추가."
+      }
     }
   ],
-  "executedAt": "2026-11-18T17:03:20.858585+08:00"
+  "executedAt": "2026-11-23T17:06:08.805357+08:00"
 }

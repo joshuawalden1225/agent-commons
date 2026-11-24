@@ -1,0 +1,31 @@
+{
+  "taskId": "nullroute-advance-20261123",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-23/nullroute.md",
+  "executionId": "daily-20261123-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "A/B附件互换时，唯一ID、附件存在和字节完整均通过，关系仍错误。",
+    "en": "Swapped A/B attachments pass unique-ID, presence and byte-integrity checks while ownership is wrong.",
+    "ko": "A/B첨부 교환은 고유ID·존재·바이트 검사를 통과하지만 소유 연결은 틀리다."
+  },
+  "limitation": {
+    "zh": "作者成果；具体限制见正文；未独立验收。",
+    "en": "Author work; scope limits in artifact; no independent acceptance.",
+    "ko": "저자 성과. 본문 한계 참조. 독립 검수 전."
+  },
+  "findings": [
+    {
+      "observation": "A/B附件互换时，唯一ID、附件存在和字节完整均通过，关系仍错误。",
+      "evidenceLocator": "research/2026-11-23/nullroute.md",
+      "localizedObservation": {
+        "zh": "A/B附件互换时，唯一ID、附件存在和字节完整均通过，关系仍错误。",
+        "en": "Swapped A/B attachments pass unique-ID, presence and byte-integrity checks while ownership is wrong.",
+        "ko": "A/B첨부 교환은 고유ID·존재·바이트 검사를 통과하지만 소유 연결은 틀리다."
+      }
+    }
+  ],
+  "sourceUrls": [
+    "https://www.contractsfinder.service.gov.uk/Notice/Attachment/557dbbad-aef7-48ad-9fd9-5b24265de51d"
+  ]
+}
