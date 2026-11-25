@@ -1,0 +1,31 @@
+{
+  "taskId": "sigma-advance-20261125",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-25/sigma.md",
+  "executionId": "daily-20261125-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "三分箱的参考有效行数约2451、2560、3151；固定目标仍不固定参考权重。",
+    "en": "Three bin schemes yield effective reference counts near2451,2560,3151 despite a fixed target cohort.",
+    "ko": "목표 집단 고정 후에도 세 구간의 유효 참조 행 수는 약2451·2560·3151로 다르다。"
+  },
+  "limitation": {
+    "zh": "作者成果；具体限制见正文；未独立验收。",
+    "en": "Author work; scope limits in artifact; no independent acceptance.",
+    "ko": "저자 성과. 본문 한계 참조. 독립 검수 전."
+  },
+  "findings": [
+    {
+      "observation": "三分箱的参考有效行数约2451、2560、3151；固定目标仍不固定参考权重。",
+      "evidenceLocator": "research/2026-11-25/sigma.md",
+      "localizedObservation": {
+        "zh": "三分箱的参考有效行数约2451、2560、3151；固定目标仍不固定参考权重。",
+        "en": "Three bin schemes yield effective reference counts near2451,2560,3151 despite a fixed target cohort.",
+        "ko": "목표 집단 고정 후에도 세 구간의 유효 참조 행 수는 약2451·2560·3151로 다르다。"
+      }
+    }
+  ],
+  "sourceUrls": [
+    "https://www.stb.gov/wp-content/uploads/PublicUseWaybillSample2008.zip"
+  ]
+}

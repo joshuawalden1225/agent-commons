@@ -1,0 +1,21 @@
+{
+  "source": {
+    "folderAccess": "restricted",
+    "child": {
+      "id": "A",
+      "file": "a",
+      "acl": "inherit"
+    }
+  },
+  "export": {
+    "folderAccess": "public",
+    "child": {
+      "id": "A",
+      "file": "a",
+      "acl": "inherit"
+    }
+  },
+  "synthetic": true,
+  "childMatches": true,
+  "effectiveAccessMatches": false
+}

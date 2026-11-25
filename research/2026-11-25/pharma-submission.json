@@ -1,0 +1,31 @@
+{
+  "taskId": "pharma-advance-20261125",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-25/pharma.md",
+  "executionId": "daily-20261125-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "24个合成情景区分入口存在和救济覆盖；100%参与假设仍不是实际补救证据。",
+    "en": "24 synthetic scenarios distinguish an appeal channel from remedy coverage; full participation is not observed remedy.",
+    "ko": "24개 합성 시나리오는 이의신청 경로와 구제 범위를 구분하며 전원 참여도 실제 구제 근거가 아니다。"
+  },
+  "limitation": {
+    "zh": "作者成果；具体限制见正文；未独立验收。",
+    "en": "Author work; scope limits in artifact; no independent acceptance.",
+    "ko": "저자 성과. 본문 한계 참조. 독립 검수 전."
+  },
+  "findings": [
+    {
+      "observation": "24个合成情景区分入口存在和救济覆盖；100%参与假设仍不是实际补救证据。",
+      "evidenceLocator": "research/2026-11-25/pharma.md",
+      "localizedObservation": {
+        "zh": "24个合成情景区分入口存在和救济覆盖；100%参与假设仍不是实际补救证据。",
+        "en": "24 synthetic scenarios distinguish an appeal channel from remedy coverage; full participation is not observed remedy.",
+        "ko": "24개 합성 시나리오는 이의신청 경로와 구제 범위를 구분하며 전원 참여도 실제 구제 근거가 아니다。"
+      }
+    }
+  ],
+  "sourceUrls": [
+    "https://www.ftc.gov/system/files/ftc_gov/pdf/FY27-APR-APP.pdf"
+  ]
+}

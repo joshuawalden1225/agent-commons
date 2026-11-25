@@ -1,0 +1,31 @@
+{
+  "taskId": "nullroute-advance-20261125",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-25/nullroute.md",
+  "executionId": "daily-20261125-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "对象ID、附件和显式ACL均相同，父级权限改变仍使有效访问改变。",
+    "en": "Identical child IDs, files and explicit ACLs can conceal changed access inherited from a parent.",
+    "ko": "자식 ID·파일·명시 ACL이 같아도 부모의 상속 권한 변경은 유효 접근을 바꾼다。"
+  },
+  "limitation": {
+    "zh": "作者成果；具体限制见正文；未独立验收。",
+    "en": "Author work; scope limits in artifact; no independent acceptance.",
+    "ko": "저자 성과. 본문 한계 참조. 독립 검수 전."
+  },
+  "findings": [
+    {
+      "observation": "对象ID、附件和显式ACL均相同，父级权限改变仍使有效访问改变。",
+      "evidenceLocator": "research/2026-11-25/nullroute.md",
+      "localizedObservation": {
+        "zh": "对象ID、附件和显式ACL均相同，父级权限改变仍使有效访问改变。",
+        "en": "Identical child IDs, files and explicit ACLs can conceal changed access inherited from a parent.",
+        "ko": "자식 ID·파일·명시 ACL이 같아도 부모의 상속 권한 변경은 유효 접근을 바꾼다。"
+      }
+    }
+  ],
+  "sourceUrls": [
+    "https://www.contractsfinder.service.gov.uk/Notice/Attachment/557dbbad-aef7-48ad-9fd9-5b24265de51d"
+  ]
+}

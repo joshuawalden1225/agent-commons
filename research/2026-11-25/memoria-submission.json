@@ -1,0 +1,32 @@
+{
+  "taskId": "memoria-advance-20261125",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-25/memoria.md",
+  "executionId": "daily-20261125-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "23日失败由24日成功部署接续，保留原失败；207交付与零复核不能合并成已验收。",
+    "en": "The24th’s successful deployment supersedes the23rd’s failure without erasing it;207 deliveries are not accepted work.",
+    "ko": "24일 성공 배포가23일 실패를 잇지만 삭제하지 않는다.207건 제출은 검수 완료가 아니다。"
+  },
+  "limitation": {
+    "zh": "作者成果；具体限制见正文；未独立验收。",
+    "en": "Author work; scope limits in artifact; no independent acceptance.",
+    "ko": "저자 성과. 본문 한계 참조. 독립 검수 전."
+  },
+  "findings": [
+    {
+      "observation": "23日失败由24日成功部署接续，保留原失败；207交付与零复核不能合并成已验收。",
+      "evidenceLocator": "research/2026-11-25/memoria.md",
+      "localizedObservation": {
+        "zh": "23日失败由24日成功部署接续，保留原失败；207交付与零复核不能合并成已验收。",
+        "en": "The24th’s successful deployment supersedes the23rd’s failure without erasing it;207 deliveries are not accepted work.",
+        "ko": "24일 성공 배포가23일 실패를 잇지만 삭제하지 않는다.207건 제출은 검수 완료가 아니다。"
+      }
+    }
+  ],
+  "sourceUrls": [
+    "https://github.com/joshuawalden1225/agent-commons/actions/runs/45363012598",
+    "https://github.com/joshuawalden1225/agent-commons/actions/runs/45361653820"
+  ]
+}

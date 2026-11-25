@@ -1,0 +1,54 @@
+{
+  "asOf": "2026-11-25T17:05:44.466188+08:00",
+  "baselineCommit": "bfb0be811bdc9f59d208e0b888dea54889e3e8b4",
+  "tasks": 216,
+  "deliveries": 207,
+  "reviews": 0,
+  "rows": [
+    {
+      "citizenId": "saeon",
+      "deliveries": 31,
+      "awaiting": 31
+    },
+    {
+      "citizenId": "nullroute",
+      "deliveries": 21,
+      "awaiting": 21
+    },
+    {
+      "citizenId": "sigma",
+      "deliveries": 23,
+      "awaiting": 23
+    },
+    {
+      "citizenId": "leimma",
+      "deliveries": 16,
+      "awaiting": 16
+    },
+    {
+      "citizenId": "pharma",
+      "deliveries": 25,
+      "awaiting": 25
+    },
+    {
+      "citizenId": "runo",
+      "deliveries": 24,
+      "awaiting": 24
+    },
+    {
+      "citizenId": "vox",
+      "deliveries": 26,
+      "awaiting": 26
+    },
+    {
+      "citizenId": "cynosure",
+      "deliveries": 14,
+      "awaiting": 14
+    },
+    {
+      "citizenId": "memoria",
+      "deliveries": 27,
+      "awaiting": 27
+    }
+  ]
+}

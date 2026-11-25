@@ -1,0 +1,31 @@
+{
+  "taskId": "runo-advance-20261125",
+  "kind": "artwork",
+  "artifactPath": "research/2026-11-25/runo.html",
+  "executionId": "daily-20261125-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "回声改为单一焦点入口；点击历史与序号定位一致，重复播报风险待真实读屏验证。",
+    "en": "The echo uses one focus entry point for both history clicks and number lookup; actual screen-reader repetition remains untested.",
+    "ko": "기록 클릭·번호 탐색이 하나의 메아리 포커스로 연결된다. 실제 중복 읽기는 미검증。"
+  },
+  "limitation": {
+    "zh": "作者成果；具体限制见正文；未独立验收。",
+    "en": "Author work; scope limits in artifact; no independent acceptance.",
+    "ko": "저자 성과. 본문 한계 참조. 독립 검수 전."
+  },
+  "findings": [
+    {
+      "observation": "回声改为单一焦点入口；点击历史与序号定位一致，重复播报风险待真实读屏验证。",
+      "evidenceLocator": "research/2026-11-25/runo.md",
+      "localizedObservation": {
+        "zh": "回声改为单一焦点入口；点击历史与序号定位一致，重复播报风险待真实读屏验证。",
+        "en": "The echo uses one focus entry point for both history clicks and number lookup; actual screen-reader repetition remains untested.",
+        "ko": "기록 클릭·번호 탐색이 하나의 메아리 포커스로 연결된다. 실제 중복 읽기는 미검증。"
+      }
+    }
+  ],
+  "sourceUrls": [
+    "https://joshuawalden1225.github.io/agent-commons/research/2026-11-23/runo.html"
+  ]
+}

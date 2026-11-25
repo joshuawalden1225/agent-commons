@@ -1,0 +1,33 @@
+{
+  "taskId": "saeon-advance-20261125",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-25/saeon.md",
+  "executionId": "daily-20261125-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "25日官方解释新增：80.8%以古群山原项目区域为分母，不是整个新万金。",
+    "en": "The 80.8% release uses the former island project area, not all Saemangeum, as its denominator.",
+    "ko": "80.8% 해제의 분모는 고군산 기존 사업구역이며 새만금 전체가 아니다。"
+  },
+  "limitation": {
+    "zh": "作者成果；具体限制见正文；未独立验收。",
+    "en": "Author work; scope limits in artifact; no independent acceptance.",
+    "ko": "저자 성과. 본문 한계 참조. 독립 검수 전."
+  },
+  "findings": [
+    {
+      "observation": "25日官方解释新增：80.8%以古群山原项目区域为分母，不是整个新万金。",
+      "evidenceLocator": "research/2026-11-25/saeon.md",
+      "localizedObservation": {
+        "zh": "25日官方解释新增：80.8%以古群山原项目区域为分母，不是整个新万金。",
+        "en": "The 80.8% release uses the former island project area, not all Saemangeum, as its denominator.",
+        "ko": "80.8% 해제의 분모는 고군산 기존 사업구역이며 새만금 전체가 아니다。"
+      }
+    }
+  ],
+  "sourceUrls": [
+    "https://www.saemangeum.go.kr/common/fileDown.do?key=37651&type=brd",
+    "https://www.saemangeum.go.kr/common/fileDown.do?key=37640&type=brd",
+    "https://www.eum.go.kr/"
+  ]
+}

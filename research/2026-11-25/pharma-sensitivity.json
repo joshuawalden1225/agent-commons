@@ -1,0 +1,222 @@
+{
+  "synthetic": true,
+  "assumptions": "N10000; every positive reviewed; each review5min; perfect appeals; rates0,.2,.5,1",
+  "rows": [
+    {
+      "prevalence": 0.01,
+      "model": "A",
+      "appealRate": 0,
+      "falseNegatives": 10,
+      "expectedAppeals": 0,
+      "unappealed": 10,
+      "reviewHours": 90.0
+    },
+    {
+      "prevalence": 0.01,
+      "model": "A",
+      "appealRate": 0.2,
+      "falseNegatives": 10,
+      "expectedAppeals": 2.0,
+      "unappealed": 8.0,
+      "reviewHours": 90.16666666666667
+    },
+    {
+      "prevalence": 0.01,
+      "model": "A",
+      "appealRate": 0.5,
+      "falseNegatives": 10,
+      "expectedAppeals": 5.0,
+      "unappealed": 5.0,
+      "reviewHours": 90.41666666666667
+    },
+    {
+      "prevalence": 0.01,
+      "model": "A",
+      "appealRate": 1,
+      "falseNegatives": 10,
+      "expectedAppeals": 10,
+      "unappealed": 0,
+      "reviewHours": 90.83333333333333
+    },
+    {
+      "prevalence": 0.01,
+      "model": "B",
+      "appealRate": 0,
+      "falseNegatives": 30,
+      "expectedAppeals": 0,
+      "unappealed": 30,
+      "reviewHours": 14.083333333333334
+    },
+    {
+      "prevalence": 0.01,
+      "model": "B",
+      "appealRate": 0.2,
+      "falseNegatives": 30,
+      "expectedAppeals": 6.0,
+      "unappealed": 24.0,
+      "reviewHours": 14.583333333333334
+    },
+    {
+      "prevalence": 0.01,
+      "model": "B",
+      "appealRate": 0.5,
+      "falseNegatives": 30,
+      "expectedAppeals": 15.0,
+      "unappealed": 15.0,
+      "reviewHours": 15.333333333333334
+    },
+    {
+      "prevalence": 0.01,
+      "model": "B",
+      "appealRate": 1,
+      "falseNegatives": 30,
+      "expectedAppeals": 30,
+      "unappealed": 0,
+      "reviewHours": 16.583333333333332
+    },
+    {
+      "prevalence": 0.1,
+      "model": "A",
+      "appealRate": 0,
+      "falseNegatives": 100,
+      "expectedAppeals": 0,
+      "unappealed": 100,
+      "reviewHours": 150.0
+    },
+    {
+      "prevalence": 0.1,
+      "model": "A",
+      "appealRate": 0.2,
+      "falseNegatives": 100,
+      "expectedAppeals": 20.0,
+      "unappealed": 80.0,
+      "reviewHours": 151.66666666666666
+    },
+    {
+      "prevalence": 0.1,
+      "model": "A",
+      "appealRate": 0.5,
+      "falseNegatives": 100,
+      "expectedAppeals": 50.0,
+      "unappealed": 50.0,
+      "reviewHours": 154.16666666666666
+    },
+    {
+      "prevalence": 0.1,
+      "model": "A",
+      "appealRate": 1,
+      "falseNegatives": 100,
+      "expectedAppeals": 100,
+      "unappealed": 0,
+      "reviewHours": 158.33333333333334
+    },
+    {
+      "prevalence": 0.1,
+      "model": "B",
+      "appealRate": 0,
+      "falseNegatives": 300,
+      "expectedAppeals": 0,
+      "unappealed": 300,
+      "reviewHours": 65.83333333333333
+    },
+    {
+      "prevalence": 0.1,
+      "model": "B",
+      "appealRate": 0.2,
+      "falseNegatives": 300,
+      "expectedAppeals": 60.0,
+      "unappealed": 240.0,
+      "reviewHours": 70.83333333333333
+    },
+    {
+      "prevalence": 0.1,
+      "model": "B",
+      "appealRate": 0.5,
+      "falseNegatives": 300,
+      "expectedAppeals": 150.0,
+      "unappealed": 150.0,
+      "reviewHours": 78.33333333333333
+    },
+    {
+      "prevalence": 0.1,
+      "model": "B",
+      "appealRate": 1,
+      "falseNegatives": 300,
+      "expectedAppeals": 300,
+      "unappealed": 0,
+      "reviewHours": 90.83333333333333
+    },
+    {
+      "prevalence": 0.5,
+      "model": "A",
+      "appealRate": 0,
+      "falseNegatives": 500,
+      "expectedAppeals": 0,
+      "unappealed": 500,
+      "reviewHours": 416.6666666666667
+    },
+    {
+      "prevalence": 0.5,
+      "model": "A",
+      "appealRate": 0.2,
+      "falseNegatives": 500,
+      "expectedAppeals": 100.0,
+      "unappealed": 400.0,
+      "reviewHours": 425.0
+    },
+    {
+      "prevalence": 0.5,
+      "model": "A",
+      "appealRate": 0.5,
+      "falseNegatives": 500,
+      "expectedAppeals": 250.0,
+      "unappealed": 250.0,
+      "reviewHours": 437.5
+    },
+    {
+      "prevalence": 0.5,
+      "model": "A",
+      "appealRate": 1,
+      "falseNegatives": 500,
+      "expectedAppeals": 500,
+      "unappealed": 0,
+      "reviewHours": 458.3333333333333
+    },
+    {
+      "prevalence": 0.5,
+      "model": "B",
+      "appealRate": 0,
+      "falseNegatives": 1500,
+      "expectedAppeals": 0,
+      "unappealed": 1500,
+      "reviewHours": 295.8333333333333
+    },
+    {
+      "prevalence": 0.5,
+      "model": "B",
+      "appealRate": 0.2,
+      "falseNegatives": 1500,
+      "expectedAppeals": 300.0,
+      "unappealed": 1200.0,
+      "reviewHours": 320.8333333333333
+    },
+    {
+      "prevalence": 0.5,
+      "model": "B",
+      "appealRate": 0.5,
+      "falseNegatives": 1500,
+      "expectedAppeals": 750.0,
+      "unappealed": 750.0,
+      "reviewHours": 358.3333333333333
+    },
+    {
+      "prevalence": 0.5,
+      "model": "B",
+      "appealRate": 1,
+      "falseNegatives": 1500,
+      "expectedAppeals": 1500,
+      "unappealed": 0,
+      "reviewHours": 420.8333333333333
+    }
+  ]
+}
