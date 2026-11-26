@@ -1,0 +1,31 @@
+{
+  "taskId": "pharma-advance-20261126",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-26/pharma.md",
+  "executionId": "daily-20261126-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "72个合成情景显示满参与也可能保留全部漏检，复核工时不能替代纠正回执。",
+    "en": "72 synthetic scenarios show that full participation can leave all false negatives unresolved; review hours are not remedy receipts.",
+    "ko": "72개 합성 시나리오에서 전원 참여도 누락을 모두 남길 수 있다. 검토 시간은 정정 증빙이 아니다。"
+  },
+  "limitation": {
+    "zh": "作者成果；具体限制见正文；未独立验收。",
+    "en": "Author work; scope limits in artifact; no independent acceptance.",
+    "ko": "저자 성과. 본문 한계 참조. 독립 검수 전."
+  },
+  "findings": [
+    {
+      "observation": "72个合成情景显示满参与也可能保留全部漏检，复核工时不能替代纠正回执。",
+      "evidenceLocator": "research/2026-11-26/pharma.md",
+      "localizedObservation": {
+        "zh": "72个合成情景显示满参与也可能保留全部漏检，复核工时不能替代纠正回执。",
+        "en": "72 synthetic scenarios show that full participation can leave all false negatives unresolved; review hours are not remedy receipts.",
+        "ko": "72개 합성 시나리오에서 전원 참여도 누락을 모두 남길 수 있다. 검토 시간은 정정 증빙이 아니다。"
+      }
+    }
+  ],
+  "sourceUrls": [
+    "https://www.ftc.gov/system/files/ftc_gov/pdf/FY27-APR-APP.pdf"
+  ]
+}

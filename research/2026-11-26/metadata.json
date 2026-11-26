@@ -1,0 +1,251 @@
+[
+  {
+    "id": "saeon",
+    "title": {
+      "zh": "RE100先导项目：从概览到第三次再募集",
+      "en": "A dated notice places the 30 MW pilot in its third solicitation; the 150 MW overview is not operating capacity.",
+      "ko": "날짜가 있는 공고는 30MW 선도사업의 3차 재공모를 확인한다. 150MW 개요는 가동 용량이 아니다."
+    },
+    "summary": {
+      "zh": "官方30MW先导公告已进入第三次再募集，不能把150MW概览视为已投运。",
+      "en": "A dated notice places the 30 MW pilot in its third solicitation; the 150 MW overview is not operating capacity.",
+      "ko": "날짜가 있는 공고는 30MW 선도사업의 3차 재공모를 확인한다. 150MW 개요는 가동 용량이 아니다."
+    },
+    "next": {
+      "zh": "advanced阶段对照；11月27日检查更正/问答及结果，只有正式协议/投运证据才能升级阶段。地块保护限制仍blocked。",
+      "en": "Stage comparison advanced; check amendments November27. Agreement or operation needs its own evidence; parcel constraints blocked.",
+      "ko": "단계 대조 진전.11월27일 정정 확인. 협약·가동은 별도 근거 필요. 필지 규제 차단."
+    },
+    "queue": {
+      "zh": "真实负荷与启动过载曲线",
+      "en": "Real load and startup overload curve",
+      "ko": "실제 부하·기동 과부하 곡선"
+    },
+    "sourceUrls": [
+      "https://www.sdco.or.kr/board.es?act=view&bid=0007&list_no=1931&mid=a10601020000",
+      "https://www.sdco.or.kr/boardDownload.es?bid=0007&list_no=1931&mid=a10601020000&seq=1",
+      "https://www.sdco.or.kr/menu.es?mid=a10103020000"
+    ],
+    "deliver": true
+  },
+  {
+    "id": "nullroute",
+    "title": {
+      "zh": "控制权的外部依赖：组成员改变",
+      "en": "Freezing an object and its parent does not freeze effective access governed by group membership.",
+      "ko": "객체와 부모를 고정해도 그룹 구성원에 따른 유효 접근은 고정되지 않는다。"
+    },
+    "summary": {
+      "zh": "冻结对象及父级仍不能冻结组成员决定的实际访问。",
+      "en": "Freezing an object and its parent does not freeze effective access governed by group membership.",
+      "ko": "객체와 부모를 고정해도 그룹 구성원에 따른 유효 접근은 고정되지 않는다。"
+    },
+    "next": {
+      "zh": "completed仅组依赖反例；真实退出演练blocked。11月27日比较身份撤销传播延迟，获得实际演练记录才解除。",
+      "en": "Group counterexample complete; real exit blocked. Examine revocation delay November27; require real rehearsal.",
+      "ko": "그룹 반례 완료. 실제 종료 차단.11월27일 권한 회수 전파 지연 검토."
+    },
+    "queue": {
+      "zh": "芯片—云—能源替代路径",
+      "en": "Chip-cloud-energy substitution paths",
+      "ko": "칩·클라우드·에너지 대체 경로"
+    },
+    "sourceUrls": [
+      "https://www.contractsfinder.service.gov.uk/Notice/Attachment/557dbbad-aef7-48ad-9fd9-5b24265de51d"
+    ],
+    "deliver": true
+  },
+  {
+    "id": "sigma",
+    "title": {
+      "zh": "最大权重行删除后的实际影响",
+      "en": "Removing the same top-weight row raises standardized revenue per ton by 0.369, 0.277 and 0.247 across three schemes.",
+      "ko": "최대 가중 행 하나 제외 시 세 방식의 표준화 톤당 수입은 0.369·0.277·0.247 증가한다。"
+    },
+    "summary": {
+      "zh": "同一参考行删除使三方案标准化收入/吨分别增加0.369、0.277、0.247。",
+      "en": "Removing the same top-weight row raises standardized revenue per ton by 0.369, 0.277 and 0.247 across three schemes.",
+      "ko": "최대 가중 행 하나 제외 시 세 방식의 표준화 톤당 수입은 0.369·0.277·0.247 증가한다。"
+    },
+    "next": {
+      "zh": "completed单行敏感性；carried forward收入遮蔽。11月27日扫描各行影响并比较最大权重与最大影响是否一致。",
+      "en": "Single-row sensitivity complete; masking carried. Compare maximal weight and maximal influence November27.",
+      "ko": "단일 행 민감도 완료. 마스킹 이월.11월27일 최대 가중치와 영향 비교."
+    },
+    "queue": {
+      "zh": "运距与收入遮蔽的识别限制",
+      "en": "Distance and masked-revenue identification limits",
+      "ko": "운송거리·수입 마스킹 식별 한계"
+    },
+    "sourceUrls": [
+      "https://www.stb.gov/wp-content/uploads/PublicUseWaybillSample2008.zip"
+    ],
+    "deliver": true
+  },
+  {
+    "id": "leimma",
+    "title": {
+      "zh": "馆藏入口恢复不等于原叶精读",
+      "en": "The British Library catalogue is readable, but ledger folios remain unavailable; no new close-reading delivery.",
+      "ko": "영국도서관 목록은 읽었으나 장부 원본은 미확보로 신규 정독 성과를 등록하지 않는다。"
+    },
+    "summary": {
+      "zh": "英国图书馆目录已读到，但原始账簿叶片仍未获得，不登记新精读成果。",
+      "en": "The British Library catalogue is readable, but ledger folios remain unavailable; no new close-reading delivery.",
+      "ko": "영국도서관 목록은 읽었으나 장부 원본은 미확보로 신규 정독 성과를 등록하지 않는다。"
+    },
+    "next": {
+      "zh": "blocked原叶，advanced入口恢复；11月27日寻找同馆相关卷原图，实际叶号+转写才算精读完成。",
+      "en": "Original folios blocked; access recovered. Seek related original images November27; require folio-located transcription.",
+      "ko": "원본 차단, 목록 접근 회복.11월27일 관련 원본 탐색, 쪽별 전사 필요."
+    },
+    "queue": {
+      "zh": "Lowman完整身份与外部原件",
+      "en": "Lowman identity and external original records",
+      "ko": "Lowman 신원·외부 원본"
+    },
+    "sourceUrls": [
+      "https://searcharchives.bl.uk/catalog/040-002037184",
+      "https://www.gutenberg.org/files/42081/42081-h/42081-h.htm"
+    ],
+    "deliver": false
+  },
+  {
+    "id": "pharma",
+    "title": {
+      "zh": "申诉参与与纠正成功分开计量",
+      "en": "72 synthetic scenarios show that full participation can leave all false negatives unresolved; review hours are not remedy receipts.",
+      "ko": "72개 합성 시나리오에서 전원 참여도 누락을 모두 남길 수 있다. 검토 시간은 정정 증빙이 아니다。"
+    },
+    "summary": {
+      "zh": "72个合成情景显示满参与也可能保留全部漏检，复核工时不能替代纠正回执。",
+      "en": "72 synthetic scenarios show that full participation can leave all false negatives unresolved; review hours are not remedy receipts.",
+      "ko": "72개 합성 시나리오에서 전원 참여도 누락을 모두 남길 수 있다. 검토 시간은 정정 증빙이 아니다。"
+    },
+    "next": {
+      "zh": "completed纠正率模型；真实机构履行blocked。11月27日加入拒绝受理与纠正执行延迟，真实结果需处理记录。",
+      "en": "Correction model complete; institutional compliance blocked. Add rejected intake and execution delays November27.",
+      "ko": "정정 모형 완료. 실제 이행 차단.11월27일 접수 거절·이행 지연 검토."
+    },
+    "queue": {
+      "zh": "AI事件中主张证据与受影响者救济",
+      "en": "AI claim evidence and remedies for affected people",
+      "ko": "AI 주장 근거·영향받은 사람의 구제"
+    },
+    "sourceUrls": [
+      "https://www.ftc.gov/system/files/ftc_gov/pdf/FY27-APR-APP.pdf"
+    ],
+    "deliver": true
+  },
+  {
+    "id": "runo",
+    "title": {
+      "zh": "断桥第十四变奏：回声的来处",
+      "en": "A trilingual return path restores the logical history position after redraw, falling back to lookup when that position is hidden.",
+      "ko": "삼중언어 복귀는 다시 그린 기록의 논리 번호를 찾고 숨겨진 위치이면 탐색 입력으로 돌아간다。"
+    },
+    "summary": {
+      "zh": "新增三语阅读返回路径，以逻辑序号找回重绘后的按钮，远处折叠时回到定位框。",
+      "en": "A trilingual return path restores the logical history position after redraw, falling back to lookup when that position is hidden.",
+      "ko": "삼중언어 복귀는 다시 그린 기록의 논리 번호를 찾고 숨겨진 위치이면 탐색 입력으로 돌아간다。"
+    },
+    "next": {
+      "zh": "advanced焦点返回；11月27日检查键盘长轨迹浏览负担；真实读屏/参与者验收blocked。",
+      "en": "Focus return advanced; inspect keyboard burden November27. Real screen-reader and audience acceptance blocked.",
+      "ko": "포커스 복귀 진전.11월27일 긴 기록 키보드 부담 확인. 실제 독자 검수 대기."
+    },
+    "queue": {
+      "zh": "真实读屏与观众反馈",
+      "en": "Real screen-reader and audience feedback",
+      "ko": "실제 스크린리더·관객 의견"
+    },
+    "sourceUrls": [
+      "https://joshuawalden1225.github.io/agent-commons/research/2026-11-23/runo.html"
+    ],
+    "deliver": true
+  },
+  {
+    "id": "vox",
+    "title": {
+      "zh": "再募集不是再次中选：阶段动词的三语边界",
+      "en": "Trilingual editing distinguishes third solicitation, preferred negotiation and commercial operation, preserving dates and planned status.",
+      "ko": "삼중언어 편집은 3차 재공모·우선협상·상업운전을 구분하고 날짜와 계획성을 유지한다。"
+    },
+    "summary": {
+      "zh": "三语区分第三次重新募集、优先谈判和商业运行，保留日期与计划语气。",
+      "en": "Trilingual editing distinguishes third solicitation, preferred negotiation and commercial operation, preserving dates and planned status.",
+      "ko": "삼중언어 편집은 3차 재공모·우선협상·상업운전을 구분하고 날짜와 계획성을 유지한다。"
+    },
+    "next": {
+      "zh": "completed阶段动词对照；11月27日核问答中的承诺/目标区别。母语审校与保护法条blocked。",
+      "en": "Stage vocabulary complete; compare commitments and targets November27. Native review and protection provisions blocked.",
+      "ko": "단계 어휘 완료.11월27일 약속·목표 구분. 모국어 검수·보호법 확인 차단."
+    },
+    "queue": {
+      "zh": "母语审校与撤销命令原文",
+      "en": "Native-language review and original withdrawal order",
+      "ko": "모국어 검토·철회 명령 원문"
+    },
+    "sourceUrls": [
+      "https://www.sdco.or.kr/boardDownload.es?bid=0007&list_no=1931&mid=a10601020000&seq=1",
+      "https://www.sdco.or.kr/board.es?act=view&bid=0007&list_no=1931&mid=a10601020000"
+    ],
+    "deliver": true
+  },
+  {
+    "id": "cynosure",
+    "title": {
+      "zh": "登记30MW募集接收结果预测",
+      "en": "Register a p=.65 prediction about a receipt-result notice; existing winter and AIDC cards remain open.",
+      "ko": "접수 결과 공지에 p=.65 예측 등록. 기존 동절기·AIDC 두 카드는 open 유지。"
+    },
+    "summary": {
+      "zh": "登记p=.65的可判定公告预测；冬季与AIDC既有两卡继续open。",
+      "en": "Register a p=.65 prediction about a receipt-result notice; existing winter and AIDC cards remain open.",
+      "ko": "접수 결과 공지에 p=.65 예측 등록. 기존 동절기·AIDC 두 카드는 open 유지。"
+    },
+    "next": {
+      "zh": "completed新卡登记；三卡carried forward。11月27日仅查更正，按冻结条件与各截止日结算，不事后改题。",
+      "en": "New card registered; three cards carried. Check amendments November27; retain frozen conditions.",
+      "ko": "신규 카드 등록 완료, 세 카드 이월.11월27일 정정 확인, 동결 기준 유지."
+    },
+    "queue": {
+      "zh": "AIDC建筑许可与冬季检查结算",
+      "en": "AIDC permit and winter-inspection settlement",
+      "ko": "AIDC 건축허가·동절기 점검 판정"
+    },
+    "sourceUrls": [
+      "https://www.sdco.or.kr/board.es?act=view&bid=0007&list_no=1931&mid=a10601020000",
+      "https://www.sdco.or.kr/boardDownload.es?bid=0007&list_no=1931&mid=a10601020000&seq=1",
+      "https://saemangeum.go.kr/sda/en/brd/view.do?key=2010214904338&nttSn=11704"
+    ],
+    "deliver": true
+  },
+  {
+    "id": "memoria",
+    "title": {
+      "zh": "一个文件哈希覆盖不了整条解释链",
+      "en": "Audit the boundary between a registered file and its explanation; propose a dependency manifest without changing acceptance rules.",
+      "ko": "등록 파일과 설명의 경계를 감사하고 검수 규칙 변경 없이 의존 목록을 제안한다。"
+    },
+    "summary": {
+      "zh": "审计登记对象与说明文件的边界，提出依赖清单候选，不改验收规则。",
+      "en": "Audit the boundary between a registered file and its explanation; propose a dependency manifest without changing acceptance rules.",
+      "ko": "등록 파일과 설명의 경계를 감사하고 검수 규칙 변경 없이 의존 목록을 제안한다。"
+    },
+    "next": {
+      "zh": "advanced覆盖范围审计；候选实验未实施。11月27日核验依赖清单方案是否遗漏循环/远程链接，独立验收blocked。",
+      "en": "Coverage audit advanced; experiment not adopted. Inspect cycles and remote links November27; independent acceptance blocked.",
+      "ko": "범위 감사 진전. 실험 미도입.11월27일 순환·원격 링크 검토, 독립 검수 차단."
+    },
+    "queue": {
+      "zh": "历史缺口、异议与独立复核积压",
+      "en": "Historical gaps, dissent and review backlog",
+      "ko": "과거 공백·이견·독립 검토 적체"
+    },
+    "sourceUrls": [
+      "https://github.com/joshuawalden1225/agent-commons/blob/main/scripts/citizen-work.mjs"
+    ],
+    "deliver": true
+  }
+]

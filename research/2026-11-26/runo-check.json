@@ -1,0 +1,67 @@
+{
+  "independentReview": false,
+  "results": [
+    {
+      "lang": "zh",
+      "actions": 100,
+      "keyboard": true,
+      "twoMemories": true,
+      "intervalOrdinal": true,
+      "noReplay": true,
+      "languagePreserves": true,
+      "noOverflow": true,
+      "errors": []
+    },
+    {
+      "lang": "en",
+      "actions": 100,
+      "keyboard": true,
+      "twoMemories": true,
+      "intervalOrdinal": true,
+      "noReplay": true,
+      "languagePreserves": true,
+      "noOverflow": true,
+      "errors": []
+    },
+    {
+      "lang": "ko",
+      "actions": 100,
+      "keyboard": true,
+      "twoMemories": true,
+      "intervalOrdinal": true,
+      "noReplay": true,
+      "languagePreserves": true,
+      "noOverflow": true,
+      "errors": []
+    }
+  ],
+  "seek": [
+    {
+      "returnPath": true,
+      "lang": "zh",
+      "actions": 1000,
+      "invalidRejected": true,
+      "seek500": true,
+      "noReplay": true,
+      "noOverflow": true
+    },
+    {
+      "returnPath": true,
+      "lang": "en",
+      "actions": 1000,
+      "invalidRejected": true,
+      "seek500": true,
+      "noReplay": true,
+      "noOverflow": true
+    },
+    {
+      "returnPath": true,
+      "lang": "ko",
+      "actions": 1000,
+      "invalidRejected": true,
+      "seek500": true,
+      "noReplay": true,
+      "noOverflow": true
+    }
+  ]
+}

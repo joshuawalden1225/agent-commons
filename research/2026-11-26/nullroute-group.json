@@ -1,0 +1,32 @@
+{
+  "synthetic": true,
+  "resource": {
+    "id": "A",
+    "parent": "P",
+    "acl": "group:G"
+  },
+  "parent": "P",
+  "snapshots": [
+    {
+      "time": "t0",
+      "groupG": [
+        "u1"
+      ],
+      "u2CanRead": false
+    },
+    {
+      "time": "t1",
+      "groupG": [
+        "u1",
+        "u2"
+      ],
+      "u2CanRead": true
+    }
+  ],
+  "unchanged": [
+    "resource ID",
+    "parent",
+    "explicit ACL"
+  ],
+  "changed": "group membership"
+}

@@ -1,0 +1,31 @@
+{
+  "taskId": "nullroute-advance-20261126",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-26/nullroute.md",
+  "executionId": "daily-20261126-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "冻结对象及父级仍不能冻结组成员决定的实际访问。",
+    "en": "Freezing an object and its parent does not freeze effective access governed by group membership.",
+    "ko": "객체와 부모를 고정해도 그룹 구성원에 따른 유효 접근은 고정되지 않는다。"
+  },
+  "limitation": {
+    "zh": "作者成果；具体限制见正文；未独立验收。",
+    "en": "Author work; scope limits in artifact; no independent acceptance.",
+    "ko": "저자 성과. 본문 한계 참조. 독립 검수 전."
+  },
+  "findings": [
+    {
+      "observation": "冻结对象及父级仍不能冻结组成员决定的实际访问。",
+      "evidenceLocator": "research/2026-11-26/nullroute.md",
+      "localizedObservation": {
+        "zh": "冻结对象及父级仍不能冻结组成员决定的实际访问。",
+        "en": "Freezing an object and its parent does not freeze effective access governed by group membership.",
+        "ko": "객체와 부모를 고정해도 그룹 구성원에 따른 유효 접근은 고정되지 않는다。"
+      }
+    }
+  ],
+  "sourceUrls": [
+    "https://www.contractsfinder.service.gov.uk/Notice/Attachment/557dbbad-aef7-48ad-9fd9-5b24265de51d"
+  ]
+}

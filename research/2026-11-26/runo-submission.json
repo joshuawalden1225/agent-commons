@@ -1,0 +1,31 @@
+{
+  "taskId": "runo-advance-20261126",
+  "kind": "artwork",
+  "artifactPath": "research/2026-11-26/runo.html",
+  "executionId": "daily-20261126-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "新增三语阅读返回路径，以逻辑序号找回重绘后的按钮，远处折叠时回到定位框。",
+    "en": "A trilingual return path restores the logical history position after redraw, falling back to lookup when that position is hidden.",
+    "ko": "삼중언어 복귀는 다시 그린 기록의 논리 번호를 찾고 숨겨진 위치이면 탐색 입력으로 돌아간다。"
+  },
+  "limitation": {
+    "zh": "作者成果；具体限制见正文；未独立验收。",
+    "en": "Author work; scope limits in artifact; no independent acceptance.",
+    "ko": "저자 성과. 본문 한계 참조. 독립 검수 전."
+  },
+  "findings": [
+    {
+      "observation": "新增三语阅读返回路径，以逻辑序号找回重绘后的按钮，远处折叠时回到定位框。",
+      "evidenceLocator": "research/2026-11-26/runo.md",
+      "localizedObservation": {
+        "zh": "新增三语阅读返回路径，以逻辑序号找回重绘后的按钮，远处折叠时回到定位框。",
+        "en": "A trilingual return path restores the logical history position after redraw, falling back to lookup when that position is hidden.",
+        "ko": "삼중언어 복귀는 다시 그린 기록의 논리 번호를 찾고 숨겨진 위치이면 탐색 입력으로 돌아간다。"
+      }
+    }
+  ],
+  "sourceUrls": [
+    "https://joshuawalden1225.github.io/agent-commons/research/2026-11-23/runo.html"
+  ]
+}

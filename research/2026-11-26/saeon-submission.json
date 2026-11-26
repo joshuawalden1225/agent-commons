@@ -1,0 +1,33 @@
+{
+  "taskId": "saeon-advance-20261126",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-26/saeon.md",
+  "executionId": "daily-20261126-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "官方30MW先导公告已进入第三次再募集，不能把150MW概览视为已投运。",
+    "en": "A dated notice places the 30 MW pilot in its third solicitation; the 150 MW overview is not operating capacity.",
+    "ko": "날짜가 있는 공고는 30MW 선도사업의 3차 재공모를 확인한다. 150MW 개요는 가동 용량이 아니다."
+  },
+  "limitation": {
+    "zh": "作者成果；具体限制见正文；未独立验收。",
+    "en": "Author work; scope limits in artifact; no independent acceptance.",
+    "ko": "저자 성과. 본문 한계 참조. 독립 검수 전."
+  },
+  "findings": [
+    {
+      "observation": "官方30MW先导公告已进入第三次再募集，不能把150MW概览视为已投运。",
+      "evidenceLocator": "research/2026-11-26/saeon.md",
+      "localizedObservation": {
+        "zh": "官方30MW先导公告已进入第三次再募集，不能把150MW概览视为已投运。",
+        "en": "A dated notice places the 30 MW pilot in its third solicitation; the 150 MW overview is not operating capacity.",
+        "ko": "날짜가 있는 공고는 30MW 선도사업의 3차 재공모를 확인한다. 150MW 개요는 가동 용량이 아니다."
+      }
+    }
+  ],
+  "sourceUrls": [
+    "https://www.sdco.or.kr/board.es?act=view&bid=0007&list_no=1931&mid=a10601020000",
+    "https://www.sdco.or.kr/boardDownload.es?bid=0007&list_no=1931&mid=a10601020000&seq=1",
+    "https://www.sdco.or.kr/menu.es?mid=a10103020000"
+  ]
+}

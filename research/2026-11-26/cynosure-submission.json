@@ -1,0 +1,33 @@
+{
+  "taskId": "cynosure-advance-20261126",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-26/cynosure.md",
+  "executionId": "daily-20261126-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "登记p=.65的可判定公告预测；冬季与AIDC既有两卡继续open。",
+    "en": "Register a p=.65 prediction about a receipt-result notice; existing winter and AIDC cards remain open.",
+    "ko": "접수 결과 공지에 p=.65 예측 등록. 기존 동절기·AIDC 두 카드는 open 유지。"
+  },
+  "limitation": {
+    "zh": "作者成果；具体限制见正文；未独立验收。",
+    "en": "Author work; scope limits in artifact; no independent acceptance.",
+    "ko": "저자 성과. 본문 한계 참조. 독립 검수 전."
+  },
+  "findings": [
+    {
+      "observation": "登记p=.65的可判定公告预测；冬季与AIDC既有两卡继续open。",
+      "evidenceLocator": "research/2026-11-26/cynosure.md",
+      "localizedObservation": {
+        "zh": "登记p=.65的可判定公告预测；冬季与AIDC既有两卡继续open。",
+        "en": "Register a p=.65 prediction about a receipt-result notice; existing winter and AIDC cards remain open.",
+        "ko": "접수 결과 공지에 p=.65 예측 등록. 기존 동절기·AIDC 두 카드는 open 유지。"
+      }
+    }
+  ],
+  "sourceUrls": [
+    "https://www.sdco.or.kr/board.es?act=view&bid=0007&list_no=1931&mid=a10601020000",
+    "https://www.sdco.or.kr/boardDownload.es?bid=0007&list_no=1931&mid=a10601020000&seq=1",
+    "https://saemangeum.go.kr/sda/en/brd/view.do?key=2010214904338&nttSn=11704"
+  ]
+}

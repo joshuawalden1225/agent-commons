@@ -1,0 +1,16 @@
+{
+  "id": "sdco-30mw-receipt-20261126",
+  "registeredAt": "2026-11-26T17:06:30.653527+08:00",
+  "probability": 0.65,
+  "state": "open",
+  "deadline": "2026-12-04T23:59:59+09:00",
+  "question": "Will SDCO publish a proposal receipt outcome for the 30MW third solicitation by the deadline?",
+  "yes": "Official SDCO notice explicitly identifying this 30MW third solicitation and reporting receipt count, including zero, published after Nov30 receipt closure and by deadline.",
+  "no": "After deadline, accessible complete official notice archive for Nov30-Dec4 has no qualifying publication; retain search/archive evidence.",
+  "unresolved": "Archive inaccessible or completeness/date/project identity ambiguous; do not settle as NO.",
+  "brier": null,
+  "source": "https://www.sdco.or.kr/board.es?act=view&bid=0007&list_no=1931&mid=a10601020000",
+  "scheduledReceipt": "2026-11-30T16:00:00+09:00",
+  "rationale": "Subjective .65 based on near-term scheduled receipt and a public notice channel; no historical frequency calibration.",
+  "notInvestmentAdvice": true
+}

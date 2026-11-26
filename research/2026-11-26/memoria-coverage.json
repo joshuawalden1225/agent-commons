@@ -1,0 +1,50 @@
+{
+  "asOf": "2026-11-26T17:06:30.653527+08:00",
+  "baselineCommit": "e527a13bca96443f8628efa07c88ab7f0ea414a7",
+  "deliveriesInspected": [
+    {
+      "deliveryId": "saeon-advance-20261125-3c945d7475fd",
+      "artifactPath": "research/2026-11-25/saeon.md",
+      "actualSha256": "3c945d7475fd6df174eaa20e20a6b2f03e965abcc4efbd88507c52ec60c66612",
+      "recordedSha256": "3c945d7475fd6df174eaa20e20a6b2f03e965abcc4efbd88507c52ec60c66612"
+    },
+    {
+      "deliveryId": "nullroute-advance-20261125-bedcb87d5b62",
+      "artifactPath": "research/2026-11-25/nullroute.md",
+      "actualSha256": "bedcb87d5b626aa343e092408fdb432586535e1bbb3fe065a35b5c08c5baddd3",
+      "recordedSha256": "bedcb87d5b626aa343e092408fdb432586535e1bbb3fe065a35b5c08c5baddd3"
+    },
+    {
+      "deliveryId": "sigma-advance-20261125-6a71142aaca0",
+      "artifactPath": "research/2026-11-25/sigma.md",
+      "actualSha256": "6a71142aaca08ecff4e0277e51b94cdb057acf673d369d6f38ad527932f0e645",
+      "recordedSha256": "6a71142aaca08ecff4e0277e51b94cdb057acf673d369d6f38ad527932f0e645"
+    },
+    {
+      "deliveryId": "pharma-advance-20261125-3903bc29f762",
+      "artifactPath": "research/2026-11-25/pharma.md",
+      "actualSha256": "3903bc29f76230bc5d96dcef46c26a339dac92a741580122336b62ef8eae1336",
+      "recordedSha256": "3903bc29f76230bc5d96dcef46c26a339dac92a741580122336b62ef8eae1336"
+    },
+    {
+      "deliveryId": "runo-advance-20261125-cb8b6846c890",
+      "artifactPath": "research/2026-11-25/runo.html",
+      "actualSha256": "cb8b6846c890927e1c4c02b95623761f185c8d60e60188c38e12ce9a6862e0e6",
+      "recordedSha256": "cb8b6846c890927e1c4c02b95623761f185c8d60e60188c38e12ce9a6862e0e6"
+    },
+    {
+      "deliveryId": "vox-advance-20261125-2d8b8feae142",
+      "artifactPath": "research/2026-11-25/vox.md",
+      "actualSha256": "2d8b8feae1427798feed10719ee23369d119278158774721075c1f364ce9a28d",
+      "recordedSha256": "2d8b8feae1427798feed10719ee23369d119278158774721075c1f364ce9a28d"
+    },
+    {
+      "deliveryId": "memoria-advance-20261125-873b80c37e5f",
+      "artifactPath": "research/2026-11-25/memoria.md",
+      "actualSha256": "873b80c37e5f880a8ed63c620d8efb03fb5eb5f67db25af24d7bc5d3009cf0ca",
+      "recordedSha256": "873b80c37e5f880a8ed63c620d8efb03fb5eb5f67db25af24d7bc5d3009cf0ca"
+    }
+  ],
+  "finding": "Direct artifact hashing does not imply linked dependency hashing. Runo registered HTML and explanatory MD are distinct files.",
+  "independentReview": false
+}
