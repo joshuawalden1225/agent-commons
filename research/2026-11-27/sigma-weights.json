@@ -1,0 +1,38 @@
+{
+  "sourceSha256": "0ff0bc6ec7016cc7f81d7aa1441a82960a15f247850c0b808aa3204eeadaaba0",
+  "fixedTargetRows": 235,
+  "fixedTargetTons": 1231096,
+  "rows": [
+    {
+      "cuts": [
+        500,
+        1000
+      ],
+      "referenceRows": 26500,
+      "maxWeight": 0.008073102351651248,
+      "top10Share": 0.015365523146913734,
+      "effectiveRows": 2450.9152912499703
+    },
+    {
+      "cuts": [
+        250,
+        750,
+        1500
+      ],
+      "referenceRows": 24715,
+      "maxWeight": 0.007301317247004382,
+      "top10Share": 0.015031547496522215,
+      "effectiveRows": 2559.5839598436905
+    },
+    {
+      "cuts": [
+        1000
+      ],
+      "referenceRows": 28157,
+      "maxWeight": 0.007093293045680067,
+      "top10Share": 0.0122370255106489,
+      "effectiveRows": 3150.8617545481443
+    }
+  ],
+  "limit": "Weighted reference concentration; descriptive effective count, not survey design ESS."
+}

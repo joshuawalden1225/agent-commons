@@ -1,0 +1,258 @@
+{
+  "synthetic": true,
+  "assumptions": "FN30, participation .5, correction success .8 conditional on intake; all accepted cases share stated delay; no further cycles; expected counts may be fractional.",
+  "rows": [
+    {
+      "rejection": 0,
+      "delayDays": 0,
+      "observationDay": 0,
+      "corrected": 12.0,
+      "unresolved": 18.0
+    },
+    {
+      "rejection": 0,
+      "delayDays": 0,
+      "observationDay": 7,
+      "corrected": 12.0,
+      "unresolved": 18.0
+    },
+    {
+      "rejection": 0,
+      "delayDays": 0,
+      "observationDay": 14,
+      "corrected": 12.0,
+      "unresolved": 18.0
+    },
+    {
+      "rejection": 0,
+      "delayDays": 0,
+      "observationDay": 30,
+      "corrected": 12.0,
+      "unresolved": 18.0
+    },
+    {
+      "rejection": 0,
+      "delayDays": 7,
+      "observationDay": 0,
+      "corrected": 0.0,
+      "unresolved": 30.0
+    },
+    {
+      "rejection": 0,
+      "delayDays": 7,
+      "observationDay": 7,
+      "corrected": 12.0,
+      "unresolved": 18.0
+    },
+    {
+      "rejection": 0,
+      "delayDays": 7,
+      "observationDay": 14,
+      "corrected": 12.0,
+      "unresolved": 18.0
+    },
+    {
+      "rejection": 0,
+      "delayDays": 7,
+      "observationDay": 30,
+      "corrected": 12.0,
+      "unresolved": 18.0
+    },
+    {
+      "rejection": 0,
+      "delayDays": 30,
+      "observationDay": 0,
+      "corrected": 0.0,
+      "unresolved": 30.0
+    },
+    {
+      "rejection": 0,
+      "delayDays": 30,
+      "observationDay": 7,
+      "corrected": 0.0,
+      "unresolved": 30.0
+    },
+    {
+      "rejection": 0,
+      "delayDays": 30,
+      "observationDay": 14,
+      "corrected": 0.0,
+      "unresolved": 30.0
+    },
+    {
+      "rejection": 0,
+      "delayDays": 30,
+      "observationDay": 30,
+      "corrected": 12.0,
+      "unresolved": 18.0
+    },
+    {
+      "rejection": 0.25,
+      "delayDays": 0,
+      "observationDay": 0,
+      "corrected": 9.0,
+      "unresolved": 21.0
+    },
+    {
+      "rejection": 0.25,
+      "delayDays": 0,
+      "observationDay": 7,
+      "corrected": 9.0,
+      "unresolved": 21.0
+    },
+    {
+      "rejection": 0.25,
+      "delayDays": 0,
+      "observationDay": 14,
+      "corrected": 9.0,
+      "unresolved": 21.0
+    },
+    {
+      "rejection": 0.25,
+      "delayDays": 0,
+      "observationDay": 30,
+      "corrected": 9.0,
+      "unresolved": 21.0
+    },
+    {
+      "rejection": 0.25,
+      "delayDays": 7,
+      "observationDay": 0,
+      "corrected": 0.0,
+      "unresolved": 30.0
+    },
+    {
+      "rejection": 0.25,
+      "delayDays": 7,
+      "observationDay": 7,
+      "corrected": 9.0,
+      "unresolved": 21.0
+    },
+    {
+      "rejection": 0.25,
+      "delayDays": 7,
+      "observationDay": 14,
+      "corrected": 9.0,
+      "unresolved": 21.0
+    },
+    {
+      "rejection": 0.25,
+      "delayDays": 7,
+      "observationDay": 30,
+      "corrected": 9.0,
+      "unresolved": 21.0
+    },
+    {
+      "rejection": 0.25,
+      "delayDays": 30,
+      "observationDay": 0,
+      "corrected": 0.0,
+      "unresolved": 30.0
+    },
+    {
+      "rejection": 0.25,
+      "delayDays": 30,
+      "observationDay": 7,
+      "corrected": 0.0,
+      "unresolved": 30.0
+    },
+    {
+      "rejection": 0.25,
+      "delayDays": 30,
+      "observationDay": 14,
+      "corrected": 0.0,
+      "unresolved": 30.0
+    },
+    {
+      "rejection": 0.25,
+      "delayDays": 30,
+      "observationDay": 30,
+      "corrected": 9.0,
+      "unresolved": 21.0
+    },
+    {
+      "rejection": 0.5,
+      "delayDays": 0,
+      "observationDay": 0,
+      "corrected": 6.0,
+      "unresolved": 24.0
+    },
+    {
+      "rejection": 0.5,
+      "delayDays": 0,
+      "observationDay": 7,
+      "corrected": 6.0,
+      "unresolved": 24.0
+    },
+    {
+      "rejection": 0.5,
+      "delayDays": 0,
+      "observationDay": 14,
+      "corrected": 6.0,
+      "unresolved": 24.0
+    },
+    {
+      "rejection": 0.5,
+      "delayDays": 0,
+      "observationDay": 30,
+      "corrected": 6.0,
+      "unresolved": 24.0
+    },
+    {
+      "rejection": 0.5,
+      "delayDays": 7,
+      "observationDay": 0,
+      "corrected": 0.0,
+      "unresolved": 30.0
+    },
+    {
+      "rejection": 0.5,
+      "delayDays": 7,
+      "observationDay": 7,
+      "corrected": 6.0,
+      "unresolved": 24.0
+    },
+    {
+      "rejection": 0.5,
+      "delayDays": 7,
+      "observationDay": 14,
+      "corrected": 6.0,
+      "unresolved": 24.0
+    },
+    {
+      "rejection": 0.5,
+      "delayDays": 7,
+      "observationDay": 30,
+      "corrected": 6.0,
+      "unresolved": 24.0
+    },
+    {
+      "rejection": 0.5,
+      "delayDays": 30,
+      "observationDay": 0,
+      "corrected": 0.0,
+      "unresolved": 30.0
+    },
+    {
+      "rejection": 0.5,
+      "delayDays": 30,
+      "observationDay": 7,
+      "corrected": 0.0,
+      "unresolved": 30.0
+    },
+    {
+      "rejection": 0.5,
+      "delayDays": 30,
+      "observationDay": 14,
+      "corrected": 0.0,
+      "unresolved": 30.0
+    },
+    {
+      "rejection": 0.5,
+      "delayDays": 30,
+      "observationDay": 30,
+      "corrected": 6.0,
+      "unresolved": 24.0
+    }
+  ]
+}

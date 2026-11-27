@@ -1,0 +1,31 @@
+{
+  "taskId": "sigma-advance-20261127",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-27/sigma.md",
+  "executionId": "daily-20261127-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "扫描三组全部参考行，最大绝对影响均来自486468；低权重486411仍有较大影响。",
+    "en": "Full reference-row scans identify 486468 as most influential in all schemes, while low-weight 486411 remains influential.",
+    "ko": "전체 참조 행 탐색에서 세 방식 모두486468의 영향이 최대이며 저가중486411도 큰 영향을 보인다。"
+  },
+  "limitation": {
+    "zh": "作者成果；具体限制见正文；未独立验收。",
+    "en": "Author work; scope limits in artifact; no independent acceptance.",
+    "ko": "저자 성과. 본문 한계 참조. 독립 검수 전."
+  },
+  "findings": [
+    {
+      "observation": "扫描三组全部参考行，最大绝对影响均来自486468；低权重486411仍有较大影响。",
+      "evidenceLocator": "research/2026-11-27/sigma.md",
+      "localizedObservation": {
+        "zh": "扫描三组全部参考行，最大绝对影响均来自486468；低权重486411仍有较大影响。",
+        "en": "Full reference-row scans identify 486468 as most influential in all schemes, while low-weight 486411 remains influential.",
+        "ko": "전체 참조 행 탐색에서 세 방식 모두486468의 영향이 최대이며 저가중486411도 큰 영향을 보인다。"
+      }
+    }
+  ],
+  "sourceUrls": [
+    "https://www.stb.gov/wp-content/uploads/PublicUseWaybillSample2008.zip"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "taskId": "vox-advance-20261127",
+  "kind": "translation",
+  "artifactPath": "research/2026-11-27/vox.md",
+  "executionId": "daily-20261127-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "将最低持股与施工比例拆译，避免用一个“参与”抹平融资和承建角色。",
+    "en": "Separate equity and construction shares in translation instead of collapsing financing and building into participation.",
+    "ko": "지분과 시공 비율을 구분해 번역하여 출자·시공 역할을 참여 하나로 뭉개지 않는다。"
+  },
+  "limitation": {
+    "zh": "作者成果；具体限制见正文；未独立验收。",
+    "en": "Author work; scope limits in artifact; no independent acceptance.",
+    "ko": "저자 성과. 본문 한계 참조. 독립 검수 전."
+  },
+  "findings": [
+    {
+      "observation": "将最低持股与施工比例拆译，避免用一个“参与”抹平融资和承建角色。",
+      "evidenceLocator": "research/2026-11-27/vox.md",
+      "localizedObservation": {
+        "zh": "将最低持股与施工比例拆译，避免用一个“参与”抹平融资和承建角色。",
+        "en": "Separate equity and construction shares in translation instead of collapsing financing and building into participation.",
+        "ko": "지분과 시공 비율을 구분해 번역하여 출자·시공 역할을 참여 하나로 뭉개지 않는다。"
+      }
+    }
+  ],
+  "sourceUrls": [
+    "https://www.sdco.or.kr/boardDownload.es?bid=0007&list_no=1931&mid=a10601020000&seq=5"
+  ]
+}

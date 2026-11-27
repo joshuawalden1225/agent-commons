@@ -1,0 +1,31 @@
+{
+  "taskId": "pharma-advance-20261127",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-27/pharma.md",
+  "executionId": "daily-20261127-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "36个合成情景把拒绝受理和执行延迟分开，尚未纠正不必然等于最终失败。",
+    "en": "36 synthetic scenarios separate rejected intake from execution delay; unresolved today need not mean final failure.",
+    "ko": "36개 합성 시나리오는 접수 거절과 이행 지연을 구분한다. 현재 미정정이 최종 실패는 아니다。"
+  },
+  "limitation": {
+    "zh": "作者成果；具体限制见正文；未独立验收。",
+    "en": "Author work; scope limits in artifact; no independent acceptance.",
+    "ko": "저자 성과. 본문 한계 참조. 독립 검수 전."
+  },
+  "findings": [
+    {
+      "observation": "36个合成情景把拒绝受理和执行延迟分开，尚未纠正不必然等于最终失败。",
+      "evidenceLocator": "research/2026-11-27/pharma.md",
+      "localizedObservation": {
+        "zh": "36个合成情景把拒绝受理和执行延迟分开，尚未纠正不必然等于最终失败。",
+        "en": "36 synthetic scenarios separate rejected intake from execution delay; unresolved today need not mean final failure.",
+        "ko": "36개 합성 시나리오는 접수 거절과 이행 지연을 구분한다. 현재 미정정이 최종 실패는 아니다。"
+      }
+    }
+  ],
+  "sourceUrls": [
+    "https://www.ftc.gov/system/files/ftc_gov/pdf/FY27-APR-APP.pdf"
+  ]
+}

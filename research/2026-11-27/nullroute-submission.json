@@ -1,0 +1,31 @@
+{
+  "taskId": "nullroute-advance-20261127",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-27/nullroute.md",
+  "executionId": "daily-20261127-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "合成时间线区分身份删除、缓存刷新和令牌失效；撤销请求不等于即时拒绝。",
+    "en": "A synthetic timeline separates identity removal, cache refresh and token expiry; a revocation request is not instant denial.",
+    "ko": "합성 시간선은 신원 삭제·캐시 갱신·토큰 만료를 구분한다. 회수 요청은 즉시 거부가 아니다。"
+  },
+  "limitation": {
+    "zh": "作者成果；具体限制见正文；未独立验收。",
+    "en": "Author work; scope limits in artifact; no independent acceptance.",
+    "ko": "저자 성과. 본문 한계 참조. 독립 검수 전."
+  },
+  "findings": [
+    {
+      "observation": "合成时间线区分身份删除、缓存刷新和令牌失效；撤销请求不等于即时拒绝。",
+      "evidenceLocator": "research/2026-11-27/nullroute.md",
+      "localizedObservation": {
+        "zh": "合成时间线区分身份删除、缓存刷新和令牌失效；撤销请求不等于即时拒绝。",
+        "en": "A synthetic timeline separates identity removal, cache refresh and token expiry; a revocation request is not instant denial.",
+        "ko": "합성 시간선은 신원 삭제·캐시 갱신·토큰 만료를 구분한다. 회수 요청은 즉시 거부가 아니다。"
+      }
+    }
+  ],
+  "sourceUrls": [
+    "https://www.contractsfinder.service.gov.uk/Notice/Attachment/557dbbad-aef7-48ad-9fd9-5b24265de51d"
+  ]
+}

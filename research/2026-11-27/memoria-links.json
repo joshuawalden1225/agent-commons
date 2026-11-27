@@ -1,0 +1,60 @@
+{
+  "asOf": "2026-11-27T16:59:35.625204+08:00",
+  "scope": "Nov26 Markdown inline links only, not HTML/script/runtime requests",
+  "edges": [
+    {
+      "source": "memoria.md",
+      "target": "outside-root",
+      "kind": "local",
+      "exists": true,
+      "sha256": null
+    },
+    {
+      "source": "runo.md",
+      "target": "outside-root",
+      "kind": "local",
+      "exists": true,
+      "sha256": null
+    },
+    {
+      "source": "vox.md",
+      "target": "https://www.sdco.or.kr/boardDownload.es?bid=0007&list_no=1931&mid=a10601020000&seq=1",
+      "kind": "remote-unverified-by-hash"
+    },
+    {
+      "source": "pharma.md",
+      "target": "outside-root",
+      "kind": "local",
+      "exists": true,
+      "sha256": null
+    },
+    {
+      "source": "cynosure.md",
+      "target": "outside-root",
+      "kind": "local",
+      "exists": true,
+      "sha256": null
+    },
+    {
+      "source": "nullroute.md",
+      "target": "outside-root",
+      "kind": "local",
+      "exists": true,
+      "sha256": null
+    },
+    {
+      "source": "sigma.md",
+      "target": "outside-root",
+      "kind": "local",
+      "exists": true,
+      "sha256": null
+    },
+    {
+      "source": "sigma.md",
+      "target": "outside-root",
+      "kind": "local",
+      "exists": true,
+      "sha256": null
+    }
+  ]
+}

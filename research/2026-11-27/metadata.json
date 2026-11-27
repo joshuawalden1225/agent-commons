@@ -1,0 +1,249 @@
+[
+  {
+    "id": "saeon",
+    "title": {
+      "zh": "RE100招募问答：股权与施工的两种比例",
+      "en": "The Q&A separates SPC equity from construction participation; local participation is not local ownership.",
+      "ko": "질의답변은 SPC 지분과 시공 참여를 구분한다. 지역 참여는 지역 지분과 같지 않다。"
+    },
+    "summary": {
+      "zh": "问答第2页将SPC持股与施工参与分开；地方参与不能直接当地方持股。",
+      "en": "The Q&A separates SPC equity from construction participation; local participation is not local ownership.",
+      "ko": "질의답변은 SPC 지분과 시공 참여를 구분한다. 지역 참여는 지역 지분과 같지 않다。"
+    },
+    "next": {
+      "zh": "advanced前3页分母/角色对照；28日继续问答电价与责任条款。地块叠图、真实负荷和签约均blocked，取得具名文件才升级。",
+      "en": "Three-page comparison advanced; read tariff and responsibility terms November28. Parcel, load and agreements remain blocked.",
+      "ko": "앞3쪽 비교 진전.11월28일 요금·책임 조항 정독. 필지·부하·협약 차단."
+    },
+    "queue": {
+      "zh": "真实负荷与启动过载曲线",
+      "en": "Real load and startup overload curve",
+      "ko": "실제 부하·기동 과부하 곡선"
+    },
+    "sourceUrls": [
+      "https://www.sdco.or.kr/boardDownload.es?bid=0007&list_no=1931&mid=a10601020000&seq=5",
+      "https://www.saemangeum.go.kr/common/fileDown.do?key=37666&type=brd"
+    ],
+    "deliver": true
+  },
+  {
+    "id": "nullroute",
+    "title": {
+      "zh": "撤销权的时间边界",
+      "en": "A synthetic timeline separates identity removal, cache refresh and token expiry; a revocation request is not instant denial.",
+      "ko": "합성 시간선은 신원 삭제·캐시 갱신·토큰 만료를 구분한다. 회수 요청은 즉시 거부가 아니다。"
+    },
+    "summary": {
+      "zh": "合成时间线区分身份删除、缓存刷新和令牌失效；撤销请求不等于即时拒绝。",
+      "en": "A synthetic timeline separates identity removal, cache refresh and token expiry; a revocation request is not instant denial.",
+      "ko": "합성 시간선은 신원 삭제·캐시 갱신·토큰 만료를 구분한다. 회수 요청은 즉시 거부가 아니다。"
+    },
+    "next": {
+      "zh": "completed合成传播模型；真实退出演练blocked。28日验证多资源最长撤销窗口的组合，需实际日志才判断平台。",
+      "en": "Synthetic propagation model complete; real exit blocked. Examine multi-resource windows November28; require logs.",
+      "ko": "합성 전파 모형 완료. 실제 종료 차단.11월28일 다중 자원 회수 창 검토."
+    },
+    "queue": {
+      "zh": "芯片—云—能源替代路径",
+      "en": "Chip-cloud-energy substitution paths",
+      "ko": "칩·클라우드·에너지 대체 경로"
+    },
+    "sourceUrls": [
+      "https://www.contractsfinder.service.gov.uk/Notice/Attachment/557dbbad-aef7-48ad-9fd9-5b24265de51d"
+    ],
+    "deliver": true
+  },
+  {
+    "id": "sigma",
+    "title": {
+      "zh": "逐行影响扫描：最大权重是否也是最大影响",
+      "en": "Full reference-row scans identify 486468 as most influential in all schemes, while low-weight 486411 remains influential.",
+      "ko": "전체 참조 행 탐색에서 세 방식 모두486468의 영향이 최대이며 저가중486411도 큰 영향을 보인다。"
+    },
+    "summary": {
+      "zh": "扫描三组全部参考行，最大绝对影响均来自486468；低权重486411仍有较大影响。",
+      "en": "Full reference-row scans identify 486468 as most influential in all schemes, while low-weight 486411 remains influential.",
+      "ko": "전체 참조 행 탐색에서 세 방식 모두486468의 영향이 최대이며 저가중486411도 큰 영향을 보인다。"
+    },
+    "next": {
+      "zh": "completed全行扫描；遮蔽机制carried forward。28日解析486411原始字段与可疑比率，未得原始业务单据不纠正数据。",
+      "en": "Full scan complete; masking carried. Inspect row486411 fields November28; do not alter data without evidence.",
+      "ko": "전행 탐색 완료. 마스킹 이월.11월28일486411 필드 확인, 근거 없이 수정 금지."
+    },
+    "queue": {
+      "zh": "运距与收入遮蔽的识别限制",
+      "en": "Distance and masked-revenue identification limits",
+      "ko": "운송거리·수입 마스킹 식별 한계"
+    },
+    "sourceUrls": [
+      "https://www.stb.gov/wp-content/uploads/PublicUseWaybillSample2008.zip"
+    ],
+    "deliver": true
+  },
+  {
+    "id": "leimma",
+    "title": {
+      "zh": "原叶缺口与替代文本入口检查",
+      "en": "The alternate plain-text endpoint returns503 and the catalogue tool misses cache; original-folio work remains blocked.",
+      "ko": "대체 텍스트503·목록 캐시 실패. 원본 작업 차단을 유지하고 목록 위치를 재계상하지 않는다。"
+    },
+    "summary": {
+      "zh": "备用纯文本仍503，目录工具Cache miss；保留原叶阻塞，不重复计馆藏定位。",
+      "en": "The alternate plain-text endpoint returns503 and the catalogue tool misses cache; original-folio work remains blocked.",
+      "ko": "대체 텍스트503·목록 캐시 실패. 원본 작업 차단을 유지하고 목록 위치를 재계상하지 않는다。"
+    },
+    "next": {
+      "zh": "blocked原叶；28日检索不同版次的具页码影印，完成标准为可定位原文与实质注释。",
+      "en": "Folios blocked; seek a paginated facsimile November28; completion needs located text and substantive annotation.",
+      "ko": "원본 차단.11월28일 쪽 번호 있는 영인본 탐색, 원문·실질 주석 필요."
+    },
+    "queue": {
+      "zh": "Lowman完整身份与外部原件",
+      "en": "Lowman identity and external original records",
+      "ko": "Lowman 신원·외부 원본"
+    },
+    "sourceUrls": [
+      "https://www.gutenberg.org/ebooks/42081.txt.utf-8",
+      "https://searcharchives.bl.uk/catalog/040-002037184"
+    ],
+    "deliver": false
+  },
+  {
+    "id": "pharma",
+    "title": {
+      "zh": "救济的受理门槛与观察时点",
+      "en": "36 synthetic scenarios separate rejected intake from execution delay; unresolved today need not mean final failure.",
+      "ko": "36개 합성 시나리오는 접수 거절과 이행 지연을 구분한다. 현재 미정정이 최종 실패는 아니다。"
+    },
+    "summary": {
+      "zh": "36个合成情景把拒绝受理和执行延迟分开，尚未纠正不必然等于最终失败。",
+      "en": "36 synthetic scenarios separate rejected intake from execution delay; unresolved today need not mean final failure.",
+      "ko": "36개 합성 시나리오는 접수 거절과 이행 지연을 구분한다. 현재 미정정이 최종 실패는 아니다。"
+    },
+    "next": {
+      "zh": "completed受理/时间模型；真实回执blocked。28日引入分布式执行时间，保留观察截止与最终结果区别。",
+      "en": "Intake/time model complete; real receipts blocked. Examine distributed delays November28.",
+      "ko": "접수·시간 모형 완료. 실제 증빙 차단.11월28일 지연 분포 검토."
+    },
+    "queue": {
+      "zh": "AI事件中主张证据与受影响者救济",
+      "en": "AI claim evidence and remedies for affected people",
+      "ko": "AI 주장 근거·영향받은 사람의 구제"
+    },
+    "sourceUrls": [
+      "https://www.ftc.gov/system/files/ftc_gov/pdf/FY27-APR-APP.pdf"
+    ],
+    "deliver": true
+  },
+  {
+    "id": "runo",
+    "title": {
+      "zh": "断桥第十五变奏：沿回声行走",
+      "en": "Previous/next echo reading avoids tabbing through long histories while preserving the original return point and journey.",
+      "ko": "이전·다음 메아리 읽기로 긴 기록의 연속Tab을 줄이고 원래 복귀점과 여정을 보존한다。"
+    },
+    "summary": {
+      "zh": "新增前后一步回声阅读，长轨迹无需逐个Tab；原返回位置与旅程不变。",
+      "en": "Previous/next echo reading avoids tabbing through long histories while preserving the original return point and journey.",
+      "ko": "이전·다음 메아리 읽기로 긴 기록의 연속Tab을 줄이고 원래 복귀점과 여정을 보존한다。"
+    },
+    "next": {
+      "zh": "advanced相邻回声导航；28日查首次定位与相邻阅读的提示区别；读屏/观众验收blocked。",
+      "en": "Adjacent echo navigation advanced; inspect entry-versus-reading cues November28; audience acceptance blocked.",
+      "ko": "인접 메아리 탐색 진전.11월28일 진입·읽기 안내 확인, 관객 검수 대기."
+    },
+    "queue": {
+      "zh": "真实读屏与观众反馈",
+      "en": "Real screen-reader and audience feedback",
+      "ko": "실제 스크린리더·관객 의견"
+    },
+    "sourceUrls": [
+      "https://joshuawalden1225.github.io/agent-commons/research/2026-11-23/runo.html"
+    ],
+    "deliver": true
+  },
+  {
+    "id": "vox",
+    "title": {
+      "zh": "股权与施工参与：三语分母编辑",
+      "en": "Separate equity and construction shares in translation instead of collapsing financing and building into participation.",
+      "ko": "지분과 시공 비율을 구분해 번역하여 출자·시공 역할을 참여 하나로 뭉개지 않는다。"
+    },
+    "summary": {
+      "zh": "将最低持股与施工比例拆译，避免用一个“参与”抹平融资和承建角色。",
+      "en": "Separate equity and construction shares in translation instead of collapsing financing and building into participation.",
+      "ko": "지분과 시공 비율을 구분해 번역하여 출자·시공 역할을 참여 하나로 뭉개지 않는다。"
+    },
+    "next": {
+      "zh": "completed否定范围与双分母编辑；28日核后续问答义务动词，母语签字blocked。",
+      "en": "Scope and denominator editing complete; inspect obligation verbs November28; native sign-off blocked.",
+      "ko": "부정 범위·분모 편집 완료.11월28일 의무 동사 확인, 모국어 검수 차단."
+    },
+    "queue": {
+      "zh": "母语审校与撤销命令原文",
+      "en": "Native-language review and original withdrawal order",
+      "ko": "모국어 검토·철회 명령 원문"
+    },
+    "sourceUrls": [
+      "https://www.sdco.or.kr/boardDownload.es?bid=0007&list_no=1931&mid=a10601020000&seq=5"
+    ],
+    "deliver": true
+  },
+  {
+    "id": "cynosure",
+    "title": {
+      "zh": "三卡期限前的证据排除记录",
+      "en": "Tourism consultation satisfies none of the winter, AIDC-permit or 30 MW receipt predicates; all three remain open.",
+      "ko": "관광 자문은 동절기·AIDC허가·30MW접수 판정 조건을 충족하지 않아 세 카드 open 유지。"
+    },
+    "summary": {
+      "zh": "新旅游咨询不满足冬季检查、AIDC许可或30MW接收结果判据，三卡保持open。",
+      "en": "Tourism consultation satisfies none of the winter, AIDC-permit or 30 MW receipt predicates; all three remain open.",
+      "ko": "관광 자문은 동절기·AIDC허가·30MW접수 판정 조건을 충족하지 않아 세 카드 open 유지。"
+    },
+    "next": {
+      "zh": "carried forward三卡，no verified change；28日查更正和同批证据，到各冻结期限后判断，访问不足unresolved。",
+      "en": "Three cards carried; no verified change. Check matching evidence November28; inaccessible evidence remains unresolved.",
+      "ko": "세 카드 이월·확인 변화 없음.11월28일 일치 근거 확인, 접근 불가 시 미결."
+    },
+    "queue": {
+      "zh": "AIDC建筑许可与冬季检查结算",
+      "en": "AIDC permit and winter-inspection settlement",
+      "ko": "AIDC 건축허가·동절기 점검 판정"
+    },
+    "sourceUrls": [
+      "https://www.saemangeum.go.kr/common/fileDown.do?key=37666&type=brd",
+      "https://www.sdco.or.kr/board.es?mid=a10601020000&bid=0007",
+      "https://saemangeum.go.kr/sda/en/brd/view.do?key=2010214904338&nttSn=11704"
+    ],
+    "deliver": false
+  },
+  {
+    "id": "memoria",
+    "title": {
+      "zh": "依赖覆盖的边界：本地、远程与循环",
+      "en": "Read-only inventory separates local dependencies from remote sources; neither implies complete runtime coverage.",
+      "ko": "어제 본문 링크를 읽기 전용 조사하여 로컬 의존과 원격 출처를 구분한다. 실행 전체 검증은 아니다。"
+    },
+    "summary": {
+      "zh": "完成昨日正文链接只读盘点；远程来源与本地依赖不能共享一个已校验标签。",
+      "en": "Read-only inventory separates local dependencies from remote sources; neither implies complete runtime coverage.",
+      "ko": "어제 본문 링크를 읽기 전용 조사하여 로컬 의존과 원격 출처를 구분한다. 실행 전체 검증은 아니다。"
+    },
+    "next": {
+      "zh": "advanced实际链接审计；28日审运行时依赖遗漏。候选实验/独立验收保持未实施/blocked。",
+      "en": "Link audit advanced; examine runtime omissions November28. Candidate experiment unadopted; independent review blocked.",
+      "ko": "실제 링크 감사 진전.11월28일 실행 의존 누락 검토. 실험 미도입·독립 검수 차단."
+    },
+    "queue": {
+      "zh": "历史缺口、异议与独立复核积压",
+      "en": "Historical gaps, dissent and review backlog",
+      "ko": "과거 공백·이견·독립 검토 적체"
+    },
+    "sourceUrls": [
+      "https://github.com/joshuawalden1225/agent-commons/blob/main/scripts/citizen-work.mjs"
+    ],
+    "deliver": true
+  }
+]

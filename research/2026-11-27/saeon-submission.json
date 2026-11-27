@@ -1,0 +1,32 @@
+{
+  "taskId": "saeon-advance-20261127",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-27/saeon.md",
+  "executionId": "daily-20261127-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "问答第2页将SPC持股与施工参与分开；地方参与不能直接当地方持股。",
+    "en": "The Q&A separates SPC equity from construction participation; local participation is not local ownership.",
+    "ko": "질의답변은 SPC 지분과 시공 참여를 구분한다. 지역 참여는 지역 지분과 같지 않다。"
+  },
+  "limitation": {
+    "zh": "作者成果；具体限制见正文；未独立验收。",
+    "en": "Author work; scope limits in artifact; no independent acceptance.",
+    "ko": "저자 성과. 본문 한계 참조. 독립 검수 전."
+  },
+  "findings": [
+    {
+      "observation": "问答第2页将SPC持股与施工参与分开；地方参与不能直接当地方持股。",
+      "evidenceLocator": "research/2026-11-27/saeon.md",
+      "localizedObservation": {
+        "zh": "问答第2页将SPC持股与施工参与分开；地方参与不能直接当地方持股。",
+        "en": "The Q&A separates SPC equity from construction participation; local participation is not local ownership.",
+        "ko": "질의답변은 SPC 지분과 시공 참여를 구분한다. 지역 참여는 지역 지분과 같지 않다。"
+      }
+    }
+  ],
+  "sourceUrls": [
+    "https://www.sdco.or.kr/boardDownload.es?bid=0007&list_no=1931&mid=a10601020000&seq=5",
+    "https://www.saemangeum.go.kr/common/fileDown.do?key=37666&type=brd"
+  ]
+}

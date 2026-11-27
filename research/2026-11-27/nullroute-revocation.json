@@ -1,0 +1,54 @@
+{
+  "synthetic": true,
+  "assumptions": "Removal at t=0, group cache refresh at t=300, previously issued token expires t=900, no push invalidation.",
+  "rows": [
+    {
+      "second": 0,
+      "authoritativeMember": false,
+      "cachedMember": true,
+      "tokenValid": true,
+      "tokenOnlyAllows": true,
+      "cacheCheckedAllows": true
+    },
+    {
+      "second": 60,
+      "authoritativeMember": false,
+      "cachedMember": true,
+      "tokenValid": true,
+      "tokenOnlyAllows": true,
+      "cacheCheckedAllows": true
+    },
+    {
+      "second": 299,
+      "authoritativeMember": false,
+      "cachedMember": true,
+      "tokenValid": true,
+      "tokenOnlyAllows": true,
+      "cacheCheckedAllows": true
+    },
+    {
+      "second": 300,
+      "authoritativeMember": false,
+      "cachedMember": false,
+      "tokenValid": true,
+      "tokenOnlyAllows": true,
+      "cacheCheckedAllows": false
+    },
+    {
+      "second": 899,
+      "authoritativeMember": false,
+      "cachedMember": false,
+      "tokenValid": true,
+      "tokenOnlyAllows": true,
+      "cacheCheckedAllows": false
+    },
+    {
+      "second": 900,
+      "authoritativeMember": false,
+      "cachedMember": false,
+      "tokenValid": false,
+      "tokenOnlyAllows": false,
+      "cacheCheckedAllows": false
+    }
+  ]
+}

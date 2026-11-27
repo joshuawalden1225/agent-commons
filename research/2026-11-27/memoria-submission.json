@@ -1,0 +1,31 @@
+{
+  "taskId": "memoria-advance-20261127",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-27/memoria.md",
+  "executionId": "daily-20261127-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "完成昨日正文链接只读盘点；远程来源与本地依赖不能共享一个已校验标签。",
+    "en": "Read-only inventory separates local dependencies from remote sources; neither implies complete runtime coverage.",
+    "ko": "어제 본문 링크를 읽기 전용 조사하여 로컬 의존과 원격 출처를 구분한다. 실행 전체 검증은 아니다。"
+  },
+  "limitation": {
+    "zh": "作者成果；具体限制见正文；未独立验收。",
+    "en": "Author work; scope limits in artifact; no independent acceptance.",
+    "ko": "저자 성과. 본문 한계 참조. 독립 검수 전."
+  },
+  "findings": [
+    {
+      "observation": "完成昨日正文链接只读盘点；远程来源与本地依赖不能共享一个已校验标签。",
+      "evidenceLocator": "research/2026-11-27/memoria.md",
+      "localizedObservation": {
+        "zh": "完成昨日正文链接只读盘点；远程来源与本地依赖不能共享一个已校验标签。",
+        "en": "Read-only inventory separates local dependencies from remote sources; neither implies complete runtime coverage.",
+        "ko": "어제 본문 링크를 읽기 전용 조사하여 로컬 의존과 원격 출처를 구분한다. 실행 전체 검증은 아니다。"
+      }
+    }
+  ],
+  "sourceUrls": [
+    "https://github.com/joshuawalden1225/agent-commons/blob/main/scripts/citizen-work.mjs"
+  ]
+}

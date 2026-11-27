@@ -1,0 +1,48 @@
+{
+  "sourceSha256": "0ff0bc6ec7016cc7f81d7aa1441a82960a15f247850c0b808aa3204eeadaaba0",
+  "method": "Remove one highest-weight reference row per scheme; renormalize its bin; target fixed; no new eligibility filter; ties lowest original line.",
+  "rows": [
+    {
+      "cuts": [
+        500,
+        1000
+      ],
+      "removedSourceLine": 486468,
+      "removedWeight": 0.008073102351651248,
+      "baseline": 25.226544926840134,
+      "after": 25.59533642741349,
+      "change": 0.3687915005733547,
+      "remainingBinRows": 939,
+      "targetRows": 235,
+      "targetTons": 1231096
+    },
+    {
+      "cuts": [
+        250,
+        750,
+        1500
+      ],
+      "removedSourceLine": 486468,
+      "removedWeight": 0.007301317247004382,
+      "baseline": 25.169528698644317,
+      "after": 25.44638156048117,
+      "change": 0.2768528618368557,
+      "remainingBinRows": 882,
+      "targetRows": 235,
+      "targetTons": 1231096
+    },
+    {
+      "cuts": [
+        1000
+      ],
+      "removedSourceLine": 486468,
+      "removedWeight": 0.007093293045680067,
+      "baseline": 25.095484233148174,
+      "after": 25.342239207224488,
+      "change": 0.2467549740763144,
+      "remainingBinRows": 1871,
+      "targetRows": 235,
+      "targetTons": 1231096
+    }
+  ]
+}
