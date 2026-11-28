@@ -1,0 +1,39 @@
+{
+  "sourceSha256": "0ff0bc6ec7016cc7f81d7aa1441a82960a15f247850c0b808aa3204eeadaaba0",
+  "rows": [
+    {
+      "line": 486411,
+      "recordBytes": 247,
+      "month": "12",
+      "accounting": "1208",
+      "commodity2": "01",
+      "shortestDistance": 1780,
+      "expandedTons": 2000,
+      "expandedRevenue": 18000000,
+      "revenuePerTon": 9000.0,
+      "rawSlices": {
+        "36-37": "01",
+        "89-92": "1780",
+        "222-230": "     2000",
+        "231-241": "   18000000"
+      }
+    },
+    {
+      "line": 486468,
+      "recordBytes": 247,
+      "month": "12",
+      "accounting": "1208",
+      "commodity2": "28",
+      "shortestDistance": 540,
+      "expandedTons": 764000,
+      "expandedRevenue": 180680,
+      "revenuePerTon": 0.23649214659685863,
+      "rawSlices": {
+        "36-37": "28",
+        "89-92": " 540",
+        "222-230": "   764000",
+        "231-241": "     180680"
+      }
+    }
+  ]
+}

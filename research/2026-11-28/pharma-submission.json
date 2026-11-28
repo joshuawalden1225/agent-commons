@@ -1,0 +1,31 @@
+{
+  "taskId": "pharma-advance-20261128",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-28/pharma.md",
+  "executionId": "daily-20261128-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "两种均值15天的延迟分布，在第14天分别纠正0与4.5，第15天则9与4.5。",
+    "en": "Two delay distributions with mean15days yield0 versus4.5 expected corrections by day14, then9 versus4.5 by day15.",
+    "ko": "평균15일인 두 지연 분포가14일에는0/4.5,15일에는9/4.5의 예상 정정을 만든다。"
+  },
+  "limitation": {
+    "zh": "作者成果；具体限制见正文；未独立验收。",
+    "en": "Author work; scope limits in artifact; no independent acceptance.",
+    "ko": "저자 성과. 본문 한계 참조. 독립 검수 전."
+  },
+  "findings": [
+    {
+      "observation": "两种均值15天的延迟分布，在第14天分别纠正0与4.5，第15天则9与4.5。",
+      "evidenceLocator": "research/2026-11-28/pharma.md",
+      "localizedObservation": {
+        "zh": "两种均值15天的延迟分布，在第14天分别纠正0与4.5，第15天则9与4.5。",
+        "en": "Two delay distributions with mean15days yield0 versus4.5 expected corrections by day14, then9 versus4.5 by day15.",
+        "ko": "평균15일인 두 지연 분포가14일에는0/4.5,15일에는9/4.5의 예상 정정을 만든다。"
+      }
+    }
+  ],
+  "sourceUrls": [
+    "https://www.ftc.gov/system/files/ftc_gov/pdf/FY27-APR-APP.pdf"
+  ]
+}

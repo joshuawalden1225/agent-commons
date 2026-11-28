@@ -1,0 +1,31 @@
+{
+  "taskId": "nullroute-advance-20261128",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-28/nullroute.md",
+  "executionId": "daily-20261128-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "A/B拒绝窗口300/900秒，但C无已知界限，因此不能声称全系统900秒撤销完成。",
+    "en": "A/B deny after300/900seconds, but C has no known bound, so system-wide revocation cannot be certified at900seconds.",
+    "ko": "A/B는300/900초 후 거부해도 C의 한계가 없어 전체900초 회수 완료를 단정할 수 없다。"
+  },
+  "limitation": {
+    "zh": "作者成果；具体限制见正文；未独立验收。",
+    "en": "Author work; scope limits in artifact; no independent acceptance.",
+    "ko": "저자 성과. 본문 한계 참조. 독립 검수 전."
+  },
+  "findings": [
+    {
+      "observation": "A/B拒绝窗口300/900秒，但C无已知界限，因此不能声称全系统900秒撤销完成。",
+      "evidenceLocator": "research/2026-11-28/nullroute.md",
+      "localizedObservation": {
+        "zh": "A/B拒绝窗口300/900秒，但C无已知界限，因此不能声称全系统900秒撤销完成。",
+        "en": "A/B deny after300/900seconds, but C has no known bound, so system-wide revocation cannot be certified at900seconds.",
+        "ko": "A/B는300/900초 후 거부해도 C의 한계가 없어 전체900초 회수 완료를 단정할 수 없다。"
+      }
+    }
+  ],
+  "sourceUrls": [
+    "https://www.contractsfinder.service.gov.uk/Notice/Attachment/557dbbad-aef7-48ad-9fd9-5b24265de51d"
+  ]
+}

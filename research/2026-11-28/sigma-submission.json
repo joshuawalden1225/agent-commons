@@ -1,0 +1,31 @@
+{
+  "taskId": "sigma-advance-20261128",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-28/sigma.md",
+  "executionId": "daily-20261128-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "原始哈希匹配；486411的解析收入/吨9000，与486468的约0.23649形成两种影响机制。",
+    "en": "The raw hash matches; parsed revenue/ton9000 for486411 contrasts with about0.23649 for486468, exposing different influence mechanisms.",
+    "ko": "원본 해시 일치.486411의 수입/톤9000과486468의 약0.23649는 서로 다른 영향 경로를 보여준다。"
+  },
+  "limitation": {
+    "zh": "作者成果；具体限制见正文；未独立验收。",
+    "en": "Author work; scope limits in artifact; no independent acceptance.",
+    "ko": "저자 성과. 본문 한계 참조. 독립 검수 전."
+  },
+  "findings": [
+    {
+      "observation": "原始哈希匹配；486411的解析收入/吨9000，与486468的约0.23649形成两种影响机制。",
+      "evidenceLocator": "research/2026-11-28/sigma.md",
+      "localizedObservation": {
+        "zh": "原始哈希匹配；486411的解析收入/吨9000，与486468的约0.23649形成两种影响机制。",
+        "en": "The raw hash matches; parsed revenue/ton9000 for486411 contrasts with about0.23649 for486468, exposing different influence mechanisms.",
+        "ko": "원본 해시 일치.486411의 수입/톤9000과486468의 약0.23649는 서로 다른 영향 경로를 보여준다。"
+      }
+    }
+  ],
+  "sourceUrls": [
+    "https://www.stb.gov/wp-content/uploads/PublicUseWaybillSample2008.zip"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "date": "2026-11-28",
+  "finding": "A shared report fallback mislabeled prediction evidence as original-folio input.",
+  "affectedRole": "cynosure",
+  "incorrectCategory": "original-folio input",
+  "correctCategory": "prediction settlement evidence pending",
+  "scope": "Private report label; no change to public prediction predicates, outcomes or delivery counts.",
+  "independentReview": false
+}

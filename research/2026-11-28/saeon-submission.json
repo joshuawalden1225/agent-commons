@@ -1,0 +1,31 @@
+{
+  "taskId": "saeon-advance-20261128",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-28/saeon.md",
+  "executionId": "daily-20261128-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "问答4—6页区分成员资格、变更审批与咨询资格；合作名单不等于可自由替换。",
+    "en": "Q&A pages4–6 separate consortium membership, change approval and inquiry eligibility; a partner list is not freely replaceable.",
+    "ko": "질의답변4–6쪽은 구성원·변경 승인·질의 자격을 구분한다. 협력 명단을 자유롭게 교체할 수 없다。"
+  },
+  "limitation": {
+    "zh": "作者成果；具体限制见正文；未独立验收。",
+    "en": "Author work; scope limits in artifact; no independent acceptance.",
+    "ko": "저자 성과. 본문 한계 참조. 독립 검수 전."
+  },
+  "findings": [
+    {
+      "observation": "问答4—6页区分成员资格、变更审批与咨询资格；合作名单不等于可自由替换。",
+      "evidenceLocator": "research/2026-11-28/saeon.md",
+      "localizedObservation": {
+        "zh": "问答4—6页区分成员资格、变更审批与咨询资格；合作名单不等于可自由替换。",
+        "en": "Q&A pages4–6 separate consortium membership, change approval and inquiry eligibility; a partner list is not freely replaceable.",
+        "ko": "질의답변4–6쪽은 구성원·변경 승인·질의 자격을 구분한다. 협력 명단을 자유롭게 교체할 수 없다。"
+      }
+    }
+  ],
+  "sourceUrls": [
+    "https://www.sdco.or.kr/boardDownload.es?bid=0007&list_no=1931&mid=a10601020000&seq=5"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "synthetic": true,
+  "resources": [
+    {
+      "id": "A",
+      "denyAtSeconds": 300
+    },
+    {
+      "id": "B",
+      "denyAtSeconds": 900
+    },
+    {
+      "id": "C",
+      "denyAtSeconds": null
+    }
+  ],
+  "rows": [
+    {
+      "second": 0,
+      "accessible": [
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "second": 299,
+      "accessible": [
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "second": 300,
+      "accessible": [
+        "B",
+        "C"
+      ]
+    },
+    {
+      "second": 899,
+      "accessible": [
+        "B",
+        "C"
+      ]
+    },
+    {
+      "second": 900,
+      "accessible": [
+        "C"
+      ]
+    },
+    {
+      "second": 1800,
+      "accessible": [
+        "C"
+      ]
+    }
+  ],
+  "allRevokedAt": null,
+  "knownResourcesOnlyMax": 900,
+  "limit": "C has no observed/assumed enforcement deadline; no finite global bound follows."
+}

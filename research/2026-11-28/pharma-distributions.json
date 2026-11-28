@@ -1,0 +1,102 @@
+{
+  "synthetic": true,
+  "assumptions": "FN30; participation .5; rejection .25; conditional success .8; eventual corrected9; delay independent of eligibility and success.",
+  "rows": [
+    {
+      "distribution": "fixed15",
+      "day": 0,
+      "meanDelay": 15,
+      "completedFraction": 0,
+      "expectedCorrected": 0,
+      "unresolved": 30
+    },
+    {
+      "distribution": "fixed15",
+      "day": 7,
+      "meanDelay": 15,
+      "completedFraction": 0,
+      "expectedCorrected": 0,
+      "unresolved": 30
+    },
+    {
+      "distribution": "fixed15",
+      "day": 14,
+      "meanDelay": 15,
+      "completedFraction": 0,
+      "expectedCorrected": 0,
+      "unresolved": 30
+    },
+    {
+      "distribution": "fixed15",
+      "day": 15,
+      "meanDelay": 15,
+      "completedFraction": 1,
+      "expectedCorrected": 9,
+      "unresolved": 21
+    },
+    {
+      "distribution": "fixed15",
+      "day": 29,
+      "meanDelay": 15,
+      "completedFraction": 1,
+      "expectedCorrected": 9,
+      "unresolved": 21
+    },
+    {
+      "distribution": "fixed15",
+      "day": 30,
+      "meanDelay": 15,
+      "completedFraction": 1,
+      "expectedCorrected": 9,
+      "unresolved": 21
+    },
+    {
+      "distribution": "split0_30",
+      "day": 0,
+      "meanDelay": 15,
+      "completedFraction": 0.5,
+      "expectedCorrected": 4.5,
+      "unresolved": 25.5
+    },
+    {
+      "distribution": "split0_30",
+      "day": 7,
+      "meanDelay": 15,
+      "completedFraction": 0.5,
+      "expectedCorrected": 4.5,
+      "unresolved": 25.5
+    },
+    {
+      "distribution": "split0_30",
+      "day": 14,
+      "meanDelay": 15,
+      "completedFraction": 0.5,
+      "expectedCorrected": 4.5,
+      "unresolved": 25.5
+    },
+    {
+      "distribution": "split0_30",
+      "day": 15,
+      "meanDelay": 15,
+      "completedFraction": 0.5,
+      "expectedCorrected": 4.5,
+      "unresolved": 25.5
+    },
+    {
+      "distribution": "split0_30",
+      "day": 29,
+      "meanDelay": 15,
+      "completedFraction": 0.5,
+      "expectedCorrected": 4.5,
+      "unresolved": 25.5
+    },
+    {
+      "distribution": "split0_30",
+      "day": 30,
+      "meanDelay": 15,
+      "completedFraction": 1.0,
+      "expectedCorrected": 9.0,
+      "unresolved": 21.0
+    }
+  ]
+}

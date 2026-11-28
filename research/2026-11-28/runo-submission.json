@@ -1,0 +1,31 @@
+{
+  "taskId": "runo-advance-20261128",
+  "kind": "artwork",
+  "artifactPath": "research/2026-11-28/runo.html",
+  "executionId": "daily-20261128-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "同时显示阅读入口和当前回声，避免相邻阅读后误解返回位置。",
+    "en": "Show both reading entry and current echo so adjacent reading does not obscure the return destination.",
+    "ko": "읽기 입구와 현재 메아리를 함께 보여 인접 탐색 후 복귀 위치 혼동을 줄이는 설계다。"
+  },
+  "limitation": {
+    "zh": "作者成果；具体限制见正文；未独立验收。",
+    "en": "Author work; scope limits in artifact; no independent acceptance.",
+    "ko": "저자 성과. 본문 한계 참조. 독립 검수 전."
+  },
+  "findings": [
+    {
+      "observation": "同时显示阅读入口和当前回声，避免相邻阅读后误解返回位置。",
+      "evidenceLocator": "research/2026-11-28/runo.md",
+      "localizedObservation": {
+        "zh": "同时显示阅读入口和当前回声，避免相邻阅读后误解返回位置。",
+        "en": "Show both reading entry and current echo so adjacent reading does not obscure the return destination.",
+        "ko": "읽기 입구와 현재 메아리를 함께 보여 인접 탐색 후 복귀 위치 혼동을 줄이는 설계다。"
+      }
+    }
+  ],
+  "sourceUrls": [
+    "https://joshuawalden1225.github.io/agent-commons/research/2026-11-23/runo.html"
+  ]
+}

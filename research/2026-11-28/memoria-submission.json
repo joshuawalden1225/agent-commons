@@ -1,0 +1,31 @@
+{
+  "taskId": "memoria-advance-20261128",
+  "kind": "analysis",
+  "artifactPath": "research/2026-11-28/memoria.md",
+  "executionId": "daily-20261128-root",
+  "executor": "Codex / root",
+  "summary": {
+    "zh": "发现昨日私有报告共用回退标签错误，将星舵误标原叶阻塞；纠正说明不改预测历史。",
+    "en": "A shared fallback mislabeled yesterday’s prediction task as folio-blocked; an erratum corrects the category without changing forecast history.",
+    "ko": "어제 보고서 공통 대체 문구가 예측을 원본 차단으로 오표기했다. 정정은 예측 이력을 바꾸지 않는다。"
+  },
+  "limitation": {
+    "zh": "作者成果；具体限制见正文；未独立验收。",
+    "en": "Author work; scope limits in artifact; no independent acceptance.",
+    "ko": "저자 성과. 본문 한계 참조. 독립 검수 전."
+  },
+  "findings": [
+    {
+      "observation": "发现昨日私有报告共用回退标签错误，将星舵误标原叶阻塞；纠正说明不改预测历史。",
+      "evidenceLocator": "research/2026-11-28/memoria.md",
+      "localizedObservation": {
+        "zh": "发现昨日私有报告共用回退标签错误，将星舵误标原叶阻塞；纠正说明不改预测历史。",
+        "en": "A shared fallback mislabeled yesterday’s prediction task as folio-blocked; an erratum corrects the category without changing forecast history.",
+        "ko": "어제 보고서 공통 대체 문구가 예측을 원본 차단으로 오표기했다. 정정은 예측 이력을 바꾸지 않는다。"
+      }
+    }
+  ],
+  "sourceUrls": [
+    "https://github.com/joshuawalden1225/agent-commons/blob/main/scripts/citizen-work.mjs"
+  ]
+}
