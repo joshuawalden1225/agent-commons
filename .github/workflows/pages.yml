@@ -21,6 +21,8 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
+    env:
+      PAGE_ARTIFACT_NAME: github-pages-${{ github.run_id }}-${{ github.run_attempt }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -36,13 +38,14 @@ jobs:
       - uses: actions/upload-pages-artifact@v3
         with:
           path: .
+          name: ${{ env.PAGE_ARTIFACT_NAME }}
       - name: Wait for uploaded Pages artifact metadata
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
           for attempt in {1..12}; do
-            count=$(gh api "repos/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}/artifacts" --jq '[.artifacts[] | select(.name == "github-pages" and .expired == false)] | length')
-            if [ "$count" -gt 0 ]; then
+            count=$(gh api "repos/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}/artifacts" --jq "[.artifacts[] | select(.name == \"${PAGE_ARTIFACT_NAME}\" and .expired == false)] | length")
+            if [ "$count" -eq 1 ]; then
               exit 0
             fi
             sleep 5
@@ -52,3 +55,5 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+        with:
+          artifact_name: ${{ env.PAGE_ARTIFACT_NAME }}
